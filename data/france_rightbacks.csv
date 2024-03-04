@@ -1,0 +1,727 @@
+Number,Name,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+,Baptiste Dufay,Right-Back,"Jul 6, 1985 ",38,['France'],France,Saint-Omer,,,-
+,Ousmane Sidibé,Right-Back,"Apr 23, 1985 ",38,"['Guinea', 'France']",France,Paris,LB   CB,"1,78",-
+,Mathieu Gomes,Right-Back,"Mar 6, 1985 ",38,['France'],France,Bayonne,RM   RW,"1,79",-
+,Julien N'Da,Right-Back,"Aug 15, 1985 ",38,"['France', ""Cote d'Ivoire""]",France,Niort,CB,"1,79",-
+,Karim Azizou,Right-Back,"Jan 20, 1985 ",39,"['Morocco', 'France']",France,Perigueux,,"1,77",-
+,Mathieu Debuchy,Right-Back,"Jul 28, 1985 ",38,['France'],France,Fretin,CB   RM,"1,77",-
+,Mickaël De Araujo,Right-Back,"Jan 31, 1985 ",39,['France'],France,Le Plessis-Bouchard,,"1,81",-
+,Issa Cissokho,Right-Back,"Feb 23, 1985 ",39,"['Senegal', 'France']",France,Paris,LB   RM,"1,73",-
+,Ritchie Makuma,Right-Back,"May 6, 1985 ",38,"['France', 'DR Congo']",France,Vitry-sur-Seine,,"1,83",-
+,Salim Moizini,Right-Back,"Oct 17, 1985 ",38,"['Comoros', 'France']",France,Venissieux,RM   RW,"1,75",-
+,Mickaël Bertrand,Right-Back,"May 4, 1985 ",38,['France'],France,Albi,,,-
+,Romain Trouche,Right-Back,"Nov 23, 1985 ",38,['France'],France,Peymeirade,LB,"1,80",-
+,Morgan Lamache,Right-Back,"Jul 27, 1986 ",37,['France'],France,Béziers,,"1,80",-
+,Jérôme Hergault,Right-Back,"Apr 5, 1986 ",37,['France'],France,Montmorency,LB,"1,85",-
+,Fouad Chafik,Right-Back,"Oct 16, 1986 ",37,"['Morocco', 'France']",France,Pierrelatte,LB,"1,83",-
+,Guillaume Coelho,Right-Back,"Mar 19, 1986 ",37,['France'],France,Le Puy-en-Velay,RM   RW,"1,74",-
+,Bruno Demeulenaere,Right-Back,"Feb 12, 1986 ",38,['France'],France,Dunkerque,,"1,85",-
+,Yassin Moutaouakil,Right-Back,"Jul 18, 1986 ",37,"['France', 'Morocco']",France,Nizza,,"1,79",-
+,Hatim Sbaï,Right-Back,"Aug 9, 1986 ",37,"['Morocco', 'France']",France,Nîmes,,"1,73",-
+,Ted Lavie,Right-Back,"Mar 19, 1986 ",37,"['France', 'Congo']",France,Montpellier,DM   CM,"1,78",-
+,Mourad Benhamida,Right-Back,"Jan 18, 1986 ",38,"['France', 'Tunisia']",France,Villeurbanne,,"1,76",-
+,Kilian Hurtrel,Right-Back,"Feb 7, 1986 ",38,['France'],France,Calais,,"1,80",-
+,Nordine Kadour,Right-Back,"Oct 18, 1986 ",37,['France'],France,Oignies,,,-
+,Boris Mahon de Monaghan,Right-Back,"Feb 11, 1986 ",38,"['France', 'Ireland']",France,Orléans,,"1,74",-
+,Gaëtan Belaud,Right-Back,"Sep 16, 1986 ",37,['France'],France,Oloron-Sainte-Marie,RM,"1,77",-
+,Evan Leduby,Right-Back,"Apr 11, 1986 ",37,['France'],France,Dreux,,"1,83",-
+,Romain Danzé,Right-Back,"Jul 3, 1986 ",37,['France'],France,Douarnenez,RM   DM,"1,84",-
+,Jonathan Martins Pereira,Right-Back,"Jan 30, 1986 ",38,"['France', 'Portugal']",France,Bayonne,,"1,82",-
+,Mohamed Chakouri,Right-Back,"May 21, 1986 ",37,"['Algeria', 'France']",France,Arles,,"1,81",-
+33,Julien Faussurier,Right-Back,"Jan 14, 1987 ",37,['France'],France,Lyon,RM   LB,"1,73",€200k
+,Frédéric Phok,Right-Back,"Feb 17, 1987 ",37,['France'],France,Alençon,,"1,77",-
+,Jalal Abdesslami,Right-Back,"Feb 9, 1987 ",37,"['France', 'Morocco']",France,Le Mans,,"1,80",-
+,Fabien Soulier,Right-Back,"Oct 18, 1987 ",36,['France'],France,Paray-le-Monial,,"1,80",-
+,Sasa Nikodijevic,Right-Back,"Jul 16, 1987 ",36,['Serbia'],France,Paris,RM,,-
+,Malik M'Tir,Right-Back,"Mar 25, 1987 ",36,"['France', 'Morocco']",France,Besançon,RM   RW,"1,75",-
+,Christopher Oualembo,Right-Back,"Jan 31, 1987 ",37,"['DR Congo', 'France']",France,Saint-Germain-en-Laye,LB   RM,"1,78",-
+,Romain Ollé-Nicolle,Right-Back,"Aug 18, 1987 ",36,['France'],France,Chambery,,"1,87",-
+,Stéphane Tritz,Right-Back,"Feb 25, 1987 ",37,['France'],France,Straßburg,LB,"1,78",-
+,Kassim Abdallah,Right-Back,"Apr 9, 1987 ",36,"['Comoros', 'France']",France,Marseille,CB,"1,85",€50k
+,Eddy Calogine,Right-Back,"Apr 17, 1987 ",36,"['France', 'Réunion']",France,Fontainebleau,LB,"1,79",-
+,Yohan Mourrin,Right-Back,"Apr 4, 1987 ",36,['France'],France,Nantes,CB,"1,80",-
+,Jean Arnaud,Right-Back,"Apr 7, 1987 ",36,['France'],France,Brou-sur-Chantereine,CB,"1,88",-
+,Romain Delbourg,Right-Back,"Mar 18, 1987 ",36,['France'],France,Redon,,"1,80",-
+,Jean-Philippe Bélet,Right-Back,"Jan 31, 1987 ",37,['France'],France,Saint-Pol-sur-Mer,,"1,75",-
+,Sébastien Cantini,Right-Back,"Jul 31, 1987 ",36,['France'],France,Martigues,LB,"1,74",-
+,Jean Christophe Cesto,Right-Back,"Jan 24, 1987 ",37,"['France', 'Martinique']",France,Brest,,"1,80",-
+,Romain Cabon,Right-Back,"Aug 26, 1987 ",36,['France'],France,Saint-Renan,,"1,82",-
+2,Allan Nyom,Right-Back,"May 10, 1988 ",35,"['Cameroon', 'France']",France,Neuilly-sur-Seine,LB,"1,89",€800k
+14,Joffrey Cuffaut,Right-Back,"Mar 15, 1988 ",35,['France'],France,Méru,CB,"1,80",€250k
+,Kévin Martinez,Right-Back,"Sep 29, 1988 ",35,['France'],France,Saint-Quentin,,,-
+,Mickaël Deheegher,Right-Back,"Nov 8, 1988 ",35,['France'],France,Vernon,LB,"1,76",-
+,Quentin Leroy,Right-Back,"Apr 6, 1988 ",35,['France'],France,Saint-Michel,,"1,72",-
+,Ousmane Samba,Right-Back,"Oct 16, 1988 ",35,"['Mauritania', 'France']",France,Gennevilliers,CB,"1,76",-
+,Alexis Zmijak,Right-Back,"May 15, 1988 ",35,"['France', 'Poland']",France,Croix,,"1,80",-
+,Kévin Giboyau,Right-Back,"Jul 8, 1988 ",35,['France'],France,Bagnolet,,"1,81",-
+,Ronald Mayingila,Right-Back,"Sep 17, 1988 ",35,['France'],France,Vesoul,LB,"1,70",-
+,Stéphan de Rueda,Right-Back,"Dec 24, 1988 ",35,['France'],France,Toulouse,DM,"1,80",-
+,Thomas Bazin,Right-Back,"Feb 28, 1988 ",36,['France'],France,Cannes,,"1,80",-
+,Jean Moog,Right-Back,"Mar 21, 1988 ",35,['France'],France,Schiltigheim,,"1,75",-
+,Anthony Lippini,Right-Back,"Nov 7, 1988 ",35,['France'],France,Bastia,LB,"1,75",-
+,Lloyd Palun,Right-Back,"Nov 28, 1988 ",35,"['Gabon', 'France']",France,Arles,CB   LB,"1,84",€250k
+20,Mohamed Youssouf,Right-Back,"Mar 26, 1988 ",35,"['Comoros', 'France']",France,Paris,RM   LB,"1,69",€200k
+,Kévin Machado,Right-Back,"Aug 21, 1988 ",35,['France'],France,Limoges,,"1,70",-
+,Dimitri Santrain,Right-Back,"Aug 18, 1988 ",35,['France'],France,Dunkerque,,"1,76",-
+29,Nicolas Palbrois,Right-Back,"Oct 16, 1988 ",35,['France'],France,Arpajon,LB   DM,"1,68",-
+,Abdelali Ouadah,Right-Back,"Apr 15, 1988 ",35,"['France', 'Algeria']",France,Louviers,DM   CM,"1,76",-
+,Maxime Toupin,Right-Back,"Jan 7, 1988 ",36,['France'],France,Concarneau,,"1,80",-
+,Jonathan Ringayen,Right-Back,"Sep 27, 1988 ",35,"['France', 'Réunion']",France,La Roche-sur-Yon,,"1,78",-
+,Jérémy Abadie,Right-Back,"Oct 17, 1988 ",35,['France'],France,Le Blanc-Mesnil,,"1,80",-
+,David Freitas,Right-Back,"Jul 19, 1988 ",35,"['Portugal', 'France']",France,Grenoble,,"1,77",-
+,Fouad Dahmoune,Right-Back,"May 28, 1988 ",35,"['France', 'Morocco']",France,Châtellerault,,"1,75",-
+,Julien Cétout,Right-Back,"Jan 2, 1988 ",36,"['France', 'Guadeloupe']",France,Chartres,CB   DM,"1,81",-
+,Jerry Vandam,Right-Back,"Dec 8, 1988 ",35,"['France', 'Ghana']",France,Lille,CB,"1,86",-
+,Aurélien Badin,Right-Back,"Apr 11, 1988 ",35,['France'],France,Vienne,,"1,75",-
+21,Romuald Marie,Right-Back,"May 19, 1988 ",35,['France'],France,Longjumeau,CB   DM,"1,82",-
+,Guillaume Borne,Right-Back,"Feb 12, 1988 ",36,['France'],France,Castres,CB,"1,84",-
+15,Vincent Manceau,Right-Back,"Jul 10, 1989 ",34,['France'],France,Angers,LB   CB,"1,76",€300k
+,Jérémy Pied,Right-Back,"Feb 23, 1989 ",35,['France'],France,Grenoble,RM   LM,"1,73",€200k
+2,Kévin Perrot,Right-Back,"Jun 13, 1989 ",34,['France'],France,Laval,LB   CB,"1,70",€100k
+27,Lamine Gassama,Right-Back,"Oct 20, 1989 ",34,"['Senegal', 'France']",France,Marseille,LB,"1,80",€100k
+,Maxime Kelsch,Right-Back,"May 10, 1989 ",34,['France'],France,Nancy,,"1,76",-
+,Pascal Lemaire,Right-Back,"Mar 2, 1989 ",35,['France'],France,Saint-Pol-sur-Mer,RM,,-
+,Gaëtan Février,Right-Back,"May 3, 1989 ",34,['France'],France,Saint-Malo,,"1,74",-
+,Victor Di Pinto,Right-Back,"Feb 6, 1989 ",35,"['France', 'Italy']",France,Besançon,RM,"1,79",-
+,Mickaël Alphonse,Right-Back,"Jul 12, 1989 ",34,"['Guadeloupe', 'France']",France,Champigny-sur-Marne,LB   RM,"1,82",-
+,Jimmy Burgho,Right-Back,"Mar 25, 1989 ",34,['France'],France,Seclin,RM   LB,"1,75",-
+,Damien Robin,Right-Back,"Jun 5, 1989 ",34,['France'],France,Vierzon,DM   CM,"1,80",-
+,Hugo Cianci,Right-Back,"Jun 9, 1989 ",34,"['France', 'Italy']",France,Grenoble,RM   LB,"1,78",-
+,Yassine Haddou,Right-Back,"May 21, 1989 ",34,"['Morocco', 'France']",France,Narbonne,LB   DM,"1,78",-
+28,Demba Thiam,Right-Back,"Dec 2, 1989 ",34,"['France', 'Senegal']",France,Strasbourg,CB,"1,79",€250k
+5,Rémi Bonenfant,Right-Back,"Feb 24, 1989 ",35,['France'],France,Épinay-sur-Seine,CB,"1,80",€100k
+,Jean-Christophe Coubronne,Right-Back,"Jul 30, 1989 ",34,['France'],France,Lyon,LB   CB,"1,80",€100k
+,Khatim Abbaoui,Right-Back,"Apr 5, 1989 ",34,"['France', 'Morocco']",France,Nîmes,,"1,81",-
+,Maxime Leblond,Right-Back,"Jul 20, 1989 ",34,['France'],France,Boulogne-sur-Mer,DM   CM,"1,82",-
+,Jérôme Lasch,Right-Back,"Aug 28, 1989 ",34,['France'],France,Alès,,"1,75",-
+,Thomas Tétart,Right-Back,"Mar 1, 1989 ",35,['France'],France,Montdidier,CB,"1,89",-
+22,Mike Moura,Right-Back,"Oct 1, 1989 ",34,"['Portugal', 'France']",France,Grenoble,LB   CB,"1,80",-
+,Alexandre Vardin,Right-Back,"Sep 18, 1989 ",34,"['France', 'Guadeloupe']",France,Colombes,,"1,80",-
+,Rémi Vasseur,Right-Back,"Aug 30, 1989 ",34,['France'],France,Aix en Provence,,"1,74",-
+,Emilien Lepéculier,Right-Back,"May 4, 1989 ",34,['France'],France,Mayenne,LB,"1,74",-
+,Cédric D'Ulivo,Right-Back,"Aug 29, 1989 ",34,['France'],France,Marseille,,"1,81",-
+,Vincent Laurini,Right-Back,"Jun 10, 1989 ",34,"['France', 'Italy']",France,Thionville,LB,"1,73",-
+,Marvin Esor,Right-Back,"Jul 21, 1989 ",34,"['Martinique', 'France']",France,Paris,CB,"1,83",-
+,Marc Fachan,Right-Back,"Jan 25, 1989 ",35,['France'],France,Tarbes,CB   LB,"1,81",-
+,Mathieu Rangoly,Right-Back,"Jan 17, 1989 ",35,"['France', 'Martinique']",France,Lyon,RM   CB,"1,73",-
+,Bafodé Diakhaby,Right-Back,"Feb 15, 1989 ",35,"['France', 'Guinea']",France,Poissy,,"1,78",-
+,Loïc Abenzoar,Right-Back,"Feb 14, 1989 ",35,"['France', 'Guadeloupe']",France,Lyon,CB,"1,81",-
+14,Sébastien Corchia,Right-Back,"Nov 1, 1990 ",33,"['France', 'Italy']",France,Noisy-le-Sec,RM,"1,76",€900k
+,Frédéric Duplus,Right-Back,"Apr 7, 1990 ",33,"['France', 'Guadeloupe']",France,Belfort,CB   LB,"1,78",€150k
+,Larry Viltard,Right-Back,"Dec 9, 1990 ",33,['France'],France,Perpignan,,,-
+,Yannis Ambroisine,Right-Back,"Dec 28, 1990 ",33,['France'],France,Paris,CB,,-
+,Théo Plenus,Right-Back,"Feb 15, 1990 ",34,['France'],France,,,"1,78",-
+,Alioun Fall,Right-Back,"Dec 20, 1990 ",33,"['France', 'Senegal']",France,Ollioules,LB,"1,70",-
+20,Remy Clerima,Right-Back,"Jan 20, 1990 ",34,['France'],France,Paris,CB,"1,88",-
+,Kévin Coulibaly,Right-Back,"Jan 17, 1990 ",34,"['France', 'Mali']",France,Paris,CB,,-
+,Fousseni Bamba,Right-Back,"Jan 18, 1990 ",34,"[""Cote d'Ivoire"", 'France']",France,Paris,CB,,-
+,Fousseny Sow,Right-Back,"Mar 10, 1990 ",33,"['France', 'Mali']",France,Montreuil-sous-Bois,CB,"1,85",-
+20,Jérémy Cordoval,Right-Back,"Jan 12, 1990 ",34,"['Guadeloupe', 'France']",France,Villeneuve-Saint-Georges,RW,"1,69",-
+,Clément Coronas,Right-Back,"Mar 16, 1990 ",33,['France'],France,Béziers,,"1,77",-
+,Alexandre Dulom,Right-Back,"May 30, 1990 ",33,['France'],France,Pau,,,-
+22,Romain Métanire,Right-Back,"Mar 28, 1990 ",33,"['Madagascar', 'France']",France,Metz,,"1,78",€300k
+,Nama Fofana,Right-Back,"Jul 12, 1990 ",33,"['France', 'Mali']",France,Créteil,RM   LB,"1,83",€100k
+,André Bona,Right-Back,"Jan 19, 1990 ",34,['France'],France,Marseille,,"1,88",-
+27,Anthony Caldeirinha,Right-Back,"Jan 10, 1990 ",34,"['France', 'Portugal']",France,Rognac,RM,"1,80",-
+,Colman Makouké,Right-Back,"Jun 7, 1990 ",33,"['Guadeloupe', 'France']",France,Colombes,,"1,85",-
+,Florent Hervé,Right-Back,"Apr 29, 1990 ",33,['France'],France,Dinan,,"1,80",-
+,Benoît Begoc,Right-Back,"Apr 28, 1990 ",33,['France'],France,Quimper,CB,"1,83",-
+,Vivian Reydel,Right-Back,"Apr 23, 1990 ",33,['France'],France,Saint-Avold,,"1,78",-
+,Clément Le Bars,Right-Back,"Jul 1, 1990 ",33,['France'],France,Ploemeur,,"1,67",-
+,Nicolas Em,Right-Back,"Sep 1, 1990 ",33,"['France', 'Cambodia']",France,Toulouse,,,-
+,Aliou Dia,Right-Back,"May 30, 1990 ",33,"['France', 'Mali']",France,Roubaix,CB,"1,80",-
+,Pape Paye,Right-Back,"May 31, 1990 ",33,"['France', 'Senegal']",France,Lyon,LB,"1,68",-
+,Mickaël Nelson,Right-Back,"Feb 2, 1990 ",34,"['France', 'Réunion']",France,Marseille,CB   DM,"1,84",-
+27,Kenny Lala,Right-Back,"Oct 3, 1991 ",32,"['France', 'Martinique']",France,Villepinte,LB,"1,78",€2.50m
+7,Loïc Nego,Right-Back,"Jan 15, 1991 ",33,"['Hungary', 'France']",France,Paris,RM   CM,"1,81",€1.00m
+,Kévin Malcuit,Right-Back,"Jul 31, 1991 ",32,"['France', 'Morocco']",France,Chatenay-Malabry,RM   CB,"1,78",€400k
+13,Junior Senneville,Right-Back,"Jan 31, 1991 ",33,"['Guadeloupe', 'France']",France,Dunkerque,RM   CM,"1,70",€150k
+8,Jérémy Colin,Right-Back,"Jan 25, 1991 ",33,['France'],France,Remiremont,RM   CB,"1,80",€100k
+,Karanmady Dabo,Right-Back,"Apr 19, 1991 ",32,['France'],France,Pau,,"1,73",-
+,Vincent Guilbault,Right-Back,"Dec 22, 1991 ",32,['France'],France,Niort,LB,,-
+,Cédric Jean-Etienne,Right-Back,"Jun 19, 1991 ",32,['France'],France,Villecresne,,"1,78",-
+,Manssour Thiam,Right-Back,"Mar 25, 1991 ",32,"['France', 'Senegal']",France,Metz,,"1,75",-
+,Quentin Depré,Right-Back,"Nov 29, 1991 ",32,['France'],France,Lisieux,RM,,-
+,Pierre-Etienne Lemaire,Right-Back,"Jan 25, 1991 ",33,['France'],France,Tours,LB,"1,80",-
+,Jordan Fauque,Right-Back,"Aug 26, 1991 ",32,['France'],France,Arles,CB,"1,73",-
+,Benoît Perre,Right-Back,"Jul 6, 1991 ",32,['France'],France,,,,-
+2,Maxime Colin,Right-Back,"Nov 15, 1991 ",32,['France'],France,Arras,LB,"1,80",€1.00m
+17,Oualid El Hajjam,Right-Back,"Feb 19, 1991 ",33,"['Morocco', 'France']",France,Châteauroux,CB   LB,"1,81",€900k
+26,Emeric Dudouit,Right-Back,"Sep 7, 1991 ",32,['France'],France,Coutances,DM,"1,83",€200k
+,Harouna Abou Demba,Right-Back,"Dec 31, 1991 ",32,"['Mauritania', 'France']",France,Mont-Saint-Aignan,RM   DM,"1,78",€150k
+,Alexandre Le Parmentier,Right-Back,"May 8, 1991 ",32,['France'],France,Meaux,LB,"1,67",-
+,Teddy Garcin,Right-Back,"Aug 12, 1991 ",32,['France'],France,Saint-Jean-de-Braye,,"1,72",-
+15,James Le Marer,Right-Back,"Jan 1, 1991 ",33,['France'],France,Pleubian,,"1,76",-
+2,Jaffray Nsimba,Right-Back,"Jan 11, 1991 ",33,"['France', 'DR Congo']",France,Saint-Denis,LB,"1,78",-
+,Ismaël Guiti,Right-Back,"Jul 24, 1991 ",32,"['France', 'Burkina Faso']",France,,CB   RM,"1,82",-
+,Karl Vitulin,Right-Back,"Jan 15, 1991 ",33,"['Martinique', 'France']",France,Paris,LB   CB,"1,76",-
+26,Raphaël Delvigne,Right-Back,"Oct 8, 1991 ",32,['France'],France,Fréjus,DM   CM,"1,79",-
+,Othmane El Khadari,Right-Back,"Jan 15, 1991 ",33,"['France', 'Morocco']",France,,LB,"1,80",-
+,Jean-Marie Schembri,Right-Back,"Mar 26, 1991 ",32,['France'],France,Marseille,,"1,70",-
+,Maxime Ode,Right-Back,"Oct 8, 1991 ",32,['France'],France,Grenoble,CB,,-
+,Cyriaque Rivieyran,Right-Back,"Apr 17, 1991 ",32,['France'],France,Straßburg,LB,"1,73",-
+,Yassine Jebbour,Right-Back,"Aug 24, 1991 ",32,"['Morocco', 'France']",France,Poitiers,LB,"1,80",-
+,Loris Néry,Right-Back,"Feb 5, 1991 ",33,['France'],France,Saint-Étienne,LB,"1,74",-
+,Michael Lukasiewicz,Right-Back,"Feb 8, 1991 ",33,['Poland'],France,Carcassone,,"1,89",-
+,Joël Adegoroye,Right-Back,"Mar 15, 1991 ",32,"['France', 'Nigeria']",France,Chartres,CB,"1,77",-
+,Mathieu Deplagne,Right-Back,"Oct 1, 1991 ",32,['France'],France,Montpellier,LB   CB,"1,83",-
+,David Alcibiade,Right-Back,"Sep 26, 1991 ",32,"['France', 'Martinique']",France,Créteil,CB,"1,86",-
+,Sébastien Faure,Right-Back,"Jan 3, 1991 ",33,['France'],France,Lyon,CB   DM,"1,85",-
+7,Jonathan Clauss,Right-Back,"Sep 25, 1992 ",31,['France'],France,Strasbourg,RM   LM,"1,78",€15.00m
+29,Djibril Sidibé,Right-Back,"Jul 29, 1992 ",31,"['France', 'Mali']",France,Troyes,LB   RM,"1,83",€2.00m
+8,Dennis Appiah,Right-Back,"Jun 9, 1992 ",31,"['France', 'Ghana']",France,Toulouse,LB   CB,"1,79",€1.00m
+2,Mehdi Zeffane,Right-Back,"May 19, 1992 ",31,"['Algeria', 'France']",France,Sainte-Foy-lès-Lyon,LB   RM,"1,76",€600k
+,Fred Koumba Voama,Right-Back,"Oct 3, 1992 ",31,['France'],France,Paris,RM,,-
+,Pierre Ivaldi,Right-Back,"Oct 10, 1992 ",31,['France'],France,Bastia,,,-
+28,Jason Willock,Right-Back,"Dec 5, 1992 ",31,"['France', 'Guadeloupe']",France,Champigny-sur-Marne,LB   CB,"1,75",-
+,Bila Antonio,Right-Back,"Jun 2, 1992 ",31,"['Congo', 'France']",France,Melun,,"1,84",-
+,Yohan Prost,Right-Back,"Jul 15, 1992 ",31,['France'],France,Besançon,,,-
+23,Souleymane Karamoko,Right-Back,"Jul 29, 1992 ",31,"['Mauritania', 'France']",France,Paris,LB   RM,"1,70",-
+,Robin Taillan,Right-Back,"May 27, 1992 ",31,['France'],France,Béziers,,"1,84",-
+,Nordine Aït Yahia,Right-Back,"Jul 10, 1992 ",31,"['France', 'Morocco']",France,Porto-Vecchio,CB,"1,73",-
+,Samy Mostefa,Right-Back,"Nov 3, 1992 ",31,"['France', 'Algeria']",France,Mans,,,-
+20,Bouna Sarr,Right-Back,"Jan 31, 1992 ",32,"['Senegal', 'France']",France,Lyon,RM   RW,"1,77",€2.00m
+2,Arnaud Souquet,Right-Back,"Feb 12, 1992 ",32,['France'],France,Paris,RM   CB,"1,79",€1.50m
+20,Steeve Yago,Right-Back,"Dec 16, 1992 ",31,"['Burkina Faso', 'France']",France,Sarcelles,CB   LB,"1,78",€700k
+21,Benjamin Guérin,Right-Back,"May 27, 1992 ",31,['France'],France,Châtellerault,LB,"1,84",-
+,Charles Siaw-Afriyié,Right-Back,"Jul 15, 1992 ",31,"['France', 'Ghana']",France,Auxerre,LB,,-
+4,Thibault Valéry,Right-Back,"Jun 1, 1992 ",31,['France'],France,Nice,CB,"1,77",-
+,Yohan De Faria,Right-Back,"Sep 9, 1992 ",31,['France'],France,Neuilly-sur-Seine,LB,"1,74",-
+,Antoine Dubé,Right-Back,"Apr 3, 1992 ",31,['France'],France,Saint-Brieuc,,"1,80",-
+,Anthony Portejoie,Right-Back,"Apr 14, 1992 ",31,['France'],France,Paris,LB   RM,"1,77",-
+,Yannick Iwunze,Right-Back,"Aug 25, 1992 ",31,"['France', 'Nigeria']",France,Bobigny,CB,"1,88",-
+,Jérémy Thierry,Right-Back,"Sep 5, 1992 ",31,['France'],France,Nimes,,"1,73",-
+,Barkley Miguel-Panzo,Right-Back,"Sep 9, 1992 ",31,"['France', 'Angola']",France,Paris,RW   CF,"1,87",-
+,Alexandre Wroblewski,Right-Back,"Jun 15, 1992 ",31,"['France', 'Poland']",France,Villecresnes,CM   DM,"1,81",-
+,Kévin Martin,Right-Back,"Feb 16, 1992 ",32,['France'],France,Albi,LB,"1,82",-
+,Patrick Fradj,Right-Back,"Mar 11, 1992 ",31,['France'],France,Saint-Saulve,,"1,79",-
+,Grégoire Puel,Right-Back,"Feb 20, 1992 ",32,['France'],France,Nice,LB,"1,78",-
+,Alassane També,Right-Back,"Jan 26, 1992 ",32,"['Mali', 'France']",France,Villepinte,CB,"1,82",-
+,Nadir Lamine,Right-Back,"May 16, 1992 ",31,"['France', 'Algeria']",France,,,"1,82",-
+,Jonas Malvy Fleury,Right-Back,"Mar 8, 1992 ",31,"['Belgium', 'France']",France,Bordeaux,LW,"1,77",-
+,Romain Russier,Right-Back,"May 6, 1992 ",31,['France'],France,Saint-Priest-en-Jarez,DM,,-
+,Clément Buisson,Right-Back,"Apr 3, 1992 ",31,['France'],France,Drancy,,"1,78",-
+12,Yoann Wachter,Right-Back,"Apr 7, 1992 ",31,"['Gabon', 'France']",France,Courbevoie,CB,"1,77",-
+2,Ruben Aguilar,Right-Back,"Apr 26, 1993 ",30,"['France', 'Spain']",France,Grenoble,RM   LB,"1,72",€6.00m
+20,Dimitri Foulquier,Right-Back,"Mar 23, 1993 ",30,"['Guadeloupe', 'France']",France,Sarcelles,CB   RM,"1,83",€2.50m
+4,Valentin Henry,Right-Back,"Sep 18, 1993 ",30,['France'],France,Brest,RM   LM,"1,80",€600k
+23,Sébastien Agüero,Right-Back,"Aug 17, 1993 ",30,"['France', 'Spain']",France,Chenôve,,,€200k
+,Adrien Bommé,Right-Back,"Apr 25, 1993 ",30,['France'],France,Châteaubriant,,"1,80",-
+,Nicolas Staerck-Weille,Right-Back,"Feb 13, 1993 ",31,"['Sweden', 'France']",France,Sainte-Foy-lès-Lyon,,"1,82",-
+,Malcolm Babel,Right-Back,"May 19, 1993 ",30,"['Saint-Martin', 'France']",France,Paris,LB,"1,71",-
+,Lucas Dunand,Right-Back,"Apr 8, 1993 ",30,['France'],France,Bourg-en-Bresse,RM,"1,82",-
+,Julien Bertoux,Right-Back,"Jan 24, 1993 ",31,"['France', 'Belgium']",France,Arras,CB   DM,"1,80",-
+,Jordan Coignard,Right-Back,"Apr 5, 1993 ",30,"['France', 'Poland']",France,,CB   DM,"1,80",-
+,Kévin Pommier,Right-Back,"Jan 25, 1993 ",31,['France'],France,Brignoles,,"1,80",-
+,Franck Bétéhé,Right-Back,"Jan 2, 1993 ",31,"['France', 'Cameroon']",France,Nantes,CB   DM,"1,83",-
+,Florian Julien,Right-Back,"Jul 27, 1993 ",30,['France'],France,Brest,RM   RW,"1,75",-
+23,Youssouf Sabaly,Right-Back,"Mar 5, 1993 ",30,"['Senegal', 'France']",France,Chesnay,LB,"1,73",€4.00m
+15,Thibaut Vion,Right-Back,"Dec 11, 1993 ",30,['France'],France,Mont-Saint-Martin,RM   DM,"1,83",€700k
+19,Tristan Do,Right-Back,"Jan 31, 1993 ",31,"['Thailand', 'France']",France,Paris,RM,"1,71",€250k
+22,Laurent Dos Santos,Right-Back,"Mar 21, 1993 ",30,"['France', 'Portugal']",France,Montmorency,LB   DM,"1,77",€200k
+,Raphaël Gomis,Right-Back,"Dec 6, 1993 ",30,"['France', 'Senegal']",France,,CB   LB,,-
+,Nzeka Jordy Diakondwa,Right-Back,"Jan 5, 1993 ",31,['France'],France,Aubervilliers,,"1,78",-
+,Flavien Seneze,Right-Back,"Mar 22, 1993 ",30,['France'],France,Clérmont-Ferrand,,,-
+,Brandon Thetika,Right-Back,"May 7, 1993 ",30,"['France', 'DR Congo']",France,Paris,RM,"1,83",-
+27,Alexandre Huot,Right-Back,"Mar 5, 1993 ",30,['France'],France,,LB,"1,76",-
+,Chris Makengo,Right-Back,"Mar 16, 1993 ",30,"['DR Congo', 'France']",France,Etampes,,,-
+,Quentin Bachelier,Right-Back,"Apr 19, 1993 ",30,['France'],France,Poitiers,CB   DM,"1,78",-
+14,Jeffrey Assoumin,Right-Back,"Feb 5, 1993 ",31,"['France', 'Cameroon']",France,Marseille,LB   DM,"1,73",-
+,Hendrick Cakin,Right-Back,"Jan 6, 1993 ",31,"['France', 'Guadeloupe']",France,Sarcelles,DM,"1,78",-
+,Benjamin Morel,Right-Back,"Apr 2, 1993 ",30,['France'],France,Salon-de-Provence,,"1,74",-
+,Benoît Ardhuin,Right-Back,"Feb 10, 1993 ",31,['France'],France,Ischia,,,-
+,Alvin Arrondel,Right-Back,"Nov 11, 1993 ",30,"['France', 'Martinique']",France,Pontoise,CB   LB,"1,80",-
+,Jérôme Phojo,Right-Back,"Apr 15, 1993 ",30,"['France', 'Martinique']",France,Poissy,LB   CB,"1,78",-
+,Yannis Takerboucht,Right-Back,"Feb 3, 1993 ",31,"['Algeria', 'France']",France,Saint-Germain-en-Laye,RM   RW,"1,78",-
+19,Marco Rosenfelder,Right-Back,"Jul 19, 1993 ",30,"['France', 'Austria']",France,Ingwiller,RM   RW,"1,72",-
+27,Valentin Tacheau,Right-Back,"Mar 27, 1993 ",30,['France'],France,Le Mans,,,-
+2,Frédéric Guilbert,Right-Back,"Dec 24, 1994 ",29,['France'],France,Valognes,RM,"1,78",€4.00m
+31,Steven Moreira,Right-Back,"Aug 13, 1994 ",29,"['Cape Verde', 'France']",France,Noisy-le-Grand,RM   CB,"1,80",€1.50m
+,Saïd Bakari,Right-Back,"Sep 22, 1994 ",29,"['Comoros', 'France']",France,La Courneuve,RW   LW,"1,78",€800k
+29,Gaëtan Paquiez,Right-Back,"Feb 15, 1994 ",30,['France'],France,Valréas,LB,"1,82",€500k
+24,Ravy Tsouka,Right-Back,"Dec 23, 1994 ",29,"['Congo', 'France']",France,Blois,CB,"1,81",€375k
+19,Steeve Furtado,Right-Back,"Nov 22, 1994 ",29,"['Cape Verde', 'France']",France,Creil,RM,"1,75",€300k
+28,Brandon Agounon,Right-Back,"Oct 19, 1994 ",29,"['Benin', 'France']",France,Caen,,"1,80",€250k
+,Lenny Houelche,Right-Back,"Jan 1, 1994 ",30,['France'],France,Sarcelles,LB,"1,67",-
+,Thomas Garcia,Right-Back,"Oct 25, 1994 ",29,['France'],France,Bagnols-sur-Cèze,,,-
+,Gaël Mabiala,Right-Back,"Jun 7, 1994 ",29,['France'],France,Saint-Étienne,,"1,85",-
+,David Rogie,Right-Back,"Jul 1, 1994 ",29,['France'],France,Douai,,"1,76",-
+,Joris Belgacem,Right-Back,"Jun 20, 1994 ",29,"['France', 'Algeria']",France,Thionville,DM,"1,79",-
+,Alexandre Harvey,Right-Back,"Sep 2, 1994 ",29,['France'],France,Troyes,CB,"1,80",-
+15,Léo Dubois,Right-Back,"Sep 14, 1994 ",29,['France'],France,Segré,LB   RM,"1,78",€3.50m
+22,Jérémy Mellot,Right-Back,"Mar 28, 1994 ",29,['France'],France,Clermont-Ferrand,,"1,78",€1.20m
+13,Jordan Ikoko,Right-Back,"Feb 3, 1994 ",30,"['DR Congo', 'France']",France,Montereau,LB   RM,"1,78",€700k
+19,Benjaloud Youssouf,Right-Back,"Feb 11, 1994 ",30,"['Comoros', 'France']",France,Marseille,RM,"1,75",€400k
+99,Damien Dussaut,Right-Back,"Nov 8, 1994 ",29,"['Martinique', 'France']",France,Créteil,RM   LB,"1,82",€350k
+12,Damon Bansais,Right-Back,"Jan 8, 1994 ",30,['France'],France,Laval,,"1,77",€250k
+,Jordan Douhet,Right-Back,"Aug 6, 1994 ",29,['France'],France,Istres,LB   DM,"1,70",-
+,Corentin Dupoisot,Right-Back,"Apr 7, 1994 ",29,['France'],France,Besançon,,,-
+,Corentin Cottenceau,Right-Back,"Mar 3, 1994 ",30,['France'],France,,,,-
+,Manuel Da Silva,Right-Back,"Oct 11, 1994 ",29,"['France', 'Portugal']",France,Orléans,LB   RM,"1,74",-
+,Jean Guy Lucas,Right-Back,"May 27, 1994 ",29,['France'],France,Vannes,LB,,-
+,Laurent Nguendjio,Right-Back,"May 23, 1994 ",29,"['France', 'Cameroon']",France,Doula,,"1,79",-
+,Thibaut Liozon Molinatti,Right-Back,"May 26, 1994 ",29,"['France', 'Sweden']",France,Cannes,LM   LW,,-
+,Médéric Deher,Right-Back,"Oct 11, 1994 ",29,"['Guadeloupe', 'France']",France,Brétigny-sur-Orge,LB   CB,"1,84",-
+,Alexandre Gisselbrecht,Right-Back,"Mar 27, 1994 ",29,['France'],France,Mulhouse,RM   RW,"1,76",-
+,Florian Thalamy,Right-Back,"Mar 12, 1994 ",29,['France'],France,Lyon,LB,"1,82",-
+,Corentin Nicaise,Right-Back,"Mar 9, 1994 ",29,['France'],France,Bourgoin,LB,"1,86",-
+,Akinola Akinleye,Right-Back,"Feb 26, 1994 ",30,"['France', 'Nigeria']",France,Amiens,RM,"1,75",-
+,Othmane Fdaouch,Right-Back,"Sep 7, 1994 ",29,"['France', 'Morocco']",France,Mont-de-Marsan,,"1,71",-
+,Yanel Temmar,Right-Back,"Mar 14, 1994 ",29,"['France', 'Algeria']",France,Toulouse,RM   CB,"1,73",-
+,Mathieu Geolier,Right-Back,"Feb 24, 1994 ",30,['France'],France,Poissy,,"1,66",-
+,Hakim Touil,Right-Back,"Jan 20, 1994 ",30,"['France', 'Algeria']",France,Vénissieux,,"1,72",-
+,Burak Kardes,Right-Back,"Mar 22, 1994 ",29,"['Türkiye', 'Belgium']",France,Pontarlier,CB   LB,"1,89",-
+,Arthur Charlety,Right-Back,N/A ,29,[],France,Voiron,LB,N/A,-
+,Yannick Moussa,Right-Back,"Jan 20, 1994 ",30,"['France', 'Senegal']",France,Nantes,CB,"1,76",-
+,Raphaël Guilbault,Right-Back,"Apr 21, 1994 ",29,['France'],France,Parthenay,,"1,80",-
+,Théo Bobek,Right-Back,"Nov 3, 1994 ",29,['France'],France,Rodez,CB,"1,83",-
+,Ludovic Falk,Right-Back,"Apr 6, 1994 ",29,['France'],France,Saverne,CB,"1,79",-
+29,Jérrold Nyemeck,Right-Back,"May 7, 1994 ",29,"['France', 'Cameroon']",France,Saint-Martin d'Her,RM   LB,"1,80",-
+,Evander Moreira,Right-Back,"Aug 29, 1994 ",29,"['France', 'Cape Verde']",France,Nice,LB   RM,"1,75",-
+,Korentin Hénaff,Right-Back,"Feb 11, 1994 ",30,['France'],France,Lorient,DM,"1,76",-
+,Stéphane Hassane,Right-Back,"Feb 21, 1994 ",30,"['France', 'Niger']",France,Marseille,,"1,75",-
+,Diacko Fofana,Right-Back,"Jul 29, 1994 ",29,"['France', 'Mali']",France,Vernon,,"1,75",-
+,Maxime Bocel,Right-Back,"Jul 9, 1994 ",29,['France'],France,Rennes,,"1,86",-
+,Arnaud Bloch,Right-Back,"Aug 8, 1994 ",29,['France'],France,Lyon,,"1,71",-
+,Kévin Pham Ba,Right-Back,"Feb 3, 1994 ",30,"['France', 'Vietnam']",France,Paris,CB   RM,"1,81",-
+,Souleymane Sangaré,Right-Back,"Feb 3, 1994 ",30,"['France', 'Senegal']",France,Bondy,CB   LB,"1,81",-
+2,Akim Zedadka,Right-Back,"May 30, 1995 ",28,"['Algeria', 'France']",France,Pertuis,,"1,73",€2.00m
+2,Wajdi Kechrida,Right-Back,"Nov 5, 1995 ",28,"['Tunisia', 'France']",France,Nice,DM   RM,"1,77",€800k
+27,Cheick Traoré,Right-Back,"Mar 31, 1995 ",28,"['Mali', 'France']",France,Paris,RM,"1,75",€400k
+,Killian Colombié,Right-Back,"Nov 2, 1995 ",28,['France'],France,Paris,LB   LM,"1,80",€50k
+23,Vincent Louves,Right-Back,"Feb 1, 1995 ",29,"['France', 'Guadeloupe']",France,Paris,CB,"1,84",-
+22,Thomas Biziki,Right-Back,"May 22, 1995 ",28,"['France', 'DR Congo']",France,Gonesse,LB   DM,"1,82",-
+20,Adrien Pianelli,Right-Back,"Feb 28, 1995 ",29,['France'],France,Bastia,RM   LB,"1,78",-
+2,Benjamin Pasguay,Right-Back,"Jan 10, 1995 ",29,['France'],France,Orléans,RM,"1,76",-
+,Roméo Vena Diambu,Right-Back,"Dec 22, 1995 ",28,"['France', 'DR Congo']",France,Toulouse,CB   LB,"1,84",-
+23,Jorys Mène,Right-Back,"Jan 2, 1995 ",29,"['Neukaledonien', 'France']",France,Amiens,,"1,76",-
+,Lounisse Merzouk,Right-Back,"Sep 13, 1995 ",28,"['France', 'Algeria']",France,Marseille,,,-
+,Jordan Diakiese,Right-Back,"Jul 5, 1995","Jul 5, 1995","['France', 'DR Congo']",France,Paris,LB,"1,72",-
+,Corentin Halucha,Right-Back,"Jun 3, 1995 ",28,"['France', 'Poland']",France,Roubaix,CB   DM,,-
+3,Paul Marie,Right-Back,"Mar 24, 1995 ",28,['France'],France,Saint-Aubin-des-Bois,RM   LB,"1,75",€1.20m
+99,Erwin Koffi,Right-Back,"Jan 10, 1995 ",29,"['France', ""Cote d'Ivoire""]",France,Paris,DM   CM,"1,75",€700k
+93,Stéphane Lambese,Right-Back,"Nov 10, 1995 ",28,"['Haiti', 'France']",France,Nogent-sur-Marne,LB,"1,71",€250k
+,Romain Quéré,Right-Back,"Oct 11, 1995 ",28,['France'],France,Paris,,"1,75",-
+,Marc Carneiro,Right-Back,"Mar 5, 1995 ",28,"['France', 'Portugal']",France,Brest,,"1,77",-
+,Bill Dago,Right-Back,"Oct 20, 1995 ",28,"['France', ""Cote d'Ivoire""]",France,Château-Thierry,,"1,83",-
+22,Sonny Duflos,Right-Back,"Jun 8, 1995 ",28,['France'],France,Boulogne-sur-Mer,CB,"1,76",-
+,Thomas Lévêque,Right-Back,"Sep 18, 1995 ",28,['France'],France,Sète,CB,,-
+,Mickaël Borger,Right-Back,"Sep 24, 1995 ",28,['France'],France,Val de Briey,CB,"1,79",-
+,Warren Belise,Right-Back,"Dec 11, 1995 ",28,"['France', 'Guadeloupe']",France,Nogent-sur-Marne,RM   RW,"1,78",-
+,Nasser Abarkan,Right-Back,"Jul 29, 1995 ",28,"['France', 'Algeria']",France,Bagnols-sur-Cèze,,"1,66",-
+,Tom Viard,Right-Back,"Mar 10, 1995 ",28,['France'],France,Bar-le-Duc,,,-
+,Ryan Diafat,Right-Back,"Sep 21, 1995 ",28,"['France', 'Algeria']",France,Montmorency,,,-
+,Pierre Ertel,Right-Back,"May 28, 1995 ",28,['France'],France,Arnas,,"1,68",-
+,Yarouba Cissako,Right-Back,"Jan 8, 1995 ",29,"['France', 'Mali']",France,Pontoise,,"1,75",-
+,Sylvain Vitta,Right-Back,"Jun 22, 1995 ",28,"['France', 'Comoros']",France,Le Mans,LB,,-
+,Fabio Genga,Right-Back,"Sep 10, 1995 ",28,"['France', 'Italy']",France,Cannes,LB,"1,76",-
+,Rémy Lahaye,Right-Back,"Mar 10, 1995 ",28,['France'],France,Nizza,CB,"1,85",-
+2,Valentin Rosier,Right-Back,"Aug 19, 1996 ",27,"['France', 'Guadeloupe']",France,Montauban,LB   RM,"1,75",€5.00m
+18,Fabien Centonze,Right-Back,"Jan 16, 1996 ",28,['France'],France,Voiron,LB   RM,"1,82",€3.00m
+18,Fahd Moufi,Right-Back,"May 5, 1996 ",27,"['Morocco', 'France']",France,Mulhouse,LB,"1,77",€1.50m
+19,Julien Dacosta,Right-Back,"May 29, 1996 ",27,"['France', 'Senegal']",France,Marseille,LB,"1,81",€300k
+3,Adrien Julloux,Right-Back,"Oct 5, 1996 ",27,['France'],France,,CB   LB,"1,87",€250k
+11,Diaby Doucouré,Right-Back,"May 28, 1996 ",27,"['France', 'Mali']",France,Ivry-sur-Seine,LB   RM,"1,83",€100k
+,Alassane Sylla,Right-Back,"Dec 16, 1996 ",27,['France'],France,Deauville,,,-
+,Joel Conceição,Right-Back,"Feb 23, 1996 ",28,['Portugal'],France,Le Mans,RM   RW,"1,83",-
+20,Lorenzo Vinci,Right-Back,"Feb 26, 1996 ",28,['France'],France,Cannes,,"1,72",-
+23,Youssef Gazzaoui,Right-Back,"Jun 24, 1996 ",27,"['France', 'Morocco']",France,Les Arcs,,"1,72",-
+,Jonas Charpentier,Right-Back,"Feb 23, 1996 ",28,['France'],France,La Roche-sur-Yon,,"1,78",-
+,Ramy El Khatch,Right-Back,"Nov 19, 1996 ",27,"['France', 'Morocco']",France,Bondy,,,-
+22,Melvyn Doremus,Right-Back,"Oct 29, 1996 ",27,"['Benin', 'France']",France,Sannois,,"1,81",-
+22,Kevin Van Den Kerkhof,Right-Back,"Mar 14, 1996 ",27,"['Algeria', 'France']",France,Saint-Saulve,RM,"1,90",€3.00m
+6,Junior Sambia,Right-Back,"Sep 7, 1996 ",27,"['France', 'Central African Republic']",France,Lyon,RM   CM,"1,85",€2.50m
+12,Anthony Ribelin,Right-Back,"Apr 8, 1996 ",27,['France'],France,Nîmes,RM   CM,"1,80",€300k
+12,Tom Duponchelle,Right-Back,"Feb 17, 1996 ",28,['France'],France,Amiens,LB,"1,75",€250k
+23,Clément Benhaddouche,Right-Back,"May 11, 1996 ",27,"['Hongkong', 'France']",France,Lille,RM   RW,"1,81",€150k
+11,Quentin Martin,Right-Back,"Mar 7, 1996 ",27,['France'],France,Saint-Malo,RM   LB,"1,73",€100k
+,Roman Gaudin,Right-Back,"Sep 22, 1996 ",27,"['France', 'Algeria']",France,Bourg-Saint-Maurice,CM   DM,"1,77",-
+,Antoine Guiziou,Right-Back,"Jan 31, 1996 ",28,['France'],France,Rennes,LB,"1,79",-
+,Houssame Boinali,Right-Back,"Jul 16, 1996 ",27,"['Mayotte', 'France']",France,Mayotte,,,-
+,Emerson Paulo,Right-Back,"Mar 8, 1996 ",27,"['France', 'Angola']",France,Nice,RM,"1,79",-
+2,Jacques-Antoine Pelletier,Right-Back,"Apr 6, 1996 ",27,['France'],France,Mont-Saint-Aignan,CB,"1,83",-
+,Joshua Kudu,Right-Back,"May 13, 1996 ",27,"['France', 'Cameroon']",France,Argenteuil,LB   DM,"1,79",-
+18,Marvin Duclovel,Right-Back,"Dec 10, 1996 ",27,"['France', 'Martinique']",France,Vannes,RM   RW,"1,77",-
+,Nobie Boua Gnoumou,Right-Back,"Mar 25, 1996 ",27,"['France', ""Cote d'Ivoire""]",France,Poissy,RM,,-
+,Baba Traoré,Right-Back,"Feb 21, 1996 ",28,"['Mali', 'France']",France,Montreuil,,"1,81",-
+,Arif Demir,Right-Back,"Nov 5, 1996 ",27,"['Türkiye', 'France']",France,Nancy,CB   DM,"1,85",-
+6,William Suaut,Right-Back,"Apr 11, 1996 ",27,['France'],France,Cagnes-sur-Mer,,"1,80",-
+24,Alexandre Leroyer,Right-Back,"Jun 20, 1996 ",27,['France'],France,Laval,RM   CM,"1,74",-
+25,Roman Laspalles,Right-Back,"Nov 2, 1996 ",27,['France'],France,Guingamp,,"1,78",-
+,Yoann Assoumin,Right-Back,"Jun 14, 1996 ",27,['France'],France,Marseille,,"1,85",-
+26,Nordi Mukiele,Right-Back,"Nov 1, 1997 ",26,"['France', 'DR Congo']",France,Montreuil,CB   RM,"1,87",€12.00m
+34,Clément Michelin,Right-Back,"May 11, 1997 ",26,['France'],France,Montauban,RM   CB,"1,79",€1.20m
+12,Jordy Gaspar,Right-Back,"Apr 23, 1997 ",26,"['Angola', 'France']",France,Saint-Étienne,LB   RM,"1,79",€900k
+45,Joris Moutachy,Right-Back,"Nov 4, 1997 ",26,"['Martinique', 'France']",France,Orléans,CB   LB,"1,77",€400k
+17,Baptiste Etcheverria,Right-Back,"Apr 9, 1997 ",26,['France'],France,Cambo-les-Bains,CB   RM,"1,80",€300k
+26,Stacy Misiatu,Right-Back,"Jul 17, 1997 ",26,"['France', 'DR Congo']",France,Argenteuil,DM   RM,"1,75",€250k
+41,Roman Pierrard,Right-Back,"Sep 11, 1997 ",26,['France'],France,,LB,"1,70",€75k
+,Lassana Diarra,Right-Back,"Jun 5, 1997 ",26,['France'],France,Ivry-sur-Seine,,,-
+,Mehdi Zerguine,Right-Back,"Jun 2, 1997 ",26,['France'],France,Saint-Chamond,RM,"1,84",-
+,Walid Soudi,Right-Back,"Sep 12, 1997 ",26,"['France', 'Morocco']",France,Marseille,DM,"1,80",-
+,Bastien Vilmercati,Right-Back,"Sep 9, 1997 ",26,['France'],France,Versailles,,"1,82",-
+,Nabil El Bouhabi,Right-Back,"May 25, 1997 ",26,"['France', 'Morocco']",France,Lomme,,"1,81",-
+,Jean-Emerick Salvador,Right-Back,"Feb 23, 1997 ",27,['France'],France,Bruges,,"1,73",-
+24,Gédéon Kalulu,Right-Back,"Aug 29, 1997 ",26,"['DR Congo', 'France']",France,Lyon,CB   LB,"1,79",€4.50m
+,Enock Kwateng,Right-Back,"Apr 9, 1997 ",26,"['France', 'Ghana']",France,Mantes-la-Jolie,RM   CB,"1,81",€1.00m
+58,Alpha Sissoko,Right-Back,"Mar 7, 1997 ",26,"['France', 'Mali']",France,Bondy,,"1,78",€700k
+22,Jimmy Halby Touré,Right-Back,"Feb 7, 1997 ",27,"['France', 'Senegal']",France,Épinay-sur-Seine,RW   LB,"1,76",€300k
+25,Moussa Diallo,Right-Back,"Jan 27, 1997 ",27,"['France', 'Senegal']",France,Corbeil-Essonnes,,"1,78",€300k
+8,Alexandre Lauray,Right-Back,"Mar 18, 1997 ",26,['France'],France,Les Sables-d'Olonne,CB,"1,78",€200k
+,Bakari Cissé,Right-Back,"Jun 3, 1997 ",26,['France'],France,Dreux,CB   RW,"1,85",-
+,Alane Dorol,Right-Back,"Jun 29, 1997 ",26,['France'],France,Vitry-sur-Seine,CB   LB,"1,80",-
+,Johan Aquilon,Right-Back,"Sep 8, 1997 ",26,['France'],France,Évry-Courcouronnes,CB,"1,76",-
+,William Nkounkou,Right-Back,"Jul 16, 1997 ",26,"['France', 'Congo']",France,Cergy,RM,"1,74",-
+26,Alexandre Bianchi,Right-Back,"Apr 10, 1997 ",26,['France'],France,Thionville,LB,"1,8",-
+,Diego Alves,Right-Back,"Mar 6, 1997 ",26,"['France', 'Portugal']",France,Remiremont,RM   RW,"1,77",-
+,Benjamin Rio,Right-Back,"Feb 4, 1997 ",27,['France'],France,Pontivy,,"1,75",-
+,Maxime Foll,Right-Back,"Aug 3, 1997 ",26,['France'],France,Ploemeur,,"1,77",-
+21,Sacha Lemarié,Right-Back,"Oct 30, 1997 ",26,['France'],France,Amiens,RM,"1,74",-
+27,Étienne Desroches,Right-Back,"Apr 27, 1997 ",26,['France'],France,Mâcon,RM   LB,"1,69",-
+,Wilfried Kiala,Right-Back,"Jan 18, 1997 ",27,['France'],France,Blois,CB,"1,77",-
+,Léo Lemarié,Right-Back,"Jan 24, 1997 ",27,['France'],France,Vitré,LB,"1,75",-
+,Matias Ferreira,Right-Back,"Jan 1, 1997 ",27,"['France', 'Portugal']",France,Les Lilas,RM,"1,73",-
+14,Ronan Touzet,Right-Back,"Nov 5, 1997 ",26,['France'],France,Cholet,RM   DM,,-
+75,Daniel da Cunha Pereira,Right-Back,"Jun 17, 1997 ",26,"['Luxembourg', 'Portugal']",France,,LW   RW,"1,75",-
+,Adil Benjeddi,Right-Back,"Jan 29, 1997 ",27,"['Morocco', 'France']",France,Lyon,LB,"1,74",-
+,Ibrahim Quna,Right-Back,"Apr 9, 1997 ",26,['France'],France,Troyes,RM,,-
+,Titouan Le Menec,Right-Back,"Feb 8, 1997 ",27,"['France', 'Ethiopia']",France,Guipavas,,"1,72",-
+,Mamadou Lamine Keïta,Right-Back,"Jul 1, 1997 ",26,['France'],France,Saint-Germain-en-Laye,CB,"1,83",-
+,Ernesto Applefield-Alvarez,Right-Back,"May 23, 1997 ",26,"['France', 'United States']",France,Paris,LB,,-
+,Baptiste Foucault,Right-Back,"Aug 20, 1997 ",26,['France'],France,Sablé-sur-Sarthe,LB   CB,"1,78",-
+,Mika Scoarnec,Right-Back,"Sep 30, 1997 ",26,"['France', 'Finland']",France,Paris,DM   RW,"1,74",-
+,Calvin Ferreira,Right-Back,"Jan 1, 1997 ",27,"['Portugal', 'France']",France,Les Lilas,,,-
+,Aymerick Saubion,Right-Back,"Apr 22, 1997 ",26,['France'],France,Royan,,"1,77",-
+,Yohann Campanini,Right-Back,"Jan 11, 1997 ",27,['France'],France,Marseille,,"1,75",-
+,Moussa Soumaré,Right-Back,"Sep 6, 1997 ",26,"['France', 'Mali']",France,Paris,RM,"1,84",-
+,Anthony Brydges,Right-Back,"Apr 9, 1997 ",26,['France'],France,Aubervilliers,,"1,70",-
+21,Joris Mendy,Right-Back,"May 13, 1997 ",26,"['France', 'Senegal']",France,La Seyne-sur-Mer,CB,,-
+18,Ronaël Pierre-Gabriel,Right-Back,"Jun 13, 1998 ",25,"['France', 'Martinique']",France,Paris,LB   CB,"1,77",€3.50m
+2,Colin Dagba,Right-Back,"Sep 9, 1998 ",25,"['France', 'Benin']",France,Béthune,LB   RM,"1,70",€1.80m
+27,Maxime Sivis,Right-Back,"Apr 1, 1998 ",25,"['France', 'DR Congo']",France,Cholet,CB,"1,80",€900k
+19,Răzvan Onea,Right-Back,"May 19, 1998 ",25,['Romania'],France,Paris,LB,"1,77",€700k
+2,Alec Georgen,Right-Back,"Sep 17, 1998 ",25,['France'],France,Clamart,LB,"1,72",€400k
+14,Jérémi Santini,Right-Back,"May 18, 1998 ",25,"['France', 'Italy']",France,Bastia,CB   LB,"1,91",€250k
+13,Nasser Aboudou,Right-Back,"Feb 26, 1998 ",26,"['France', 'Comoros']",France,Paris,LW   RW,"1,75",€125k
+27,Thibault Campanini,Right-Back,"Jul 27, 1998 ",25,['France'],France,Marseille,,"1,79",€100k
+18,Dany Goprou,Right-Back,"Oct 3, 1998 ",25,"['France', ""Cote d'Ivoire""]",France,Paris,CB,"1,72",€25k
+6,François Anticona,Right-Back,"Oct 24, 1998 ",25,"['France', 'Peru']",France,Vénissieux,LB   DM,"1,70",-
+,Léo Berlin,Right-Back,"Jan 13, 1998 ",26,['France'],France,Paimpol,,"1,72",-
+,Clément Fleury,Right-Back,"Jun 27, 1998 ",25,['France'],France,Lesparre,,"1,75",-
+15,Alexis Sainfleur,Right-Back,"Feb 20, 1998 ",26,['France'],France,Sèvres,,"1,78",-
+98,Kelvin Amian,Right-Back,"Feb 8, 1998 ",26,"['France', ""Cote d'Ivoire""]",France,Toulouse,CB,"1,80",€2.20m
+17,Houboulang Mendes,Right-Back,"May 4, 1998 ",25,"['Guinea-Bissau', 'France']",France,Courcouronnes,CB,"1,85",€1.20m
+98,Jeremy Petris,Right-Back,"Jan 28, 1998 ",26,['France'],France,Bagnolet,RM   RW,"1,83",€800k
+22,Sofiane Alakouch,Right-Back,"Jul 29, 1998 ",25,"['Morocco', 'France']",France,Nîmes,,"1,75",€600k
+22,Akim Djaha,Right-Back,"Sep 14, 1998 ",25,"['Comoros', 'France']",France,Bordeaux,RM   LM,"1,78",€300k
+,Jason Tré,Right-Back,"Mar 18, 1998 ",25,"['France', ""Cote d'Ivoire""]",France,Saint-Denis,LB,"1,73",€150k
+14,Ali Kalla,Right-Back,"Apr 23, 1998 ",25,"['France', 'Cameroon']",France,Paris,RM   LB,"1,72",€100k
+2,Nassim Titebah,Right-Back,"Jan 13, 1998 ",26,"['Morocco', 'France']",France,Mulhouse,LB   RM,,€50k
+,Youssef Jabir,Right-Back,"Jul 21, 1998 ",25,['France'],France,Forbach,,,-
+,Edgar Barros,Right-Back,"May 8, 1998 ",25,['France'],France,Lagny-sur-Marne,,"1,86",-
+,Erwan Koutele,Right-Back,"Oct 28, 1998 ",25,['France'],France,Les Lilas,,,-
+2,Youssef Khatiri,Right-Back,"Feb 3, 1998 ",26,"['France', 'Morocco']",France,Argenteuil,RM,"1,75",-
+,Ruddy Ebondo,Right-Back,"Jul 6, 1998 ",25,['France'],France,Marseille,CB,"1,93",-
+,Keny Nsona,Right-Back,"Jun 11, 1998 ",25,"['France', 'DR Congo']",France,Nogent-sur-Marne,,,-
+,Samy Lachhab,Right-Back,"Mar 4, 1998 ",26,"['France', 'Morocco']",France,Nice,RW,"1,75",-
+,Hamady Traoré,Right-Back,"Aug 8, 1998 ",25,"['France', 'Mali']",France,Créteil,RM,"1,75",-
+,Florian Barbero,Right-Back,"Jan 29, 1998 ",26,['France'],France,Landerneau,,"1,79",-
+5,Valentin Liénard,Right-Back,"Jan 11, 1998 ",26,['France'],France,Nice,LB   RM,"1,76",-
+,Joris Ndiaye,Right-Back,"Nov 21, 1998 ",25,"['France', 'Senegal']",France,Lille,CB,"1,79",-
+,Thomas Decottignies,Right-Back,"Jan 3, 1998 ",26,['France'],France,Lille,,"1,80",-
+7,Corentin Faussot,Right-Back,"Jan 4, 1998 ",26,['France'],France,Dijon,CM   LB,"1,74",-
+,Mathis Delanoë,Right-Back,"Sep 23, 1998 ",25,['France'],France,Nantes,LB,"1,76",-
+,Rémi Roldan,Right-Back,"Feb 26, 1998 ",26,"['France', 'Spain']",France,Muret,LB,"1,76",-
+,Khamis Digol,Right-Back,"Sep 28, 1998 ",25,"['Central African Republic', 'France']",France,Melun,CB,"1,81",-
+,Lilian Roudaut,Right-Back,"Apr 9, 1998 ",25,['France'],France,Brest,,"1,81",-
+,Jérémy Peterson,Right-Back,"Apr 3, 1998 ",25,"['Saint-Martin', 'France']",France,Noisy-le-Grand,,,-
+21,Julien Barras,Right-Back,"Jan 21, 1998 ",26,['France'],France,Roanne,RM,"1,79",-
+2,Kévin Badeau,Right-Back,"Feb 24, 1998 ",26,"['France', 'Haiti']",France,Paris,RM   CB,"1,75",-
+,Mehdi Ramirez,Right-Back,"Jun 22, 1998 ",25,['France'],France,Sète,,"1,80",-
+,Leandro Alves,Right-Back,"Dec 8, 1998 ",25,"['France', 'Portugal']",France,Colmar,,,-
+,Yassine Fareb,Right-Back,"Dec 15, 1998 ",25,['France'],France,Paris,RM,"1,74",-
+,Ahmed Hajji,Right-Back,"Feb 2, 1998 ",26,['France'],France,Stains,LB   LW,"1,78",-
+17,Anthony Vacheron,Right-Back,"Mar 5, 1998 ",25,['France'],France,,LB   RM,,-
+22,Redha Fresneau,Right-Back,"Sep 21, 1998 ",25,"['France', 'Algeria']",France,Paris,LB   DM,"1,81",-
+,Richard Roubini,Right-Back,"Jun 24, 1998 ",25,"['France', 'Italy']",France,Nice,RM   DM,"1,75",-
+,Yannis N'Gakoutou,Right-Back,"Sep 30, 1998 ",25,"['Gabon', 'France']",France,Saint-Denis,,"1,76",-
+,Issa Samba,Right-Back,"Jan 29, 1998 ",26,"['Mauritania', 'France']",France,Dreux,LB,"1,82",-
+26,Woyo Coulibaly,Right-Back,"May 26, 1999 ",24,"['France', 'Mali']",France,Gonesse,LB   RM,"1,88",€2.00m
+18,Hugo Vandermersch,Right-Back,"May 5, 1999 ",24,['France'],France,Blendecques,LB   CB,"1,80",€1.00m
+22,Shaquil Delos,Right-Back,"Jun 16, 1999 ",24,"['France', 'Guadeloupe']",France,Les Lilas,LB   LM,"1,83",€400k
+7,Yohan Bilingi,Right-Back,"Feb 1, 1999 ",25,"['France', 'DR Congo']",France,Alfortville,CB,"1,82",€400k
+24,Moussa Sylla,Right-Back,"Mar 15, 1999 ",24,"['France', 'Senegal']",France,Paris,,"1,77",€300k
+2,Bastien Launay,Right-Back,"Jan 8, 1999 ",25,['France'],France,L'Aigle,,"1,74",€200k
+25,Abdoulaye Koté,Right-Back,"Jan 5, 1999 ",25,"['France', 'Senegal']",France,Martigues,CB   LB,,€150k
+,Stan Guercy,Right-Back,"Apr 1, 1999 ",24,"['France', 'Guadeloupe']",France,Paris,DM,"1,73",-
+,Vincent Sorin,Right-Back,"Jan 2, 1999 ",25,['France'],France,Fougères,,"1,82",-
+,Alexis Vignat,Right-Back,"Oct 21, 1999 ",24,['France'],France,Livry-Gargan,DM,,-
+13,Killian Denoual,Right-Back,"Mar 9, 1999 ",24,['France'],France,Rennes,CB   LB,"1,83",-
+,Théo Chefson,Right-Back,"Jul 12, 1999 ",24,['France'],France,Fréjus,RW   RM,"1,83",-
+26,Théo Chauvier,Right-Back,"Jun 26, 1999 ",24,['France'],France,Nantes,LB   RM,,-
+2,Yan Valery,Right-Back,"Feb 22, 1999 ",25,"['Tunisia', 'France']",France,Champigny-sur-Marne,RM   CB,"1,85",€2.00m
+24,Allan Linguet,Right-Back,"Aug 17, 1999 ",24,['France'],France,Sèvres,CB   LB,"1,76",€700k
+17,Thomas Carrique,Right-Back,"Feb 26, 1999 ",25,['France'],France,Tarbes,LB,"1,73",€400k
+27,Julien Kouadio,Right-Back,"Sep 22, 1999 ",24,"['France', ""Cote d'Ivoire""]",France,Lyon,LB,"1,75",€350k
+29,Grégory Coelho,Right-Back,"Sep 2, 1999 ",24,"['France', 'Cape Verde']",France,Cahors,LB,"1,80",€250k
+18,Arnaud Luzayadio,Right-Back,"Jul 19, 1999 ",24,"['France', 'DR Congo']",France,Montreuil,,"1,76",€175k
+,Florian Monière,Right-Back,"Jan 11, 1999 ",25,['France'],France,Toulon,,,-
+,Coumada Dole,Right-Back,"Oct 14, 1999 ",24,['France'],France,Arpajon,,"1,86",-
+12,Joseph Gyeboaho,Right-Back,"Dec 16, 1999 ",24,"['France', 'Ghana']",France,Toulouse,RM   LB,,-
+,Alexandre Dias Ferreira,Right-Back,"Jun 11, 1999 ",24,['France'],France,Caen,LB,"1,71",-
+,Pierre Legrand,Right-Back,"Aug 12, 1999 ",24,['France'],France,Toulouse,RM,"1,80",-
+,Diégo Artu,Right-Back,"Jan 18, 1999 ",25,['France'],France,Cossé-le-Vivien,DM   RM,"1,75",-
+,Mamadou Camara,Right-Back,"Sep 13, 1999 ",24,"['France', 'Mali']",France,Mulhouse,RM   RW,"1,74",-
+,Mathieu Gadet,Right-Back,"Jul 11, 1999 ",24,"['France', 'Ireland']",France,Saint Jean,,"1,68",-
+,Yanis Achour,Right-Back,"Apr 24, 1999 ",24,"['France', 'Algeria']",France,Montbéliard,RM,,-
+,Elvy Passy,Right-Back,"May 22, 1999 ",24,"['France', 'Congo']",France,Châtenay-Malabry,LB   RM,"1,75",-
+,Yohan Bernard-Le,Right-Back,"Nov 4, 1999 ",24,"['France', 'Vietnam']",France,Auxerre,RM   LB,"1,63",-
+,Gabay Allaigre,Right-Back,"Sep 7, 1999 ",24,['France'],France,Échirolles,,"1,78",-
+,Sadek Erten,Right-Back,"Dec 1, 1999 ",24,"['France', 'Türkiye']",France,,CB   DM,"1,86",-
+,Haris Gahrouri,Right-Back,"Feb 9, 1999 ",25,"['France', 'Algeria']",France,Limoges,LB,"1,74",-
+,Yacin Barka,Right-Back,"Mar 28, 1999 ",24,"['France', 'Morocco']",France,Marseille,CB,"1,88",-
+,Paul Fargeas,Right-Back,"Mar 21, 1999 ",24,['France'],France,Toulouse,RM,"1,75",-
+,Kristen Boulouard,Right-Back,"Sep 21, 1999 ",24,['France'],France,Brest,,"1,78",-
+,Guillaume Chapuis,Right-Back,"Jul 26, 1999 ",24,['France'],France,,LB   CB,,-
+,Théo Chauvin,Right-Back,"Jan 16, 1999 ",25,['France'],France,Granville,,"1,77",-
+,Maël Sedagondji,Right-Back,"Aug 23, 1999 ",24,"['Benin', 'France']",France,Dijon,CB,"1,78",-
+22,Dylan Fage,Right-Back,"Mar 18, 1999 ",24,"['France', 'Martinique']",France,Paris,RM,"1,78",-
+22,Tom Di Lorenzo,Right-Back,"Jan 17, 1999 ",25,"['France', 'Italy']",France,Avignon,DM,"1,71",-
+,Benrandy Abdallah,Right-Back,"Jul 1, 1999 ",24,"['France', 'Comoros']",France,Troyes,RM,"1,84",-
+13,Jessy Rotsen,Right-Back,"May 20, 1999 ",24,"['France', 'Martinique']",France,Paris,DM,"1,72",-
+,Justin Taite,Right-Back,"May 3, 1999 ",24,['France'],France,Metz,,,-
+71,Marvin Louisius,Right-Back,"Aug 19, 1999 ",24,"['France', 'Martinique']",France,Laval,RW   RM,"1,71",-
+23,Sacha Boey,Right-Back,"Sep 13, 2000 ",23,['France'],France,Montreuil,,"1,78",€22.00m
+17,Valentin Gendrey,Right-Back,"Jun 21, 2000 ",23,"['France', 'Guadeloupe']",France,La Garenne-Colombes,CB,"1,79",€4.50m
+26,Paul Joly,Right-Back,"Jun 7, 2000 ",23,['France'],France,Orléans,CB   LB,"1,82",€1.50m
+27,Lilian Raolisoa,Right-Back,"Jun 16, 2000 ",23,"['France', 'Madagascar']",France,Angers,RM,"1,78",€600k
+91,Romaric Yapi,Right-Back,"Jul 13, 2000 ",23,"['France', ""Cote d'Ivoire""]",France,Évry,RM   RW,"1,79",€300k
+,Jonathan Ruque,Right-Back,"May 22, 2000 ",23,['France'],France,Annecy,RW,"1,78",€200k
+18,Ryan Sabry,Right-Back,"Sep 1, 2000 ",23,"['France', 'Morocco']",France,Nantes,RM   LB,"1,70",€100k
+,Alexandre Nsakala,Right-Back,"Mar 20, 2000 ",23,['France'],France,Massy,,"1,79",€100k
+31,Lucas Maronnier,Right-Back,"Mar 9, 2000 ",23,['France'],France,Meaux,,"1,72",€50k
+,Loris Flifel,Right-Back,"Jan 31, 2000 ",24,['France'],France,Saint-Maurice,,"1,73",-
+,Kévin Le Labourier,Right-Back,"Jan 13, 2000 ",24,['France'],France,Rennes,LB   CB,"1,73",-
+,Mohamed Djelti,Right-Back,"Aug 4, 2000 ",23,"['France', 'Algeria']",France,Rodez,,"1,80",-
+,Louis Le Bescond,Right-Back,"May 25, 2000 ",23,['France'],France,Reims,,,-
+20,Lorenz Assignon,Right-Back,"Jun 22, 2000 ",23,"['France', 'Togo']",France,Grasse,RM,"1,81",€10.00m
+4,Malcom Bokele,Right-Back,"Feb 12, 2000 ",24,"['Cameroon', 'France']",France,Lyon,CB,"1,89",€1.80m
+7,Thibaut Vargas,Right-Back,"May 22, 2000 ",23,['France'],France,Aix-en-Provence,RM,"1,75",€800k
+40,Brian Bayeye,Right-Back,"Jun 30, 2000 ",23,"['DR Congo', 'France']",France,Paris,RM,"1,82",€500k
+18,Davis Abanda Mfomo,Right-Back,"Jun 7, 2000 ",23,"['France', 'Cameroon']",France,Le Blanc-Mesnil,LB   CB,"1,75",€250k
+19,Hamza Sbaï,Right-Back,"Feb 24, 2000 ",24,"['France', 'Morocco']",France,Avignon,RW   RB,"1,75",€100k
+,Randy Mavinga,Right-Back,"May 1, 2000 ",23,"['France', 'DR Congo']",France,Paris,CM,,€100k
+,Benjamin Capron-Litique,Right-Back,"Oct 22, 2000 ",23,['France'],France,Saint-Aubin-lès-Elbeuf,,,€50k
+,Mohamed Koukouch,Right-Back,"Jul 15, 2000 ",23,"['France', 'Morocco']",France,Porto-Vecchio,,,€25k
+,Rodrigue Ndonda,Right-Back,"Jan 11, 2000 ",24,['France'],France,Orléans,,,-
+,Ladji Dagnogo,Right-Back,"Aug 3, 2000 ",23,"['France', 'Mali']",France,Le Blanc-Mesnil,,,-
+,Stanley Akiana,Right-Back,"Jan 7, 2000 ",24,"['France', 'Congo']",France,Charenton-le-Pont,RW   CF,"1,88",-
+,Mahame Dianka,Right-Back,N/A ,23,['France'],France,,RW,"1,75",-
+,Ogui Cleave Gnahoré,Right-Back,"Jun 27, 2000 ",23,['France'],France,Ivry-Sur-Seine,LB   RM,"1,74",-
+,Vincenzo Callejon,Right-Back,"Feb 19, 2000 ",24,['France'],France,Aubagne,RW,"1,74",-
+,Kryss Chapelle,Right-Back,"Mar 28, 2000 ",23,['France'],France,Tours,LB,"1,73",-
+,Volkan Karalar,Right-Back,"Jan 25, 2000 ",24,"['France', 'Türkiye']",France,Strasbourg,LB   RM,"1,72",-
+,Ioury Oganessian,Right-Back,"Aug 6, 2000 ",23,"['Armenia', 'France']",France,Vénissieux,CB,,-
+,Ewen Le Cunff,Right-Back,"Jun 2, 2000 ",23,['France'],France,Pontivy,,"1,68",-
+,Adama Coulibaly,Right-Back,"Mar 24, 2000 ",23,"['France', 'Mali']",France,Paris,,,-
+,Jocelyn Sancho,Right-Back,"May 10, 2000 ",23,"['France', 'Martinique']",France,Montivilliers,CB,,-
+,Mehdi Bensafir,Right-Back,"Aug 9, 2000 ",23,"['France', 'Algeria']",France,Créteil,,"1,75",-
+2,Wassim Amadi,Right-Back,"Jan 17, 2000 ",24,"['France', 'Morocco']",France,,CB   DM,"1,80",-
+,Esteban Laugaa,Right-Back,"Feb 14, 2000 ",24,"['France', 'Argentina']",France,Parigi,,,-
+,Vincent Collet,Right-Back,"Mar 23, 2000 ",23,['France'],France,Metz,DM   LB,"1,70",-
+,Théo Salibur,Right-Back,"Apr 30, 2000 ",23,"['France', 'Guadeloupe']",France,,LM   RM,"1,81",-
+,Anseani Pohe Tokpa,Right-Back,"Mar 19, 2000 ",23,['France'],France,Pessac,RM   CM,"1,78",-
+,Aymeric Zouma,Right-Back,"Aug 4, 2000 ",23,"['France', 'Central African Republic']",France,Lyon,,,-
+77,Zacharie Iscaye,Right-Back,"Oct 2, 2000 ",23,['France'],France,,RW,"1,83",-
+20,Romain Bouvier,Right-Back,"Jan 16, 2000 ",24,['France'],France,Athis-Mons,RW,"1,73",-
+,Yannis Salmi,Right-Back,"Jul 15, 2000 ",23,"['France', 'Morocco']",France,,CB,"1,76",-
+,Can Kahyaoglu,Right-Back,"Feb 23, 2000 ",24,['Türkiye'],France,Sens,CB   DM,,-
+,Pierre Laborie,Right-Back,"Mar 8, 2000 ",23,['France'],France,Évry,CB,"1,87",-
+,Jean-Baptiste N'Guessan,Right-Back,"Oct 31, 2000 ",23,"['France', ""Cote d'Ivoire""]",France,Paris,RM   LB,"1,81",-
+,Theo Djibril Dieng,Right-Back,"Dec 1, 2000 ",23,['France'],France,Lille,LB,"1,80",-
+,Alexandre Troffa,Right-Back,"May 6, 2000 ",23,['France'],France,Ajaccio,,"1,78",-
+,Tom Flamant,Right-Back,"Oct 26, 2000 ",23,['France'],France,Paris,,"1,71",-
+18,Bafodé Diakité,Right-Back,"Jan 6, 2001 ",23,"['France', 'Guinea']",France,Toulouse,CB   LB,"1,85",€15.00m
+93,Mehdi Dorval,Right-Back,"Feb 9, 2001 ",23,"['Algeria', 'France']",France,Paris,LB   RM,"1,76",€1.60m
+39,Mathys Tourraine,Right-Back,"Jan 14, 2001 ",23,"['Morocco', 'France']",France,Lyon,LB,"1,72",€1.00m
+18,Yann Godart,Right-Back,"Sep 19, 2001 ",22,['France'],France,Bar-le-Duc,RM   LB,"1,73",€300k
+,Marius Ros,Right-Back,"Nov 15, 2001 ",22,['France'],France,Montpellier,RW   LW,"1,75",€100k
+22,Wilguens Paugain,Right-Back,"Aug 24, 2001 ",22,"['France', 'Haiti']",France,Yvoy-le-Marron,RM   RW,"1,80",€75k
+91,Sulayman Foufoué,Right-Back,"Oct 9, 2001 ",22,['France'],France,Orsay,LB,,€25k
+22,Alexis Robin,Right-Back,"May 15, 2001 ",22,['France'],France,Lyon,CB,"1,80",-
+,Victor Ngovinassack,Right-Back,"May 6, 2001 ",22,"['Laos', 'France']",France,,LB   RW,"1,73",-
+,Laïd Bokhari,Right-Back,"Oct 29, 2001 ",22,"['France', 'Algeria']",France,Limoges,LB   DM,"1,78",-
+,Jason Semedo da Veiga,Right-Back,"Mar 10, 2001 ",22,['France'],France,Nogent-sur-Marne,,,-
+2,Anas Namri,Right-Back,"Nov 12, 2001 ",22,"['Morocco', 'France']",France,Paris,CM,"1,68",-
+,Pascal Dufour,Right-Back,"Feb 8, 2001 ",23,['France'],France,Maubeuge,,,-
+22,Anthony Oyono,Right-Back,"Apr 12, 2001 ",22,"['Gabon', 'France']",France,Lille,CB   LB,"1,84",€2.50m
+28,Marvin Senaya,Right-Back,"Jan 28, 2001 ",23,"['France', 'Togo']",France,Saint-Maurice,RM   LB,"1,81",€1.00m
+14,Dylan Durivaux,Right-Back,"Jun 18, 2001 ",22,['France'],France,Cannes,RM,"1,75",€400k
+20,Yazid Aït Moujane,Right-Back,"Jan 19, 2001 ",23,"['France', 'Morocco']",France,Le Mans,RM,"1,74",€150k
+21,Yanis Hadjem,Right-Back,"May 17, 2001 ",22,"['Algeria', 'France']",France,Marseille,RM   RW,"1,75",€100k
+,Baptiste Dedola,Right-Back,"May 15, 2001 ",22,"['France', 'Italy']",France,Sainte-Foy-lès-Lyon,RW,"1,80",€50k
+,Badr El Moussaoui,Right-Back,"May 14, 2001 ",22,['France'],France,Strasbourg,,"1,80",-
+,Sorry Coulibaly,Right-Back,"Jul 12, 2001 ",22,"['France', 'Mali']",France,Cergy,,,-
+,Alexandre Goiame,Right-Back,"Aug 16, 2001 ",22,['France'],France,Saint-Denis,,,-
+,Evans-Bright Atayi,Right-Back,"Jan 5, 2001 ",23,['France'],France,Paris,,,-
+,Bilel Zerkane,Right-Back,"Sep 10, 2001 ",22,"['France', 'Algeria']",France,Montluçon,,"1,87",-
+,Bertrand Diard,Right-Back,"Apr 24, 2001 ",22,"['France', 'Benin']",France,Epinal,,"1,76",-
+6,Karim Mohamed,Right-Back,"Apr 2, 2001 ",22,"['Comoros', 'France']",France,Beaumont,DM,"1,78",-
+21,Jérémy Oyono,Right-Back,"Apr 12, 2001 ",22,"['Gabon', 'France']",France,Lille,,,-
+26,Thomas Nemouthe,Right-Back,"Jan 16, 2001 ",23,"['French Guiana', 'France']",France,Le Blanc-Mesnil,,"1,79",-
+2,Oscar Verneau,Right-Back,"Sep 12, 2001 ",22,"['France', 'Mauritius']",France,,RW   LB,"1,72",-
+,Mustafa Eger,Right-Back,"Feb 1, 2001 ",23,"['France', 'Türkiye']",France,Valence,RW,,-
+,Raphael Borrelli,Right-Back,"Mar 23, 2001 ",22,"['Saint-Martin', 'France']",France,Toulon,RM,"1,70",-
+2,Thomas Carbonero,Right-Back,"Sep 18, 2001 ",22,"['France', 'Spain']",France,Aix-en-Provence,LB,"1,75",-
+,Ismaël Petchy,Right-Back,"Apr 24, 2001 ",22,"['Saint-Martin', 'France']",France,Livry-Gargan,RM,"1,74",-
+,Hadj Djabiri,Right-Back,"Jan 26, 2001 ",23,"['France', 'Comoros']",France,Marseille,RM   RW,,-
+,Sacha Semaoun,Right-Back,"Feb 7, 2001 ",23,"['France', 'Algeria']",France,Agen,,"1,81",-
+24,Sadia Diakhabi,Right-Back,"Oct 23, 2001 ",22,"['France', 'Senegal']",France,Évreux,RM   CB,"1,80",-
+,Alexandre Jourda,Right-Back,"Jul 15, 2001 ",22,['France'],France,Bastia,DM,"1,80",-
+,Stevens Leleux,Right-Back,"Jan 30, 2001 ",23,"['France', 'Guadeloupe']",France,Gonesse,CB   LB,"1,85",-
+,Yanis Kunikowski,Right-Back,"Aug 24, 2001 ",22,"['France', 'Morocco']",France,Metz,,"1,75",-
+2,Darik Ghilas,Right-Back,"Dec 30, 2001 ",22,"['Algeria', 'France']",France,Marseille,,"1,74",-
+22,Hugo Morales,Right-Back,"Aug 28, 2001 ",22,"['France', 'Spain']",France,Montpellier,CB,"1,83",-
+,Cheickné Yaffa,Right-Back,"Apr 6, 2001 ",22,"['France', 'Mali']",France,Villepinte,DM,,-
+,Alexis Martial,Right-Back,"Jun 15, 2001 ",22,['France'],France,Paris,CB   DM,"1,81",-
+23,Ismaël Sow,Right-Back,"Feb 19, 2001 ",23,"['France', 'Senegal']",France,Tarbes,RM,"1,77",-
+25,Kiliann Sildillia,Right-Back,"May 16, 2002 ",21,"['France', 'Guadeloupe']",France,Metz,CB   RM,"1,86",€18.00m
+6,Timothée Pembélé,Right-Back,"Sep 9, 2002 ",21,"['France', 'DR Congo']",France,Beaumont-sur-Oise,CB   RM,"1,83",€4.00m
+29,Enzo Tchato,Right-Back,"Nov 23, 2002 ",21,"['Cameroon', 'France']",France,Montpellier,LB   CB,"1,82",€2.00m
+11,Dembo Sylla,Right-Back,"Nov 10, 2002 ",21,"['Guinea', 'France']",France,Laval,RM,"1,75",€600k
+2,Lamine Sy,Right-Back,"Aug 10, 2002 ",21,"['France', 'Senegal']",France,Les Mureaux,,"1,71",€400k
+26,Jonas Albenas,Right-Back,"Jul 7, 2002 ",21,"['Algeria', 'France']",France,Metz,CB,"1,84",€150k
+14,Sidy Diagne,Right-Back,"Jan 11, 2002 ",22,"['Switzerland', 'France']",France,Montbéliard,CB   LB,"1,82",€100k
+91,Abdülkadir Aydın,Right-Back,"May 24, 2002 ",21,"['Türkiye', 'France']",France,Quimper,RW   CM,"1,75",€10k
+,Aleksa Milosevic,Right-Back,"Jan 29, 2002 ",22,['Serbia'],France,Aubervilliers,,,-
+,Alexis Mendes,Right-Back,"Jun 17, 2002 ",21,"['Cape Verde', 'France']",France,Athis-Mons,LB   CB,"1,82",-
+,Brunel Lutundisa,Right-Back,"Jul 19, 2002 ",21,"['France', 'DR Congo']",France,Le Chesnay,LB   RM,"1,71",-
+,Enzo Véron,Right-Back,"Apr 23, 2002 ",21,['France'],France,L'Isle-Adam,,,-
+3,Raphaël Cilli,Right-Back,"Feb 18, 2002 ",22,"['Italy', 'France']",France,Tourcoing,CM   RM,"1,76",-
+21,Brandon Soppy,Right-Back,"Feb 21, 2002 ",22,"['France', 'Cameroon']",France,Aubervilliers,LB   RM,"1,80",€6.00m
+18,Thierno Baldé,Right-Back,"Jun 10, 2002 ",21,"['France', 'Guinea']",France,Villeneuve-Saint-Georges,RM,"1,82",€3.50m
+17,Guéla Doué,Right-Back,"Oct 17, 2002 ",21,"[""Cote d'Ivoire"", 'France']",France,Angers,CB,"1,87",€1.00m
+27,Amadou Salif Mbengue,Right-Back,"Jan 5, 2002 ",22,"['Senegal', 'France']",France,,LB   CB,"1,80",€500k
+71,Oliver Kamdem,Right-Back,"Oct 15, 2002 ",21,"['France', 'Cameroon']",France,Marseille,,,€200k
+,Jordan Boli,Right-Back,"Jun 6, 2002 ",21,"['France', ""Cote d'Ivoire""]",France,Stains,RM,,€100k
+,Léo Jousselin,Right-Back,"Jan 2, 2002 ",22,['France'],France,Nantes,RM,,€50k
+,Robin Humeau,Right-Back,"Apr 19, 2002 ",21,['France'],France,Château-Gontier,CB,,-
+,Alexis Pageaut,Right-Back,"Dec 6, 2002 ",21,['France'],France,Lyon,RM,"1,79",-
+24,Junior Savane,Right-Back,"Sep 3, 2002 ",21,"['France', 'England']",France,,CB,"1,82",-
+7,Isaac Kambuania,Right-Back,"May 20, 2002 ",21,['France'],France,Montereau-Fault-Yonne,RM,,-
+,Léon Gomis,Right-Back,"Aug 9, 2002 ",21,"['France', 'Senegal']",France,,CB,"1,80",-
+15,Nelson Damour,Right-Back,"Jun 15, 2002 ",21,"['Portugal', 'Canada']",France,Toulouse,CM,"1,82",-
+,Lorenzo Boucaux,Right-Back,"Jun 6, 2002 ",21,"['Croatia', 'France']",France,Rueil-Malmaison,,,-
+,Romane Hamdane,Right-Back,"Jun 20, 2002 ",21,['France'],France,Amiens,LB,,-
+,Sofyane Abdeldjelil,Right-Back,"Jul 12, 2002 ",21,"['France', 'Algeria']",France,Montpellier,DM   RM,"1,76",-
+,Djibril Togora,Right-Back,"Jan 20, 2002 ",22,"['France', 'Mali']",France,,RM,,-
+,Mohamed Aggoun,Right-Back,"Feb 21, 2002 ",22,"['France', 'Algeria']",France,Vaulx-en-Velin,,"1,82",-
+,Bryan Pellier,Right-Back,"Jul 22, 2002 ",21,['France'],France,Décines,RM,,-
+7,Kylian Le Her,Right-Back,"Apr 24, 2002 ",21,['France'],France,Brest,RW,"1,80",-
+,Sosthène Ouraga,Right-Back,"Feb 4, 2002 ",22,"['France', ""Cote d'Ivoire""]",France,Paris,LB   RM,,-
+45,Jonathan Mutombo,Right-Back,"Aug 27, 2002 ",21,"['France', 'DR Congo']",France,Paris,RM   LM,"1,90",-
+,Mathéo Crocq,Right-Back,"Jan 26, 2002 ",22,['France'],France,Rennes,RM,,-
+23,Steven Luyambula,Right-Back,"Oct 9, 2002 ",21,"['France', 'DR Congo']",France,Montfermeil,LB   RM,"1,72",-
+,César Kaziewicz,Right-Back,"Apr 8, 2002 ",21,"['France', 'Poland']",France,Aix-en-Provence,,"1,84",-
+,Jean Curtis Nkoy,Right-Back,"Jul 9, 2002 ",21,['France'],France,,LB   DM,"1,74",-
+,Enzo Kouadja,Right-Back,"Oct 19, 2002 ",21,"['France', ""Cote d'Ivoire""]",France,Béziers,LB,"1,78",-
+,Loïc Marin,Right-Back,"Sep 13, 2002 ",21,['France'],France,,RM,,-
+,Mattéo Couget,Right-Back,"Aug 19, 2002 ",21,['France'],France,Mont-de-Marsan,LB,"1,74",-
+,Joackim Betina,Right-Back,"Jul 1, 2002 ",21,"['France', 'Chad']",France,Péronne,CB,"1,74",-
+,Mody Boune,Right-Back,"Mar 8, 2002 ",21,['France'],France,Paris,,,-
+,Valentin Delabarre,Right-Back,"Mar 27, 2002 ",21,['France'],France,Lunéville,LB,,-
+,Enzo Nobili,Right-Back,"Mar 29, 2002 ",21,"['France', 'Italy']",France,Nantes,RM,"1,71",-
+,Jordan Konango Mbon,Right-Back,"May 3, 2002 ",21,"['France', 'Cameroon']",France,Paris,RM,"1,76",-
+,Marvin Sanz,Right-Back,"Aug 27, 2002 ",21,"['Haiti', 'France']",France,Paris,RM,"1,57",-
+2,Ismaïl Bouleghcha,Right-Back,"Dec 9, 2002 ",21,"['Morocco', 'France']",France,Le Blanc-Mesnil,LB,,-
+,Richecard Richard,Right-Back,"Mar 18, 2002 ",21,"['France', 'Haiti']",France,Clichy-la-Garenne,,"1,71",-
+12,Témitope Akinjogunla,Right-Back,"Nov 24, 2002 ",21,"['France', 'Nigeria']",France,Toulouse,CB   LB,"1,81",-
+27,Malo Gusto,Right-Back,"May 19, 2003 ",20,"['France', 'Martinique']",France,Décines-Charpieu,RM,"1,78",€25.00m
+2,Brayann Pereira,Right-Back,"May 21, 2003 ",20,"['France', 'Congo']",France,Saint-Quentin,CB   DM,"1,72",€600k
+28,Corentin Louakima,Right-Back,"Feb 28, 2003 ",21,"['France', 'Congo']",France,Carrières-sous-Poissy,RM,"1,83",€200k
+31,Irvyn Lomami,Right-Back,"Dec 30, 2003 ",20,"['France', 'DR Congo']",France,Lyon,LB   CB,"1,71",€150k
+,Simon Ramet,Right-Back,"Mar 13, 2003 ",20,['France'],France,Boulogne-sur-Mer,RM   RW,"1,70",€150k
+,Matéo Degrumelle,Right-Back,"Aug 22, 2003 ",20,"['Tahiti', 'France']",France,Rouen,RW,"1,76",€50k
+,Idris Assoumani,Right-Back,"Apr 24, 2003 ",20,"['Comoros', 'France']",France,Le Havre,LB   CB,"1,83",€10k
+,Dorian Fordos Harnish,Right-Back,"Aug 13, 2003 ",20,['France'],France,Versailles,RW,"1,72",-
+7,Brice Letan,Right-Back,"Mar 27, 2003 ",20,['France'],France,,RM,"1,76",-
+,Thomas Santucci,Right-Back,"Apr 20, 2003 ",20,['France'],France,Marseille,CB,,-
+,Cameron Zekou,Right-Back,"Feb 21, 2003 ",21,"['France', ""Cote d'Ivoire""]",France,Enghien-les-Bains,RW,"1,75",-
+,Hugo Mille,Right-Back,"Mar 19, 2003 ",20,['France'],France,Saint-Martin-Boulogne,,,-
+,Teo Maingonnat,Right-Back,"Jan 15, 2003 ",21,['France'],France,Bagnols-sur-Cèze,,,-
+26,Ibrahim Diakité,Right-Back,"Oct 31, 2003 ",20,"['Guinea', 'France']",France,Compiègne,CB,"1,80",€700k
+2,Nolan Galves,Right-Back,"Jul 23, 2003 ",20,['France'],France,Montbéliard,LB,"1,80",€250k
+24,Ange Loïc N’Gatta,Right-Back,"Dec 11, 2003 ",20,"['France', ""Cote d'Ivoire""]",France,Orléans,LB,,€150k
+,Nazim Babaï,Right-Back,"Jan 14, 2003 ",21,"['Algeria', 'France']",France,Périgueux,RW   RM,"1,71",€150k
+,Moutanabi Bodiang,Right-Back,"Mar 14, 2003 ",20,"['France', 'Senegal']",France,Paris,RM   LB,"1,72",€100k
+25,Alekseï Carnier,Right-Back,"Oct 30, 2003 ",20,['France'],France,Strasbourg,CB,"1,86",€50k
+,Thomas Roetynck,Right-Back,"Jun 26, 2003 ",20,['France'],France,Hazebrouck,,,€10k
+23,Esteban Mouton,Right-Back,"Sep 10, 2003 ",20,['France'],France,Sainte-Colombe,,,-
+,Noan Priour,Right-Back,"Aug 13, 2003 ",20,['France'],France,Quimper,,,-
+26,Emric Goumot,Right-Back,"Sep 14, 2003 ",20,['France'],France,Nice,,"1,69",-
+,Hilaire Ndeyenou,Right-Back,"Nov 28, 2003 ",20,"['France', 'Cameroon']",France,,,,-
+,Mamadou Touré,Right-Back,"Jun 12, 2003 ",20,"['France', 'Guinea']",France,Amilly,RM,"1,74",-
+,Sandro Lourenço,Right-Back,"Feb 25, 2003 ",21,"['France', 'Portugal']",France,Saint-Jean-de-Verges,RM,"1,81",-
+,Aurélien Platret,Right-Back,"Feb 20, 2003 ",21,['France'],France,Grasse,LW   RW,,-
+,Victor Soto Maior,Right-Back,"Jun 28, 2003 ",20,"['Portugal', 'France']",France,,,,-
+,Samir Galmami,Right-Back,"Jul 30, 2003 ",20,"['France', 'Tunisia']",France,Nice,RW,"1,64",-
+20,Hamza Abdallah,Right-Back,"Jun 13, 2003 ",20,"['France', 'Comoros']",France,Paris,LB,"1,77",-
+,Marcus Thaly,Right-Back,"Feb 3, 2003 ",21,"['France', 'Martinique']",France,Pontoise,CB,"1,82",-
+2,William Mikelbrencis,Right-Back,"Feb 25, 2004 ",20,['France'],France,Forbach,RM,"1,76",€1.00m
+45,Thérence Koudou,Right-Back,"Dec 13, 2004 ",19,['France'],France,Livry-Gargan,,"1,78",€600k
+2,Hugo Lamy,Right-Back,"Jan 16, 2004 ",20,"['France', 'Switzerland']",France,Lagny-sur-Marne,RM   CB,"1,76",€250k
+,Amay Caprice,Right-Back,"Aug 21, 2004 ",19,"['France', 'Spain']",France,Marseille,RM   DM,"1,78",€200k
+31,Tony Strata,Right-Back,"Sep 7, 2004 ",19,"['Romania', 'France']",France,Marseille,LB   DM,"1,77",€50k
+23,Mike Bettinger,Right-Back,"Jan 28, 2004 ",20,"['Central African Republic', 'France']",France,Bourg-la-Reine,RW   LB,"1,82",€25k
+27,Nail Çalışkan,Right-Back,"Feb 18, 2004 ",20,"['Türkiye', 'France']",France,Briançon,DM   CM,"1,73",-
+,Matthéo Haon,Right-Back,"Dec 14, 2004 ",19,['France'],France,Saint-Étienne,,,-
+,Ilyes Panchout,Right-Back,"Sep 19, 2004 ",19,"['France', 'Algeria']",France,Le Havre,,,-
+,Alix Briastre,Right-Back,"Mar 26, 2004 ",19,['France'],France,Bordeaux,,"1,67",-
+,Noa Fiette,Right-Back,"Apr 23, 2004 ",19,['France'],France,Bourges,CB,"1,77",-
+,Mattéo Mauco,Right-Back,"Jan 17, 2004 ",20,['France'],France,Toulouse,RM,"1,70",-
+,Brunnel Tutuana,Right-Back,"Aug 24, 2004 ",19,"['France', 'DR Congo']",France,,CB,"1,85",-
+33,Antoine Mendy,Right-Back,"May 27, 2004 ",19,"['France', 'Senegal']",France,Marseille,CB,"1,87",€800k
+12,Johaneko Louis-Jean,Right-Back,"Jun 28, 2004 ",19,['France'],France,Bayonne,LB,"1,75",€400k
+,Salomon Abergel,Right-Back,"Jul 4, 2004 ",19,['France'],France,Marseille,,"1,70",€200k
+,Ryan Tchato,Right-Back,"Sep 13, 2004 ",19,"['Cameroon', 'France']",France,Paris,LB   RM,"1,83",€150k
+,Gabriel Tutu,Right-Back,"Jan 29, 2004 ",20,"['France', 'Congo']",France,Clichy,RM,,€50k
+14,Tidiane Touré,Right-Back,"Nov 5, 2004 ",19,"['France', 'Germany']",France,Tours,RM   RW,,€10k
+,Ilyas Tandjigora,Right-Back,"Aug 24, 2004 ",19,"['France', 'Senegal']",France,Pontoise,CB,"1,82",-
+,Théo Amorim,Right-Back,"Jun 21, 2004 ",19,"['France', 'Portugal']",France,Versailles,,,-
+,Yanis Mouatazil,Right-Back,"Jun 21, 2004 ",19,"['France', 'Morocco']",France,,LB,"1,80",-
+,Glenn Younousse,Right-Back,"Jul 17, 2004 ",19,"['Comoros', 'France']",France,Bordeaux,LB   CB,"1,82",-
+3,Noa Courtin,Right-Back,"Jul 20, 2004 ",19,['France'],France,Champcol,RM   CB,,-
+,Tom Shepherd,Right-Back,"Apr 19, 2004 ",19,"['France', 'England']",France,Écully,LB,"1,73",-
+,Héliohdino Tavares,Right-Back,"Oct 14, 2004 ",19,"['France', 'Cape Verde']",France,,RM   LM,"1,85",-
+,Téo Barisic,Right-Back,"Sep 30, 2004 ",19,"['Croatia', 'France']",France,Viriat Bourg en Bresse,CB   DM,"1,85",-
+,Israel Malundu,Right-Back,"Feb 8, 2004 ",20,['France'],France,Paris,,"1,81",-
+,Steven Cave,Right-Back,"Apr 2, 2004 ",19,"['France', 'DR Congo']",France,Paris,LB,"1,77",-
+21,Sandro Tabarracci,Right-Back,"Jan 21, 2004 ",20,"['France', 'Italy']",France,Marseille,,,-
+,Rayan Bamba,Right-Back,"May 14, 2004 ",19,"['France', ""Cote d'Ivoire""]",France,,CB,"1,85",-
+13,Nathan Mouly,Right-Back,"Mar 19, 2004 ",19,['France'],France,Mulhouse,CB   DM,"1,76",-
+20,Saël Kumbedi,Right-Back,"Mar 26, 2005 ",18,"['France', 'DR Congo']",France,Stains,RM   LB,"1,75",€10.00m
+33,Enzo Kalombola,Right-Back,"Jul 15, 2005 ",18,"['France', 'DR Congo']",France,Montfermeil,RM,"1,85",€50k
+,Mathis Lefolle,Right-Back,"Sep 16, 2005 ",18,"['France', 'Portugal']",France,,LB,"1,82",-
+,Bilal Faye,Right-Back,"Apr 7, 2005 ",18,"['Senegal', 'France']",France,Lens,CB,,-
+,Anas Oulahcene,Right-Back,"May 13, 2005 ",18,"['France', 'Morocco']",France,Antony,LB,,-
+,Kaïs Chiguer,Right-Back,"Mar 4, 2005 ",19,"['France', 'Morocco']",France,Troyes,,,-
+,Morgan Costarelli,Right-Back,"Apr 28, 2005 ",18,['France'],France,Tourcoing,CB,"1,70",-
+,Adam Marsli,Right-Back,"Jan 1, 2005 ",19,"['Morocco', 'France']",France,Stains,,,-
+,Ibrahim Coulibaly,Right-Back,"Dec 7, 2005 ",18,['France'],France,Argenteuil,,,-
+2,Côme Bianay Balcot,Right-Back,"May 13, 2005 ",18,['France'],France,Saint-Mandé,CB   RM,"1,88",-
+,Whammal Wakidou,Right-Back,"Aug 21, 2005 ",18,"['France', 'Comoros']",France,Vierzon,RM,,-
+,Farès Benarbia,Right-Back,"Jan 1, 2005 ",19,"['Algeria', 'France']",France,Lyon,,,-
+,Ilan Sebbag,Right-Back,"Dec 3, 2005 ",18,"['France', 'Algeria']",France,Marseille,RW   LW,,-
+75,Khaled Al-Rammah,Right-Back,"Apr 30, 2005 ",18,"['Saudi Arabia', 'France']",France,Paris,,,€50k
+29,Ylan Bekale,Right-Back,"Mar 18, 2005 ",18,['France'],France,Saint-Aubin  Les-Elbeuf,,"1,77",€10k
+,Deen Adehoumi,Right-Back,"Mar 15, 2005 ",18,"['France', 'Benin']",France,Sèvres,LB,,-
+,Enzo Cadiou,Right-Back,"Apr 1, 2005 ",18,['France'],France,Laval,,"1,60",-
+,Gianni D'Angelo,Right-Back,"Sep 2, 2005 ",18,"['Tunisia', 'France']",France,Mulhouse,,,-
+,Zié Traoré,Right-Back,"Feb 19, 2005 ",19,['France'],France,Bondy,RM,,-
+,Mathis Cohade,Right-Back,"May 14, 2005 ",18,['France'],France,Moulins,RM,,-
+,Max-Henry Nicolas,Right-Back,"Apr 27, 2005 ",18,"['France', 'Guadeloupe']",France,Paris,,"1,83",-
+,Kemryk Nagera,Right-Back,"May 31, 2005 ",18,"['France', 'Guadeloupe']",France,Stains,,,-
+,Tanguy Lienard,Right-Back,"Apr 4, 2005 ",18,['France'],France,Valenciennes,,"1,66",-
+,Emmanuel Bably,Right-Back,"Dec 18, 2005 ",18,"['France', ""Cote d'Ivoire""]",France,Créteil,,,-
+,Ilias Bounassir-Roida,Right-Back,"Feb 1, 2005 ",19,"['France', 'Algeria']",France,Oyonnax,LB,"1,81",-
+,Lee Elhadj,Right-Back,"Mar 19, 2005 ",18,"['Switzerland', 'France']",France,Altkirch,RM   LB,"1,75",-
