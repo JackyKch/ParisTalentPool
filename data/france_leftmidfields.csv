@@ -1,0 +1,130 @@
+Number,Name,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+,Benjamin Touraine,Left Midfield,"Jan 3, 1985 ",39,['France'],France,Bruges,,"1,78",-
+,Damien Tibéri,Left Midfield,"Aug 23, 1985 ",38,['France'],France,Fréjus,DM   LB,"1,81",-
+,Kévin Lejeune,Left Midfield,"Jan 22, 1985 ",39,['France'],France,Cambrai,LB   LW,"1,81",-
+,Nicolas Maurice-Belay,Left Midfield,"Apr 19, 1985 ",38,"['France', 'Martinique']",France,Sucy-en-Brie,LW   CF,"1,82",-
+,Yedi Zahiri,Left Midfield,"Sep 2, 1985 ",38,"['France', ""Cote d'Ivoire""]",France,Paris,AM,"1,73",-
+,Ronan Biger,Left Midfield,"Oct 8, 1985 ",38,['France'],France,Paris,LW   LB,"1,70",-
+,Mathieu Robail,Left Midfield,"Jun 2, 1985 ",38,['France'],France,Cambrai,DM   LB,"1,73",-
+10,Alexandre Bonnet,Left Midfield,"Oct 17, 1986 ",37,['France'],France,La Roche-sur-Yon,LW   AM,"1,73",€150k
+,Grégory Covin,Left Midfield,"Sep 3, 1986 ",37,['France'],France,Lille,,"1,76",-
+,Charly Vuillemot,Left Midfield,"Jan 11, 1986 ",38,['France'],France,Lons-le-Saulnier,LB,"1,77",-
+10,Farid Beziouen,Left Midfield,"Oct 17, 1986 ",37,"['France', 'Algeria']",France,Saint-Denis,AM   RM,"1,68",-
+,Abdelhak Boutasgount,Left Midfield,"Feb 11, 1986 ",38,['France'],France,Romilly-sur-Seine,,"1,82",-
+,Stéphen Vincent,Left Midfield,"Sep 2, 1986 ",37,"['France', 'Martinique']",France,Neuilly-sur-Marne,LB   LW,"1,74",-
+,Ludovic Gamboa,Left Midfield,"Jan 14, 1986 ",38,"['France', 'Portugal']",France,Fontainebleau,AM   LW,"1,77",-
+,Alexandre Marginet,Left Midfield,"Sep 21, 1986 ",37,['France'],France,Perpignan,,"1,80",-
+,David Dargelosse,Left Midfield,"Apr 20, 1986 ",37,['France'],France,Pau,CM,"1,75",-
+,Hachem Mihoubi,Left Midfield,"Aug 30, 1986 ",37,['Algeria'],France,,LW,"1,84",-
+,Yassine El Aazaoui,Left Midfield,"Mar 18, 1986 ",37,"['France', 'Tunisia']",France,Saint-Claude,LW   RM,,-
+,Alexandre Cuvillier,Left Midfield,"Jun 17, 1986 ",37,['France'],France,Cucq,AM   LW,"1,82",-
+,Guillaume Quellier,Left Midfield,"Jun 25, 1986 ",37,['France'],France,Caen,LW,"1,77",-
+,Lahoucine Kharbouch,Left Midfield,"Jan 14, 1986 ",38,"['Morocco', 'France']",France,La Garenne-Colombes,CM,"1,83",-
+,Béni Babinga,Left Midfield,"Nov 1, 1987 ",36,['France'],France,,CM,"1,83",-
+,Anthony Sanchez,Left Midfield,"Oct 12, 1987 ",36,['France'],France,Toulouse,,"1,77",-
+,Rayan Zaien,Left Midfield,"Apr 19, 1987 ",36,"['France', 'Tunisia']",France,Mulhouse,,"1,81",-
+,Sofian Allali,Left Midfield,"Apr 25, 1987 ",36,"['France', 'Algeria']",France,Dreux,LB,"1,87",-
+,Guillaume Galateau,Left Midfield,"Jan 22, 1987 ",37,['France'],France,Guéret,LW,"1,77",-
+,Miloud Belgacem,Left Midfield,"Sep 25, 1987 ",36,"['France', 'Mali']",France,Béziers,AM   CM,,-
+,Salim Kerkar,Left Midfield,"Aug 4, 1987 ",36,"['France', 'Algeria']",France,Givors,LW   AM,"1,80",-
+,Sevag Odemis,Left Midfield,"Jun 8, 1987 ",36,"['France', 'Armenia']",France,Marseille,,"1,76",-
+21,Dimitri Liénard,Left Midfield,"Feb 13, 1988 ",36,['France'],France,Belfort,LB   CM,"1,81",€400k
+,Gaëtan Théréau,Left Midfield,"Oct 11, 1988 ",35,['France'],France,Privas,,"1,76",-
+28,Maxime Barthelmé,Left Midfield,"Sep 8, 1988 ",35,['France'],France,Sartrouville,AM   RM,"1,72",€250k
+29,Geoffrey Adjet,Left Midfield,"Apr 15, 1988 ",35,"['France', ""Cote d'Ivoire""]",France,Toulouse,CM   LB,"1,82",-
+,Christophe Lavir,Left Midfield,"Mar 1, 1989 ",35,['France'],France,Creil,LW   CM,"1,86",-
+,Marvyn Matip,Left Midfield,"Apr 21, 1989 ",34,['France'],France,Saint-Rémy,,"1,75",-
+,Jordan Galtier,Left Midfield,"Mar 22, 1989 ",34,['France'],France,Villeneuve-d'Ascq,LW   LB,"1,63",-
+,Abdourahmane Dia,Left Midfield,"Jul 11, 1989 ",34,['France'],France,Saint-Aubin-lès-Elbeuf,AM,,-
+,Mohammed Gulraiz,Left Midfield,"Dec 12, 1989 ",34,"['France', 'Algeria']",France,Viry-Châtillon,LB   DM,"1,74",-
+,Fabien Robert,Left Midfield,"Jan 6, 1989 ",35,"['France', 'Réunion']",France,Hennebont,AM   RM,"1,74",-
+,Florian Martin,Left Midfield,"Mar 19, 1990 ",33,['France'],France,Lorient,AM   LW,"1,79",€250k
+,Etienne Thomas,Left Midfield,"Feb 16, 1990 ",34,['France'],France,Lille,LB,"1,79",-
+,Bruno Gomis,Left Midfield,"Aug 20, 1990 ",33,"['Guinea-Bissau', 'France']",France,,LW   RW,N/A,-
+,Kevin Sablé,Left Midfield,"Apr 21, 1990 ",33,['France'],France,Laval,,"1,74",-
+,Julian Rullier,Left Midfield,"Apr 4, 1990 ",33,['France'],France,Nice,LB   CM,"1,76",-
+7,Julien Fostier,Left Midfield,"Aug 27, 1990 ",33,['France'],France,,CM,"1,76",€75k
+,Jérémy Decool,Left Midfield,"Nov 27, 1990 ",33,['France'],France,Lomme,LW,,-
+,Maxime Baty,Left Midfield,"Mar 27, 1990 ",33,['France'],France,Cholet,CM,"1,79",-
+,Romain Tharradin,Left Midfield,"Jan 20, 1990 ",34,['France'],France,Troyes,AM,"1,74",-
+,Théo Flahaut,Left Midfield,"Jun 30, 1990 ",33,['France'],France,Boulogne sur Mer,,"1,80",-
+,Geraud N'Selé,Left Midfield,"Jul 26, 1991 ",32,"['France', 'DR Congo']",France,Asnières-sur-Seine,RM   CM,,-
+,Youness El Baillal,Left Midfield,"Apr 30, 1991 ",32,"['Morocco', 'France']",France,Mantes-la-Jolie,LW   RW,"1,72",-
+,Sofiane Tergou,Left Midfield,"Sep 3, 1991 ",32,"['France', 'Algeria']",France,Strasbourg,LW,"1,84",-
+25,Bryan Pelé,Left Midfield,"Mar 25, 1992 ",31,['France'],France,Malestroit,LW   RM,"1,69",€200k
+,Mathieu Guerbert,Left Midfield,"Mar 20, 1992 ",31,['France'],France,Meaux,AM,"1,77",-
+,Ileyes Meslem,Left Midfield,"Mar 9, 1992 ",31,"['France', 'Algeria']",France,Troyes,LW,"1,69",-
+,Jordan Lebacle,Left Midfield,"Aug 17, 1992 ",31,['France'],France,Vitré,RW   LW,"1,68",-
+,Florian Moulet,Left Midfield,"Jul 3, 1992 ",31,['France'],France,Marseille,,"1,75",-
+,Achille Degan,Left Midfield,"Sep 21, 1992 ",31,"['France', 'Benin']",France,Paris,RM,"1,76",-
+10,Kévin Colin,Left Midfield,"Nov 15, 1992 ",31,['France'],France,Lagny-sur-Marne,CM   RM,"1,70",-
+,Lari Yao,Left Midfield,"Dec 14, 1992 ",31,"['France', ""Cote d'Ivoire""]",France,Paris,RM   LW,,-
+,Allan Kimbaloula,Left Midfield,"Jan 1, 1992 ",32,"['Congo', 'France']",France,Tourcoing,RM   SS,"1,82",-
+,Jérémy Hélan,Left Midfield,"May 9, 1992 ",31,['France'],France,Clichy-la-Garenne,LB,"1,81",-
+,Mathias Dunter,Left Midfield,"Feb 24, 1993 ",31,['France'],France,Noisy-le-Grand,,"1,70",-
+,Alikhan Dadier,Left Midfield,"Mar 26, 1993 ",30,"['Russia', 'France']",France,,DM   RM,N/A,-
+,Nicolas Jeausseran,Left Midfield,"Aug 26, 1993 ",30,['France'],France,Villeneuve Loubet,LW   AM,"1,72",-
+,Thibaut Métayer,Left Midfield,"Jan 17, 1994 ",30,['France'],France,L'Isle-d'Espagnac,DM   CM,"1,80",-
+10,Soufiane Bahassa,Left Midfield,"Jul 8, 1994 ",29,"['France', 'Morocco']",France,Bordeaux,DM,"1,77",-
+,Kévin Lauzier,Left Midfield,"Nov 14, 1994 ",29,['France'],France,Brou-sur-Chantereine,LB   LW,"1,73",-
+,Aymerick Mvulubundu,Left Midfield,"Jan 11, 1994 ",30,['France'],France,Cergy-Pontoise,LW,,-
+,Andi Iseni,Left Midfield,"Aug 6, 1994 ",29,['Albania'],France,Sochaux,DM   LB,,-
+,Jordan Henry,Left Midfield,"Jan 27, 1994 ",30,['France'],France,Troyes,RW   LW,"1,77",-
+,Abdramane Sanogo,Left Midfield,"Jan 14, 1994 ",30,['France'],France,Saint-Denis,,"1,70",-
+,Raphaël Mathias,Left Midfield,"May 21, 1994 ",29,['Switzerland'],France,Saint-Louis (Haut-Rhin),LB,,-
+10,Sami Herouat,Left Midfield,"May 24, 1994 ",29,"['Algeria', 'France']",France,Rosny-sous-Bois,CM,"1,68",-
+,Florian Da Silva,Left Midfield,"Jul 2, 1995 ",28,"['France', 'Portugal']",France,Thiers,RM   AM,"1,65",-
+19,Calvin Soga,Left Midfield,"Jan 18, 1995 ",29,"['French Guiana', 'France']",France,Paris,,,-
+,Bruno Zebie,Left Midfield,"Aug 14, 1995 ",28,"['Canada', 'France']",France,Paris,LB   CM,"1,68",-
+,Yannis Tairi,Left Midfield,"Jun 19, 1995 ",28,"['France', 'Tunisia']",France,Toulouse,RM,,-
+,Nicolas Husson,Left Midfield,"Jan 27, 1995 ",29,['France'],France,Nancy,,"1,75",-
+10,Loïc Lapoussin,Left Midfield,"Mar 27, 1996 ",27,"['Madagascar', 'France']",France,Rosny-sous-Bois,LB   LW,"1,81",€4.00m
+25,Julien Benhaim,Left Midfield,"Oct 25, 1996 ",27,['France'],France,Bastia,LB   CM,"1,75",€300k
+,Cédric Nanitelamio,Left Midfield,"Feb 15, 1996 ",28,"['France', 'Congo']",France,Montmorency,LW   SS,"1,80",-
+10,Zakaria Grich,Left Midfield,"Jun 9, 1996 ",27,"['France', 'Morocco']",France,Grasse,RM   LW,"1,75",-
+26,Mathias Pereira Lage,Left Midfield,"Nov 30, 1996 ",27,"['France', 'Portugal']",France,Clermont-Ferrand,RM   AM,"1,80",€1.80m
+,Marwan Bouhdadi,Left Midfield,"Nov 8, 1996 ",27,"['France', 'Morocco']",France,Angers,AM   RM,"1,78",-
+,Alan Richard,Left Midfield,"Jan 20, 1996 ",28,['France'],France,Lille,,,-
+,Clément Bogdanski,Left Midfield,"May 25, 1997 ",26,['France'],France,Dunkerque,,,-
+31,Rémy Gauthier,Left Midfield,"Feb 7, 1997 ",27,['France'],France,L'Isle-d'Espagnac,RM,,-
+,Sofiane Rouane,Left Midfield,"Feb 14, 1997 ",27,"['France', 'Algeria']",France,Revin,LB   LW,,-
+15,Ibrahim Diarra,Left Midfield,"May 19, 1998 ",25,"['France', 'Mali']",France,Aubervilliers,LB   LW,"1,75",-
+,Memet Arslan,Left Midfield,"Jan 27, 1998 ",26,"['France', 'Türkiye']",France,Marseille,RM   SS,"1,77",-
+,Makan Sidibé,Left Midfield,"Jul 19, 1999 ",24,"['France', 'Mali']",France,Saint-Denis,LW,"1,72",€200k
+,Mehdi Elanbri,Left Midfield,"Jan 3, 1999 ",25,['France'],France,Limoges,LB   RM,,-
+,Célian Besson,Left Midfield,"Dec 18, 1999 ",24,['France'],France,Oyonnax,LB,"1,83",-
+10,Florian Gonzales,Left Midfield,"May 12, 1999 ",24,"['France', 'Tunisia']",France,Marseille,,"1,82",-
+,Valentin Valero,Left Midfield,"Mar 25, 1999 ",24,"['France', 'Spain']",France,Sélestat,AM   RM,"1,70",-
+,Dylan Brevot-Choplin,Left Midfield,"Oct 26, 1999 ",24,['France'],France,Dole,AM   RM,"1,76",-
+,Billal Mehadji,Left Midfield,"Apr 15, 1999 ",24,"['France', 'Algeria']",France,Montfermeil,RM,"1,71",-
+7,Karim Zedadka,Left Midfield,"Jun 9, 2000 ",23,"['Algeria', 'France']",France,Pertuis,RM,"1,84",€150k
+,Gabriel Dézothez,Left Midfield,"Mar 10, 2000 ",23,['France'],France,Reims,AM   RW,"1,79",-
+,Enzo Ingallinera,Left Midfield,"May 31, 2000 ",23,"['France', 'Italy']",France,Cannes,LB   LW,,-
+38,Darren Pompé,Left Midfield,"Jan 23, 2000 ",24,"['Saint-Martin', 'France']",France,Gonesse,LB,"1,69",-
+,Nidhal Ahamady,Left Midfield,"May 17, 2000 ",23,"['France', 'Comoros']",France,Le Havre,,,-
+7,Babelessa Backa,Left Midfield,"Sep 25, 2000 ",23,"['France', 'Germany']",France,Clichy-la-Garenne,RM,,-
+,Anthony Wensierski,Left Midfield,"Sep 23, 2001 ",22,"['France', 'Cape Verde']",France,Metz,CM   LB,"1,76",-
+,Raphael Boulat,Left Midfield,"Feb 3, 2001 ",23,['France'],France,Paris,LB,,-
+,Wissem Bouhadiche,Left Midfield,"Mar 5, 2001 ",23,['France'],France,Rouen,LW   RW,"1,77",-
+37,Théo Le Bris,Left Midfield,"Oct 1, 2002 ",21,['France'],France,Rennes,RB   CM,"1,70",€2.50m
+,Liam Grandhomme,Left Midfield,"Dec 11, 2002 ",21,['France'],France,,LB,,-
+18,Sercan Tohum,Left Midfield,N/A ,21,['Türkiye'],France,,RM,"1,82",-
+19,Semih Altikulac,Left Midfield,"Feb 8, 2002 ",22,"['Türkiye', 'France']",France,Straßbourg,LB   CM,"1,70",-
+21,Yanis Cimignani,Left Midfield,"Jan 22, 2002 ",22,"['France', 'Burkina Faso']",France,Lyon,RM   AM,"1,76",€2.30m
+14,Adrien Gameiro,Left Midfield,"Dec 6, 2002 ",21,['France'],France,Cervioni,LW,"1,67",-
+,Ilyes Addiche,Left Midfield,"Jan 3, 2002 ",22,"['Morocco', 'France']",France,Mulhouse,AM,"1,80",-
+20,Hugo Picard,Left Midfield,"May 9, 2003 ",20,['France'],France,Torfou,,"1,68",€1.00m
+11,Redwan Bourlès,Left Midfield,"Jan 2, 2003 ",21,"['France', 'Morocco']",France,Lorient,AM   LW,"1,86",€100k
+,Noah Kevin Ato-Zandanga,Left Midfield,"Jul 5, 2003 ",20,"['Central African Republic', 'France']",France,Quincy-sous-Sénart,LB,"1,81",-
+,Léandre Boulenger,Left Midfield,"Aug 9, 2003 ",20,['France'],France,Rang-du-Fliers,,"1,69",-
+,Thibaud Calavia,Left Midfield,"Apr 3, 2003 ",20,['France'],France,Blaye,LW   LB,"1,74",-
+11,Axel Camblan,Left Midfield,"Aug 30, 2003 ",20,['France'],France,Brest,RM   AM,"1,69",€400k
+,Noah Ndeke,Left Midfield,"May 23, 2003 ",20,"['DR Congo', 'France']",France,Livry-Gargan,RM,"1,69",€50k
+,Lenny Moncheaux,Left Midfield,"Feb 27, 2003 ",21,['France'],France,Lille,LB   RB,"1,78",-
+,Lucas Pichard,Left Midfield,"Jan 6, 2003 ",21,['France'],France,Cannes,,"1,80",-
+,Clément Raffoul,Left Midfield,"Jan 8, 2003 ",21,['France'],France,Besançon,,,-
+37,Emran Soglo,Left Midfield,"Jul 11, 2005 ",18,"['England', 'France']",France,Créteil,CM   LB,"1,78",€1.00m
+,Kylianne Félix-Verger,Left Midfield,"Oct 14, 2005 ",18,['France'],France,Stains,,,-
+,Léandre Lepage,Left Midfield,"Mar 10, 2005 ",18,['France'],France,Laval,RM   AM,,-
+13,Axel Lucas,Left Midfield,"Feb 24, 2005 ",19,['France'],France,,CM   RM,"1,76",€25k
+,Jérémie Joao,Left Midfield,"Mar 16, 2005 ",18,['France'],France,Dourdan,,,-
