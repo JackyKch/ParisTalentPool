@@ -1,0 +1,437 @@
+Number,Name,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+,Tony Joly,Left Winger,"Sep 26, 1985 ",38,['France'],France,Lens,,"1,75",-
+,Habip Tok,Left Winger,"Jul 28, 1985 ",38,"['Türkiye', 'France']",France,Ales,LM   CM,"1,71",-
+,Fabien Lamatina,Left Winger,"Jul 3, 1985 ",38,['France'],France,La Seyne-sur-Mer,RW,"1,78",-
+,Tony Ribeiro,Left Winger,"Oct 5, 1985 ",38,"['France', 'Portugal']",France,Tours,RW   CF,"1,80",-
+,Martin Douillard,Left Winger,"Mar 20, 1985 ",38,['France'],France,Les Sables-d'Olonne,LM,"1,73",-
+7,Clément Tainmont,Left Winger,"Feb 12, 1986 ",38,['France'],France,Valenciennes,LM   RW,"1,85",€100k
+,Rémy Dugimont,Left Winger,"Jul 1, 1986 ",37,['France'],France,Saint-Cloud,SS   CF,"1,82",-
+,Kévin Gohiri,Left Winger,"Dec 4, 1986 ",37,"['France', ""Cote d'Ivoire""]",France,Paris,,"1,80",-
+,Julien Hornuss,Left Winger,"Jun 12, 1986 ",37,['France'],France,Meudon,SS   AM,"1,81",-
+,Alharbi El Jadeyaoui,Left Winger,"Aug 8, 1986 ",37,"['Morocco', 'France']",France,Straßburg,RW,N/A,-
+,Yoan Gouffran,Left Winger,"May 25, 1986 ",37,"['France', 'Guadeloupe']",France,Villeneuve-Saint-Georges,CF   RW,"1,75",-
+,Mourad Nasrallah,Left Winger,"Nov 9, 1986 ",37,"['France', 'Algeria']",France,Chambery,CF,"1,73",-
+,Carlos Ferreira,Left Winger,"Jun 20, 1986 ",37,"['France', 'Portugal']",France,Reims,AM   RW,"1,75",-
+,Alexis Lafon,Left Winger,"Jan 26, 1986 ",38,"['France', 'England']",France,Versailles,RW   AM,"1,83",-
+,Chahir Belghazouani,Left Winger,"Oct 6, 1986 ",37,"['Morocco', 'France']",France,Porto-Vecchio,RW   CF,"1,80",-
+,Romain Chouleur,Left Winger,"Jan 10, 1986 ",38,['France'],France,Nancy,AM   RW,"1,79",-
+,Anthony Mounier,Left Winger,"Sep 27, 1987 ",36,['France'],France,Aubenas,RW   SS,"1,74",€50k
+,Sébastien Bernard,Left Winger,"Sep 9, 1987 ",36,['France'],France,Lens,,,-
+19,Johnny Pintar,Left Winger,"May 22, 1987 ",36,['France'],France,Thionville,RW   CF,,-
+,Julien Araújo,Left Winger,"Mar 9, 1987 ",36,"['Portugal', 'France']",France,Tourcoing,RW,"1,69",-
+7,Chris Malonga,Left Winger,"Jul 11, 1987 ",36,"['Congo', 'France']",France,Sens,RW   AM,"1,83",-
+,Alexandre Valente,Left Winger,"May 7, 1987 ",36,"['France', 'Portugal']",France,Saint-Julien-en-Genevois,RW   CF,"1,77",-
+,Emmanuel Françoise,Left Winger,"Jun 8, 1987 ",36,['France'],France,Metz,AM   CF,"1,76",€25k
+,Sebastien,Left Winger,"Nov 24, 1987 ",36,"['Portugal', 'France']",France,Paris,RW   CF,"1,82",-
+,Jérémy Lempereur,Left Winger,"Nov 29, 1987 ",36,['France'],France,Saint Nazaire,AM,"1,75",-
+,Pierre Jamin,Left Winger,"Mar 13, 1987 ",36,['France'],France,Cholet,RW   AM,"1,80",-
+,Mickaël Buscher,Left Winger,"Jan 11, 1987 ",37,"['France', 'Algeria']",France,Laderneau,RW,"1,85",-
+,Floyd Ayité,Left Winger,"Dec 15, 1988 ",35,"['Togo', 'France']",France,Bordeaux,RW   CF,"1,75",€250k
+,Bakary Sako,Left Winger,"Apr 26, 1988 ",35,"['Mali', 'France']",France,Ivry-sur-Seine,RW   CF,"1,83",€75k
+,Albin Hodza,Left Winger,"Feb 7, 1988 ",36,"['Albania', 'France']",France,Choisy-le-Roi,RW   AM,"1,87",-
+,Allan Silva,Left Winger,"May 17, 1988 ",35,"['Portugal', 'France']",France,Paris,,,-
+,Charles Thomas Mendy,Left Winger,"Nov 18, 1988 ",35,"['France', ""Cote d'Ivoire""]",France,Paris,,"1,90",-
+,Morgan Betorangal,Left Winger,"Aug 25, 1988 ",35,"['Chad', 'France']",France,Nanterre,SS   RW,"1,77",-
+,Idir Ouali,Left Winger,"May 21, 1988 ",35,"['Algeria', 'France']",France,Roubaix,RW   RB,"1,76",-
+,Kévin Monnet-Paquet,Left Winger,"Aug 19, 1988 ",35,"['France', 'Rwanda']",France,Bourgoin-Jallieu,RW   SS,"1,84",€200k
+,Kamel Bouskine,Left Winger,"Mar 23, 1988 ",35,['France'],France,Lyon,LM,,-
+,Kim Brandtzaeg,Left Winger,"Jun 13, 1988 ",35,['Norway'],France,Angoulême,LM,"1,80",-
+,Ousmane Sy,Left Winger,"Feb 18, 1988 ",36,"['Senegal', 'France']",France,Montbéliard,RW   SS,"1,85",-
+,Maher Haddad,Left Winger,"Oct 15, 1988 ",35,"['Tunisia', 'France']",France,Paris,AM   RW,"1,76",-
+7,Wilfried Domoraud,Left Winger,"Aug 18, 1988 ",35,"['France', ""Cote d'Ivoire""]",France,Maisons-Alfort,AM   CF,"1,83",-
+28,André Ayew,Left Winger,"Dec 17, 1989 ",34,"['Ghana', 'France']",France,Seclin,RW   CF,"1,75",€1.20m
+,Aloïs Chabassut,Left Winger,"Apr 20, 1989 ",34,['France'],France,Alès,RB,"1,75",-
+,Florian Jégu,Left Winger,"May 12, 1989 ",34,['France'],France,Laval,CF   RW,"1,76",-
+,Ebenezer Briand,Left Winger,"Nov 11, 1989 ",34,['France'],France,Arras,CF,,-
+,Hamady Tamboura,Left Winger,"Jun 23, 1989 ",34,"['France', 'Mali']",France,Mantes-la-Jolie,AM   SS,"1,73",-
+,Dylan Duventru,Left Winger,"Jan 3, 1989 ",35,"['Martinique', 'France']",France,Troyes,AM   RW,"1,85",-
+,Jonathan Mendes,Left Winger,"Jul 18, 1989 ",34,"['France', 'Portugal']",France,Décines-Charpieu,AM,"1,76",-
+10,Jean-Jacques Rocchi,Left Winger,"Jun 1, 1989 ",34,['France'],France,Bastia,LM   AM,"1,65",-
+,David Manga,Left Winger,"Feb 3, 1989 ",35,"['Central African Republic', 'Cameroon']",France,Paris,AM   LM,"1,78",-
+,Yannick Bolasie,Left Winger,"May 24, 1989 ",34,"['DR Congo', 'England']",France,Lyon,RW   CF,"1,85",€250k
+,Fathalah Khannoussi,Left Winger,"May 4, 1989 ",34,"['France', 'Algeria']",France,Maubeuge,LB,"1,77",-
+,Sylvain Graglia,Left Winger,"Apr 12, 1989 ",34,"['Tahiti', 'France']",France,Cannes,,,-
+,Kévin Ousmane Sy,Left Winger,"Sep 8, 1989 ",34,['France'],France,Metz,RW   SS,"1,78",-
+,Nabil Ouarguini,Left Winger,"Apr 4, 1989 ",34,"['France', 'Morocco']",France,Paris,RW,"1,68",-
+,Vincent Le Baron,Left Winger,"Jun 10, 1989 ",34,['France'],France,Vannes,SS,"1,82",-
+,Amara Baby,Left Winger,"Feb 23, 1989 ",35,"['Senegal', 'France']",France,Le Blanc-Mesnil,LM   RW,"1,83",-
+,Sofiane Moumou,Left Winger,"Jan 1, 1989 ",35,"['France', 'Algeria']",France,Lille,LB   LM,"1,75",-
+,Karim Aït-Fana,Left Winger,"Feb 25, 1989 ",35,"['Morocco', 'France']",France,Limoges,RW,"1,75",-
+8,Yacine Brahimi,Left Winger,"Feb 8, 1990 ",34,"['Algeria', 'France']",France,Paris,AM   LM,"1,75",€2.80m
+22,Billel Abdelkadous,Left Winger,"May 22, 1990 ",33,"['France', 'Algeria']",France,Metz,,"1,92",€100k
+,Abdou Doumbia,Left Winger,"Jun 7, 1990 ",33,"['France', 'Mali']",France,Le Blanc-Mesnil,RW   CF,"1,76",€100k
+,Aliou Badara Traoré,Left Winger,"Jun 2, 1990 ",33,"['Gabon', 'France']",France,Noiré,RW   CF,,-
+,Jérémy Vilmain,Left Winger,"Aug 28, 1990 ",33,['France'],France,Reims,LM   RM,,-
+,Anthony Bova,Left Winger,"Mar 7, 1990 ",34,"['France', 'Italy']",France,Paris,RW   CF,"1,70",-
+8,Kévin Schur,Left Winger,"Nov 19, 1990 ",33,['France'],France,Saint-Germain-en-Laye,AM   RW,"1,79",€200k
+17,Ali M'Madi,Left Winger,"Apr 21, 1990 ",33,"['Comoros', 'France']",France,Marseille,RW   AM,"1,78",€100k
+,Thomas Dumortier,Left Winger,"Oct 13, 1990 ",33,['France'],France,Villeneuve-d'Ascq,,"1,77",-
+10,Fatah Ahamada,Left Winger,"Jul 4, 1990 ",33,"['Comoros', 'France']",France,Montmorency,RW,"1,69",-
+,Anthony Schuster,Left Winger,"Mar 22, 1990 ",33,['France'],France,Chartres,RW,"1,77",-
+,Hervé Bazile,Left Winger,"Mar 18, 1990 ",33,"['Haiti', 'France']",France,Créteil,RW,"1,81",-
+10,Wahbi Khazri,Left Winger,"Feb 8, 1991 ",33,"['Tunisia', 'France']",France,Ajaccio,CF   RW,"1,76",€2.50m
+21,Ahmed Mogni,Left Winger,"Oct 10, 1991 ",32,"['Comoros', 'France']",France,Paris,CF,"1,75",€125k
+,Maxime Vignes,Left Winger,"Nov 6, 1991 ",32,['France'],France,Tarbes,LM,"1,80",-
+,Messaoud Bouardja,Left Winger,"Jul 6, 1991 ",32,"['France', 'Algeria']",France,Lille,,"1,76",-
+10,Abdelhak Belahmeur,Left Winger,"Jul 26, 1991 ",32,"['France', 'Algeria']",France,Strasbourg,AM,"1,80",-
+,Thomas Piaulet,Left Winger,"Jun 3, 1991 ",32,"['France', 'Italy']",France,Vitry-sur-Seine,RW   CF,,-
+,Maxime Bourgeois,Left Winger,"Feb 3, 1991 ",33,['France'],France,Sucy-en-Brie,SS   RW,"1,83",-
+,John-Christophe Ayina,Left Winger,"Apr 9, 1991 ",32,"['France', 'Congo']",France,Rouen,CF   RW,"1,81",-
+10,Abdellah Zoubir,Left Winger,"Dec 5, 1991 ",32,"['France', 'Morocco']",France,Lille,CF   RW,"1,80",€700k
+,Ida-Yasser Mze,Left Winger,"Oct 30, 1991 ",32,"['Mayotte', 'France']",France,Fougères,LM,"1,84",-
+11,Sadibou Sylla,Left Winger,"Aug 30, 1991 ",32,"['France', 'Mali']",France,Meulan,LM,,-
+,Alexandre Koré,Left Winger,"Dec 11, 1991 ",32,"['France', ""Cote d'Ivoire""]",France,Fontenay-Aux-Roses,CF,"1,88",-
+,Nathanaël Béreaud,Left Winger,"May 22, 1991 ",32,['France'],France,Bordeaux,RW,,-
+,Nicolas Benezet,Left Winger,"Feb 24, 1991 ",33,['France'],France,Montpellier,RW   AM,"1,70",-
+,Florent André,Left Winger,"Jun 6, 1991 ",32,['France'],France,Marseille,LB   LM,"1,83",-
+10,Naïm Sliti,Left Winger,"Jul 27, 1992 ",31,"['Tunisia', 'France']",France,Marseille,AM   RW,"1,73",€4.50m
+28,Yassine Bahassa,Left Winger,"May 21, 1992 ",31,"['France', 'Morocco']",France,Sauveterre-de-Guyenne,RW   AM,"1,87",€600k
+20,Julien López,Left Winger,"Mar 1, 1992 ",32,"['Algeria', 'France']",France,Marseille,RW   AM,"1,73",€400k
+12,Kévin Testud,Left Winger,"Apr 12, 1992 ",31,['France'],France,Montélimar,RW,"1,80",€300k
+,Oumar Camara,Left Winger,"Aug 19, 1992 ",31,"['Mauritania', 'France']",France,Montvilliers,RW   CF,"1,86",€150k
+22,Achraf Drif,Left Winger,"Mar 22, 1992 ",31,"['France', 'Morocco']",France,Nancy,RW   AM,"1,78",€50k
+,Murphy Fumu Tamuso,Left Winger,"Jan 20, 1992 ",32,"['France', 'DR Congo']",France,Melun,RW,"1,81",-
+21,Christophe Gomis,Left Winger,"Dec 21, 1992 ",31,"['France', 'Senegal']",France,Toulon,CF   RW,"1,86",-
+,Khadime Ndoye,Left Winger,"Feb 17, 1992 ",32,"['France', 'Senegal']",France,Soisy-Sous-Montmorency,RW,"1,74",-
+11,Joffrey Lobo,Left Winger,"Sep 19, 1992 ",31,"['France', 'Portugal']",France,Montluçon,RW,"1,75",-
+,Christopher Joufreau,Left Winger,"Apr 14, 1992 ",31,['France'],France,Mayenne,SS   RW,"1,77",-
+,Dimitri Benkada,Left Winger,"Oct 8, 1992 ",31,"['France', 'Algeria']",France,Boulogne-sur-Mer,,,-
+,Ousmane Dramé,Left Winger,"Aug 25, 1992 ",31,"['France', 'Mali']",France,Paris,RW   SS,"1,74",-
+92,Neeskens Kebano,Left Winger,"Mar 10, 1992 ",31,"['DR Congo', 'France']",France,Montereau,AM   RW,"1,70",€2.00m
+23,Fabien Ourega,Left Winger,"Dec 7, 1992 ",31,"['France', ""Cote d'Ivoire""]",France,Paris,RW,"1,78",€400k
+99,David Gomis,Left Winger,"Dec 21, 1992 ",31,"['Guinea-Bissau', 'France']",France,Toulon,RW   LM,"1,73",€350k
+23,Thievy Bifouma,Left Winger,"May 13, 1992 ",31,"['Congo', 'France']",France,Saint Denis,RW   CF,,€200k
+14,Arthur Gnahoua,Left Winger,"Sep 18, 1992 ",31,"['France', ""Cote d'Ivoire""]",France,Grenoble,CF   RW,"1,87",€125k
+,Abdallah Boudabous,Left Winger,"Jan 3, 1992 ",32,"['France', 'Tunisia']",France,,RW,"1,80",-
+,Erwan Mbock,Left Winger,"Feb 1, 1992 ",32,"['France', 'Cameroon']",France,Brest,CF   SS,"1,84",-
+,Serdar Alhan,Left Winger,"Nov 15, 1992 ",31,"['France', 'Türkiye']",France,Vienne,RW   CF,"1,78",-
+2,Rayane Zaid Boukemia,Left Winger,"Oct 11, 1992 ",31,"['Algeria', 'France']",France,Straßburg,RW   AM,"1,85",-
+,Arlan Kadima,Left Winger,"Jun 6, 1992 ",31,"['France', 'DR Congo']",France,Sannois,RW,"1,85",-
+,Gaël N'Lundulu,Left Winger,"Apr 29, 1992 ",31,"['France', 'Congo']",France,Villiers-le-Bel,SS   RW,"1,83",-
+,Gaëtan Fallempin,Left Winger,"Jan 18, 1992 ",32,"['France', 'Portugal']",France,Cambrai,RW   CF,"1,83",-
+27,Mikail Albayrak,Left Winger,"Apr 6, 1992 ",31,['Türkiye'],France,,RW   CM,"1,70",-
+,Evan Chevalier,Left Winger,"May 13, 1992 ",31,['France'],France,Bruges,LM   LB,"1,78",-
+,Jimmy Kamghain,Left Winger,"Jul 3, 1992 ",31,"['France', 'Cameroon']",France,Avignon,LM   RW,"1,80",-
+,David Viana,Left Winger,"Jan 22, 1992 ",32,"['Portugal', 'France']",France,Strasbourg,AM   RW,"1,73",-
+,Harry Novillo,Left Winger,"Feb 11, 1992 ",32,"['Martinique', 'France']",France,Lyon,RW   CF,"1,82",-
+10,Sofiane Boufal,Left Winger,"Sep 17, 1993 ",30,"['Morocco', 'France']",France,Paris,AM   SS,"1,75",€7.00m
+91,Jérémie Bela,Left Winger,"Apr 8, 1993 ",30,"['Angola', 'France']",France,Melun,RW   SS,"1,73",€1.00m
+55,Chris Marlon Ondong Mba,Left Winger,"Aug 7, 1993 ",30,"['France', 'Gabon']",France,Poitiers,RW   CF,"1,85",€50k
+,Julien Farnabe,Left Winger,"Oct 6, 1993 ",30,"['France', 'Guadeloupe']",France,Dijon,RW   CF,"1,79",-
+,Leo De Smedt,Left Winger,"Nov 16, 1993 ",30,['France'],France,Lille,RW   CM,"1,75",-
+14,Dani,Left Winger,"May 14, 1993 ",30,"['Portugal', 'France']",France,Paris,RW,"1,80",-
+,Mehdi Fennouche,Left Winger,"Feb 20, 1993 ",31,"['Algeria', 'France']",France,Paris,RW   CF,"1,80",-
+,Kamel Chergui,Left Winger,"Apr 16, 1993 ",30,"['France', 'Algeria']",France,Saint-Etienne,AM   LM,"1,79",-
+,Hugo Vidémont,Left Winger,"Feb 19, 1993 ",31,['France'],France,Marseille,AM   RW,"1,74",-
+10,Ibrahima Tandia,Left Winger,"Jul 12, 1993 ",30,"['Mali', 'France']",France,Longjumeau,RM   RW,"1,71",-
+10,Faïz Selemani,Left Winger,"Nov 14, 1993 ",30,"['Comoros', 'France']",France,Marseille,RW   AM,"1,82",€2.30m
+11,Nicolas Rajsel,Left Winger,"May 31, 1993 ",30,"['Slovenia', 'France']",France,Pontoise,CF   RW,"1,80",€250k
+,Mylan Boston,Left Winger,"Aug 1, 1993 ",30,['France'],France,,RW   AM,"1,83",-
+20,Benoît Bisson,Left Winger,"Jan 6, 1993 ",31,['France'],France,Limoges,SS   RW,"1,78",-
+,Kevin Krans,Left Winger,"May 14, 1993 ",30,['France'],France,Paris,RW   CF,,-
+,Kévin Rocheteau,Left Winger,"Jul 10, 1993 ",30,['France'],France,Royan,RW   CF,"1,79",-
+,Bradley Meledje,Left Winger,"Jul 17, 1993 ",30,"['France', ""Cote d'Ivoire""]",France,Saint-Denis,RW   CF,"1,85",-
+,Jason Lagarde,Left Winger,"Sep 23, 1993 ",30,['France'],France,Givors,LM   LB,"1,77",-
+,Thomas Touré,Left Winger,"Dec 27, 1993 ",30,"[""Cote d'Ivoire"", 'France']",France,Grasse,RW   LM,"1,75",-
+99,Denis Bouanga,Left Winger,"Nov 11, 1994 ",29,"['Gabon', 'France']",France,Le Mans,CF   RW,"1,80",€10.00m
+7,Willy Semedo,Left Winger,"Apr 27, 1994 ",29,"['Cape Verde', 'France']",France,Bordeaux,RW   AM,"1,85",€1.00m
+17,Hamidou Keyta,Left Winger,"Dec 17, 1994 ",29,"['France', 'Senegal']",France,Montivilliers,CF   RW,"1,86",€700k
+,Ladji Baradji,Left Winger,"Mar 24, 1994 ",29,['France'],France,Paris,,,-
+29,Gil Lawson,Left Winger,"May 11, 1994 ",29,"['France', 'Togo']",France,Epinay-sur-Seine,RW   CF,"1,81",-
+,Farid Benhaddouche,Left Winger,"May 6, 1994 ",29,"['Algeria', 'France']",France,Saint-Julien-en-Genevois,CF   LM,,-
+94,Karim Safsaf,Left Winger,"Mar 27, 1994 ",29,"['France', 'Morocco']",France,Béziers,CF   RW,"1,78",-
+,Wesley Jobello,Left Winger,"Jan 23, 1994 ",30,"['Martinique', 'France']",France,Gennevilliers,RW,"1,80",-
+,Adam N'Kusu,Left Winger,"Jan 29, 1994 ",30,['France'],France,Enghien-les-Bains,AM,"1,75",-
+,Opa Nguette,Left Winger,"Jul 8, 1994 ",29,"['Senegal', 'France']",France,Mantes-la-Jolie,RW   CF,"1,82",€1.50m
+7,Gaëtan Robail,Left Winger,"Jan 9, 1994 ",30,['France'],France,Saint-Pol-sur-Ternoise,LM   RM,"1,82",€800k
+7,Kévin Nzuzi Mata,Left Winger,"May 17, 1994 ",29,"['DR Congo', 'France']",France,Paris,CF   RW,"1,81",€250k
+,Salah Bekhadda,Left Winger,"Aug 13, 1994 ",29,"['France', 'Algeria']",France,Châlons-en-Champagne,RW,"1,77",-
+23,Gime Touré,Left Winger,"May 7, 1994 ",29,"['France', 'Mali']",France,,RW   CF,"1,90",-
+,Dylan Suray,Left Winger,"May 4, 1994 ",29,['France'],France,Revin,RW   AM,,-
+,Yoan Nanou,Left Winger,"Mar 1, 1994 ",30,['France'],France,Lyon,,"1,73",-
+,Aurélien Ngeyitala,Left Winger,"May 29, 1994 ",29,"['DR Congo', 'France']",France,Évry,RW   SS,"1,82",-
+,Mathieu Castaing,Left Winger,"Jan 17, 1994 ",30,['France'],France,Toulouse,AM   RW,"1,83",-
+10,Georges-Kevin N'Koudou,Left Winger,"Feb 13, 1995 ",29,"['Cameroon', 'France']",France,Versailles,RW,"1,72",€3.80m
+11,Yanis Rahmani,Left Winger,"May 13, 1995 ",28,"['France', 'Algeria']",France,Champigny-sur-Marne,RW   AM,"1,78",€800k
+22,Ange-Freddy Plumain,Left Winger,"Mar 2, 1995 ",29,"['Guadeloupe', 'France']",France,Paris,CF   RW,"1,84",€400k
+13,Bissourou Touré,Left Winger,"Mar 20, 1995 ",28,['France'],France,Paris,CF   RW,"1,82",€150k
+,Tarek Zoubir,Left Winger,"Mar 8, 1995 ",28,"['France', 'Morocco']",France,Lille,RW,"1,68",-
+8,Yassine Zerfaoui,Left Winger,"Sep 8, 1995 ",28,"['France', 'Morocco']",France,La Seyne-sur-Mer,RW,"1,78",-
+,Yann Freddy Kouadio,Left Winger,"May 10, 1995 ",28,"['France', ""Cote d'Ivoire""]",France,Paris,,,-
+7,Brice Goupy,Left Winger,"Oct 12, 1995 ",28,"['France', 'Cameroon']",France,Versailles,RW   AM,"1,70",-
+,Sofiane Khedim,Left Winger,"Sep 19, 1995 ",28,"['France', 'Algeria']",France,Aix-en-Provence,RW   AM,"1,78",-
+23,Corentin Tirard,Left Winger,"Oct 18, 1995 ",28,['France'],France,Romans-sur-Isère,RW   CF,"1,75",-
+,Pierre-Ange Omombé,Left Winger,"Mar 9, 1995 ",28,"['France', 'Congo']",France,Villemanoche,SS   SS,"1,75",-
+,Youssouf Bamba,Left Winger,"Jul 1, 1995 ",28,['France'],France,Nice,RW   AM,"1,70",-
+27,Jean-Luc Dompé,Left Winger,"Aug 12, 1995 ",28,"['France', ""Cote d'Ivoire""]",France,Arpajon,LM   RW,"1,70",€2.20m
+11,Bafodé Dansoko,Left Winger,"Dec 28, 1995 ",28,"['Guinea', 'France']",France,Saint-Etienne,RW   CF,"1,87",€500k
+17,Romain Gall,Left Winger,"Jan 31, 1995 ",29,"['United States', 'France']",France,Paris,RW   LM,"1,76",€175k
+14,Alexandre Arenate,Left Winger,"Jul 20, 1995 ",28,"['Guadeloupe', 'France']",France,Sarcelles,RB   CM,"1,83",€100k
+,Glenn Le Gall,Left Winger,"Aug 22, 1995 ",28,['France'],France,Vannes,RW   SS,"1,72",-
+,Adrien Cinquini,Left Winger,"May 17, 1995 ",28,['France'],France,Bastia,CF,"1,84",-
+,Christopher Desmartin,Left Winger,"Jun 8, 1995 ",28,['France'],France,Thiers,CF,"1,69",-
+,Hakim Naïm,Left Winger,"May 11, 1995 ",28,"['France', 'Algeria']",France,Meaux,RW,,-
+,Enes Akgün,Left Winger,"Sep 20, 1995 ",28,"['Türkiye', 'France']",France,Livry-Gargan,RW   SS,"1,86",-
+,Deniz Atac,Left Winger,"Jun 22, 1995 ",28,['Türkiye'],France,Sélestat,,,-
+,Joris Ahlinvi,Left Winger,"Jul 13, 1995 ",28,"['Benin', 'France']",France,Gujan-Mestras,RW,"1,79",-
+,Jordan Dalla Vecchia,Left Winger,"Sep 8, 1995 ",28,['France'],France,Cluses,CF,"1,69",-
+11,Kingsley Coman,Left Winger,"Jun 13, 1996 ",27,"['France', 'Guadeloupe']",France,Paris,RW,"1,81",€65.00m
+17,Jonathan Bamba,Left Winger,"Mar 26, 1996 ",27,"[""Cote d'Ivoire"", 'France']",France,Alfortville,RW,"1,75",€14.00m
+22,Yakou Méïté,Left Winger,"Feb 11, 1996 ",28,"[""Cote d'Ivoire"", 'France']",France,Paris,CF   RW,"1,85",€1.50m
+96,Jayson Papeau,Left Winger,"Jun 30, 1996 ",27,"['France', 'Guadeloupe']",France,Melun,AM   RW,"1,79",€600k
+11,Maxime Do Couto,Left Winger,"Dec 13, 1996 ",27,"['France', 'Portugal']",France,Neuilly-sur-Seine,AM   RW,"1,73",€450k
+93,Virgile Pinson,Left Winger,"Feb 22, 1996 ",28,"['France', 'Cameroon']",France,Cenon,RW   CF,"1,80",€300k
+96,Fodé Guirassy,Left Winger,"Jan 6, 1996 ",28,"['Guinea', 'France']",France,Aix-en-Provence,LM   RW,"1,89",€200k
+,Morgan Lafont,Left Winger,"Nov 22, 1996 ",27,['France'],France,Marseille,,"1,85",€10k
+10,Wilfried Étienne,Left Winger,"Jun 22, 1996 ",27,"['France', 'Guadeloupe']",France,Athis-Mons,RW   CF,"1,79",-
+,Pierre Ritter,Left Winger,"May 14, 1996 ",27,['France'],France,Castelnaudary,,"1,80",-
+20,Leroy Casier,Left Winger,"Feb 29, 1996 ",28,['France'],France,Paris,AM,"1,75",-
+12,Christopher Bitsamou,Left Winger,"Feb 12, 1996 ",28,"['France', 'Congo']",France,Saint-Denis,RW   CF,"1,71",-
+,Manoubi Haddad,Left Winger,"Aug 23, 1996 ",27,"['Tunisia', 'France']",France,Clamart,RW,"1,68",-
+11,Yoane Wissa,Left Winger,"Sep 3, 1996 ",27,"['DR Congo', 'France']",France,Villeneuve-Saint-George,CF   RW,"1,76",€25.00m
+15,Aldo Kalulu,Left Winger,"Jan 21, 1996 ",28,"['DR Congo', 'France']",France,Lyon,RW   CF,"1,66",€1.70m
+7,Alimami Gory,Left Winger,"Aug 30, 1996 ",27,"['France', 'Mali']",France,Le Havre,RW   CF,"1,82",€800k
+99,Mehdi Chahiri,Left Winger,"Jul 25, 1996 ",27,"['France', 'Morocco']",France,Grande-Synthe,AM   RW,"1,80",€600k
+22,Steve Shamal,Left Winger,"Feb 22, 1996 ",28,"['France', 'Algeria']",France,Ivry-sur-Seine,RW   CF,"1,82",€350k
+20,Marwane Elaz,Left Winger,"Jun 17, 1996 ",27,"['Morocco', 'France']",France,Brive-la-Gaillarde,RW,"1,72",€200k
+7,Kévin Yoke,Left Winger,"Jun 23, 1996 ",27,"['France', 'DR Congo']",France,Clamart,SS   AM,"1,82",€125k
+,Iliès Rezgui,Left Winger,"Sep 4, 1996 ",27,"['France', 'Algeria']",France,Chambéry,RW   DM,"1,78",-
+,Stéphane Ferhaoui,Left Winger,"Nov 15, 1996 ",27,['France'],France,Créteil,RW   CF,,-
+,Ouanis Bouragba,Left Winger,"Jan 30, 1996 ",28,"['France', 'Morocco']",France,Lille,CF,"1,85",-
+14,Bryan Bofunda,Left Winger,"Nov 29, 1996 ",27,"['France', 'DR Congo']",France,Créteil,CF   RW,"1,85",-
+3,Jonathan Leighton,Left Winger,"Oct 2, 1996 ",27,"['Andorra', 'France']",France,Nimes,,"1,84",-
+10,Noam Merabti,Left Winger,"Oct 5, 1996 ",27,"['France', 'Algeria']",France,Tournon-sur-Rhône,RW   AM,"1,73",-
+,Tom Slater,Left Winger,"Aug 26, 1996 ",27,"['Australia', 'France']",France,Lens,CF   SS,"1,75",-
+7,Martin Terrier,Left Winger,"Mar 4, 1997 ",27,['France'],France,Armentières,CF,"1,84",€22.00m
+7,Jérémie Boga,Left Winger,"Jan 3, 1997 ",27,"[""Cote d'Ivoire"", 'France']",France,Marseille,AM   SS,"1,72",€15.00m
+11,Keelan Lebon,Left Winger,"Jul 4, 1997 ",26,"['Saint-Martin', 'France']",France,Paris,RW   CF,"1,74",€400k
+26,Erwan Colas,Left Winger,"Apr 22, 1997 ",26,['France'],France,Chartres,RW,"1,79",€200k
+77,Tiago-Marti Escorza,Left Winger,"Aug 25, 1997 ",26,['France'],France,Corbeil-Essones,AM   SS,"1,77",€200k
+,Guy-Fernand Kapata,Left Winger,"Dec 4, 1997 ",26,"['France', 'DR Congo']",France,Paris,,,-
+,Sanders Munkaya,Left Winger,"May 19, 1997 ",26,['France'],France,Mantes-la-Jolie,RW   AM,"1,73",-
+6,Lucas Capoue,Left Winger,"Dec 6, 1997 ",26,"['France', 'Guadeloupe']",France,Évry,CF,,-
+,Sandy Nzuzi Mbala,Left Winger,"May 16, 1997 ",26,"['France', 'DR Congo']",France,Paris,CF,"1,79",-
+,Damien Furtado,Left Winger,"Mar 8, 1997 ",26,"['France', 'Portugal']",France,Épinay-sous-Sénart,RW,"1,80",-
+,Banfa Diakité,Left Winger,"Oct 7, 1997 ",26,"['France', 'Guinea']",France,Toulouse,RW   AM,"1,79",-
+,David Guyenne,Left Winger,N/A ,26,[],France,Lyon,RW,N/A,-
+,Evans Erius,Left Winger,"Jun 7, 1997 ",26,['France'],France,Strasbourg,,"1,92",-
+97,Allan Saint-Maximin,Left Winger,"Mar 12, 1997 ",26,"['France', 'Guadeloupe']",France,Châtenay-Malabry,RW   SS,"1,73",€20.00m
+20,Zakaria Fdaouch,Left Winger,"Mar 11, 1997 ",26,"['France', 'Morocco']",France,Mont-de-Marsan,LM,"1,72",€500k
+17,Enzo Lombardo,Left Winger,"Apr 16, 1997 ",26,['France'],France,Décines-Charpieu,RW   SS,"1,74",€400k
+77,Wajdi Sahli,Left Winger,"Apr 17, 1997 ",26,"['France', 'Tunisia']",France,La Seyne-sur-mer,RW   RM,"1,83",€200k
+,Jean-Pierre Da Sylva,Left Winger,"Jan 3, 1997 ",27,"['France', 'Senegal']",France,,RW   SS,"1,80",€100k
+,Goualy Karamoh,Left Winger,"Oct 16, 1997 ",26,['France'],France,Gonesse,RW,"1,81",-
+21,Reda Taqtak,Left Winger,"Jun 5, 1997 ",26,"['France', 'Morocco']",France,Audincourt,LB,"1,81",-
+,Valentin Rigoni,Left Winger,"Mar 4, 1997 ",27,['France'],France,,LB   RW,,-
+97,Kilian Amehi,Left Winger,"Nov 14, 1997 ",26,"['France', 'Togo']",France,,CF,"1,70",-
+7,Jordan Perrier,Left Winger,"May 10, 1997 ",26,['France'],France,,RW   AM,,-
+22,Sander Benbachir,Left Winger,"Nov 5, 1997 ",26,"['France', 'Algeria']",France,Marseille,,"1,80",-
+7,Mohamed Amelhaf,Left Winger,"Nov 25, 1997 ",26,"['France', 'Morocco']",France,,RW,"1,80",-
+,Amadou Sylla,Left Winger,"Jun 27, 1997 ",26,"['France', 'Mali']",France,Ivry-sur-Seine,RW   AM,"1,86",-
+,Axel Prohouly,Left Winger,"Jun 30, 1997 ",26,"['France', ""Cote d'Ivoire""]",France,Grasse,RW   AM,"1,85",-
+22,Deniz Erdogan,Left Winger,"Jul 23, 1997 ",26,"['France', 'Türkiye']",France,Digne-les-Bains,AM   RW,"1,70",-
+45,Armand Laurienté,Left Winger,"Dec 4, 1998 ",25,"['France', 'Guadeloupe']",France,Gonesse,RW   RM,"1,71",€16.00m
+7,Jérémy Livolant,Left Winger,"Jan 9, 1998 ",26,['France'],France,Morlaix,LM   AM,"1,75",€1.50m
+7,Mohamed Brahimi,Left Winger,"Sep 17, 1998 ",25,"['France', 'Algeria']",France,Lyon,RW   LM,"1,81",€600k
+22,Clément Billemaz,Left Winger,"Sep 22, 1998 ",25,['France'],France,Lyon,RW   CF,"1,75",€350k
+10,Belkacem Dali Amar,Left Winger,"Jul 10, 1998 ",25,"['France', 'Algeria']",France,Martigues,RW   CF,"1,80",€50k
+,Arnaud Ongenda,Left Winger,"Mar 16, 1998 ",25,['France'],France,Paris,LM,"1,70",-
+,Rayan Hiba,Left Winger,"Jun 20, 1998 ",25,['France'],France,,RW,,-
+10,Hakan Horzum,Left Winger,"Nov 2, 1998 ",25,"['France', 'Türkiye']",France,Gonesse,RW,"1,82",-
+,Gauthier Clémente,Left Winger,"Jul 27, 1998 ",25,['France'],France,Agen,RW   SS,,-
+,Nassiama Sissoko,Left Winger,"Nov 5, 1998 ",25,"['France', 'Mali']",France,Saint-Denis,RW   AM,"1,87",-
+,Kevin Somay,Left Winger,N/A ,25,[],France,Paris,SS   RW,N/A,-
+22,Jérémy Le Douaron,Left Winger,"Apr 21, 1998 ",25,['France'],France,Ploufragan,CF   RW,"1,89",€5.00m
+29,Boubacar Fofana,Left Winger,"Sep 7, 1998 ",25,"['France', 'Mali']",France,Paris,RW   CF,"1,82",€800k
+7,Benjamin Gomel,Left Winger,"May 14, 1998 ",25,['France'],France,Boulogne-sur-Mer,RW,"1,77",€400k
+20,Chafik Abbas,Left Winger,"Jun 17, 1998 ",25,"['France', 'Morocco']",France,Cholet,AM   RW,"1,74",€100k
+,Mady Danfakha,Left Winger,"Aug 15, 1998 ",25,"['France', 'Senegal']",France,Paris,RW   SS,"1,72",-
+,Amaury Testa,Left Winger,"Oct 22, 1998 ",25,['France'],France,Marseille,RW   CF,"1,83",-
+9,Adrien Lefebvre,Left Winger,"Jul 5, 1998 ",25,['France'],France,Boulogne-sur-Mer,RW,"1,75",-
+,Rymone Benturkia,Left Winger,"Dec 2, 1998 ",25,"['France', 'Algeria']",France,Saint-Chamond,,"1,78",-
+,Wanis Bendimered,Left Winger,"Jul 17, 1998 ",25,"['France', 'Algeria']",France,Hyères,CF   LM,,-
+9,Yanis Barka,Left Winger,"Apr 18, 1998 ",25,"['France', 'Algeria']",France,Saint-Quentin,AM   CF,"1,83",-
+10,Nabil Alioui,Left Winger,"Feb 18, 1999 ",25,"['France', 'Morocco']",France,Toulon,RW   CF,"1,75",€4.00m
+17,Mounir Chouiar,Left Winger,"Jan 23, 1999 ",25,"['France', 'Morocco']",France,Liévin,AM   RW,"1,77",€2.50m
+91,Kévin Cabral,Left Winger,"Jul 10, 1999 ",24,"['France', 'Cape Verde']",France,Paris,RW   CF,"1,85",€1.50m
+11,Axel Urie,Left Winger,"Apr 14, 1999 ",24,"['Central African Republic', 'France']",France,Nîmes,RW,"1,80",€400k
+14,Adrien Lebeau,Left Winger,"Jul 8, 1999 ",24,['France'],France,Metz,AM   RW,"1,75",€300k
+,Evens Joseph,Left Winger,"Jul 16, 1999 ",24,"['France', 'Martinique']",France,Neuilly-sur-Marne,CF,"1,78",€200k
+,Nassim Lallemand,Left Winger,"Feb 2, 1999 ",25,['France'],France,Nice,AM,"1,80",-
+,Siméon Oure,Left Winger,"Oct 22, 1999 ",24,['France'],France,Sarcelles,AM   SS,"1,75",-
+,Amin Kechout,Left Winger,"Jan 11, 1999 ",25,"['France', 'Algeria']",France,Roubaix,CF,"1,84",-
+,Marveen Moreira,Left Winger,"Sep 8, 1999 ",24,['France'],France,,RW   CF,"1,78",-
+,Régis Djoman,Left Winger,"Feb 3, 1999 ",25,"['France', ""Cote d'Ivoire""]",France,Creil,RW   LB,"1,81",-
+11,Axel Tressens,Left Winger,"Aug 2, 1999 ",24,['France'],France,Bayonne,RW   CF,"1,77",-
+,Tristan Rios,Left Winger,"Feb 26, 1999 ",25,"['France', 'Spain']",France,Nimes,LB   RB,"1,77",-
+30,Elias Achouri,Left Winger,"Feb 10, 1999 ",25,"['Tunisia', 'France']",France,Saint-Denis,RW,"1,77",€2.50m
+7,Élie Youan,Left Winger,"Apr 7, 1999 ",24,"['France', ""Cote d'Ivoire""]",France,Nantes,CF   LM,"1,83",€1.50m
+23,Näis Djouahra,Left Winger,"Nov 23, 1999 ",24,"['France', 'Algeria']",France,Bourgoin-Jallieu,RW,"1,72",€900k
+22,Natanaël Ntolla,Left Winger,"Jul 1, 1999 ",24,"['France', ""Cote d'Ivoire""]",France,Argenteuil,,"1,85",€400k
+19,Julien Lamy,Left Winger,"Nov 6, 1999 ",24,"['France', 'Cameroon']",France,Brest,RW   CF,"1,85",€200k
+29,Adama Diakité,Left Winger,"Jul 16, 1999 ",24,"['France', 'Mali']",France,Alfortville,RW   CF,"1,84",€150k
+,Yvan Mag,Left Winger,N/A ,24,['France'],France,,RW   LB,"1,83",-
+,Fethi Terbeche,Left Winger,"Nov 13, 1999 ",24,"['France', 'Algeria']",France,Seclin,AM,"1,78",-
+11,Erwan Moutault,Left Winger,"Sep 14, 1999 ",24,"['France', 'Belgium']",France,Neuilly-sur-Seine,CF,"1,83",-
+,Esli Mukendi,Left Winger,"Apr 1, 1999 ",24,"['France', 'DR Congo']",France,Mulhouse,LM,"1,73",-
+,Martin Veys,Left Winger,"Feb 15, 1999 ",25,['France'],France,Caen,RW   AM,"1,73",-
+,Yanis Derbal,Left Winger,"Mar 15, 1999 ",24,"['France', 'Algeria']",France,Valenciennes,RW   AM,"1,71",-
+,Soriba Sylla,Left Winger,"Mar 1, 1999 ",25,"['France', 'Guinea']",France,Antibes,RW,"1,83",-
+,Bryan Ntambani,Left Winger,"Jan 16, 1999 ",25,"['France', 'DR Congo']",France,Courcouronnes,RW   AM,"1,81",-
+,Julien Bruce,Left Winger,"Jan 16, 1999 ",25,"['France', 'Canada']",France,Paris,CF,"1,78",-
+,Calvin Tshilumba Djella,Left Winger,"Dec 3, 1999 ",24,"['France', 'DR Congo']",France,Paris,SS   RW,"1,78",-
+10,Jason Mbock,Left Winger,"Nov 1, 1999 ",24,"['France', 'Cameroon']",France,Créteil,RW   CF,"1,79",-
+,Yanis Ammour,Left Winger,"May 21, 1999 ",24,"['France', 'Tunisia']",France,Montpellier,CF   RW,"1,82",-
+24,Théo Epailly,Left Winger,"Feb 10, 1999 ",25,['France'],France,Levallois-Perret,RW,"1,78",-
+10,Amine Gouiri,Left Winger,"Feb 16, 2000 ",24,"['Algeria', 'France']",France,Bourgoin-Jallieu,CF   SS,"1,81",€28.00m
+10,Sofiane Diop,Left Winger,"Jun 9, 2000 ",23,"['Morocco', 'France']",France,Tours,AM   RW,"1,75",€15.00m
+19,Alexis Flips,Left Winger,"Jan 18, 2000 ",24,['France'],France,Villeneuve-d'Ascq,AM   RW,"1,73",€3.50m
+11,Matteo Tramoni,Left Winger,"Jan 20, 2000 ",24,"['France', 'Italy']",France,Ajaccio,LM   RW,"1,75",€1.30m
+7,Amine Boutrah,Left Winger,"Oct 26, 2000 ",23,"['France', 'Morocco']",France,Porto-Vecchio,AM   CF,"1,73",€700k
+19,Lenny Pintor,Left Winger,"Aug 5, 2000 ",23,"['France', 'Martinique']",France,Paris,RW   LM,"1,79",€500k
+7,Kévin Monzialo,Left Winger,"Jul 28, 2000 ",23,"['Congo', 'France']",France,Pontoise,RW,"1,85",€250k
+,Christian Koffi,Left Winger,"Aug 28, 2000 ",23,"['France', ""Cote d'Ivoire""]",France,Paris,RW   AM,"1,73",€100k
+70,Emmanuel Attah,Left Winger,"Jul 26, 2000 ",23,"['France', 'Ghana']",France,Mantes-la-Jolie,LB,,€10k
+,Esmaïl Ben Ouabi,Left Winger,"Jun 28, 2000 ",23,"['France', 'Morocco']",France,Viriat,AM,"1,75",-
+,Dylan Ghodbane,Left Winger,"Jan 30, 2000 ",24,"['France', 'Tunisia']",France,Marseille,RW   SS,"1,82",-
+19,Yacine Boucharoud,Left Winger,"Apr 30, 2000 ",23,"['France', 'Algeria']",France,Paris,,"1,84",-
+,Samba Tamboura,Left Winger,"Dec 30, 2000 ",23,"['France', 'Senegal']",France,Boulogne-sur-Mer,RW   SS,"1,74",-
+21,Amine Adli,Left Winger,"May 10, 2000 ",23,"['Morocco', 'France']",France,Béziers,RW   SS,"1,74",€25.00m
+21,Billal Brahimi,Left Winger,"Mar 14, 2000 ",23,"['Algeria', 'France']",France,Paris,RW   CF,"1,83",€4.00m
+11,Matthias Phaëton,Left Winger,"Jan 8, 2000 ",24,"['Guadeloupe', 'France']",France,Colombes,CF,"1,85",€1.60m
+69,Sofyan Chader,Left Winger,"May 12, 2000 ",23,"['France', 'Algeria']",France,Lyon,RW   CM,"1,78",€800k
+7,Ilyas Chouaref,Left Winger,"Dec 12, 2000 ",23,"['France', 'Morocco']",France,Châteauroux,CF,"1,84",€700k
+22,Yadaly Diaby,Left Winger,"Aug 9, 2000 ",23,"['Guinea', 'France']",France,Saint-Étienne,AM   CF,,€400k
+19,Kandet Diawara,Left Winger,"Feb 10, 2000 ",24,"['France', 'Guinea']",France,Lille,SS   RW,"1,80",€200k
+32,Sabri Guendouz,Left Winger,"Feb 2, 2000 ",24,"['France', 'Algeria']",France,Cambrai,RW   CF,"1,80",€50k
+23,Abdoulaye Touré,Left Winger,"Oct 14, 2000 ",23,"['France', 'Mali']",France,Clamart,RW,,€10k
+,Mavungu William Pahama,Left Winger,"Jul 10, 2000 ",23,['France'],France,Nice,RW   CF,"1,84",-
+,Issam Rezig,Left Winger,"Apr 27, 2000 ",23,"['France', 'Algeria']",France,Roubaix,RW,"1,90",-
+,Karim Nlamu,Left Winger,N/A ,24,"['France', 'Comoros']",France,Laon,AM   RW,"1,73",-
+7,Moussa Faty,Left Winger,"Jul 13, 2000 ",23,"['France', 'Senegal']",France,Toulouse,RW   LB,"1,80",-
+20,Youssouf Soukouna,Left Winger,"Feb 8, 2000 ",24,"['France', 'Mali']",France,Méru,CF   RW,"1,88",-
+,Yoann Kherbache,Left Winger,"Jul 21, 2000 ",23,"['France', 'Algeria']",France,Aubagne,RW   AM,"1,70",-
+,Ismaël Messaoudi,Left Winger,"Feb 27, 2000 ",24,"['France', 'Algeria']",France,Lyon,RW,,-
+17,Imad Zmimer,Left Winger,"Aug 9, 2000 ",23,"['France', 'Morocco']",France,Tourcoing,LM   SS,"1,75",-
+19,Mohamed Medfai,Left Winger,"Aug 8, 2000 ",23,"['Tunisia', 'France']",France,Marseille,AM   RW,"1,84",-
+,Martin Grigoryan,Left Winger,"Sep 25, 2000 ",23,['Armenia'],France,Marseille,RW,"1,75",-
+27,Yann Diebold,Left Winger,"Apr 1, 2000 ",23,['France'],France,Strasbourg,RW,"1,74",-
+15,Sofiane Bourouis Belle,Left Winger,"Dec 26, 2000 ",23,"['France', 'Algeria']",France,Dieppe,RW   CF,"1,78",-
+,Kamel Benbouziane,Left Winger,"Feb 16, 2000 ",24,['France'],France,Dechy,RB   RW,,-
+,Lounes Foudil,Left Winger,"Nov 30, 2000 ",23,"['France', 'Algeria']",France,Paris,,"1,82",-
+,Karim Chaban,Left Winger,"Jan 6, 2000 ",24,"['France', 'Algeria']",France,Marseille,AM   CF,"1,82",-
+,Titouan Richard,Left Winger,"Dec 4, 2000 ",23,"['Neukaledonien', 'France']",France,Voiron,LB,"1,72",-
+19,Nicolas Fontaine,Left Winger,"Feb 7, 2000 ",24,"['Madagascar', 'France']",France,Ambilly,RW,,-
+9,Marley Aké,Left Winger,"Jan 5, 2001 ",23,"['France', ""Cote d'Ivoire""]",France,Béziers,CF   RW,"1,78",€1.60m
+7,Dylan Mbayo,Left Winger,"Oct 11, 2001 ",22,"['Belgium', 'DR Congo']",France,,RW,"1,75",€450k
+11,Makan Aïko,Left Winger,"Jan 7, 2001 ",23,"['France', ""Cote d'Ivoire""]",France,Paris,SS   LM,"1,80",€350k
+11,Théo Bouchlarhem,Left Winger,"Mar 3, 2001 ",23,"['France', 'Morocco']",France,Saint-Jean-d'Angély,LM   RW,"1,80",€200k
+,Marc Thomas,Left Winger,"May 8, 2001 ",22,"['France', ""Cote d'Ivoire""]",France,,RW   CF,"1,81",€25k
+,Mohamed Lachaab,Left Winger,"Sep 2, 2001 ",22,"['France', 'Algeria']",France,Maubeuge,,,-
+,Anas Darhri,Left Winger,"Jan 4, 2001 ",23,"['France', 'Morocco']",France,Marmande,RW,"1,65",-
+,Ilyès Nakoubi,Left Winger,"Nov 4, 2001 ",22,"['France', 'Morocco']",France,Rouen,RW   AM,"1,76",-
+7,Issiaka Karamoko,Left Winger,"Jul 15, 2001 ",22,"['France', ""Cote d'Ivoire""]",France,Paris,,"1,82",-
+,Allan Viral,Left Winger,"Dec 3, 2001 ",22,['France'],France,Paris,RW   AM,,-
+,Kesley Keita,Left Winger,"Apr 17, 2001 ",22,"['France', 'Guinea']",France,,AM   CM,"1,75",-
+9,Mathéo Vroman,Left Winger,"Nov 19, 2001 ",22,['France'],France,Villeneuve-d’Ascq,RW,"1,80",-
+70,Ruben Providence,Left Winger,"Jul 7, 2001 ",22,"['France', 'Haiti']",France,Lagny-sur-Marne,RW   CF,"1,78",€500k
+10,Hussayn Touati,Left Winger,"Oct 3, 2001 ",22,"['Algeria', 'France']",France,Pontoise,RW   LB,"1,76",€400k
+44,Adil Taoui,Left Winger,"Aug 10, 2001 ",22,"['France', 'Algeria']",France,Limoges,RW   SS,"1,79",€350k
+11,Axel Thoumin,Left Winger,"Dec 14, 2001 ",22,['France'],France,Mâcon,,"1,81",€100k
+7,Chedly Kaabi,Left Winger,"Aug 22, 2001 ",22,"['France', 'Tunisia']",France,Toulouse,,"1,81",-
+,Silly Sangharé,Left Winger,"Feb 24, 2001 ",23,"['Mauritania', 'France']",France,Stains,RW   LM,"1,74",-
+12,Maxime Carneiro,Left Winger,"Dec 12, 2001 ",22,"['France', 'Portugal']",France,Cholet,RW   AM,"1,74",-
+20,Paul Meliande,Left Winger,"Dec 20, 2001 ",22,['France'],France,Orthez,LM,"1,81",-
+,Aymeric Kissy,Left Winger,"Jun 5, 2001 ",22,"['Guadeloupe', 'France']",France,Stains,CF   RW,"1,77",-
+,Bastien Rouanet,Left Winger,"May 2, 2001 ",22,['France'],France,Castres,RW,"1,71",-
+,Selman Nassar-Chouiter,Left Winger,"Jan 16, 2001 ",23,"['Algeria', 'France']",France,Cannes,,"1,70",-
+,Alexandre Fressange,Left Winger,"Feb 2, 2001 ",23,"['France', 'Cameroon']",France,Trappes,RW,"1,79",-
+29,Bradley Barcola,Left Winger,"Sep 2, 2002 ",21,"['France', 'Togo']",France,Lyon,RW   CF,"1,82",€30.00m
+19,Yoann Cathline,Left Winger,"Jul 22, 2002 ",21,['France'],France,Champigny-sur-Marne,LM,"1,76",€1.50m
+11,Gautier Ott,Left Winger,"Jan 7, 2002 ",22,['France'],France,Strasbourg,RW   LB,"1,78",€900k
+20,Billal El Kaddouri,Left Winger,"Mar 10, 2002 ",21,['France'],France,Béziers,LM,"1,82",€300k
+22,Noam Emeran,Left Winger,"Sep 24, 2002 ",21,"['France', 'Rwanda']",France,Paray-le-Monial,RW   LM,"1,79",€250k
+,Ylan Gomes,Left Winger,"Jul 22, 2002 ",21,"['France', 'Guinea-Bissau']",France,Gauville-la-Campagne,LM,"1,74",€200k
+,Mathys Saban,Left Winger,"May 15, 2002 ",21,"['France', 'Guadeloupe']",France,Paris,RW   AM,"1,78",€50k
+,Mohamed Boutargui,Left Winger,"Jun 2, 2002 ",21,['France'],France,Strasbourg,,"1,82",-
+,Yacine Sahlioui,Left Winger,"Mar 18, 2002 ",21,"['France', 'Algeria']",France,Le Chesnay,AM,,-
+,Lucas Daclinat,Left Winger,"Aug 27, 2002 ",21,['France'],France,Saint-Denis,CF,"1,77",-
+,Hakan Öztürk,Left Winger,"Mar 25, 2002 ",21,"['Türkiye', 'France']",France,Mulhouse,RW   CF,"1,78",-
+,Mathys Lunel,Left Winger,"Jul 16, 2002 ",21,['France'],France,Bayonne,LB,,-
+,Madyan Sounni,Left Winger,"Dec 23, 2002 ",21,"['France', 'Morocco']",France,Lyon,RW,"1,78",-
+26,Dilane Bakwa,Left Winger,"Aug 26, 2002 ",21,"['France', 'DR Congo']",France,Créteil,RW   AM,"1,79",€6.00m
+10,Nathanaël Mbuku,Left Winger,"Mar 16, 2002 ",21,"['France', 'DR Congo']",France,Villeneuve-Saint-Georges,RW   AM,"1,70",€1.50m
+7,Tidjany Touré,Left Winger,"Jul 15, 2002 ",21,"['France', ""Cote d'Ivoire""]",France,Sarcelles,RW   AM,"1,84",€350k
+,Maïdine Douane,Left Winger,"Aug 23, 2002 ",21,"['Algeria', 'France']",France,Thionville,AM,,€300k
+29,Abdoulaye Coulibaly,Left Winger,"Feb 9, 2002 ",22,"['France', 'Senegal']",France,Paris,RW   LM,"1,80",€200k
+17,Raphaël Merkies,Left Winger,"Apr 15, 2002 ",21,"['France', 'Netherlands']",France,Paris,RW,"1,81",€100k
+95,Bertony Renelus,Left Winger,"Feb 23, 2002 ",22,['France'],France,Sarcelles,SS   RW,,€10k
+,Louis Beaufrère,Left Winger,"Feb 12, 2002 ",22,['France'],France,Lyon,CF   RW,"1,77",-
+,Mohamed Beldjilali,Left Winger,"Jan 26, 2002 ",22,"['France', 'Algeria']",France,Lille,RW   AM,,-
+59,Nawfel Saidi,Left Winger,"Oct 30, 2002 ",21,"['France', 'Algeria']",France,Roubaix,RW,"1,69",-
+,Jonathan Lavri,Left Winger,"Apr 10, 2002 ",21,['France'],France,Paris,RW   AM,"1,77",-
+,Nicolas Amouzou,Left Winger,"Apr 29, 2002 ",21,"['France', 'Senegal']",France,Evry,AM   RW,"1,80",-
+,Warren Beaucarny,Left Winger,"Mar 15, 2002 ",21,['France'],France,Senlis,CF,"1,69",-
+26,Alan Virginius,Left Winger,"Jan 3, 2003 ",21,['France'],France,Soisy-sous-Montmorency,RW   CF,"1,80",€3.50m
+20,Ilyes Hamache,Left Winger,"Feb 11, 2003 ",21,"['France', 'Algeria']",France,Lille,CF,"1,78",€900k
+24,Salim Ben Seghir,Left Winger,"Feb 24, 2003 ",21,"['France', 'Morocco']",France,Saint-Tropez,RW,"1,77",€400k
+11,Édouard Soumah-Abbad,Left Winger,"Mar 31, 2003 ",20,['France'],France,Grenoble,RW,"1,81",€250k
+26,Yannis Verdier,Left Winger,"Jul 29, 2003 ",20,"['France', 'Algeria']",France,,CF   SS,"1,89",€50k
+,Mike Gaspard,Left Winger,"Jun 26, 2003 ",20,['France'],France,Épinay-sur-Seine,,,-
+,Nohan Traoré,Left Winger,"Jun 26, 2003 ",20,"['France', ""Cote d'Ivoire""]",France,,AM   RW,"1,80",-
+,Berkan Tug,Left Winger,"Jan 16, 2003 ",21,"['Türkiye', 'France']",France,Saint-Avold,RW,"1,72",-
+,Diego Pineiro,Left Winger,"Feb 4, 2003 ",21,"['France', 'Spain']",France,Saint-Cloud,,"1,85",-
+,Samuel Noireau-Dauriat,Left Winger,"Jan 1, 2003 ",21,['France'],France,Brive-la-Gaillarde,RW,"1,86",-
+,Ilyes Zouaoui,Left Winger,"Oct 5, 2003 ",20,"['France', 'Algeria']",France,Marseille,AM   RW,"1,83",-
+,Alessio Andreottola,Left Winger,"Jul 23, 2003 ",20,"['France', 'Italy']",France,Colmar,RW   AM,,-
+16,Alexis Tibidi,Left Winger,"Nov 3, 2003 ",20,"['France', 'Cameroon']",France,Lille,CF   AM,"1,87",€1.70m
+25,Alex Daho,Left Winger,"Oct 4, 2003 ",20,"['France', ""Cote d'Ivoire""]",France,Bondy,RW,"1,75",€400k
+11,Nicolas Mercier,Left Winger,"Jan 30, 2003 ",21,['France'],France,Paris,LM   SS,"1,74",€400k
+,Yanis Lhéry,Left Winger,"May 7, 2003 ",20,"['France', 'Guadeloupe']",France,Tremblay-en-France,CF,"1,79",€100k
+,Amadou Samoura,Left Winger,"Nov 21, 2003 ",20,"['France', 'Senegal']",France,Montivilliers,,,€50k
+,Fodié Camara,Left Winger,"May 22, 2003 ",20,['France'],France,Neuilly-sur-Marne,LB,"1,79",-
+,Mattéo Pezard,Left Winger,"Sep 24, 2003 ",20,['France'],France,Le Mans,RW   SS,"1,83",-
+,Célestin Blondel,Left Winger,"Jul 9, 2003 ",20,['France'],France,Dunkerque,,,-
+,Nael Anouari,Left Winger,"Feb 5, 2003 ",21,"['France', 'Morocco']",France,,LB   AM,"1,81",-
+,Samuel Bossiwa,Left Winger,"Jul 4, 2003 ",20,['France'],France,Massy,RW   AM,,-
+,Enzo Baglieri,Left Winger,"Mar 4, 2003 ",21,"['France', 'Italy']",France,Nice,RW,,-
+47,Wilson Odobert,Left Winger,"Nov 28, 2004 ",19,"['France', 'Martinique']",France,Meaux,RW   AM,"1,82",€10.00m
+23,Stredair Appuah,Left Winger,"Jun 27, 2004 ",19,"['France', 'Ghana']",France,Sarcelles,RW,"1,85",€600k
+30,Yanis Beghdadi,Left Winger,"Oct 6, 2004 ",19,"['France', 'Algeria']",France,,AM,,€50k
+,Djibryl Coulibaly,Left Winger,"Dec 29, 2004 ",19,"['France', 'Mali']",France,Saint-Dié-des-Vosges,RW   AM,"1,76",-
+,Samson Lamour,Left Winger,"May 31, 2004 ",19,['France'],France,Laon,,,-
+,Oumarouba Sakho,Left Winger,"Jul 13, 2004 ",19,"['France', 'Guinea']",France,,LM,"1,87",-
+,Edoly Lukoki,Left Winger,"May 22, 2004 ",19,"['France', 'DR Congo']",France,Clichy,SS   CF,"1,80",-
+11,Morgan Bokele,Left Winger,"Mar 13, 2004 ",19,"['Cameroon', 'France']",France,Lyon,RW   AM,"1,75",-
+25,Mohamed-Ali Cho,Left Winger,"Jan 19, 2004 ",20,"['France', 'England']",France,Stains,CF   RW,"1,82",€8.00m
+47,Julien Vetro,Left Winger,"Apr 23, 2004 ",19,"['France', 'Martinique']",France,Lagny-sur-Marne,SS   RW,"1,78",€50k
+,Béchir Yacoub,Left Winger,"May 24, 2004 ",19,"['Tunisia', 'France']",France,Lyon,CF,"1,83",€25k
+,Kélil Benkahlouche,Left Winger,"Mar 15, 2004 ",19,"['France', 'Algeria']",France,Thionville,AM   RW,"1,73",-
+,Julien Laborde,Left Winger,"May 12, 2004 ",19,['France'],France,Pau,RW   CF,"1,87",-
+,Ebenezer De Fanti,Left Winger,"Jun 2, 2004 ",19,"['France', 'Togo']",France,Bondy,RW   CF,"1,76",-
+,Hamza Bouhadi,Left Winger,"May 19, 2004 ",19,"['Morocco', 'France']",France,Villeneuve-Saint-Georges,AM   RW,"1,65",-
+67,Enzo Tayamoutou,Left Winger,"Jan 6, 2004 ",20,"['Portugal', 'France']",France,,RW   AM,"1,72",-
+39,Mathys Tel,Left Winger,"Apr 27, 2005 ",18,"['France', 'Guadeloupe']",France,Sarcelles,RW   CF,"1,83",€50.00m
+,Mamadou Diakhon,Left Winger,"Sep 22, 2005 ",18,"['France', 'Senegal']",France,Strasbourg,RW,"1,80",€700k
+,Tom Saettel,Left Winger,"Jun 19, 2005 ",18,['France'],France,Strasbourg,RW,,€150k
+,Yanis Hadj,Left Winger,"Jan 28, 2005 ",19,['France'],France,Saint-Avold,,,-
+,Prince Nkosi,Left Winger,"Apr 2, 2005 ",18,"['France', 'DR Congo']",France,Colombes,RW   AM,"1,77",-
+,Abdelmajid Djae,Left Winger,"Jun 3, 2005 ",18,"['Comoros', 'France']",France,Aubervilliers,RW   SS,"1,83",-
+,Souheil Charaka,Left Winger,"Aug 30, 2005 ",18,"['France', 'Morocco']",France,Annecy,CF   RW,"1,80",-
+,Shon Zobo,Left Winger,"Mar 5, 2005 ",19,"['France', ""Cote d'Ivoire""]",France,Ermont,RW,,-
+,Younes Lachaab,Left Winger,"Jan 6, 2005 ",19,"['France', 'Algeria']",France,Maubeuge,,"1,76",-
+19,Queyrell Tchicamboud,Left Winger,"Dec 8, 2005 ",18,"['France', 'Congo']",France,Évry,,,-
+,Lucas Michal,Left Winger,"Jun 22, 2005 ",18,"['France', 'Martinique']",France,Bourg-la-Reine,CF   RW,,-
+,Darlens François,Left Winger,"Jan 1, 2005 ",19,['France'],France,Sarcelles,CF   RW,,-
+19,Jean-Mattéo Bahoya,Left Winger,"May 7, 2005 ",18,"['France', 'Cameroon']",France,Montfermeil,AM   CF,"1,80",€2.50m
+,Aaron Malouda,Left Winger,"Nov 30, 2005 ",18,"['France', 'French Guiana']",France,Écully,RW   AM,,€150k
+,Sascha Touodop Tekeu,Left Winger,"Jan 11, 2005 ",19,"['France', 'Germany']",France,Strasbourg,RW   SS,"1,88",€25k
+,Idriss Monteville,Left Winger,"Mar 29, 2005 ",18,"['France', 'Réunion']",France,Metz,RW,,-
+,Jean Elie Louison,Left Winger,"Jun 1, 2005 ",18,['France'],France,,RW   SS,"1,84",-
+,Louis Pama Djobo,Left Winger,"Jan 10, 2005 ",19,['France'],France,,,"1,82",-
+,Safy Bensalem,Left Winger,"Jul 13, 2005 ",18,"['France', 'Algeria']",France,Drancy,,"1,80",-
+,Michael Mortume,Left Winger,"Jul 25, 2005 ",18,"['France', 'Haiti']",France,Clamart,SS,"1,77",-
+,Nathan Quinton,Left Winger,"Jan 20, 2005 ",19,['France'],France,,AM   SS,"1,78",-
+47,Christ Mukelenge,Left Winger,"Jul 2, 2005 ",18,"['France', 'DR Congo']",France,Bondy,CF,,-
+,Soufian Awragh,Left Winger,"Feb 23, 2005 ",19,"['France', 'Morocco']",France,Nizza,RW,"1,71",-
+,Sayha Seha,Left Winger,"Jan 15, 2005 ",19,"['Madagascar', 'France']",France,Troyes,RW,"1,74",-
