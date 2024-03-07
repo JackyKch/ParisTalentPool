@@ -1,0 +1,45 @@
+Number,Name,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+,Jean-David Nessoumou,Second Striker,"Sep 28, 1985 ",38,['France'],France,Noisy-le-Grand,CF   LW,"1,87",-
+,Jonathan Roufosse,Second Striker,"Apr 10, 1985 ",38,['France'],France,Vitry-sur-Seine,LW   RW,"1,81",-
+,Anthony Moura-Komenan,Second Striker,"Jan 29, 1986 ",38,"[""Cote d'Ivoire"", 'France']",France,Bruges,RW   AM,"1,70",-
+30,Nicolas Diguiny,Second Striker,"May 31, 1988 ",35,"['France', ""Cote d'Ivoire""]",France,Saint-Germain-en-Laye,RW   LW,"1,79",€200k
+,Samir Lacheheb,Second Striker,"Jun 27, 1988 ",35,"['France', 'Algeria']",France,Paris,AM   CM,"1,72",-
+,Matthias Lepiller,Second Striker,"Jun 12, 1988 ",35,['France'],France,Le Havre,AM   LW,"1,85",-
+,Kévin Vergerolle,Second Striker,"Aug 26, 1988 ",35,['France'],France,Châtellerault,AM   RW,"1,70",-
+,Smail Morabit,Second Striker,"Jul 5, 1988 ",35,"['France', 'Morocco']",France,Forbach,CF   RW,"1,78",-
+10,Florent Sauvadet,Second Striker,"Jan 31, 1989 ",35,['France'],France,Issoire,LW   RW,"1,77",-
+,Thibaut Bourgeois,Second Striker,"Jan 5, 1990 ",34,['France'],France,Maizières-lès-Metz,CF   LW,"1,80",-
+7,Ismaïl Sassi,Second Striker,"Dec 24, 1991 ",32,"['France', 'Tunisia']",France,,LW   RW,"1,86",€100k
+,Clary Kurs,Second Striker,"Feb 3, 1991 ",33,"['France', 'Gabon']",France,Paris,AM   CM,"1,81",-
+,Quentin Rouger,Second Striker,"Mar 31, 1991 ",32,['France'],France,Laval,AM   RW,"1,72",-
+9,Brian El Hamer,Second Striker,"Sep 3, 1991 ",32,"['France', 'Algeria']",France,,AM   LW,,-
+,Donneil Moukanza,Second Striker,"Feb 27, 1991 ",33,"['France', 'Congo']",France,,AM   CF,"1,87",-
+,Samy Sebaa,Second Striker,"Sep 30, 1991 ",32,"['Algeria', 'France']",France,,LW,"1,75",-
+94,Amadou Soukouna,Second Striker,"Jun 21, 1992 ",31,"['France', 'Mali']",France,Paris,CF   AM,"1,77",€300k
+,Arsene Luboya,Second Striker,"Jul 13, 1992 ",31,"['France', 'DR Congo']",France,Paris,RW,"1,84",-
+,Julian Ripoli,Second Striker,"Oct 7, 1992 ",31,"['France', 'Italy']",France,Paris,CF   LW,"1,83",-
+,Jordan N'Kololo,Second Striker,"Nov 9, 1992 ",31,"['DR Congo', 'France']",France,Créteil,LW   RW,"1,83",€150k
+,Steve Kipre,Second Striker,"Dec 18, 1992 ",31,['France'],France,Saint Germain en Laye,,N/A,-
+,Brian Babit,Second Striker,"Mar 21, 1993 ",30,['France'],France,Saint-Avold,RW   LW,"1,70",-
+93,Mamadou Thiam,Second Striker,"Mar 20, 1995 ",28,"['Senegal', 'France']",France,Aubervilliers,CF   LW,"1,80",€650k
+,Joey Millimono,Second Striker,"May 27, 1995 ",28,"['Guinea', 'France']",France,Toulon,RW   LW,"1,74",-
+,Axel Guierou,Second Striker,"Jun 19, 1996 ",27,"[""Cote d'Ivoire"", 'France']",France,Blois,AM,"1,87",-
+,Devrim Barkin,Second Striker,"Jun 3, 1996 ",27,"['France', 'Türkiye']",France,Altkirch,LW   LM,"1,87",-
+11,Yannis Ouhammou,Second Striker,"Jul 21, 1996 ",27,"['France', 'Morocco']",France,Caen,AM   LW,"1,80",-
+,Matthis Jourdan,Second Striker,"Feb 28, 1997 ",27,['France'],France,Rennes,,,-
+71,Erkan Şahin,Second Striker,"Sep 25, 2000 ",23,"['Türkiye', 'France']",France,Le Creusot,CF   LW,"1,80",€10k
+,Vincent Millot,Second Striker,"Apr 22, 2000 ",23,"['France', 'Algeria']",France,Thionville,CF   LW,,-
+24,Tyrone Tormin,Second Striker,"Jun 29, 2001 ",22,"['France', 'Guadeloupe']",France,Clichy,RW   LW,"1,77",€100k
+,Rayan Mennour,Second Striker,"Sep 17, 2002 ",21,"['France', 'Algeria']",France,París,LW   RW,"1,70",-
+27,Alessandro Arlotti,Second Striker,"Apr 2, 2002 ",21,['Italy'],France,Nice,AM,"1,80",-
+24,Bilel Sahli,Second Striker,"Nov 6, 2003 ",20,"['France', 'Tunisia']",France,Aubervilliers,CF   LW,"1,86",€50k
+18,Glayne Wago,Second Striker,N/A ,20,"['France', 'Central African Republic']",France,Lyon,,"1,88",-
+,Vassancy Diomandé,Second Striker,"Feb 11, 2003 ",21,"['France', ""Cote d'Ivoire""]",France,,LW,"1,80",-
+31,Adam Hammoudi,Second Striker,"Feb 19, 2003 ",21,"['France', 'Algeria']",France,Courcouronnes,CF   AM,"1,85",€25k
+,Yacine Fahad,Second Striker,"Jun 3, 2003 ",20,"['Comoros', 'France']",France,Gonesse,RW   CF,"1,81",-
+,Lucas Makan,Second Striker,"Aug 9, 2003 ",20,"['France', 'Cameroon']",France,Saint-Michel,CF   RW,,-
+11,Jonathan Pitou,Second Striker,"Aug 11, 2004 ",19,['France'],France,Marseille,RW   LW,"1,74",€250k
+,Abdsamad Aniss,Second Striker,"Mar 2, 2004 ",20,"['France', 'Morocco']",France,Hyères,RW   LW,,-
+,Maxence Voinier,Second Striker,"Jan 8, 2004 ",20,['France'],France,Carpentras,AM,,-
+,Ilias Miraoui,Second Striker,"Mar 31, 2005 ",18,"['France', 'Algeria']",France,Le Havre,,"1,84",-
+,Léo Botz,Second Striker,"Jan 11, 2005 ",19,['France'],France,Challans,LW,,-
