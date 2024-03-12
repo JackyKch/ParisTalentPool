@@ -1,0 +1,1084 @@
+Number,Name,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+,Rayro,Left-Back,"Dec 4, 1985 ",38,['Brazil'],Brazil,,DM   CM,"1,75",-
+,Stanley,Left-Back,"Aug 10, 1985 ",38,['Brazil'],Brazil,Londrina,,"1,74",-
+,Augusto,Left-Back,"Feb 3, 1985 ",39,['Brazil'],Brazil,Campinas,,"1,73",-
+,Júlio César,Left-Back,"Sep 1, 1985 ",38,['Brazil'],Brazil,Teófilo Otoni,LM,"1,80",-
+,Guto,Left-Back,"Aug 30, 1985 ",38,['Brazil'],Brazil,Quixeramobim,LM   LW,"1,74",-
+,Andrezinho,Left-Back,"Aug 30, 1985 ",38,['Brazil'],Brazil,São Paulo,LM,"1,69",-
+,Wellington Saci,Left-Back,"Jan 5, 1985 ",39,['Brazil'],Brazil,Belém,AM   LM,"1,73",-
+,Leonardo Jesus,Left-Back,"Aug 4, 1985 ",38,['Brazil'],Brazil,Carapicuiba,LW   LM,"1,72",-
+,Dudu Paraíba,Left-Back,"Mar 11, 1985 ",39,['Brazil'],Brazil,Mari,LM,"1,82",-
+,Wellington,Left-Back,"Aug 17, 1985 ",38,['Brazil'],Brazil,Guarulhos,,N/A,-
+,Felipe,Left-Back,"May 22, 1985 ",38,['Brazil'],Brazil,,LM,"1,73",-
+,Filipe Luís,Left-Back,"Aug 9, 1985 ",38,"['Brazil', 'Poland']",Brazil,Jaraguá do Sul,CB,"1,82",-
+,Raul,Left-Back,"Nov 9, 1985 ",38,['Brazil'],Brazil,Poço Verde,,"1,70",-
+,Pirão,Left-Back,"Dec 31, 1985 ",38,['Brazil'],Brazil,Campo dos Goytacazes,LM   DM,"1,82",-
+,Aelson,Left-Back,"Aug 2, 1985 ",38,['Brazil'],Brazil,Imperatriz,,"1,64",-
+,Fernandinho,Left-Back,"Aug 31, 1985 ",38,['Brazil'],Brazil,Cianorte,DM   LW,"1,80",-
+,Thyago Fernandes,Left-Back,"Dec 5, 1985 ",38,['Brazil'],Brazil,Brasília,,"1,75",-
+,Fábinho,Left-Back,"Mar 16, 1985 ",38,['Brazil'],Brazil,Ariquenes,LM,"1,73",-
+,Alex Santos,Left-Back,"Jun 27, 1985 ",38,['Brazil'],Brazil,Ilhéus,RB,"1,78",-
+,Fernandes,Left-Back,"Apr 24, 1985 ",38,['Brazil'],Brazil,Caaporã,DM   LM,"1,71",-
+,Thiago Feltri,Left-Back,"May 18, 1985 ",38,['Brazil'],Brazil,Fernão,,"1,75",-
+,Márcio Goiano,Left-Back,"Jan 2, 1985 ",39,['Brazil'],Brazil,Quirinópolis,,"1,81",-
+,Felipe,Left-Back,"Jul 22, 1985 ",38,['Brazil'],Brazil,Santa Rosa,CB   DM,"1,83",-
+,Fábio Santos,Left-Back,"Sep 16, 1985 ",38,"['Brazil', 'Portugal']",Brazil,São Paulo,LM   CB,"1,79",-
+,Carlinhos,Left-Back,"Nov 29, 1986 ",37,['Brazil'],Brazil,Piripiri,LM,"1,67",€250k
+13,Júnior Morais,Left-Back,"Jul 22, 1986 ",37,"['Brazil', 'Romania']",Brazil,São Luís,LM   CM,"1,76",€150k
+77,Fernando,Left-Back,"Nov 14, 1986 ",37,"['Hongkong', 'Brazil']",Brazil,"Salvador, Bahia",LW   AM,"1,79",€100k
+,Wallace Barba,Left-Back,"Jun 8, 1986 ",37,['Brazil'],Brazil,Itabuna,DM,"1,72",-
+,Assis,Left-Back,"Mar 9, 1986 ",38,['Brazil'],Brazil,Nazaré do Piauí,,"1,77",-
+,Peri,Left-Back,"Feb 28, 1986 ",38,['Brazil'],Brazil,Palmeira dos Índios,LM,"1,76",-
+,Janderson Baiano,Left-Back,"Jun 15, 1986 ",37,['Brazil'],Brazil,Salvador,LM   LW,"1,75",-
+,Jefferson,Left-Back,"Feb 15, 1986 ",38,['Brazil'],Brazil,Santos,,"1,77",-
+,Raí,Left-Back,"Sep 21, 1986 ",37,['Brazil'],Brazil,São Luís,LM   LW,"1,77",-
+,João Paulo,Left-Back,"Jul 1, 1986 ",37,['Brazil'],Brazil,Rio de Janeiro,,"1,73",-
+,Gérson,Left-Back,"Apr 3, 1986 ",37,['Brazil'],Brazil,Valença,,"1,73",-
+,Janilson,Left-Back,"Feb 4, 1986 ",38,['Brazil'],Brazil,Crateús,LM,,-
+,Gilson,Left-Back,"May 14, 1986 ",37,['Brazil'],Brazil,Campo Grande,LM,"1,77",-
+,Egídio,Left-Back,"Jun 16, 1986 ",37,['Brazil'],Brazil,Rio de Janeiro,LM,"1,77",€200k
+,Márcio Azevedo,Left-Back,"Feb 5, 1986 ",38,['Brazil'],Brazil,Guarabira,LM,"1,73",€150k
+7,Edimar,Left-Back,"May 21, 1986 ",37,['Brazil'],Brazil,Cachoeiro de Itapemirim,LM,"1,80",€100k
+,David Coió,Left-Back,"Dec 22, 1986 ",37,['Brazil'],Brazil,,CB,,-
+,Adriano Garça,Left-Back,"Mar 30, 1986 ",37,"['Equatorial Guinea', 'Brazil']",Brazil,Araras,,"1,77",-
+,Rodrigo Biro,Left-Back,"Nov 18, 1986 ",37,['Brazil'],Brazil,Araçatuba,,"1,77",-
+,Buiu,Left-Back,"Jan 14, 1986 ",38,['Brazil'],Brazil,Campo Grande,,"1,72",-
+,Rodrigo Andrade,Left-Back,"May 22, 1986 ",37,['Brazil'],Brazil,Curitiba,LM,"1,70",-
+,Helton,Left-Back,"May 20, 1986 ",37,['Brazil'],Brazil,Garopaba,LM,"1,87",-
+,Caio Mendes,Left-Back,"Jan 6, 1986 ",38,['Brazil'],Brazil,São Paulo,,"1,79",-
+,Rodrigo,Left-Back,"Jan 21, 1986 ",38,['Brazil'],Brazil,Pedro Leopoldo,LM,"1,78",-
+,Ronaldo,Left-Back,"Apr 10, 1986 ",37,['Brazil'],Brazil,São Paulo,CB   DM,,-
+,Cesinha,Left-Back,"Sep 16, 1986 ",37,['Brazil'],Brazil,,,"1,70",-
+,Radar,Left-Back,"Jun 10, 1986 ",37,['Brazil'],Brazil,Vitória da Conquista,,"1,77",-
+,Anderson Mineiro,Left-Back,"Apr 24, 1986 ",37,['Brazil'],Brazil,Belo Horizonte,LM,"1,84",-
+,Bruno Teles,Left-Back,"May 1, 1986 ",37,['Brazil'],Brazil,Alvorada,LM   CB,"1,83",-
+,Wallace,Left-Back,"Oct 29, 1986 ",37,['Brazil'],Brazil,Cerquilho,,"1,83",-
+,Ulisses,Left-Back,"Apr 15, 1986 ",37,['Brazil'],Brazil,São Gonçalo,,"1,70",-
+,Émerson Conceição,Left-Back,"Feb 23, 1986 ",38,['Brazil'],Brazil,São Paulo,CB,"1,87",-
+,Santos,Left-Back,"Mar 9, 1986 ",38,['Brazil'],Brazil,Santo Antônio de Jesus,,"1,73",-
+,Vandinho,Left-Back,"Jun 9, 1986 ",37,['Brazil'],Brazil,Serra,DM   LM,"1,80",-
+,Piauí,Left-Back,"Dec 2, 1986","Dec 2, 1986",['Brazil'],Brazil,Floriano,LM   LW,"1,70",-
+,George,Left-Back,"Jan 7, 1986 ",38,['Brazil'],Brazil,Ilhéus,,"1,74",-
+,Valmir,Left-Back,"Oct 11, 1986 ",37,['Brazil'],Brazil,Santana de Cataguases,,"1,74",-
+,Guilherme Siqueira,Left-Back,"Apr 28, 1986 ",37,"['Brazil', 'Italy']",Brazil,Florianópolis,,"1,82",-
+,Bruno Cortez,Left-Back,"Mar 11, 1987 ",37,['Brazil'],Brazil,Rio de Janeiro,,"1,79",€150k
+,Júnior Capixaba,Left-Back,"Apr 16, 1987 ",36,['Brazil'],Brazil,,DM,"1,76",-
+,Nininho,Left-Back,"Aug 3, 1987 ",36,['Brazil'],Brazil,Ceará-Mirim,,"1,71",-
+,Bruno Santos,Left-Back,"Nov 22, 1987 ",36,['Brazil'],Brazil,Dourados,,"1,75",-
+,Djavan,Left-Back,"Dec 31, 1987 ",36,['Brazil'],Brazil,Serrinha,CB,"1,84",-
+,Ruan,Left-Back,"Oct 7, 1987 ",36,['Brazil'],Brazil,Balneário Camboriú,DM,"1,72",-
+,Fábio Guarú,Left-Back,"Sep 3, 1987 ",36,"['Brazil', 'Hungary']",Brazil,Guarulhos,LM   CB,"1,83",-
+,Magal,Left-Back,"Jun 28, 1987 ",36,['Brazil'],Brazil,Lavras,RB,"1,72",-
+,Ernandes,Left-Back,"Nov 11, 1987 ",36,['Brazil'],Brazil,São Felix do Araguaia,DM   LW,"1,73",-
+,Teles,Left-Back,"Mar 27, 1987 ",36,['Brazil'],Brazil,Fortaleza,,"1,72",-
+,Flavinho,Left-Back,"Aug 23, 1987 ",36,['Brazil'],Brazil,São Paulo,LM,"1,75",-
+,Eltinho,Left-Back,"Jul 7, 1987 ",36,['Brazil'],Brazil,Guaraí,CB,"1,71",-
+,Jajá,Left-Back,"Dec 26, 1987 ",36,['Brazil'],Brazil,,LM   AM,"1,74",-
+6,Pará,Left-Back,"Sep 19, 1987 ",36,['Brazil'],Brazil,Rio Maria,,"1,72",€100k
+,Kabrine,Left-Back,"Sep 20, 1987 ",36,['Brazil'],Brazil,,,,-
+,Xaro,Left-Back,"Mar 4, 1987 ",37,['Brazil'],Brazil,Ijuí,LM,"1,77",-
+,Tiago Costa,Left-Back,"Apr 13, 1987 ",36,['Brazil'],Brazil,Rio de Janeiro,,"1,75",-
+,Julinho,Left-Back,"Jul 21, 1987 ",36,['Brazil'],Brazil,Bagé,,"1,82",-
+,Rafinha,Left-Back,"Apr 1, 1987 ",36,['Brazil'],Brazil,Campo Mourão,,"1,73",-
+,Wellington,Left-Back,"Feb 27, 1987 ",37,['Brazil'],Brazil,Santos,LM,"1,81",-
+,Rodrigo Crasso,Left-Back,"Feb 25, 1987 ",37,['Brazil'],Brazil,Curitiba,,"1,73",-
+,Bruninho,Left-Back,"Aug 24, 1987 ",36,['Brazil'],Brazil,São Paulo,,"1,75",-
+,Arthur Henrique,Left-Back,"Jan 14, 1987 ",37,['Brazil'],Brazil,São Paulo,LM,"1,78",-
+,Zadda,Left-Back,"Mar 28, 1987 ",36,['Brazil'],Brazil,Santa Inês,,"1,73",-
+,Vinicius Evandro,Left-Back,"Apr 23, 1987 ",36,"['Brazil', 'Italy']",Brazil,Araraquara,,"1,69",-
+,Kim,Left-Back,"Sep 10, 1987 ",36,['Brazil'],Brazil,São José do Vale do Rio Preto,,"1,75",-
+,Léo Veloso,Left-Back,"May 29, 1987 ",36,['Brazil'],Brazil,Pedro Leopoldo,,"1,79",-
+,Hugo,Left-Back,"Jun 6, 1987 ",36,['Brazil'],Brazil,Rio de Janeiro,LM,"1,75",-
+,Fabrício,Left-Back,"Jan 11, 1987 ",37,['Brazil'],Brazil,São Paulo,DM   LM,"1,85",-
+,Carlinhos,Left-Back,"Jan 23, 1987 ",37,['Brazil'],Brazil,Vitória da Conquista,CM   LM,"1,75",-
+,Carlão,Left-Back,"Jul 19, 1987 ",36,['Brazil'],Brazil,Maringá,LM,"1,67",-
+,Romano,Left-Back,"Nov 10, 1987 ",36,['Brazil'],Brazil,Taquara,RB,"1,78",-
+,Vanderson,Left-Back,"Feb 26, 1987 ",37,['Brazil'],Brazil,Florianopolis,,"1,81",-
+,Luiz Henrique Gauchinho,Left-Back,"Aug 24, 1987 ",36,['Brazil'],Brazil,Santo Ângelo,,"1,76",-
+12,Marcelo,Left-Back,"May 12, 1988 ",35,"['Brazil', 'Spain']",Brazil,Rio de Janeiro,,"1,74",€1.50m
+,Hélder Santos,Left-Back,"Oct 21, 1988 ",35,['Brazil'],Brazil,Três Corações,,"1,77",€100k
+3,Paulo Vitor,Left-Back,"Jul 26, 1988 ",35,['Brazil'],Brazil,,,"1,68",-
+,Levy,Left-Back,"Jul 22, 1988 ",35,['Brazil'],Brazil,,,,-
+,Paulinho,Left-Back,"May 5, 1988 ",35,['Brazil'],Brazil,Belém,,"1,70",-
+,Rodolfo Testoni,Left-Back,"Dec 15, 1988 ",35,['Brazil'],Brazil,Itajaí,,"1,79",-
+,Alexandre,Left-Back,"Sep 4, 1988 ",35,['Brazil'],Brazil,Ceará-Mirim,LW   AM,"1,71",-
+,Nelsinho,Left-Back,"Jan 1, 1988 ",36,"['Brazil', 'Portugal']",Brazil,Cruz das Almas,LM,"1,76",-
+,Alex Barros,Left-Back,"Oct 28, 1988 ",35,['Brazil'],Brazil,Pacaembu,,"1,64",-
+,Tiaguinho,Left-Back,"Jun 8, 1988 ",35,['Brazil'],Brazil,Ituiutaba,LM,"1,88",-
+,Jander,Left-Back,"Jul 8, 1988 ",35,['Brazil'],Brazil,Feira de Santana,DM   LW,"1,83",-
+,Rafael Estevam,Left-Back,"Apr 26, 1988 ",35,['Brazil'],Brazil,Santa Luzia,DM,"1,78",-
+,Rafinha,Left-Back,"Aug 11, 1988 ",35,['Brazil'],Brazil,Santana do Ipanema,,"1,75",-
+,Guilherme Santos,Left-Back,"Feb 5, 1988 ",36,['Brazil'],Brazil,Jequié,LM   DM,"1,73",€150k
+,Leo Carioca,Left-Back,"Oct 6, 1988 ",35,['Brazil'],Brazil,Rio de Janeiro,GK,"1,92",-
+,Fábio Alves,Left-Back,"Mar 9, 1988 ",36,['Brazil'],Brazil,Curitiba,,"1,84",-
+,Noel,Left-Back,"Aug 18, 1988 ",35,['Brazil'],Brazil,Macaé,,,-
+,Jefferson Arroz,Left-Back,"Jan 17, 1988 ",36,['Brazil'],Brazil,Cuiabá,LM,"1,78",-
+,Vinicius da Cunha,Left-Back,"Aug 23, 1988 ",35,"['Brazil', 'Italy']",Brazil,Caxias do Sul,LM   AM,N/A,-
+,Vinícius,Left-Back,"Jan 7, 1988 ",36,['Brazil'],Brazil,Capivari,LM   LW,"1,81",-
+,Wilian Simões,Left-Back,"Mar 6, 1988 ",36,['Brazil'],Brazil,Cachoeiro do Itapemirim,,"1,69",-
+,Tom,Left-Back,"Jun 21, 1988 ",35,['Brazil'],Brazil,Guanambi,LM,"1,75",-
+,Edson Oliveira,Left-Back,"Jan 20, 1988 ",36,['Brazil'],Brazil,Itabaiana,LM   RB,"1,67",-
+,Dudu,Left-Back,"Jan 22, 1988 ",36,['Brazil'],Brazil,Araras,,"1,73",-
+,Cleidson,Left-Back,"Aug 13, 1988 ",35,['Brazil'],Brazil,Campina Grande,,"1,83",-
+,Willian,Left-Back,"Mar 5, 1988 ",36,['Brazil'],Brazil,Osasco,LM,"1,78",-
+28,Itto Cruz,Left-Back,"Jul 21, 1988 ",35,"['Brazil', 'Portugal']",Brazil,Recife,LM,"1,78",-
+,Dieguinho,Left-Back,"Nov 18, 1988 ",35,['Brazil'],Brazil,Goiás,,"1,68",-
+,Ávine,Left-Back,"Feb 21, 1988 ",36,['Brazil'],Brazil,Aimoré,LM,"1,70",-
+,Murilo Ceará,Left-Back,"Jan 13, 1988 ",36,['Brazil'],Brazil,Franca,LM,"1,82",-
+,Jefferson,Left-Back,"Jul 5, 1988 ",35,"['Brazil', 'Portugal']",Brazil,Campo Formoso,,"1,76",-
+,Alex Cazumba,Left-Back,"Jun 30, 1988 ",35,['Brazil'],Brazil,Amélia Rodrigues,,"1,82",-
+,Anderson Luis,Left-Back,"Sep 15, 1988 ",35,['Brazil'],Brazil,São Paulo,LM,"1,70",-
+,Maurim,Left-Back,"May 1, 1988 ",35,['Brazil'],Brazil,Barão de Antonina,LM,"1,82",-
+,Diogo,Left-Back,"Oct 15, 1988 ",35,['Brazil'],Brazil,Rio de Janeiro,LM,"1,82",-
+22,Elízio,Left-Back,"Feb 22, 1988 ",36,['Brazil'],Brazil,Cuiaba,,"1,80",-
+,Ralph,Left-Back,"Aug 7, 1988 ",35,['Brazil'],Brazil,Campo dos Goytacazes,,"1,75",-
+,Uendel,Left-Back,"Oct 8, 1988 ",35,['Brazil'],Brazil,Araranguá,LM,"1,79",-
+,Gustavo Goiano,Left-Back,"Jan 16, 1988 ",36,['Brazil'],Brazil,Quirinópolis,,"1,84",-
+,Ramon Motta,Left-Back,"May 6, 1988 ",35,['Brazil'],Brazil,Cachoeiro de Itapemirim,LM   CM,"1,73",-
+,Anderson Pico,Left-Back,"Nov 4, 1988 ",35,['Brazil'],Brazil,Porto Alegre,,"1,70",-
+21,Marçal,Left-Back,"Feb 19, 1989 ",35,['Brazil'],Brazil,São Paulo,CB,"1,78",€900k
+,Danilo Avelar,Left-Back,"Jun 9, 1989 ",34,"['Brazil', 'Italy']",Brazil,Paranavaí,CB,"1,85",€250k
+,Sadrak,Left-Back,"Mar 26, 1989 ",34,['Brazil'],Brazil,Barrocas (BA),DM,"1,78",-
+,Makeka,Left-Back,"Aug 9, 1989 ",34,['Brazil'],Brazil,,,"1,75",-
+,Jeferson,Left-Back,"May 5, 1989 ",34,['Brazil'],Brazil,Rio Branco,DM,"1,79",-
+,Léo Carvalho,Left-Back,"Mar 4, 1989 ",35,['Brazil'],Brazil,Imperatriz,LM,"1,69",-
+,Bruno Ré,Left-Back,"Dec 6, 1989 ",34,['Brazil'],Brazil,Monte Mor,LM   CB,"1,82",-
+,Thiago Pereira,Left-Back,"Jul 21, 1989 ",34,['Brazil'],Brazil,São Paulo,,"1,77",-
+,Marquinhos,Left-Back,"Jul 16, 1989 ",34,['Brazil'],Brazil,Guarapuava,LM,"1,70",-
+,Bryan,Left-Back,"Jul 4, 1989 ",34,['Brazil'],Brazil,Belém,,"1,74",-
+,Luis Alberto,Left-Back,"Oct 19, 1989 ",34,['Brazil'],Brazil,Itaberaba,CB   DM,"1,92",-
+,Wacerman,Left-Back,"Aug 22, 1989 ",34,['Brazil'],Brazil,,,"1,78",-
+,Rafael Rocha,Left-Back,"Mar 14, 1989 ",34,['Brazil'],Brazil,Ribeirão Preto,LW   LM,"1,74",-
+6,Reinaldo,Left-Back,"Sep 28, 1989 ",34,['Brazil'],Brazil,Porto Calvo,,"1,78",€700k
+28,Alan Ruschel,Left-Back,"Aug 23, 1989 ",34,['Brazil'],Brazil,Taquara,,"1,76",€200k
+,Paulo César,Left-Back,"May 26, 1989 ",34,['Brazil'],Brazil,,,,-
+,Leo Fernandes,Left-Back,"Jan 11, 1989 ",35,"['Brazil', 'Portugal']",Brazil,Rio de Janeiro,CB,"1,86",-
+,Zé Aquiraz,Left-Back,"Mar 14, 1989 ",34,['Brazil'],Brazil,,,"1,74",-
+,Guilherme,Left-Back,"Dec 6, 1989 ",34,['Brazil'],Brazil,,LM,"1,78",-
+,Daniel Nazaré,Left-Back,"Mar 10, 1989 ",35,['Brazil'],Brazil,,,"1,75",-
+,Mailson,Left-Back,"Jul 13, 1989 ",34,['Brazil'],Brazil,Salvador,LM   DM,"1,80",-
+,Giovanni,Left-Back,"Jun 23, 1989 ",34,"['Brazil', 'Italy']",Brazil,Santos,LM,"1,82",-
+,Marcio Pit,Left-Back,"May 10, 1989 ",34,['Brazil'],Brazil,Floriano,LM,"1,60",-
+,Diogo de Almeida,Left-Back,"Jan 2, 1989 ",35,['Brazil'],Brazil,Piricicaba,,"1,83",-
+,André Santos,Left-Back,"Mar 25, 1989 ",34,['Brazil'],Brazil,São José da Tapera,,,-
+,Airton,Left-Back,"Feb 8, 1989 ",35,['Brazil'],Brazil,Santa Rosa de Lima,CB,"1,74",-
+,Altemar,Left-Back,"May 1, 1989 ",34,['Brazil'],Brazil,Recife,,"1,76",-
+16,Eduardo Diniz,Left-Back,"Apr 18, 1989 ",34,['Brazil'],Brazil,Guaraí,RB,"1,79",-
+,Gabriel Silva,Left-Back,"Mar 4, 1989 ",35,['Brazil'],Brazil,Rio de Janeiro,,"1,84",-
+,Diogo Silvestre,Left-Back,"Dec 30, 1989 ",34,['Brazil'],Brazil,Paranavaí,LM,"1,76",-
+,Wellington Baroni,Left-Back,"Apr 1, 1989 ",34,"['Brazil', 'Italy']",Brazil,Curitiba,LM,"1,79",-
+,Edu Pina,Left-Back,"Jan 23, 1989 ",35,['Brazil'],Brazil,Nova Iguaçu,LM,"1,80",-
+,Thiago Carleto,Left-Back,"Mar 24, 1989 ",34,['Brazil'],Brazil,São Bernardo,LM,"1,76",-
+,Castor,Left-Back,"Nov 19, 1989 ",34,['Brazil'],Brazil,Curitiba,,"1,85",-
+,Magalhães,Left-Back,"Aug 20, 1989 ",34,['Brazil'],Brazil,Belo Horizonte,LM   DM,"1,79",-
+,Gilton,Left-Back,"Mar 25, 1989 ",34,['Brazil'],Brazil,Campo Grande,,"1,84",-
+,Maxwell,Left-Back,"Dec 30, 1989 ",34,['Brazil'],Brazil,Camaçari,,"1,72",-
+,Luis Gustavo,Left-Back,"Feb 7, 1989 ",35,['Brazil'],Brazil,Corinto,,"1,69",-
+,Dieguinho,Left-Back,"Sep 29, 1989 ",34,['Brazil'],Brazil,Carapó,,"1,69",-
+,Thiago Soares,Left-Back,"Dec 11, 1989 ",34,['Brazil'],Brazil,Paranavaí,,"1,68",-
+31,Ismaily,Left-Back,"Jan 11, 1990 ",34,['Brazil'],Brazil,Ivinhema,LM,"1,77",€2.00m
+25,Natanael,Left-Back,"Dec 25, 1990 ",33,"['Brazil', 'Bulgaria']",Brazil,Cuiabá,,"1,68",€750k
+,Roberto,Left-Back,"Dec 4, 1990 ",33,['Brazil'],Brazil,Picos,,"1,77",€200k
+,William Matheus,Left-Back,"Apr 2, 1990 ",33,['Brazil'],Brazil,Nova Iguaçu,LM,"1,81",€200k
+,Guilherme Telles,Left-Back,"Jun 21, 1990 ",33,['Brazil'],Brazil,Presidente Prudente,,"1,75",-
+,Bruno Maia,Left-Back,"Oct 6, 1990 ",33,['Brazil'],Brazil,Rio de Janeiro,,"1,80",-
+,Elves,Left-Back,"Nov 12, 1990 ",33,['Brazil'],Brazil,,,"1,72",-
+,Jefferson Abreu,Left-Back,"Nov 20, 1990 ",33,['Brazil'],Brazil,Sao Luis,,"1,75",-
+,Lucas Pavone,Left-Back,"Mar 25, 1990 ",33,['Brazil'],Brazil,Rincão,,"1,83",-
+,Allan Vieira,Left-Back,"Jul 14, 1990 ",33,['Brazil'],Brazil,São Paulo,,"1,82",-
+,Thiaguinho,Left-Back,"Oct 19, 1990 ",33,['Brazil'],Brazil,,,"1,74",-
+,Breno Lopes,Left-Back,"Sep 28, 1990 ",33,['Brazil'],Brazil,Itacarambi,,"1,81",-
+,Jhonathan Moc,Left-Back,"Sep 12, 1990 ",33,['Brazil'],Brazil,Montes Claros,DM   CM,"1,80",-
+12,Guilherme,Left-Back,"Apr 1, 1990 ",33,"['Brazil', 'Portugal']",Brazil,Porto Alegre,LM   LW,"1,80",€1.00m
+,Sander,Left-Back,"Oct 3, 1990 ",33,['Brazil'],Brazil,Corumbá de Goiás,CB,"1,77",€250k
+,Diego Renan,Left-Back,"Jan 26, 1990 ",34,['Brazil'],Brazil,Surubim,RB,"1,72",€200k
+,Bruno Valente,Left-Back,"Mar 7, 1990 ",34,['Brazil'],Brazil,Rio De Janeiro,,"1,83",-
+,Diego Maia,Left-Back,"Feb 3, 1990 ",34,['Brazil'],Brazil,,,"1,82",-
+,Thiago Carioca,Left-Back,"Jun 18, 1990 ",33,['Brazil'],Brazil,Rio De Janeiro,DM,"1,84",-
+,William,Left-Back,"Jun 6, 1990 ",33,['Brazil'],Brazil,,,,-
+,Zeca,Left-Back,"Jun 25, 1990 ",33,['Brazil'],Brazil,,,"1,78",-
+,Renan Pinto,Left-Back,"Sep 9, 1990 ",33,['Brazil'],Brazil,Rio de Janeiro (RJ),,"1,75",-
+,Pedro Rosa,Left-Back,"Aug 28, 1990 ",33,['Brazil'],Brazil,Caeté,,"1,86",-
+,Zeca,Left-Back,"Jul 25, 1990 ",33,['Brazil'],Brazil,Rio de Janeiro,,"1,80",-
+,Jofre Elias Dutra,Left-Back,"Apr 26, 1990 ",33,['Brazil'],Brazil,Rio de Janeiro,,"1,77",-
+,Túlio,Left-Back,"Sep 12, 1990 ",33,['Brazil'],Brazil,Sao Paulo,,,-
+,Felipe Assis,Left-Back,"Jan 26, 1990 ",34,['Brazil'],Brazil,Petrópolis,,"1,80",-
+,Douglas Silva,Left-Back,"Nov 15, 1990 ",33,['Brazil'],Brazil,Barretos,,"1,79",-
+,Anderson Planta,Left-Back,"Aug 19, 1990 ",33,['Brazil'],Brazil,São Vicente,,"1,75",-
+,Vinícius Santos,Left-Back,"May 3, 1990 ",33,['Brazil'],Brazil,Sergipe,,"1,81",-
+,Ronaldo,Left-Back,"Jan 6, 1990 ",34,['Brazil'],Brazil,Governadores Rocha,,"1,77",-
+,Renan Oliveira,Left-Back,"Nov 17, 1990 ",33,['Brazil'],Brazil,Astorga,LM   LW,"1,76",-
+,Wellington,Left-Back,"Nov 1, 1990 ",33,['Brazil'],Brazil,Rio de Janeiro,,"1,80",-
+,Massari,Left-Back,"Jul 25, 1990 ",33,['Brazil'],Brazil,Criciúma,DM   CM,"1,76",-
+,Bruno Collaço,Left-Back,"Mar 8, 1990 ",34,['Brazil'],Brazil,São Leopoldo,,"1,75",-
+,Gerley,Left-Back,"Sep 11, 1990 ",33,['Brazil'],Brazil,Caxias do Sul,LM   AM,"1,82",-
+,Renan Luís,Left-Back,"Aug 20, 1990 ",33,['Brazil'],Brazil,Ribeirão Preto,,"1,78",-
+,Rafael,Left-Back,"Apr 12, 1990 ",33,['Brazil'],Brazil,Ipitanga,,"1,66",-
+,Dênis Neves,Left-Back,"Apr 22, 1990 ",33,['Brazil'],Brazil,Pirassununga,LM,"1,69",-
+,Juninho,Left-Back,"Jan 11, 1990 ",34,['Brazil'],Brazil,Salvador,LM   CM,"1,71",-
+,Victor,Left-Back,"Jan 5, 1990 ",34,['Brazil'],Brazil,Brasília,,"1,74",-
+,Bruno Bertucci,Left-Back,"Apr 27, 1990 ",33,"['Brazil', 'Italy']",Brazil,São Paulo,CB,"1,76",-
+,João Paulo,Left-Back,"Jul 20, 1990 ",33,['Brazil'],Brazil,Pouso Alto,,"1,72",-
+,Alexandre,Left-Back,"Mar 25, 1990 ",33,['Brazil'],Brazil,Farroupilha,,"1,80",-
+12,Alex Sandro,Left-Back,"Jan 26, 1991 ",33,['Brazil'],Brazil,Catanduva,LM   CB,"1,81",€2.00m
+3,Danilo Soares,Left-Back,"Oct 29, 1991 ",32,"['Brazil', 'Germany']",Brazil,Belo Horizonte,,"1,70",€1.00m
+7,Anderson Correia,Left-Back,"May 6, 1991 ",32,"['Cyprus', 'Brazil']",Brazil,São Paulo,LM   LW,"1,77",€500k
+21,Matheus Leoni,Left-Back,"Sep 20, 1991 ",32,"['Brazil', 'Italy']",Brazil,Porto Velho,LM   CB,"1,80",€300k
+,Ayrton,Left-Back,"May 21, 1991 ",32,['Brazil'],Brazil,,,,-
+,Leandro Tanaka,Left-Back,"Nov 24, 1991 ",32,['Brazil'],Brazil,"Andradina, São Paulo",CF   AM,"1,72",-
+,Ítalo Silva,Left-Back,"Jan 25, 1991 ",33,['Brazil'],Brazil,Recife,LW,"1,69",-
+,Ronaell,Left-Back,"Nov 25, 1991 ",32,['Brazil'],Brazil,Turvania,,"1,71",-
+,Peu,Left-Back,"Jun 5, 1991 ",32,['Brazil'],Brazil,,,"1,88",-
+,Davi,Left-Back,"Jun 16, 1991 ",32,['Brazil'],Brazil,São Paulo (SP),,"1,71",-
+,Magal,Left-Back,"Apr 11, 1991 ",32,['Brazil'],Brazil,Hidrolina,LM,"1,77",-
+,Kaoê,Left-Back,"Feb 4, 1991 ",33,['Brazil'],Brazil,Cuiabá,CB,"1,81",-
+,Guilherme Fioravanti,Left-Back,"Jul 20, 1991 ",32,"['Brazil', 'Portugal']",Brazil,São Paulo,LM,"1,80",-
+6,Lucas Lima,Left-Back,"Oct 10, 1991 ",32,['Brazil'],Brazil,Estação (RS),LM   LW,"1,79",€1.30m
+6,Bruno Pacheco,Left-Back,"Dec 8, 1991 ",32,['Brazil'],Brazil,Araraquara,,"1,75",€500k
+,Danilo Barcelos,Left-Back,"Aug 17, 1991 ",32,['Brazil'],Brazil,Coronel Fabriciano,LM   LW,"1,81",€350k
+33,Tiago Portuga,Left-Back,"Oct 20, 1991 ",32,"['Brazil', 'Portugal']",Brazil,Vila Verde,,"1,79",€150k
+,Leandro Mendes,Left-Back,"Jan 26, 1991 ",33,['Brazil'],Brazil,Fortaleza,LM,"1,70",-
+,Andrei Ramalho,Left-Back,"Jul 4, 1991 ",32,['Brazil'],Brazil,,,"1,79",-
+,Márcio Duarte,Left-Back,"Jun 1, 1991 ",32,['Brazil'],Brazil,Porto Alegre,LM,"1,77",-
+,Jackinha,Left-Back,"Oct 11, 1991 ",32,['Brazil'],Brazil,,,"1,76",-
+,Danilo,Left-Back,"Aug 12, 1991 ",32,['Brazil'],Brazil,Entre Ríos,,"1,80",-
+,Ricardinho,Left-Back,"Dec 26, 1991 ",32,['Brazil'],Brazil,,,"1,71",-
+,William Ribeiro,Left-Back,"Jan 7, 1991 ",33,['Brazil'],Brazil,Pelotas,LM,"1,72",-
+,Cortez,Left-Back,"Jun 1, 1991 ",32,['Brazil'],Brazil,São Luís,,"1,77",-
+,Jeanderson,Left-Back,"Aug 13, 1991 ",32,['Brazil'],Brazil,Serra,,"1,80",-
+,Jorbison,Left-Back,"Dec 30, 1991 ",32,['Brazil'],Brazil,Camaçari,LM,"1,72",-
+,Thallyson,Left-Back,"Dec 1, 1991 ",32,['Brazil'],Brazil,Campo Alegre,LM,"1,75",-
+,Ramon Zanardi,Left-Back,"Sep 28, 1991 ",32,['Brazil'],Brazil,,CB,"1,81",-
+,Andrade,Left-Back,"Aug 15, 1991 ",32,['Brazil'],Brazil,Campina da Lagoa,,"1,75",-
+,João Paulo,Left-Back,"Oct 31, 1991 ",32,['Brazil'],Brazil,São Paulo,LM,"1,74",-
+,Dener,Left-Back,"Jun 28, 1991","Jun 28, 1991",['Brazil'],Brazil,Bagé,,"1,75",-
+,Jackson Ferreira,Left-Back,"Apr 12, 1991 ",32,['Brazil'],Brazil,Recife,LM,"1,71",-
+,Christianno,Left-Back,"Oct 29, 1991 ",32,['Brazil'],Brazil,Rio de Janeiro,CB   LM,"1,85",-
+,Gabriel Silva,Left-Back,"May 13, 1991 ",32,['Brazil'],Brazil,São Paulo,LM   RB,"1,79",-
+,João Lucas,Left-Back,"Jun 8, 1991 ",32,['Brazil'],Brazil,Bela Vista do Paraíso,,"1,84",-
+,Celso Júnior,Left-Back,"Oct 3, 1991 ",32,['Brazil'],Brazil,Penápolis,DM,"1,75",-
+,Matheus Zouain,Left-Back,"Nov 24, 1991 ",32,"['Brazil', 'Italy']",Brazil,Colatina,CB,"1,80",-
+,Jhonnatas,Left-Back,"Jul 8, 1991 ",32,['Brazil'],Brazil,Bernardo do Mearim,LM,"1,78",-
+,Guilherme,Left-Back,"Sep 10, 1991 ",32,['Brazil'],Brazil,Piabetá,,"1,77",-
+,Henrique,Left-Back,"Dec 23, 1991 ",32,['Brazil'],Brazil,Porto Alegre,LM   LW,"1,73",-
+,Wesley Santos,Left-Back,"Jan 21, 1991 ",33,['Brazil'],Brazil,São Vicente,,"1,71",-
+,Raphael Soares,Left-Back,"Dec 12, 1991 ",32,['Brazil'],Brazil,,LM,"1,80",-
+,Cleber Sonda,Left-Back,"Apr 29, 1991 ",32,['Brazil'],Brazil,Espumoso,,"1,82",-
+,Luizinho,Left-Back,"Feb 19, 1991 ",33,['Brazil'],Brazil,Santos,LW   RW,"1,70",-
+15,Alex Telles,Left-Back,"Dec 15, 1992 ",31,"['Brazil', 'Italy']",Brazil,Caxias do Sul,LM,"1,81",€7.00m
+16,Diogo Barbosa,Left-Back,"Aug 17, 1992 ",31,['Brazil'],Brazil,Terra Nova do Norte,,"1,79",€800k
+28,Elbis,Left-Back,"Dec 26, 1992 ",31,['Brazil'],Brazil,Buritirana,LM   CB,"1,76",€600k
+6,Hugo Figueredo,Left-Back,"May 18, 1992 ",31,"['Brazil', 'Portugal']",Brazil,São Paulo,CB   LM,"1,82",€300k
+87,Diego Ferraresso,Left-Back,"May 21, 1992 ",31,"['Bulgaria', 'Brazil']",Brazil,"Serra Negra, Sao Paulo",CB   RB,"1,71",€125k
+5,Bruno Silva,Left-Back,"Sep 14, 1992 ",31,['Brazil'],Brazil,Salvador,CM   LM,"1,70",€75k
+,Alisson Gaúcho,Left-Back,"Apr 30, 1992 ",31,['Brazil'],Brazil,Igrejinha,CB,"1,91",-
+,Eduardo,Left-Back,"Apr 3, 1992 ",31,['Brazil'],Brazil,,,,-
+,Welington,Left-Back,"May 25, 1992 ",31,['Brazil'],Brazil,Japeri,,"1,69",-
+,Felipe Emanuel,Left-Back,"Feb 3, 1992 ",32,['Brazil'],Brazil,,,"1,77",-
+,Matheus Destro,Left-Back,"Feb 13, 1992 ",32,['Brazil'],Brazil,Araraquara,,"1,81",-
+,Léo Carioca,Left-Back,"Jul 9, 1992 ",31,['Brazil'],Brazil,Rio de Janeiro,,"1,75",-
+20,Breno,Left-Back,"Mar 27, 1992 ",31,['Brazil'],Brazil,Belo Horizonte (MG),,"1,78",-
+6,Renê,Left-Back,"Sep 14, 1992 ",31,['Brazil'],Brazil,Picos,,"1,74",€900k
+16,Dodô,Left-Back,"Feb 6, 1992 ",32,"['Brazil', 'Portugal']",Brazil,Campinas,,"1,77",€700k
+,Romário,Left-Back,"Mar 13, 1992 ",31,['Brazil'],Brazil,Diadema,LM,"1,72",€400k
+,Bryan,Left-Back,"Mar 28, 1992 ",31,['Brazil'],Brazil,Belo Horizonte,LW   RB,"1,77",€200k
+12,Gabriel Araújo,Left-Back,"Jan 29, 1992 ",32,['Brazil'],Brazil,Salvador,LM,"1,81",€100k
+27,Ilídio,Left-Back,"Jan 26, 1992 ",32,['Brazil'],Brazil,Rio de Janeiro,RW   RB,"1,73",€10k
+,Douglas,Left-Back,"Jul 25, 1992 ",31,['Brazil'],Brazil,,CB   DM,,-
+11,Fabinho Canhoto,Left-Back,N/A ,31,['Brazil'],Brazil,Caçapava do sul,LW,"1,77",-
+,Ricardo Sena,Left-Back,"Jul 1, 1992 ",31,['Brazil'],Brazil,Belford Roxo,LM,"1,81",-
+,Biro Biro,Left-Back,"Sep 19, 1992 ",31,['Brazil'],Brazil,,,,-
+,Vinícius Trinca,Left-Back,"Oct 13, 1992 ",31,['Brazil'],Brazil,Suzano (SP),LM,"1,73",-
+,Tiago Félix,Left-Back,"Oct 4, 1992 ",31,['Brazil'],Brazil,,,"1,76",-
+,Wallace,Left-Back,"Nov 10, 1992 ",31,['Brazil'],Brazil,Rio de Janeiro,DM,,-
+,Pedro Costa,Left-Back,"Sep 1, 1992 ",31,"['Brazil', 'Portugal']",Brazil,,LM,"1,77",-
+,Mateus Mendes,Left-Back,"Jan 22, 1992 ",32,['Brazil'],Brazil,Rio Claro,LW,"1,83",-
+,Hyago,Left-Back,"May 29, 1992 ",31,['Brazil'],Brazil,,,"1,83",-
+6,Igor Fernandes,Left-Back,"Jun 6, 1992 ",31,['Brazil'],Brazil,São Paulo,LM   LW,"1,83",-
+,Guilherme Lazaroni,Left-Back,"Nov 18, 1992 ",31,['Brazil'],Brazil,Rio Claro,LW   RW,"1,82",-
+,Léo Campos,Left-Back,"Jul 3, 1992 ",31,['Brazil'],Brazil,Antonio Carlos,LM,"1,80",-
+,Franklin,Left-Back,"Sep 30, 1992 ",31,['Brazil'],Brazil,Fátima do Sul,,"1,75",-
+,Anderson Santos,Left-Back,"Jun 10, 1992 ",31,['Brazil'],Brazil,Rio de Janeiro,LM,"1,75",-
+,Iuri,Left-Back,"May 27, 1992 ",31,['Brazil'],Brazil,Porto Seguro,,"1,77",-
+,David,Left-Back,"Jan 2, 1992 ",32,['Brazil'],Brazil,Riachuelo,,"1,62",-
+,Ednei,Left-Back,"Jul 24, 1992 ",31,['Brazil'],Brazil,São Francisco do Sul,LM,"1,70",-
+,Capa,Left-Back,"Dec 7, 1992 ",31,['Brazil'],Brazil,Serrinha,,"1,71",-
+,Rafael Carioca,Left-Back,"Jul 18, 1992 ",31,['Brazil'],Brazil,Rio de Janeiro,LM,"1,75",-
+,Jéferson,Left-Back,"May 6, 1992 ",31,['Brazil'],Brazil,Bahia,,"1,76",-
+,Jussandro,Left-Back,"Mar 11, 1992 ",32,['Brazil'],Brazil,Irecê,,"1,76",-
+,Vinícius Silva,Left-Back,"Feb 8, 1992 ",32,['Brazil'],Brazil,São Paulo,CB,"1,82",-
+,Tarcísio,Left-Back,"Nov 5, 1992 ",31,['Brazil'],Brazil,Rio Novo,DM   CM,,-
+6,Zé Mário,Left-Back,"Feb 20, 1992 ",32,['Brazil'],Brazil,Medianeira,DM   CM,"1,75",-
+,Marcelo Alves,Left-Back,"Sep 6, 1992 ",31,['Brazil'],Brazil,Recife,LM,"1,79",-
+,Heracles,Left-Back,"Sep 18, 1992 ",31,"['Brazil', 'Portugal']",Brazil,Ceará,CM   RB,"1,77",-
+,Eron,Left-Back,"Jan 17, 1992 ",32,['Brazil'],Brazil,Belo Horizonte,LM,"1,68",-
+18,Wendell,Left-Back,"Jul 20, 1993 ",30,['Brazil'],Brazil,Fortaleza,LM   CB,"1,76",€5.00m
+16,Sidcley,Left-Back,"May 13, 1993 ",30,['Brazil'],Brazil,Vila Velha,LM,"1,76",€900k
+12,Victor Luís,Left-Back,"Jun 23, 1993 ",30,"['Brazil', 'Lithuania']",Brazil,São Paulo,,"1,77",€700k
+70,Mansur,Left-Back,"Apr 17, 1993 ",30,['Brazil'],Brazil,Laranjeiras,CB   LM,"1,81",€400k
+12,Derick Poloni,Left-Back,"Sep 1, 1993 ",30,"['Brazil', 'Portugal']",Brazil,,LW   RW,"1,73",€300k
+,Fernandinho,Left-Back,"Jul 25, 1993 ",30,['Brazil'],Brazil,,LW   RW,"1,73",€225k
+16,Felipe Curcio,Left-Back,"Aug 6, 1993 ",30,"['Brazil', 'Italy']",Brazil,Jundiai,CB   LM,"1,85",€150k
+,Victor Muribeca,Left-Back,"Jun 18, 1993 ",30,['Brazil'],Brazil,Muribeca,LM   LW,,-
+,Romário,Left-Back,"Nov 7, 1993 ",30,['Brazil'],Brazil,,,"1,77",-
+,Jackson,Left-Back,"Nov 11, 1993 ",30,['Brazil'],Brazil,Maceió,,"1,78",-
+,Felipe Maradona,Left-Back,"Sep 7, 1993 ",30,['Brazil'],Brazil,,,,-
+,Baixo,Left-Back,"Dec 28, 1993 ",30,['Brazil'],Brazil,,LW,"1,67",-
+,Thalison,Left-Back,"Jan 11, 1993 ",31,['Brazil'],Brazil,,,"1,73",-
+,Dalbert,Left-Back,"Sep 8, 1993 ",30,['Brazil'],Brazil,Barra Mansa,LM,"1,81",€1.00m
+,Cristiano,Left-Back,"Aug 29, 1993 ",30,['Brazil'],Brazil,Rio de Janeiro,RB,"1,80",€800k
+,Igor Cariús,Left-Back,"May 1, 1993 ",30,['Brazil'],Brazil,Cariús,,"1,82",€450k
+16,Lucas Bijker,Left-Back,"Mar 4, 1993 ",31,"['Netherlands', 'Brazil']",Brazil,São Paulo,CB,"1,74",€350k
+93,Thiaguinho,Left-Back,"May 14, 1993 ",30,['Brazil'],Brazil,Juiz de Fora,,"1,75",€250k
+6,Marquinhos Pedroso,Left-Back,"Oct 4, 1993 ",30,"['Brazil', 'Italy']",Brazil,Tubarão,LM   CB,"1,75",€200k
+,Vinícius,Left-Back,"Mar 7, 1993 ",31,"['Brazil', 'Portugal']",Brazil,Rio de Janeiro,LM,"1,83",€100k
+,Boca,Left-Back,"Oct 30, 1993 ",30,['Brazil'],Brazil,,,,-
+,Fabrício,Left-Back,"Jun 18, 1993 ",30,['Brazil'],Brazil,,AM,"1,75",-
+,Diogo Calixto,Left-Back,"Jan 26, 1993 ",31,['Brazil'],Brazil,,,,-
+,Filipe Ramon,Left-Back,"Jan 15, 1993 ",31,['Brazil'],Brazil,Carpina,LM,"1,64",-
+53,Fábio Christian,Left-Back,"Oct 8, 1993 ",30,['Brazil'],Brazil,Brasília,DM   CM,,-
+,China,Left-Back,"Aug 17, 1993 ",30,['Brazil'],Brazil,,,"1,76",-
+,Mário Henrique,Left-Back,"Sep 25, 1993 ",30,['Brazil'],Brazil,Urucui,LM,"1,84",-
+10,Cauê,Left-Back,"Oct 24, 1993 ",30,['Brazil'],Brazil,São Paulo,LW   RW,,-
+,Fabinho,Left-Back,"Jul 25, 1993 ",30,['Brazil'],Brazil,Fortaleza,,"1,72",-
+,Caíque,Left-Back,"Aug 27, 1993 ",30,['Brazil'],Brazil,Catende,,"1,70",-
+,Alan Pires,Left-Back,"Jan 4, 1993 ",31,['Brazil'],Brazil,Rio de Janeiro,,"1,77",-
+,Alex Ruan,Left-Back,"Feb 5, 1993 ",31,['Brazil'],Brazil,Belém,,"1,75",-
+,Hector,Left-Back,N/A ,30,[],Brazil,Rio de Janeiro,CB   CF,N/A,-
+,Acácio,Left-Back,"Sep 2, 1993 ",30,['Brazil'],Brazil,Maceió,,"1,79",-
+,Caetano,Left-Back,"Mar 28, 1993 ",30,['Brazil'],Brazil,,,"1,78",-
+,Erick Daltro,Left-Back,"Jan 17, 1993 ",31,['Brazil'],Brazil,Salvador,,"1,80",-
+,Diego Hoffmann,Left-Back,"Feb 4, 1993 ",31,['Brazil'],Brazil,Santa Terezinha do Itaipú,,"1,82",-
+,Roger,Left-Back,"Mar 20, 1993 ",30,['Brazil'],Brazil,Canelinha,CB,"1,84",-
+,Rafael Franco,Left-Back,"Jul 10, 1993 ",30,['Brazil'],Brazil,,,"1,80",-
+16,Guilherme,Left-Back,"Jan 28, 1993 ",31,['Brazil'],Brazil,Rio de Janeiro,LM,"1,73",-
+,Gilmar,Left-Back,"Jul 4, 1993 ",30,['Brazil'],Brazil,Pernambuco,,"1,80",-
+6,Dudu Mandai,Left-Back,"Jan 26, 1993 ",31,['Brazil'],Brazil,Porto Alegre,LW,"1,72",-
+,Chico Bala,Left-Back,"Jan 23, 1993 ",31,['Brazil'],Brazil,São Luís,,"1,83",-
+,Luiz Paulo,Left-Back,"Apr 24, 1993 ",30,['Brazil'],Brazil,Rio de Janeiro,DM   RB,"1,79",-
+,Paulinho,Left-Back,"Aug 27, 1993 ",30,['Brazil'],Brazil,,RB,,-
+,Marlon,Left-Back,"May 5, 1993 ",30,['Brazil'],Brazil,Rio de Janeiro,CB,"1,89",-
+,Maurício,Left-Back,"Feb 8, 1993 ",31,['Brazil'],Brazil,Buritis,LM,"1,82",-
+,Rômulo Silva,Left-Back,"Jun 24, 1993 ",30,['Brazil'],Brazil,São Paulo,,"1,76",-
+,Izaldo,Left-Back,"Jun 3, 1993 ",30,['Brazil'],Brazil,Paulista,LM,"1,72",-
+,Jefferson Recife,Left-Back,"Jun 13, 1993 ",30,['Brazil'],Brazil,Recife,LM,"1,75",-
+,Cristian,Left-Back,"Jul 6, 1993 ",30,['Brazil'],Brazil,Feira de Santana,LM,"1,75",-
+,Murilo Rusalen,Left-Back,"Feb 13, 1993 ",31,['Brazil'],Brazil,São Caetano do Sul,CB   LM,"1,86",-
+,Dieyson,Left-Back,"Jun 30, 1993 ",30,['Brazil'],Brazil,Itacurubi,,"1,76",-
+,Bruno Furtado,Left-Back,"Sep 17, 1993 ",30,['Brazil'],Brazil,Natal,,"1,74",-
+,Denner,Left-Back,"Nov 21, 1993 ",30,['Brazil'],Brazil,Guarulhos,,"1,82",-
+,Henrique Miranda,Left-Back,"May 10, 1993 ",30,['Brazil'],Brazil,São Bernardo do Campo,,"1,79",-
+,Emerson Carvalho,Left-Back,"Jun 16, 1993 ",30,['Brazil'],Brazil,Mage,LW   AM,"1,68",-
+,Rafinha,Left-Back,"Feb 18, 1993 ",31,['Brazil'],Brazil,São Paulo,LM   RB,"1,85",-
+,Paulo Henrique,Left-Back,"Jan 30, 1993 ",31,['Brazil'],Brazil,São Paulo,,"1,80",-
+,Renan Lemos,Left-Back,"Jan 15, 1993 ",31,['Brazil'],Brazil,Rio de Janeiro,,"1,75",-
+,Bruninho,Left-Back,"Dec 16, 1993 ",30,['Brazil'],Brazil,Firminópolis,AM   LM,"1,74",-
+,João Carlos,Left-Back,"Jul 17, 1993 ",30,['Brazil'],Brazil,Goiânia,,"1,78",-
+3,Douglas Santos,Left-Back,"Mar 22, 1994 ",29,['Brazil'],Brazil,João Pessoa,LM   DM,"1,76",€15.00m
+6,Paulo Otávio,Left-Back,"Nov 23, 1994 ",29,['Brazil'],Brazil,Ourinhos,LM,"1,73",€3.50m
+21,Henrique Silva,Left-Back,"Apr 25, 1994 ",29,['Brazil'],Brazil,Rio de Janeiro,LM,"1,73",€1.00m
+6,Marlon Lopes,Left-Back,"Feb 13, 1994 ",30,['Brazil'],Brazil,Angra dos Reis,,"1,77",€600k
+66,Djalma Silva,Left-Back,"Sep 19, 1994 ",29,['Brazil'],Brazil,Recife,LM   LW,"1,80",€450k
+27,Léo Bahia,Left-Back,"Nov 4, 1994 ",29,['Brazil'],Brazil,Bahia,LM,"1,72",€250k
+33,Mário Sérgio,Left-Back,"Apr 26, 1994 ",29,['Brazil'],Brazil,Aruanã,,"1,79",€200k
+26,Pablo Andrade,Left-Back,"Feb 15, 1994 ",30,"['Brazil', 'Spain']",Brazil,Rio de Janeiro,LM   LW,"1,79",€100k
+,Alan Bald,Left-Back,"Oct 29, 1994 ",29,['Brazil'],Brazil,,,"1,83",-
+,Bruno Gaúcho,Left-Back,"Apr 20, 1994 ",29,['Brazil'],Brazil,,,,-
+,Ramon,Left-Back,"Jan 20, 1994 ",30,['Brazil'],Brazil,,CB,,-
+,Wellington,Left-Back,"Aug 19, 1994 ",29,['Brazil'],Brazil,,,,-
+,Romullo Carioca,Left-Back,"Jan 11, 1994 ",30,['Brazil'],Brazil,,LM,"1,82",-
+33,Emerson Palmieri,Left-Back,"Aug 3, 1994 ",29,"['Italy', 'Brazil']",Brazil,Santos,LM,"1,76",€12.00m
+37,Paulo Azzi,Left-Back,"Jul 15, 1994 ",29,"['Brazil', 'Italy']",Brazil,Bragança Paulista,LM   LW,"1,88",€1.50m
+3,Geferson,Left-Back,"May 13, 1994 ",29,"['Brazil', 'Bulgaria']",Brazil,Lauro de Freitas,DM   CM,"1,81",€700k
+,Artur,Left-Back,"Aug 5, 1994 ",29,['Brazil'],Brazil,Rondon do Pará,CB   CM,"1,78",€500k
+94,Vítor Costa,Left-Back,"Jul 1, 1994 ",29,['Brazil'],Brazil,Valente,LM   RM,"1,82",€350k
+6,PC,Left-Back,"Mar 10, 1994 ",30,['Brazil'],Brazil,São Paulo,LM   LW,"1,73",€200k
+,Patric Calmon,Left-Back,"Jul 5, 1994 ",29,['Brazil'],Brazil,Madre de Deus,,"1,81",€150k
+,Jean Victor,Left-Back,"Jul 1, 1994 ",29,['Brazil'],Brazil,Ouro Branco,LM   LW,"1,80",€50k
+,Júnior Perez,Left-Back,"Aug 1, 1994 ",29,['Brazil'],Brazil,Rio de Janeiro,LM   LW,"1,80",-
+,Alan Maia,Left-Back,"Dec 12, 1994 ",29,['Brazil'],Brazil,Salvador,DM   LM,"1,68",-
+,Guilherme Lima,Left-Back,"Nov 5, 1994 ",29,['Brazil'],Brazil,Manacapuru,,,-
+,Iury,Left-Back,"Nov 6, 1994 ",29,['Brazil'],Brazil,Aracaju,,"1,82",-
+,Goduxo,Left-Back,"May 4, 1994 ",29,['Brazil'],Brazil,,,"1,68",-
+,Rogerinho,Left-Back,"Aug 15, 1994 ",29,['Brazil'],Brazil,,,,-
+,Diguinho,Left-Back,"May 11, 1994 ",29,['Brazil'],Brazil,,,,-
+,Igor Tavares,Left-Back,"Apr 16, 1994 ",29,['Brazil'],Brazil,Balsas,CM,"1,82",-
+,Alexandre Pinho,Left-Back,"Aug 13, 1994 ",29,['Brazil'],Brazil,,DM,"1,77",-
+,Negueba,Left-Back,"Jul 23, 1994 ",29,['Brazil'],Brazil,,,,-
+,Michael Heberth,Left-Back,"Feb 17, 1994 ",30,['Brazil'],Brazil,,,"1,82",-
+,Charles,Left-Back,"Apr 11, 1994 ",29,['Brazil'],Brazil,Maceió,,"1,77",-
+,Marquinhos Caldas,Left-Back,"Mar 29, 1994 ",29,['Brazil'],Brazil,,RB   CB,"1,77",-
+,Caíque Silva,Left-Back,"Jan 23, 1994 ",30,['Brazil'],Brazil,Américo Brasiliense,CB,"1,88",-
+,Rafael Furlan,Left-Back,"Sep 20, 1994 ",29,['Brazil'],Brazil,Quirinópolis,LM   LW,"1,77",-
+,Yan,Left-Back,"Nov 29, 1994 ",29,"['Brazil', 'Italy']",Brazil,Curitiba,,"1,80",-
+,Marcelo Bispo,Left-Back,"Apr 14, 1994 ",29,['Brazil'],Brazil,Recife,,"1,75",-
+,Neto,Left-Back,"Dec 7, 1994 ",29,['Brazil'],Brazil,,,,-
+,Matheus Barros,Left-Back,"Mar 6, 1994 ",30,['Brazil'],Brazil,,,"1,70",-
+,Geovane,Left-Back,"Nov 29, 1994 ",29,['Brazil'],Brazil,Farroupilha,,"1,79",-
+,Carlinhos,Left-Back,"Sep 3, 1994 ",29,['Brazil'],Brazil,Atalaia,LM,"1,74",-
+,Zé Carlos,Left-Back,"Apr 10, 1994 ",29,['Brazil'],Brazil,,,"1,70",-
+,Marcus Vinicius,Left-Back,"Jan 7, 1994 ",30,['Brazil'],Brazil,Rio de Janeiro,,"1,82",-
+,Samuel Balbino,Left-Back,"Dec 8, 1994 ",29,['Brazil'],Brazil,Bauru,,"1,79",-
+,Vitão,Left-Back,"May 27, 1994 ",29,['Brazil'],Brazil,,CB,"1,82",-
+,Gilson de Oliveira,Left-Back,"Apr 22, 1994 ",29,['Brazil'],Brazil,Nova Iguaçu,CB,"1,88",-
+,Antônio Carlos,Left-Back,"Sep 17, 1994 ",29,['Brazil'],Brazil,,LM   LW,"1,74",-
+,Arthur Henrique,Left-Back,"May 17, 1994 ",29,['Brazil'],Brazil,São Paulo,,"1,76",-
+,Bruninho,Left-Back,"Oct 14, 1994 ",29,['Brazil'],Brazil,Linhares,,"1,71",-
+,Ronan,Left-Back,"Aug 29, 1994 ",29,['Brazil'],Brazil,Vitória,,"1,77",-
+,Tiago Silva,Left-Back,"Mar 1, 1994 ",30,['Brazil'],Brazil,Porto Alegre,,"1,72",-
+,Júnior,Left-Back,"Jun 5, 1994 ",29,['Brazil'],Brazil,Arinos,,"1,75",-
+,Jonathan,Left-Back,"Jul 11, 1994 ",29,['Brazil'],Brazil,Barão,,"1,78",-
+2,Matheus Reis,Left-Back,"Feb 18, 1995 ",29,['Brazil'],Brazil,São João da Boa Vista,CB   LM,"1,84",€8.00m
+29,Paulinho,Left-Back,"Jan 3, 1995 ",29,['Brazil'],Brazil,São Paulo,LM   CB,"1,78",€1.00m
+32,Leonardo Koutris,Left-Back,"Jul 23, 1995 ",28,"['Greece', 'Brazil']",Brazil,Ribeirão Preto,LM,"1,70",€600k
+10,Juninho,Left-Back,"Dec 26, 1995 ",28,['Brazil'],Brazil,Cataguases,LM   LW,"1,75",€500k
+3,Diego,Left-Back,"Sep 21, 1995 ",28,['Brazil'],Brazil,,CB   LM,"1,83",€500k
+5,James,Left-Back,"Jul 15, 1995 ",28,['Brazil'],Brazil,Foz do Iguaçu,LM   RB,"1,73",€300k
+23,Henrique Gelain,Left-Back,"Jan 5, 1995 ",29,['Brazil'],Brazil,Carazinho,RB   LM,"1,79",€275k
+16,Sávio,Left-Back,"May 26, 1995 ",28,['Brazil'],Brazil,Araraquara,LM   CB,"1,73",€200k
+,Vicente,Left-Back,"May 10, 1995 ",28,['Brazil'],Brazil,Salvador,,"1,76",€150k
+,Márcio Costa,Left-Back,"Aug 3, 1995 ",28,['Brazil'],Brazil,Belém,DM,"1,79",-
+,Conrado,Left-Back,"Oct 5, 1995 ",28,['Brazil'],Brazil,,,,-
+,Pedrinho,Left-Back,"Aug 20, 1995 ",28,['Brazil'],Brazil,,RB   RM,,-
+,Guilherme,Left-Back,"Dec 4, 1995 ",28,['Brazil'],Brazil,Brasília,,"1,79",-
+27,Moisés,Left-Back,"Mar 11, 1995 ",29,['Brazil'],Brazil,São Paulo,LM   CB,"1,84",€5.00m
+3,Caju,Left-Back,"Jul 17, 1995 ",28,['Brazil'],Brazil,Irecê,LM   LW,"1,83",€700k
+,Murilo,Left-Back,"Dec 2, 1995 ",28,"['Brazil', 'Portugal']",Brazil,Espírito Santo,LM,"1,80",€500k
+90,Orinho,Left-Back,"May 24, 1995 ",28,['Brazil'],Brazil,São Paulo,LM,"1,80",€500k
+,Marcelo Hermes,Left-Back,"Feb 1, 1995 ",29,['Brazil'],Brazil,Sarandi,,"1,77",€450k
+6,Juninho,Left-Back,"Jul 29, 1995 ",28,['Brazil'],Brazil,,LM   CB,"1,77",€275k
+,Lucas Andrade,Left-Back,"Oct 30, 1995 ",28,['Brazil'],Brazil,Santos,CM,"1,70",€200k
+13,Willian Formiga,Left-Back,"Jan 22, 1995 ",29,['Brazil'],Brazil,Florianópolis,CB,"1,85",€200k
+,Aílton,Left-Back,"Mar 16, 1995 ",28,['Brazil'],Brazil,Lauro de Freitas,LM,"1,81",€150k
+5,Filipe Gusmão,Left-Back,"Apr 26, 1995 ",28,['Brazil'],Brazil,Maceió,LW   LM,"1,70",-
+,Dimas,Left-Back,"Jan 4, 1995 ",29,['Brazil'],Brazil,,,,-
+,Júnior Prego,Left-Back,"May 3, 1995 ",28,['Brazil'],Brazil,Fátima do Sul,,"1,74",-
+,Cássio,Left-Back,"Apr 4, 1995 ",28,['Brazil'],Brazil,Porto Alegre,,"1,70",-
+,Magdiel,Left-Back,"Mar 3, 1995 ",29,['Brazil'],Brazil,,,"1,74",-
+,Talys,Left-Back,"May 22, 1995 ",28,['Brazil'],Brazil,,,"1,79",-
+,André Radija,Left-Back,"Jan 18, 1995 ",29,['Brazil'],Brazil,Tuntum,LM,,-
+,Thiago Balaio,Left-Back,"Sep 19, 1995 ",28,['Brazil'],Brazil,,,"1,79",-
+,Gustavo Nogy,Left-Back,"Apr 17, 1995 ",28,['Brazil'],Brazil,Gravataí,,"1,68",-
+,Fernando Ceará,Left-Back,"Jul 5, 1995 ",28,['Brazil'],Brazil,Madalena,,"1,72",-
+,PH,Left-Back,"Oct 26, 1995 ",28,['Brazil'],Brazil,,,"1,80",-
+,Luís Henrique,Left-Back,"Oct 4, 1995 ",28,['Brazil'],Brazil,,,"1,76",-
+,Léo Moraes,Left-Back,"Apr 9, 1995 ",28,['Brazil'],Brazil,Rio Branco,,"1,72",-
+,João Victor,Left-Back,"Feb 19, 1995 ",29,['Brazil'],Brazil,Maragogi,,"1,80",-
+,Jesiel,Left-Back,"Jan 6, 1995 ",29,['Brazil'],Brazil,Taquatinga (DF),DM   CB,"1,84",-
+,Assis,Left-Back,"Dec 28, 1995 ",28,['Brazil'],Brazil,Cruzeta (RN),LM,"1,80",-
+,Higor,Left-Back,"Feb 25, 1995 ",29,['Brazil'],Brazil,,,"1,80",-
+,Lucas Franco,Left-Back,"Aug 30, 1995 ",28,['Brazil'],Brazil,São Paulo,,"1,81",-
+,Leozinho,Left-Back,"Jun 26, 1995 ",28,['Brazil'],Brazil,Catolé do Rocha,LW,"1,69",-
+,Dionatan,Left-Back,"Aug 23, 1995 ",28,['Brazil'],Brazil,Itumbiara,LW,"1,74",-
+6,Renan Castro,Left-Back,"Sep 8, 1995 ",28,['Brazil'],Brazil,Rio de Janeiro,,"1,75",-
+,Rafael Vioto,Left-Back,"Sep 7, 1995 ",28,['Brazil'],Brazil,Itapuã do Oeste,LM,"1,73",-
+,Igor Pereira,Left-Back,"Dec 26, 1995 ",28,['Brazil'],Brazil,,,"1,83",-
+,Denilton,Left-Back,"Jun 8, 1995 ",28,['Brazil'],Brazil,Juazeiro,,"1,86",-
+,Lucas Sampaio,Left-Back,"Mar 26, 1995 ",28,['Brazil'],Brazil,Rio de Janeiro,,"1,80",-
+,Willians,Left-Back,"May 30, 1995 ",28,['Brazil'],Brazil,,,,-
+,Enric Ferro,Left-Back,"Apr 11, 1995 ",28,['Brazil'],Brazil,,,"1,77",-
+,Lucas Ybom,Left-Back,"Jan 26, 1995 ",29,['Brazil'],Brazil,,,,-
+,Fernando Júnior,Left-Back,"Nov 8, 1995 ",28,['Brazil'],Brazil,Monte Aprazível (SP),LW,"1,75",-
+,Rennan Siqueira,Left-Back,"Mar 28, 1995 ",28,['Brazil'],Brazil,Brasília,,"1,84",-
+,Lucas Hipólito,Left-Back,"Jul 14, 1995 ",28,['Brazil'],Brazil,Belo Horizonte,,"1,72",-
+,David Luís,Left-Back,"Jun 17, 1995 ",28,['Brazil'],Brazil,São Paulo,,"1,80",-
+,Guilherme Morassi,Left-Back,"Jan 8, 1995 ",29,['Brazil'],Brazil,São Bernardo do Campo,LM,"1,79",-
+,Dener Firmino,Left-Back,"Feb 4, 1995 ",29,['Brazil'],Brazil,Três Pontas,,"1,78",-
+,Jonathan,Left-Back,"Jun 2, 1995 ",28,['Brazil'],Brazil,Cambé,,"1,77",-
+,Sanchez Costa,Left-Back,"Sep 28, 1995 ",28,['Brazil'],Brazil,Cascavel,,"1,78",-
+,Lucas Piauí,Left-Back,"May 31, 1995 ",28,['Brazil'],Brazil,Nazaré,,"1,74",-
+,Elivelton,Left-Back,"Oct 13, 1995 ",28,['Brazil'],Brazil,Curitiba,,"1,71",-
+,Pará,Left-Back,"Aug 23, 1995 ",28,['Brazil'],Brazil,Capanema,,"1,67",-
+,Felipe Saturnino,Left-Back,"Aug 10, 1995 ",28,['Brazil'],Brazil,Rio de Janeiro,,"1,80",-
+,Marcilio,Left-Back,"Aug 10, 1995 ",28,['Brazil'],Brazil,Natal,LM,"1,74",-
+,Jhonatan,Left-Back,"Feb 21, 1995 ",29,['Brazil'],Brazil,São Bernardo do Campo,,"1,66",-
+,João Vitor,Left-Back,"Apr 1, 1995 ",28,['Brazil'],Brazil,São Luís,DM,"1,77",-
+,Matheus Leal,Left-Back,"Jan 7, 1995 ",29,['Brazil'],Brazil,Minas Gerais,,"1,78",-
+,Iago,Left-Back,"May 21, 1995 ",28,['Brazil'],Brazil,Rio de Janeiro,,"1,72",-
+,Leonan,Left-Back,"Oct 28, 1995 ",28,['Brazil'],Brazil,Engenho Velho,RM   RB,"1,74",-
+,Kaike,Left-Back,"Mar 18, 1995 ",28,['Brazil'],Brazil,Várzea Grande,,"1,72",-
+,Nairo Pandolfi,Left-Back,"Jan 30, 1995 ",29,"['Brazil', 'Italy']",Brazil,Linhares,,"1,74",-
+,Malcoon,Left-Back,"Apr 2, 1995 ",28,['Brazil'],Brazil,Londrina,,"1,72",-
+,Mateus Müller,Left-Back,"Nov 18, 1995 ",28,['Brazil'],Brazil,Jataí,,"1,83",-
+,Mattheus de Wit,Left-Back,"May 28, 1995 ",28,"['Netherlands', 'Brazil']",Brazil,Mogi Mirim,LM,"1,79",-
+,Hadriel,Left-Back,"Mar 1, 1995 ",29,"['Brazil', 'Italy']",Brazil,Vitória,,,-
+,Breno Lorran,Left-Back,"Mar 6, 1995 ",29,['Brazil'],Brazil,São Paulo,,"1,74",-
+3,Neto Borges,Left-Back,"Sep 13, 1996 ",27,['Brazil'],Brazil,Saubara,,"1,85",€3.50m
+6,Tsunami,Left-Back,"Jan 4, 1996 ",28,"['Brazil', 'Bulgaria']",Brazil,Belém,CB   LM,"1,89",€1.30m
+26,Felipe Abner,Left-Back,"May 30, 1996 ",27,"['Brazil', 'Spain']",Brazil,Londrina,RB   LM,"1,80",€900k
+,Júnior Tavares,Left-Back,"Aug 7, 1996 ",27,['Brazil'],Brazil,Porto Alegre,LM,"1,78",€400k
+16,Gabriel Torres,Left-Back,"Aug 1, 1996 ",27,['Brazil'],Brazil,"Salvador, Bahia",LM   LW,"1,79",€175k
+,Nino Potiguar,Left-Back,"Nov 13, 1996 ",27,['Brazil'],Brazil,Mossoró,AM,"1,78",-
+,Tawan,Left-Back,"Jan 8, 1996 ",28,['Brazil'],Brazil,Porto Alegre,,"1,87",-
+,Guga,Left-Back,"Oct 12, 1996 ",27,['Brazil'],Brazil,Rio de Janeiro,LW   DM,"1,80",-
+,Maicon Firmino,Left-Back,"Feb 1, 1996 ",28,['Brazil'],Brazil,Nova Era,,"1,87",-
+,Caio,Left-Back,"Mar 5, 1996 ",28,['Brazil'],Brazil,,,"1,72",-
+,Welington Taira,Left-Back,"Apr 10, 1996 ",27,['Brazil'],Brazil,Itariri,LM   CB,"1,78",-
+,Alex Lagamar,Left-Back,"Aug 24, 1996 ",27,['Brazil'],Brazil,,,"1,82",-
+,Elson,Left-Back,"Feb 12, 1996 ",28,['Brazil'],Brazil,,,,-
+6,Quaresma,Left-Back,"Aug 22, 1996 ",27,['Brazil'],Brazil,Bom Retiro do Sul,LM,"1,81",€1.50m
+,Jorge,Left-Back,"Mar 28, 1996 ",27,['Brazil'],Brazil,Rio de Janeiro,CB,"1,84",€1.10m
+66,Igor Milioransa,Left-Back,"Sep 12, 1996 ",27,['Brazil'],Brazil,Osaco (SP),CB   LM,"1,85",€400k
+,Manoel,Left-Back,"May 6, 1996 ",27,['Brazil'],Brazil,Natividade,,"1,78",€200k
+,Alyson,Left-Back,"Apr 5, 1996 ",27,['Brazil'],Brazil,São Paulo,LM,"1,85",€50k
+,Caio Thimoteo Silva,Left-Back,N/A ,27,['Brazil'],Brazil,Rio de Janeiro,,"1,70",-
+,Samuel,Left-Back,"Dec 18, 1996 ",27,['Brazil'],Brazil,Grossos,,"1,71",-
+,Maicon,Left-Back,"May 23, 1996 ",27,['Brazil'],Brazil,,,"1,83",-
+,Gabriel Costa,Left-Back,"Dec 8, 1996 ",27,['Brazil'],Brazil,Nova Veneza,CB,"1,88",-
+,Paulo Henrique,Left-Back,"Dec 19, 1996 ",27,['Brazil'],Brazil,Olímpia,CB,"1,81",-
+,Vinícius Paiva,Left-Back,"May 2, 1996 ",27,['Brazil'],Brazil,Campinas,LW,"1,74",-
+,Leandro Cabecinha,Left-Back,"Apr 10, 1996 ",27,['Brazil'],Brazil,Tucuruí,LM,"1,79",-
+,Digão,Left-Back,"Oct 14, 1996 ",27,['Brazil'],Brazil,,CB,"1,82",-
+,Lucas Gabriel,Left-Back,"Aug 28, 1996 ",27,['Brazil'],Brazil,,LW,"1,78",-
+,Caio,Left-Back,"Oct 2, 1996 ",27,['Brazil'],Brazil,Belém,LW,"1,75",-
+,Hugo Leonardo,Left-Back,"Sep 13, 1996 ",27,['Brazil'],Brazil,Contagem,,"1,87",-
+,Matheus Oliveira,Left-Back,"Sep 6, 1996 ",27,['Brazil'],Brazil,Rio de Janeiro,,"1,66",-
+,Eduardo Brito,Left-Back,"Aug 5, 1996 ",27,['Brazil'],Brazil,Itapecerica da Serra,CB   LW,"1,85",-
+,Inácio,Left-Back,"Jan 29, 1996 ",28,['Brazil'],Brazil,Conceição de Coité (BA),LM,"1,81",-
+,Rafael Rosa,Left-Back,"Oct 17, 1996 ",27,['Brazil'],Brazil,Campinas,DM,"1,76",-
+,Daniel Vançan,Left-Back,"Oct 25, 1996 ",27,['Brazil'],Brazil,São Jorge do Ivaí,CB,"1,80",-
+,Glenisson,Left-Back,"Jan 18, 1996 ",28,['Brazil'],Brazil,,LM,"1,73",-
+,Giovani,Left-Back,"Jun 3, 1996 ",27,['Brazil'],Brazil,Matão,DM,"1,76",-
+,China,Left-Back,"Sep 16, 1996 ",27,['Brazil'],Brazil,,LW   AM,"1,70",-
+,Udson,Left-Back,"Jun 17, 1996 ",27,['Brazil'],Brazil,,,"1,80",-
+20,Alyson,Left-Back,"Feb 20, 1996 ",28,['Brazil'],Brazil,São Paulo,AM   LW,"1,74",-
+,Yuri,Left-Back,"Jan 8, 1996 ",28,['Brazil'],Brazil,Rio de Janeiro,LM   CM,"1,75",-
+,Igor Miranda,Left-Back,"Jul 1, 1996 ",27,['Brazil'],Brazil,São Paulo,LM   CB,"1,78",-
+,Wesley Costa,Left-Back,"Aug 25, 1996 ",27,['Brazil'],Brazil,Chapecó,,"1,74",-
+,Ian Barreto,Left-Back,"Sep 25, 1996 ",27,['Brazil'],Brazil,Ubatuba,CM,"1,78",-
+12,Caio Henrique,Left-Back,"Jul 31, 1997 ",26,"['Brazil', 'Spain']",Brazil,Santos,AM   LM,"1,78",€20.00m
+6,Ayrton Lucas,Left-Back,"Jun 19, 1997 ",26,['Brazil'],Brazil,Carnaúba dos Dantas,,"1,80",€8.00m
+3,Marlon,Left-Back,"May 20, 1997 ",26,['Brazil'],Brazil,Cascavel,,"1,78",€5.00m
+30,Nicolas,Left-Back,"Feb 24, 1997 ",27,"['Brazil', 'Italy']",Brazil,Arapongas,,"1,81",€1.40m
+6,Felipinho,Left-Back,"Jan 13, 1997 ",27,['Brazil'],Brazil,Itapetinga,,"1,77",€500k
+13,Jefferson,Left-Back,"Jan 3, 1997 ",27,['Brazil'],Brazil,Jaraguá,,"1,76",€500k
+20,Conrado,Left-Back,"Apr 3, 1997 ",26,"['Brazil', 'Italy']",Brazil,Ajuricaba,LW   LM,"1,74",€400k
+30,Victor Luiz,Left-Back,"Dec 5, 1997 ",26,['Brazil'],Brazil,Belo Horizonte,,"1,77",€250k
+12,Lucas Silva,Left-Back,"Feb 19, 1997 ",27,"['Brazil', 'Portugal']",Brazil,Barra Mansa,LM   CB,"1,82",€200k
+12,Gustavo Salomão Miguel,Left-Back,"Jun 28, 1997 ",26,['Brazil'],Brazil,Muzambinho,,"1,84",€150k
+,Patrick Brey,Left-Back,"Jun 5, 1997 ",26,"['Brazil', 'Germany']",Brazil,Brasília,LM,"1,77",€125k
+,Raphael,Left-Back,"Mar 11, 1997 ",27,"['Brazil', 'Italy']",Brazil,São Paulo,CM,"1,70",-
+,Augusto Menezes,Left-Back,"May 13, 1997 ",26,['Brazil'],Brazil,,,,-
+13,Guilherme Arana,Left-Back,"Apr 14, 1997 ",26,['Brazil'],Brazil,São Paulo,,"1,76",€10.00m
+22,Iago,Left-Back,"Mar 23, 1997 ",26,['Brazil'],Brazil,"Monte Azul Paulista, Sao Paulo",LM,"1,81",€5.50m
+29,Juninho Capixaba,Left-Back,"Jul 6, 1997 ",26,['Brazil'],Brazil,Cachoeiro de Itapemirim,,"1,76",€3.00m
+36,Lucas Lovat,Left-Back,"Jan 15, 1997 ",27,['Brazil'],Brazil,Florianópolis,LM   LW,"1,84",€600k
+46,Hugo,Left-Back,"Aug 29, 1997 ",26,['Brazil'],Brazil,Arapiraca,,"1,79",€500k
+,Guilherme Romão,Left-Back,"Oct 7, 1997 ",26,['Brazil'],Brazil,Marília,LW,"1,76",€400k
+,Moraes,Left-Back,"Oct 3, 1997 ",26,['Brazil'],Brazil,Goianira,,"1,71",€250k
+,Reverson,Left-Back,"Feb 2, 1997 ",27,['Brazil'],Brazil,Araguaína,,"1,75",€200k
+,Andrey Yago,Left-Back,"Dec 29, 1997 ",26,['Brazil'],Brazil,,,"1,78",€150k
+,Caxambu,Left-Back,"Jan 23, 1997 ",27,['Brazil'],Brazil,Caxambu,CB,"1,80",€125k
+,Vinicius Lima,Left-Back,"Apr 16, 1997 ",26,['Brazil'],Brazil,São Paulo,LW,"1,81",-
+11,Pedrinho,Left-Back,"Dec 21, 1997 ",26,['Brazil'],Brazil,Belo Horizonte (MG),LM   LW,"1,80",-
+,Matheus Velasque,Left-Back,"Feb 23, 1997 ",27,['Brazil'],Brazil,,,,-
+,Caio Queiroz,Left-Back,"Sep 23, 1997 ",26,['Brazil'],Brazil,Curitiba,LM,"1,80",-
+,Matheus Silva,Left-Back,"Sep 22, 1997 ",26,['Brazil'],Brazil,Ribeirão Bonito,,"1,74",-
+,Ailton Santos,Left-Back,"Jun 22, 1997 ",26,['Brazil'],Brazil,Nova Iguaçu,AM,"1,82",-
+,Lau,Left-Back,"Aug 14, 1997 ",26,['Brazil'],Brazil,,,,-
+,Lucas Santos,Left-Back,"Aug 20, 1997 ",26,['Brazil'],Brazil,,,,-
+,Bruce,Left-Back,"Dec 20, 1997 ",26,['Brazil'],Brazil,,,"1,77",-
+,Espeto,Left-Back,"Nov 12, 1997 ",26,['Brazil'],Brazil,,,"1,80",-
+,Mattheus Silva,Left-Back,"Aug 12, 1997 ",26,['Brazil'],Brazil,,,"1,70",-
+,Geisandro,Left-Back,"Aug 26, 1997 ",26,['Brazil'],Brazil,Cuparaque,CM,"1,75",-
+,Mateus Issa,Left-Back,"Apr 8, 1997 ",26,['Brazil'],Brazil,,,,-
+,Weslley,Left-Back,"Nov 2, 1997 ",26,['Brazil'],Brazil,,LM,"1,76",-
+16,César Morais,Left-Back,"May 6, 1997 ",26,['Brazil'],Brazil,Belo Horizonte,,"1,79",-
+,Gleidson Silva,Left-Back,"Dec 22, 1997 ",26,['Brazil'],Brazil,,,"1,78",-
+6,Ivo Silva,Left-Back,"May 2, 1997 ",26,['Brazil'],Brazil,Rio de Janeiro,,"1,80",-
+,Jonatan,Left-Back,"Jan 2, 1997 ",27,['Brazil'],Brazil,,DM,,-
+,Fabrício Teixeira,Left-Back,"Jun 6, 1997 ",26,['Brazil'],Brazil,,,,-
+16,Rodrigo Souto,Left-Back,"Apr 14, 1997 ",26,['Brazil'],Brazil,,LM,"1,77",-
+,Igor Meneghel,Left-Back,"Jul 9, 1997 ",26,['Brazil'],Brazil,,,"1,81",-
+,Bahia,Left-Back,"Feb 14, 1997 ",27,['Brazil'],Brazil,,,,-
+,Henrique Rambo,Left-Back,"Aug 6, 1997 ",26,['Brazil'],Brazil,,,,-
+,Lucas Praxedes,Left-Back,"Feb 3, 1997","Feb 3, 1997",['Brazil'],Brazil,,,,-
+,Luiz Beltrame,Left-Back,"Nov 23, 1997 ",26,['Brazil'],Brazil,,,"1,74",-
+,Davi Gabriel,Left-Back,"Nov 12, 1997 ",26,['Brazil'],Brazil,Brasília,LM   LW,"1,82",-
+,Popila,Left-Back,"Jun 16, 1997 ",26,['Brazil'],Brazil,,,,-
+,Sillas,Left-Back,"Aug 19, 1997 ",26,['Brazil'],Brazil,São Paulo,AM,,-
+,Gabriel Braga,Left-Back,"Sep 29, 1997 ",26,['Brazil'],Brazil,Campinas,LM,"1,71",-
+,Diego Matos,Left-Back,"Jan 8, 1997 ",27,['Brazil'],Brazil,Belém,,"1,73",-
+,Victor Luiz,Left-Back,"Apr 3, 1997 ",26,['Brazil'],Brazil,São Paulo,LM   LW,"1,80",-
+,Tom Furtado,Left-Back,"Jun 3, 1997 ",26,['Brazil'],Brazil,São José dos Campos,,"1,74",-
+,Foguinho,Left-Back,"Jun 29, 1997 ",26,['Brazil'],Brazil,Araucária,,"1,80",-
+,Paulucci,Left-Back,"Jan 25, 1997 ",27,"['Brazil', 'Italy']",Brazil,Londrina,,,-
+,Matheus Souza,Left-Back,"Jun 10, 1997 ",26,['Brazil'],Brazil,Cantagalo,,"1,74",-
+,Michel,Left-Back,"Jun 6, 1997 ",26,['Brazil'],Brazil,Boa Esperança,,"1,75",-
+,Liverson,Left-Back,"Feb 20, 1997 ",27,['Brazil'],Brazil,,LM   LW,,-
+,Tito,Left-Back,"Mar 5, 1997 ",27,['Brazil'],Brazil,Natividade,LM,"1,79",-
+,Arthur Bote,Left-Back,"Jan 7, 1997 ",27,['Brazil'],Brazil,,RB   LW,"1,72",-
+,Bruno,Left-Back,"Dec 16, 1997 ",26,"['Brazil', 'Germany']",Brazil,Lajeado,DM,"1,80",-
+,Wesley Braga,Left-Back,"Sep 4, 1997 ",26,['Brazil'],Brazil,Imperatriz,,"1,72",-
+36,Kevyn,Left-Back,"Dec 28, 1997 ",26,['Brazil'],Brazil,,,"1,78",-
+,Victor Lindenberg,Left-Back,"Dec 17, 1997 ",26,['Brazil'],Brazil,Rio de Janeiro,,"1,75",-
+,Evandro,Left-Back,"Jan 6, 1997 ",27,['Brazil'],Brazil,Recife,LM,"1,70",-
+,Glecio,Left-Back,"Mar 13, 1997 ",26,['Brazil'],Brazil,,CB,,-
+,Denilson,Left-Back,"Sep 6, 1997 ",26,['Brazil'],Brazil,Riachão,,,-
+,Wellington Verloo,Left-Back,"Feb 27, 1997 ",27,"['Netherlands', 'Brazil']",Brazil,Recife,LM   LW,,-
+6,Renan Lodi,Left-Back,"Apr 8, 1998 ",25,"['Brazil', 'Italy']",Brazil,Serrana,LM,"1,73",€20.00m
+16,Caio Paulista,Left-Back,"May 11, 1998 ",25,['Brazil'],Brazil,São Paulo,RW   LW,"1,84",€4.00m
+3,Felipe Jonatan,Left-Back,"Feb 15, 1998 ",26,['Brazil'],Brazil,Fortaleza,,"1,76",€2.00m
+3,Rafael Santos,Left-Back,"Feb 5, 1998 ",26,['Brazil'],Brazil,Londrina,,"1,80",€600k
+16,Matheus Mascarenhas,Left-Back,"Jul 27, 1998 ",25,"['Brazil', 'Portugal']",Brazil,São João de Meriti,LW   RW,"1,80",€450k
+,Jonathan Vieira,Left-Back,"Mar 3, 1998 ",26,['Brazil'],Brazil,Japeri,,"1,72",€250k
+,Emerson,Left-Back,"Aug 18, 1998 ",25,['Brazil'],Brazil,Cacoal,,"1,79",€100k
+,Arthur,Left-Back,"Aug 27, 1998 ",25,['Brazil'],Brazil,São Paulo,LM,"1,76",€50k
+,Marcelo Nunes,Left-Back,"Dec 22, 1998 ",25,['Brazil'],Brazil,Porto Alegre,LM,"1,76",€50k
+5,Matheus do Ó,Left-Back,"May 20, 1998 ",25,['Brazil'],Brazil,,,,-
+98,Jefferson,Left-Back,"Jan 3, 1998 ",26,['Brazil'],Brazil,,,,-
+,Adilson,Left-Back,"Nov 25, 1998 ",25,['Brazil'],Brazil,,,,-
+13,Júlio Lopes,Left-Back,"Feb 7, 1998 ",26,['Brazil'],Brazil,Salvador (BA),LM   LW,"1,78",-
+13,Rogério,Left-Back,"Jan 13, 1998 ",26,"['Brazil', 'Italy']",Brazil,Nobres,LM,"1,78",€7.50m
+25,Busanello,Left-Back,"Oct 29, 1998 ",25,['Brazil'],Brazil,Frederico Westphalen,,"1,80",€2.00m
+83,Jamerson,Left-Back,"Sep 9, 1998 ",25,['Brazil'],Brazil,Salvador,,"1,77",€1.00m
+,Luiz Henrique,Left-Back,"Jan 17, 1998 ",26,['Brazil'],Brazil,Salvador,,"1,80",€500k
+98,Zé Ricardo,Left-Back,"Sep 4, 1998 ",25,"['Brazil', 'Spain']",Brazil,Goiânia,LW,"1,75",€300k
+12,Bruno Franco,Left-Back,"Apr 10, 1998 ",25,['Brazil'],Brazil,Araraquara,,,€200k
+,Vitor Leão,Left-Back,"Sep 11, 1998 ",25,['Brazil'],Brazil,Santa Isabel,CB,"1,89",€75k
+,Nathan,Left-Back,"May 14, 1998 ",25,['Brazil'],Brazil,,,"1,73",€50k
+,Caique,Left-Back,"Jun 14, 1998 ",25,['Brazil'],Brazil,Hortolândia,LW   LM,"1,75",€50k
+,Félix Jorge,Left-Back,"Apr 2, 1998 ",25,['Brazil'],Brazil,Ilhéus,CB,"1,84",-
+,Rodrigo Otero,Left-Back,"Nov 1, 1998 ",25,"['Brazil', 'Portugal']",Brazil,São Paulo,,"1,80",-
+,Dudu,Left-Back,"Jul 29, 1998 ",25,['Brazil'],Brazil,,,"1,82",-
+,Wender,Left-Back,"Jul 4, 1998 ",25,['Brazil'],Brazil,Iguatemi,,"1,86",-
+,Neto,Left-Back,"Jul 17, 1998 ",25,['Brazil'],Brazil,,,"1,81",-
+,Denilson,Left-Back,"May 15, 1998 ",25,['Brazil'],Brazil,,RB,,-
+,Rubens,Left-Back,"Jun 12, 1998 ",25,['Brazil'],Brazil,Andradina,LM,"1,80",-
+,Ian Rodrigues,Left-Back,"May 29, 1998 ",25,['Brazil'],Brazil,Rio de Janeiro,LM,"1,74",-
+,Guilherme,Left-Back,"Nov 25, 1998 ",25,['Brazil'],Brazil,,,,-
+,Matheus Maranguape,Left-Back,"Nov 27, 1998 ",25,['Brazil'],Brazil,Maranguape,,"1,72",-
+,Brenno,Left-Back,"Aug 7, 1998 ",25,['Brazil'],Brazil,São Luís,LW,"1,75",-
+,Felipe Cruz,Left-Back,"Apr 25, 1998 ",25,['Brazil'],Brazil,Natal,,"1,78",-
+,Ruan,Left-Back,"Dec 6, 1998 ",25,['Brazil'],Brazil,Belo Horizonte,DM,"1,79",-
+,Andrezinho,Left-Back,"Aug 18, 1998 ",25,['Brazil'],Brazil,,RM,,-
+,Rivaldo,Left-Back,"Jun 10, 1998 ",25,['Brazil'],Brazil,,,"1,85",-
+,Victor Pinheiro,Left-Back,"Mar 23, 1998 ",25,['Brazil'],Brazil,Belo Horizonte,CB,"1,85",-
+,Maceió,Left-Back,"Aug 29, 1998 ",25,['Brazil'],Brazil,Maceió,,"1,69",-
+,Reinaldo,Left-Back,"May 8, 1998 ",25,['Brazil'],Brazil,,,"1,88",-
+,Diego Eduardo,Left-Back,"Dec 8, 1998 ",25,['Brazil'],Brazil,,,,-
+,Igor Sanchs,Left-Back,"Jan 26, 1998 ",26,['Brazil'],Brazil,,,,-
+,Cesinha,Left-Back,"Jan 21, 1998 ",26,['Brazil'],Brazil,,,"1,70",-
+,Willames,Left-Back,"Feb 14, 1998 ",26,['Brazil'],Brazil,,,"1,70",-
+,Lucas Neres,Left-Back,"Jan 7, 1998 ",26,['Brazil'],Brazil,,,"1,75",-
+,Andreo,Left-Back,"Jul 3, 1998 ",25,['Brazil'],Brazil,,LW,,-
+,Thallys,Left-Back,"Dec 7, 1998 ",25,['Brazil'],Brazil,,,,-
+,Iury Negreiros,Left-Back,"Sep 4, 1998 ",25,['Brazil'],Brazil,Alagoinhas,AM,"1,78",-
+,Lucas Caetano,Left-Back,"May 8, 1998 ",25,['Brazil'],Brazil,,,"1,69",-
+,Henrique,Left-Back,"Oct 15, 1998 ",25,['Brazil'],Brazil,,,,-
+,Fábio,Left-Back,"Jan 23, 1998 ",26,['Brazil'],Brazil,Votorantim,LM   DM,"1,79",-
+,Goié,Left-Back,"Feb 9, 1998 ",26,"['Brazil', 'Italy']",Brazil,,LW   RW,"1,73",-
+,Filipe Pego,Left-Back,"Sep 9, 1998 ",25,['Brazil'],Brazil,,,"1,85",-
+,Thalles,Left-Back,"Sep 28, 1998 ",25,['Brazil'],Brazil,,,,-
+,Lucas Menezes,Left-Back,"May 13, 1998 ",25,['Brazil'],Brazil,,,,-
+,Matheus Padilha,Left-Back,"Mar 5, 1998 ",26,['Brazil'],Brazil,,,,-
+,Paulinho,Left-Back,"Feb 2, 1998 ",26,['Brazil'],Brazil,Canhoto,,,-
+,Brayan,Left-Back,"Feb 11, 1998 ",26,['Brazil'],Brazil,Cachoeiro de Itapemirim,AM   LM,"1,77",-
+,Bruno Dip,Left-Back,"Feb 17, 1998 ",26,"['Brazil', 'Italy']",Brazil,São Paulo,,"1,81",-
+,Gregorio Ibanez,Left-Back,"Jan 26, 1998 ",26,"['Nicaragua', 'Brazil']",Brazil,Curitaba,LW   SS,"1,75",-
+,Fernando Callegari,Left-Back,"Sep 14, 1998 ",25,['Brazil'],Brazil,Farroupilha,,"1,80",-
+,Luan Gama,Left-Back,"Jun 6, 1998 ",25,['Brazil'],Brazil,Itaboraí,,"1,74",-
+,Vitinho,Left-Back,"Jan 7, 1998 ",26,['Brazil'],Brazil,São Paulo,LM,"1,71",-
+,Rômulo,Left-Back,"Jan 15, 1998 ",26,['Brazil'],Brazil,,,,-
+,Gabriel Carioca,Left-Back,"Jan 12, 1998 ",26,['Brazil'],Brazil,Rio de Janeiro,,"1,87",-
+,Luiz Belo,Left-Back,"May 7, 1998 ",25,['Brazil'],Brazil,,RB,"1,71",-
+,Wendel,Left-Back,"Jan 26, 1998 ",26,['Brazil'],Brazil,Salvador,DM   CM,"1,87",-
+,Heitor Roca,Left-Back,"Feb 19, 1998 ",26,['Brazil'],Brazil,,,"1,81",-
+,Willian,Left-Back,"Nov 4, 1998 ",25,['Brazil'],Brazil,São Bernardo do Campo,,"1,86",-
+,Alex Jhonatta,Left-Back,"Sep 6, 1998 ",25,['Brazil'],Brazil,Uberlândia,CM,"1,70",-
+,Alex Silvério,Left-Back,"Oct 7, 1998 ",25,['Brazil'],Brazil,Indaiatuba,,"1,75",-
+,Diego Cordeiro,Left-Back,"Jan 31, 1998 ",26,['Brazil'],Brazil,São João Evangelista (MG),LM,"1,78",-
+,Matheus Micael,Left-Back,"Jan 29, 1998 ",26,['Brazil'],Brazil,Pitangueiras,DM,"1,80",-
+,Victor Volpe,Left-Back,"Jul 17, 1998 ",25,"['Brazil', 'Italy']",Brazil,Araras,LW   RW,"1,75",-
+,Rafael Verrone,Left-Back,"Aug 23, 1998 ",25,"['Brazil', 'Italy']",Brazil,São Paulo,LM,"1,78",-
+,Kaio Cristian,Left-Back,"Jul 18, 1998 ",25,['Brazil'],Brazil,Boa Vista,LM   LW,"1,72",-
+16,Alan Cardoso,Left-Back,"Jan 5, 1998 ",26,['Brazil'],Brazil,Rio de Janeiro,LM,"1,77",-
+17,Mauro Júnior,Left-Back,"May 6, 1999 ",24,['Brazil'],Brazil,São Paulo,RB   LW,"1,71",€5.00m
+21,Matheus Bidu,Left-Back,"May 4, 1999 ",24,['Brazil'],Brazil,São Paulo,,"1,72",€2.00m
+6,Marquinhos Cipriano,Left-Back,"Feb 9, 1999 ",25,['Brazil'],Brazil,Catanduva,LM   CM,"1,73",€800k
+26,Lucas Barros,Left-Back,"Aug 21, 1999 ",24,['Brazil'],Brazil,Rio de Janeiro,CM,"1,80",€550k
+23,Kelvyn,Left-Back,"May 7, 1999 ",24,['Brazil'],Brazil,Osasco,LW,"1,75",€400k
+12,Talys,Left-Back,"Feb 10, 1999 ",25,['Brazil'],Brazil,Itabuna,LM   LW,"1,81",€300k
+,Felipe Vieira,Left-Back,"May 4, 1999 ",24,['Brazil'],Brazil,Cruzeiro do Sul,,"1,76",€250k
+99,Wendel,Left-Back,"Oct 12, 1999 ",24,['Brazil'],Brazil,Recife,CB,"1,89",€150k
+26,Mayk,Left-Back,"Aug 31, 1999 ",24,['Brazil'],Brazil,Santo Antônio do Salto da Onça,,"1,72",€100k
+,Hugo Bilhéu,Left-Back,"Mar 5, 1999 ",25,['Brazil'],Brazil,,LM,,-
+,Werley Capanema,Left-Back,"Jul 30, 1999 ",24,['Brazil'],Brazil,Capanema,LM,"1,70",-
+,Rhuan,Left-Back,"May 14, 1999 ",24,['Brazil'],Brazil,Rio Negrinho,,"1,78",-
+,Da Silva,Left-Back,"Nov 16, 1999 ",24,['Brazil'],Brazil,Fortaleza,DM,"1,78",-
+46,Luciano Juba,Left-Back,"Aug 29, 1999 ",24,['Brazil'],Brazil,Serra Talhada,LW,"1,76",€2.00m
+79,Matheus Bahia,Left-Back,"Aug 11, 1999 ",24,['Brazil'],Brazil,Salvador,,"1,81",€1.50m
+,Guilherme Guedes,Left-Back,"May 18, 1999 ",24,['Brazil'],Brazil,Porto Alegre,,"1,77",€700k
+6,Fernando Bueno,Left-Back,"Sep 14, 1999 ",24,['Brazil'],Brazil,Santa Maria,,"1,81",€450k
+80,Keffel,Left-Back,"Sep 27, 1999 ",24,['Brazil'],Brazil,Minas Gerais,LM,"1,79",€375k
+,Gabriel Alves,Left-Back,"Feb 10, 1999 ",25,['Brazil'],Brazil,São Paulo,CM,"1,85",€250k
+30,Kleiton,Left-Back,"Apr 21, 1999 ",24,['Brazil'],Brazil,,CB,,€200k
+22,Hulk,Left-Back,"Apr 30, 1999 ",24,['Brazil'],Brazil,Brasília,LM,"1,79",€150k
+,Felippe Borges,Left-Back,"Dec 4, 1999 ",24,['Brazil'],Brazil,Bento Gonçalves,,"1,79",€50k
+12,Lucas Devid,Left-Back,"Feb 20, 1999 ",25,['Brazil'],Brazil,,,,-
+,Garagau,Left-Back,"Jan 22, 1999 ",25,['Brazil'],Brazil,,,"1,72",-
+,Felipe Santana,Left-Back,"Jun 18, 1999 ",24,['Brazil'],Brazil,,CB   RB,"1,84",-
+12,Gabriel Branco,Left-Back,"Jan 30, 1999 ",25,['Brazil'],Brazil,Petrópolis,,"1,79",-
+,Ruan Lopes,Left-Back,"Aug 24, 1999 ",24,['Brazil'],Brazil,,CB,,-
+,Ikaro,Left-Back,"Apr 17, 1999 ",24,['Brazil'],Brazil,,,"1,85",-
+,Alysson Dutra,Left-Back,"Sep 10, 1999 ",24,['Brazil'],Brazil,,CB   DM,"1,89",-
+,Fabinho,Left-Back,"Nov 19, 1999 ",24,['Brazil'],Brazil,Caxias do Sul,LW,"1,75",-
+,Carlinhos,Left-Back,"Jul 7, 1999 ",24,['Brazil'],Brazil,Guaranésia,,"1,76",-
+,Humberto,Left-Back,"Feb 8, 1999 ",25,['Brazil'],Brazil,,,,-
+,Guilherme Nicolodi,Left-Back,"Mar 25, 1999 ",24,['Brazil'],Brazil,Porto Alegre,CB,"1,88",-
+,Raphinha,Left-Back,"Aug 5, 1999 ",24,['Brazil'],Brazil,Rio de Janeiro,AM,"1,71",-
+,Caio Felipe,Left-Back,"Apr 16, 1999 ",24,['Brazil'],Brazil,Alagoinhas,,"1,80",-
+,Samuel Toscas,Left-Back,"Aug 14, 1999 ",24,['Brazil'],Brazil,Niterói,LM,"1,82",-
+,Leocovick,Left-Back,"Jun 15, 1999 ",24,['Brazil'],Brazil,Santa Rosa,CB,"1,80",-
+,Fellipe Andrade,Left-Back,"Feb 10, 1999 ",25,['Brazil'],Brazil,Rio de Janeiro,,"1,79",-
+,Dal Pian,Left-Back,"Mar 16, 1999 ",24,['Brazil'],Brazil,Encantado,LM   DM,"1,70",-
+13,Michel,Left-Back,"May 13, 1999 ",24,"['Brazil', 'Portugal']",Brazil,Curitiba,RW   LW,"1,78",-
+,Gabriel Henrique,Left-Back,"Jan 8, 1999 ",25,['Brazil'],Brazil,,,"1,75",-
+,Diego Porfirio,Left-Back,"Aug 1, 1999 ",24,['Brazil'],Brazil,Pindamonhangaba,,"1,82",-
+,Daniel,Left-Back,"Dec 23, 1999 ",24,['Brazil'],Brazil,,,,-
+,Marcio Vinicius,Left-Back,"Mar 28, 1999 ",24,['Brazil'],Brazil,,,,-
+,PH,Left-Back,"Jan 18, 1999 ",25,['Brazil'],Brazil,Resende,,"1,86",-
+,Marquinhos,Left-Back,"Jul 18, 1999 ",24,['Brazil'],Brazil,,,,-
+,Juninho,Left-Back,"Jul 28, 1999 ",24,['Brazil'],Brazil,,,"1,79",-
+,Maikon,Left-Back,"Jan 9, 1999 ",25,['Brazil'],Brazil,Pirapemas,,"1,80",-
+,Paulo Victor,Left-Back,"May 4, 1999 ",24,['Brazil'],Brazil,Rio de Janeiro,CM,"1,80",-
+,Guilherme Martineli,Left-Back,"May 17, 1999 ",24,['Brazil'],Brazil,Nova Luzitânia,,"1,80",-
+,Ramon Pereira,Left-Back,"May 19, 1999 ",24,['Brazil'],Brazil,Maceió,,"1,79",-
+,Carlinhos,Left-Back,"Nov 20, 1999 ",24,['Brazil'],Brazil,,,,-
+,Daniel Sanches,Left-Back,"May 14, 1999 ",24,"['Portugal', 'Brazil']",Brazil,Rio de Janeiro,,"1,85",-
+,Rodrigues,Left-Back,"Dec 27, 1999 ",24,['Brazil'],Brazil,Goiânia,,"1,71",-
+,Klayver,Left-Back,"Sep 12, 1999 ",24,"['Faroe Islands', 'Brazil']",Brazil,Duque de Caixias,LM,,-
+,Gabriel Pezzi,Left-Back,"Sep 1, 1999 ",24,['Brazil'],Brazil,João Pessoa,LM,"1,79",-
+,Lucas Luan,Left-Back,"Sep 6, 1999 ",24,['Brazil'],Brazil,Bom Jesus do Galho,,"1,83",-
+,Mateus Rodrigues,Left-Back,"Apr 3, 1999 ",24,['Brazil'],Brazil,,,"1,80",-
+,Enzo Rafael,Left-Back,"May 26, 1999 ",24,"['Brazil', 'Italy']",Brazil,,LM,"1,77",-
+,Michael Rangel,Left-Back,"May 27, 1999 ",24,['Brazil'],Brazil,Rio de Janeiro,,"1,80",-
+,Talison,Left-Back,"Jun 14, 1999 ",24,['Brazil'],Brazil,Fortaleza,CB,"1,84",-
+,Alexandre Melo,Left-Back,"Feb 11, 1999 ",25,['Brazil'],Brazil,Rio de Janeiro,CM,"1,80",-
+,Nickson,Left-Back,"May 25, 1999 ",24,['Brazil'],Brazil,,LW   LM,"1,67",-
+,Rael,Left-Back,"Apr 14, 1999 ",24,['Brazil'],Brazil,São Domingos,LM   CM,"1,76",-
+,Peterson Naitzk,Left-Back,"May 17, 1999 ",24,['Brazil'],Brazil,Suzano,LM   LW,,-
+,Lucas,Left-Back,"May 25, 1999 ",24,['Brazil'],Brazil,,CM   LM,"1,74",-
+,Araújo,Left-Back,"Dec 5, 1999 ",24,['Brazil'],Brazil,,,,-
+6,César,Left-Back,"Sep 30, 1999 ",24,['Brazil'],Brazil,Rio de Janeiro,DM,"1,79",-
+,João Vitor,Left-Back,"Jan 9, 1999 ",25,['Brazil'],Brazil,,,,-
+20,Abner,Left-Back,"May 27, 2000 ",23,['Brazil'],Brazil,Presidente Prudente,LM,"1,81",€7.00m
+,Lucas Esteves,Left-Back,"Jun 24, 2000 ",23,['Brazil'],Brazil,São Paulo,,"1,71",€1.20m
+26,Weverson,Left-Back,"Jul 5, 2000 ",23,['Brazil'],Brazil,Brasilia,LW   LM,"1,85",€600k
+8,Baltazar,Left-Back,"May 6, 2000 ",23,['Brazil'],Brazil,Jaragua,CM   AM,"1,78",€500k
+,Edson Lucas,Left-Back,"Jul 30, 2000 ",23,['Brazil'],Brazil,,,"1,75",€200k
+,Nicolas Schulz,Left-Back,"Jul 15, 2000 ",23,['Brazil'],Brazil,Campo Bom,LW   RW,"1,84",€50k
+,Hélio Júnior,Left-Back,"Jan 25, 2000 ",24,['Brazil'],Brazil,Pimenta Bueno,,"1,73",€50k
+,Natan Pedriali,Left-Back,"Jan 29, 2000 ",24,['Brazil'],Brazil,,,"1,77",€10k
+,Rian,Left-Back,"Jul 3, 2000 ",23,['Brazil'],Brazil,Fortaleza,,,-
+,Dudu Caririaçu,Left-Back,"Sep 17, 2000 ",23,['Brazil'],Brazil,Caririaçu,LM,"1,70",-
+,Eric,Left-Back,"Aug 7, 2000 ",23,['Brazil'],Brazil,Baixa Grande,,"1,80",-
+,Mateus Silva,Left-Back,"Apr 28, 2000 ",23,['Brazil'],Brazil,Macapá,,"1,77",-
+,Vinicius Vitória,Left-Back,"Jun 18, 2000 ",23,['Brazil'],Brazil,Vitória de Santo Antão,,"1,9",-
+6,Lucas Piton,Left-Back,"Oct 9, 2000 ",23,"['Italy', 'Brazil']",Brazil,Jundiaí,,"1,75",€6.00m
+6,Matheus Pereira,Left-Back,"Dec 21, 2000 ",23,['Brazil'],Brazil,São Paulo,LM   CB,"1,72",€700k
+29,Guilherme Biro,Left-Back,"May 1, 2000 ",23,['Brazil'],Brazil,Curitiba,LM   CM,"1,88",€500k
+88,Kazu,Left-Back,"Mar 18, 2000 ",23,['Brazil'],Brazil,Maringá,,"1,75",€400k
+16,Bull,Left-Back,"Nov 10, 2000 ",23,['Brazil'],Brazil,,,"1,83",€150k
+,Anderson Felippe,Left-Back,"Aug 4, 2000 ",23,['Brazil'],Brazil,Campinas,RW,"1,76",€50k
+6,João Carlos Farias do Nascimento,Left-Back,"Jul 14, 2000 ",23,['Brazil'],Brazil,Rio Branco,,,€25k
+,França,Left-Back,"Jun 7, 2000 ",23,['Brazil'],Brazil,,,,-
+,Luiz Felipe,Left-Back,"Aug 21, 2000 ",23,['Brazil'],Brazil,,,"1,73",-
+,Zé Preto,Left-Back,"Feb 21, 2000 ",24,['Brazil'],Brazil,,LW,,-
+2,Vinicius,Left-Back,N/A ,23,['Brazil'],Brazil,,LM   LW,,-
+30,Vinício,Left-Back,"May 2, 2000 ",23,['Brazil'],Brazil,,,"1,75",-
+,Eric Vieira,Left-Back,"Mar 18, 2000 ",23,['Brazil'],Brazil,Barcarena,LM,"1,77",-
+,Andrezinho,Left-Back,"Feb 7, 2000 ",24,['Brazil'],Brazil,,RB,,-
+,Otávio,Left-Back,"Mar 7, 2000 ",24,['Brazil'],Brazil,Presidente Prudente,,,-
+,Alisson Cariús,Left-Back,"Apr 3, 2000 ",23,['Brazil'],Brazil,Cariús,,"1,73",-
+,Gabriel,Left-Back,"Apr 11, 2000 ",23,['Brazil'],Brazil,,,"1,76",-
+,Nailton,Left-Back,"Aug 9, 2000 ",23,['Brazil'],Brazil,Arari,LM,"1,71",-
+,Gustavo Aguiar,Left-Back,"Apr 10, 2000 ",23,['Brazil'],Brazil,Sete Lagoas,LM   LW,"1,76",-
+,Vinícius,Left-Back,"Dec 18, 2000 ",23,['Brazil'],Brazil,Itabria,,"1,75",-
+,Cássio Santos,Left-Back,"Jun 26, 2000 ",23,['Brazil'],Brazil,,,,-
+,Jorge,Left-Back,"Apr 28, 2000 ",23,['Brazil'],Brazil,,,,-
+,Jefferson Vinicius,Left-Back,"May 3, 2000 ",23,['Brazil'],Brazil,Natal,,,-
+,Marcinho,Left-Back,"Mar 28, 2000 ",23,['Brazil'],Brazil,Rio de Janeiro,,"1,80",-
+,Tauã,Left-Back,"Jun 4, 2000 ",23,['Brazil'],Brazil,,,,-
+,Pedrinho,Left-Back,"Dec 6, 2000 ",23,['Brazil'],Brazil,,,"1,73",-
+21,Carlos Gabriel,Left-Back,"Jun 10, 2000 ",23,['Brazil'],Brazil,São Luís,,"1,79",-
+,Arthurzinho,Left-Back,"Jul 19, 2000 ",23,['Brazil'],Brazil,,LM,"1,75",-
+,Gustavo Moreira,Left-Back,"Jan 20, 2000 ",24,['Brazil'],Brazil,,,"1,82",-
+,Raí,Left-Back,"Mar 28, 2000 ",23,['Brazil'],Brazil,São João da Barra,LM,"1,82",-
+,Eduardo,Left-Back,"Oct 16, 2000 ",23,['Brazil'],Brazil,,,"1,77",-
+,Jordan Kaique,Left-Back,"Mar 20, 2000 ",23,['Brazil'],Brazil,,,,-
+,Gabriel,Left-Back,"Jan 7, 2000 ",24,['Brazil'],Brazil,,,"1,68",-
+,Caio,Left-Back,"Nov 1, 2000 ",23,['Brazil'],Brazil,,,,-
+21,Guilherme Barbosa,Left-Back,"Jan 17, 2000 ",24,['Brazil'],Brazil,,LM   LW,"1,76",-
+,Felipe Camillo,Left-Back,"May 13, 2000 ",23,['Brazil'],Brazil,Londrina,,"1,75",-
+,Gabriel Gomes,Left-Back,"Jul 11, 2000 ",23,['Brazil'],Brazil,Barreiras,,"1,75",-
+,Mateus Farias,Left-Back,"Sep 2, 2000 ",23,['Brazil'],Brazil,,,,-
+,João Gabriel,Left-Back,"Jan 31, 2000 ",24,['Brazil'],Brazil,Belo Horizonte,LM   CM,"1,75",-
+,Edvaine Moura,Left-Back,"Mar 1, 2000 ",24,['Brazil'],Brazil,Bezerros,LM   LW,,-
+,Renner,Left-Back,"Feb 24, 2000 ",24,['Brazil'],Brazil,,,,-
+6,Sidnney,Left-Back,"Mar 15, 2000 ",23,['Brazil'],Brazil,"Jacobina, Bahia",CB   DM,"1,87",-
+,Guilherme Dias,Left-Back,"Feb 15, 2000 ",24,['Brazil'],Brazil,,AM,"1,70",-
+33,Ugo Dell'Orfanello,Left-Back,"Jun 13, 2000 ",23,"['Brazil', 'Italy']",Brazil,Río de Janeiro,LM   LW,"1,75",-
+,Paulo Cesar Del Bianco,Left-Back,"Feb 3, 2000 ",24,"['Brazil', 'Italy']",Brazil,Salvador,RB,"1,75",-
+6,Rhuan,Left-Back,"Sep 18, 2000 ",23,['Brazil'],Brazil,Santos,,"1,77",-
+,Jonathan Lima de Oliveira,Left-Back,"Sep 29, 2000 ",23,['Brazil'],Brazil,Contagem,,"1,73",-
+,Lucas Dumont,Left-Back,"Jan 14, 2000 ",24,['Brazil'],Brazil,Belo Horizonte,LM   LW,,-
+,Gabi,Left-Back,"Mar 12, 2000 ",24,"['Brazil', 'Portugal']",Brazil,Brasília,RB,"1,80",-
+,Gabriel Neves,Left-Back,"May 31, 2000 ",23,['Brazil'],Brazil,,,"1,70",-
+,Dimitry,Left-Back,"Mar 29, 2000 ",23,['Brazil'],Brazil,Lajeado,,"1,81",-
+,Carlos Henrique,Left-Back,"Jul 6, 2000 ",23,['Brazil'],Brazil,Jaboatão dos Guararapes,,"1,76",-
+,Kevin,Left-Back,"Mar 14, 2000 ",23,['Brazil'],Brazil,Osasco,LM,"1,85",-
+,Athirson,Left-Back,"Aug 11, 2000 ",23,['Brazil'],Brazil,Manaus,,,-
+,Matheus Nunes,Left-Back,"Jan 19, 2000 ",24,['Brazil'],Brazil,Uruguaiana,LM,"1,75",-
+36,Luan Cândido,Left-Back,"Feb 2, 2001 ",23,['Brazil'],Brazil,Ubá,CB,"1,87",€6.00m
+6,Welington,Left-Back,"Feb 19, 2001 ",23,['Brazil'],Brazil,São Paulo,,"1,75",€4.00m
+33,Lucas Pires,Left-Back,"Mar 24, 2001 ",22,['Brazil'],Brazil,São Paulo,LW,"1,82",€2.00m
+,Ramon,Left-Back,"Mar 13, 2001 ",22,['Brazil'],Brazil,São João de Meriti,,"1,79",€2.00m
+6,Mancha,Left-Back,"Feb 13, 2001 ",23,"['Brazil', 'Italy']",Brazil,Concórdia,,"1,78",€500k
+4,Léo Borges,Left-Back,"Jan 3, 2001 ",23,['Brazil'],Brazil,Pelotas,CB   LM,"1,79",€350k
+,Vinícius Nogueira,Left-Back,"Dec 11, 2001 ",22,"['Brazil', 'Portugal']",Brazil,Penápolis,,"1,80",€300k
+,Eliel,Left-Back,"Nov 16, 2001 ",22,['Brazil'],Brazil,Mogi-Guaçu,,"1,71",€150k
+,Frank,Left-Back,"Mar 3, 2001 ",23,['Brazil'],Brazil,,,"1,76",€50k
+6,Yago Braga,Left-Back,"Nov 20, 2001 ",22,['Brazil'],Brazil,,,,-
+,Felipe Ferreira,Left-Back,"Sep 4, 2001 ",22,['Brazil'],Brazil,,,,-
+,Tenório,Left-Back,"Jun 8, 2001 ",22,['Brazil'],Brazil,,,"1,80",-
+,Gabriel Feliciano,Left-Back,"Jul 26, 2001 ",22,['Brazil'],Brazil,Petrópolis,,"1,78",-
+44,Rubens,Left-Back,"Jun 21, 2001 ",22,['Brazil'],Brazil,Tumiritinga,AM   LW,"1,78",€4.00m
+15,Erik,Left-Back,"Feb 18, 2001 ",23,"['United Arab Emirates', 'Brazil']",Brazil,Quaraí,,"1,72",€3.00m
+16,Hugo,Left-Back,"Sep 20, 2001 ",22,['Brazil'],Brazil,João Pessoa,,"1,75",€2.00m
+21,Paulo Victor,Left-Back,"Apr 13, 2001 ",22,['Brazil'],Brazil,Boicaúva,,"1,80",€1.80m
+,Gian,Left-Back,"May 9, 2001 ",22,['Brazil'],Brazil,,LM,"1,84",€500k
+32,MT,Left-Back,"Mar 1, 2001 ",23,['Brazil'],Brazil,Cabo Frio,LM   AM,"1,85",€325k
+,Marcos Pedro,Left-Back,"Dec 1, 2001 ",22,['Brazil'],Brazil,Manaus,,"1,74",€200k
+77,Vitinho,Left-Back,"Sep 15, 2001 ",22,['Brazil'],Brazil,Piracicaba,LW,"1,76",€100k
+,Rickson,Left-Back,"Jun 21, 2001 ",22,['Brazil'],Brazil,São Vicente,LW,"1,72",-
+,Edu Pompeu,Left-Back,"Mar 19, 2001 ",22,['Brazil'],Brazil,Porto Alegre,,"1,82",-
+,Ismael,Left-Back,"Oct 15, 2001 ",22,['Brazil'],Brazil,Estreito,,,-
+,João Vianna,Left-Back,"Jul 13, 2001 ",22,['Brazil'],Brazil,,CB,,-
+,Pedrinho,Left-Back,"Dec 26, 2001 ",22,['Brazil'],Brazil,,,"1,79",-
+,Abraão,Left-Back,"Jun 10, 2001 ",22,['Brazil'],Brazil,,,,-
+,Negueba,Left-Back,"May 28, 2001 ",22,['Brazil'],Brazil,,,,-
+,Emerson Pilonetto,Left-Back,"Jun 7, 2001 ",22,"['Brazil', 'Italy']",Brazil,Turvo,RW,"1,73",-
+,Pepê,Left-Back,N/A ,22,['Brazil'],Brazil,São Sebastião (SP),LW   RW,"1,75",-
+,Johann,Left-Back,"Aug 18, 2001 ",22,['Brazil'],Brazil,Porto Alegre,CB,"1,82",-
+,Ruan,Left-Back,"Sep 20, 2001 ",22,['Brazil'],Brazil,,CB,"1,85",-
+,Gustavo Rodrigues,Left-Back,"Dec 15, 2001 ",22,['Brazil'],Brazil,,,,-
+,DG,Left-Back,"Mar 29, 2001 ",22,['Brazil'],Brazil,Tucuruí,,"1,81",-
+,Felipe Vasconcelos,Left-Back,"Mar 21, 2001 ",22,['Brazil'],Brazil,,,"1,73",-
+,Carlos Junio,Left-Back,"Mar 27, 2001 ",22,['Brazil'],Brazil,Betim,,"1,84",-
+,Ryan Cardoso,Left-Back,"Jul 20, 2001 ",22,['Brazil'],Brazil,,,,-
+,Lucca,Left-Back,"Aug 21, 2001 ",22,['Brazil'],Brazil,,,"1,78",-
+,Tonhão,Left-Back,"Feb 3, 2001 ",23,['Brazil'],Brazil,Goioerê,,"1,81",-
+6,Roger Mendonça,Left-Back,"Mar 27, 2001 ",22,['Brazil'],Brazil,Rio de Janeiro,LM,"1,71",-
+,Yuri Rocha,Left-Back,"Sep 9, 2001 ",22,['Brazil'],Brazil,Salvador (BA),,"1,86",-
+,Ricardo Liell,Left-Back,"Jun 8, 2001 ",22,['Brazil'],Brazil,Cascavel,DM,"1,84",-
+,Gabriel Trevisol,Left-Back,"Feb 10, 2001 ",23,['Brazil'],Brazil,Passo Fundo (RS),LW,"1,80",-
+,Kevin,Left-Back,"Feb 24, 2001 ",23,['Brazil'],Brazil,Alegrete,DM,"1,81",-
+,Patryck Annes,Left-Back,"Oct 24, 2001 ",22,['Brazil'],Brazil,Porto Alegre,DM,"1,79",-
+,Ronald,Left-Back,"May 19, 2001 ",22,['Brazil'],Brazil,Fortaleza,DM,,-
+,Fabricio Berloffa,Left-Back,"Feb 28, 2001 ",23,"['Brazil', 'Portugal']",Brazil,São Paulo,LM   LW,"1,80",-
+,Gabriel Goncalves,Left-Back,"Jan 15, 2001 ",23,['Brazil'],Brazil,,,,-
+,Cantionilo,Left-Back,"Feb 19, 2001 ",23,['Brazil'],Brazil,,,"1,80",-
+,Bryan,Left-Back,"Dec 5, 2001 ",22,['Brazil'],Brazil,Curitiba,,"1,78",-
+,Josué,Left-Back,"Jan 9, 2001 ",23,['Brazil'],Brazil,Novo Hamburgo,,,-
+,Thalis,Left-Back,"Mar 18, 2001 ",22,['Brazil'],Brazil,Butiá,RB,"1,66",-
+,Rodrigo Gaia,Left-Back,"Jun 14, 2001 ",22,['Brazil'],Brazil,,,,-
+6,Carlos Henrique,Left-Back,"Feb 27, 2001 ",23,['Brazil'],Brazil,Antônio Gonçalves,,"1,75",-
+,Dudu,Left-Back,"Feb 19, 2001 ",23,['Brazil'],Brazil,,CM,"1,82",-
+,Bruno Oliveira,Left-Back,"Apr 6, 2001 ",22,['Brazil'],Brazil,Porto Alegre,,"1,75",-
+23,Gustavo Melo,Left-Back,"Apr 23, 2001 ",22,"['Germany', 'Brazil']",Brazil,Rio de Janeiro,CB   RB,"1,78",-
+,Ruan Nilson,Left-Back,"Jun 22, 2001 ",22,['Brazil'],Brazil,,,,-
+,Layon,Left-Back,"Sep 23, 2001 ",22,['Brazil'],Brazil,Jales,,,-
+,Miguel,Left-Back,"Nov 13, 2001 ",22,['Brazil'],Brazil,São Miguel dos Campos,LM,"1,80",-
+,Reginaldo,Left-Back,"Aug 17, 2001 ",22,['Brazil'],Brazil,São Gonçalo do Amarante,DM   LM,"1,75",-
+,Ítalo,Left-Back,"Jan 1, 2001 ",23,['Brazil'],Brazil,João Pessoa,,"1,78",-
+,Vitor Hugo,Left-Back,"Oct 2, 2001 ",22,['Brazil'],Brazil,Frei Inocêncio,LM   LW,"1,75",-
+,Luan Vitor,Left-Back,"Feb 5, 2001 ",23,['Brazil'],Brazil,,,"1,63",-
+,Ângelo,Left-Back,"Feb 10, 2001 ",23,['Brazil'],Brazil,Curitiba,,"1,82",-
+6,Vanderlan,Left-Back,"Sep 7, 2002 ",21,['Brazil'],Brazil,Brumado,,"1,83",€4.00m
+23,Pedrinho,Left-Back,"Jul 11, 2002 ",21,['Brazil'],Brazil,Salvador,,"1,77",€1.00m
+31,Guilherme,Left-Back,"Feb 14, 2002 ",22,['Brazil'],Brazil,Brasília,,"1,78",€450k
+4,Neném,Left-Back,"Jan 26, 2002 ",22,['Brazil'],Brazil,Angra dos Reis (RJ),CM   CB,"1,82",€200k
+,Juan Tavares,Left-Back,"Apr 25, 2002 ",21,['Brazil'],Brazil,Nova Lima,,"1,79",€150k
+,Raimar,Left-Back,"May 27, 2002 ",21,['Brazil'],Brazil,Manaus,AM   LW,"1,75",€150k
+26,Pedrinho,Left-Back,"Jun 24, 2002 ",21,"['Brazil', 'Italy']",Brazil,São Mateus,,"1,80",€100k
+,Enzo,Left-Back,"Oct 25, 2002 ",21,['Brazil'],Brazil,São Paulo,CB,"1,85",€50k
+,Willian Bahia,Left-Back,"Feb 14, 2002 ",22,['Brazil'],Brazil,Lauro de Freitas,,,-
+,Enzo,Left-Back,"Jul 18, 2002 ",21,['Brazil'],Brazil,Santos,AM,"1,80",-
+,Lucas Manga,Left-Back,"Nov 23, 2002 ",21,['Brazil'],Brazil,,,"1,80",-
+13,Gustavo Vieira,Left-Back,"May 28, 2002 ",21,['Brazil'],Brazil,Guarulhos,CB,"1,80",-
+,Felipe,Left-Back,"Nov 28, 2002 ",21,['Brazil'],Brazil,,,,-
+45,Riquelme,Left-Back,"Aug 28, 2002 ",21,['Brazil'],Brazil,Barra Mansa,,"1,73",€1.50m
+66,Ryan Carlos,Left-Back,"May 14, 2002 ",21,['Brazil'],Brazil,Diadema,,"1,72",€500k
+27,Caio Roque,Left-Back,"Jan 9, 2002 ",22,['Brazil'],Brazil,São Paulo,,"1,82",€400k
+,Jean Carlos,Left-Back,"Sep 19, 2002 ",21,['Brazil'],Brazil,Itápolis,,"1,75",€200k
+,Thiago Rosa,Left-Back,"Mar 18, 2002 ",21,['Brazil'],Brazil,Capão da Canoa,,"1,84",€150k
+,Guilherme,Left-Back,"Aug 14, 2002 ",21,['Brazil'],Brazil,São Paulo,,"1,80",€100k
+,Jefinho,Left-Back,"Jan 14, 2002 ",22,['Brazil'],Brazil,Rio de Janeiro,LM,"1,75",€50k
+,Lucas Loredo,Left-Back,"Dec 2, 2002 ",21,"['Brazil', 'Uruguay']",Brazil,Santana do Livramento,LM,"1,82",€15k
+,Caio,Left-Back,"Jul 22, 2002 ",21,['Brazil'],Brazil,,,,-
+,Gabriel Salvador,Left-Back,"Dec 12, 2002 ",21,['Brazil'],Brazil,Capão da Canoa,,"1,68",-
+,Varoli,Left-Back,"Dec 17, 2002 ",21,"['Brazil', 'Italy']",Brazil,São Paulo,LW   LM,"1,73",-
+,Peter,Left-Back,"Jul 26, 2002 ",21,['Brazil'],Brazil,,,"1,75",-
+,Alan,Left-Back,"May 31, 2002 ",21,['Brazil'],Brazil,,DM,"1,73",-
+,Caio Gomes,Left-Back,"Jul 6, 2002 ",21,['Brazil'],Brazil,Curitiba,RB,"1,77",-
+,Rychelmy,Left-Back,"May 26, 2002 ",21,['Brazil'],Brazil,,,"1,72",-
+,Romero,Left-Back,"Jun 28, 2002 ",21,['Brazil'],Brazil,,,,-
+,Arthur Neves,Left-Back,"Jan 31, 2002 ",22,['Brazil'],Brazil,Rio de Janeiro,AM,"1,70",-
+,David Lopes,Left-Back,"May 1, 2002 ",21,['Brazil'],Brazil,,LW,"1,75",-
+,João Roberto,Left-Back,"Apr 22, 2002 ",21,['Brazil'],Brazil,Santos,,"1,80",-
+,Matheus Marques,Left-Back,"Apr 17, 2002 ",21,['Brazil'],Brazil,Guaianases,RB,"1,82",-
+,Matheus,Left-Back,"Sep 24, 2002 ",21,['Brazil'],Brazil,Pelotas,DM,"1,79",-
+,Gustavo Mesquita,Left-Back,"Dec 4, 2002 ",21,['Brazil'],Brazil,,LW   SS,"1,74",-
+,Caio Mores,Left-Back,"Jun 11, 2002 ",21,['Brazil'],Brazil,,,"1,75",-
+,Jeferson,Left-Back,"Jan 26, 2002 ",22,['Brazil'],Brazil,,,"1,83",-
+,Wesllen,Left-Back,"Jan 28, 2002 ",22,['Brazil'],Brazil,Porto Alegre,,"1,81",-
+,Tarik,Left-Back,"Jun 25, 2002 ",21,['Brazil'],Brazil,Rio de Janeiro,,,-
+,Natan Pereira,Left-Back,"Jul 27, 2002 ",21,['Brazil'],Brazil,,,"1,74",-
+,Gabriel,Left-Back,"Jan 24, 2002 ",22,['Brazil'],Brazil,,DM,"1,86",-
+,Cauet Werner,Left-Back,"Oct 1, 2002 ",21,"['Brazil', 'Portugal']",Brazil,Rio de Janeiro,CM   CB,"1,83",-
+,Nathã,Left-Back,"Mar 5, 2002 ",22,['Brazil'],Brazil,Valinhos,DM,"1,80",-
+,Deivison,Left-Back,"Jun 8, 2002 ",21,['Brazil'],Brazil,Aracaju,DM   LM,"1,82",-
+,Davi Oliveira,Left-Back,"Aug 7, 2002 ",21,['Brazil'],Brazil,,,"1,80",-
+,Vidmar,Left-Back,"Mar 25, 2002 ",21,['Brazil'],Brazil,Porto Alegre,,"1,70",-
+,Jonathan,Left-Back,"Jul 1, 2002 ",21,['Brazil'],Brazil,,,,-
+,Jonathan,Left-Back,"Oct 26, 2002 ",21,['Brazil'],Brazil,,,,-
+,Pedro Maia,Left-Back,"Jun 4, 2002 ",21,['Brazil'],Brazil,,,"1,78",-
+14,Guilherme,Left-Back,"Nov 4, 2002 ",21,['Brazil'],Brazil,,LM   AM,"1,79",-
+,Henrique,Left-Back,"Jan 30, 2002 ",22,['Brazil'],Brazil,,,"1,76",-
+,Jonathan,Left-Back,"May 9, 2002 ",21,['Brazil'],Brazil,Boa Vista,,"1,80",-
+,Athirson,Left-Back,"May 16, 2002 ",21,['Brazil'],Brazil,Cuiabá,,"1,71",-
+,Lucas Henrique Belem Nacarato,Left-Back,"Jun 7, 2002 ",21,"['Brazil', 'Italy']",Brazil,Ribeirao Preto,LM,"1,78",-
+,Eduardo,Left-Back,"Mar 17, 2002 ",21,['Brazil'],Brazil,,DM,"1,73",-
+,Gabriel Rodrigues,Left-Back,"Jan 4, 2002 ",22,['Brazil'],Brazil,São Paulo,LM   LW,"1,70",-
+,Vinicius Nucci,Left-Back,"Apr 11, 2002 ",21,['Brazil'],Brazil,Águas de Lindóia,,"1,80",-
+,Pedro Acácio,Left-Back,"Jun 28, 2002 ",21,['Brazil'],Brazil,Duque de Caxias,LW   CB,"1,74",-
+,Leonardo Felipe,Left-Back,"Apr 5, 2002 ",21,['Brazil'],Brazil,,DM,"1,79",-
+,Rodrigo Rosa,Left-Back,"May 24, 2002 ",21,['Brazil'],Brazil,,CB   LM,"1,79",-
+,Diogo Freitas,Left-Back,"Jul 5, 2002 ",21,['Brazil'],Brazil,,DM   CM,"1,76",-
+,Emerson,Left-Back,"Jul 3, 2002 ",21,['Brazil'],Brazil,Senador La Rocque,,,-
+,Rikelme,Left-Back,"Jul 16, 2003 ",20,['Brazil'],Brazil,Cuiabá,,"1,84",€1.60m
+6,Kaiki,Left-Back,"Mar 8, 2003 ",21,['Brazil'],Brazil,Betim,,"1,72",€1.50m
+21,Vinicius Kauê,Left-Back,"Mar 1, 2003 ",21,['Brazil'],Brazil,Presidente Prudente,,"1,81",€750k
+66,Rodrigo Gelado,Left-Back,"Sep 28, 2003 ",20,['Brazil'],Brazil,Salvador,,"1,82",€400k
+66,Jefferson,Left-Back,"Mar 9, 2003 ",21,['Brazil'],Brazil,Goiânia,,"1,75",€150k
+36,Ian Custódio,Left-Back,"Apr 16, 2003 ",20,['Brazil'],Brazil,São Paulo,CB   DM,"1,80",€100k
+,Richard,Left-Back,"Mar 28, 2003 ",20,['Brazil'],Brazil,Rio de Janeiro,,"1,71",€50k
+,Anderson Ceará,Left-Back,"Apr 2, 2003 ",20,['Brazil'],Brazil,,LW,"1,69",-
+,Gabriel Lima,Left-Back,"Jun 20, 2003 ",20,['Brazil'],Brazil,,CM,"1,80",-
+,Tafinha,Left-Back,"Feb 3, 2003 ",21,['Brazil'],Brazil,,,,-
+,Pablo Aleixo,Left-Back,"Feb 26, 2003 ",21,['Brazil'],Brazil,Belo Horizonte,RB,,-
+,Rodrigo,Left-Back,"Mar 13, 2003 ",20,['Brazil'],Brazil,,LW,,-
+,Pastor,Left-Back,"Nov 7, 2003 ",20,['Brazil'],Brazil,,,,-
+54,Cuiabano,Left-Back,"Feb 16, 2003 ",21,['Brazil'],Brazil,Cuiabá,,"1,79",€1.50m
+36,Patryck,Left-Back,"Jan 18, 2003 ",21,['Brazil'],Brazil,Mogi Mirim,CB,"1,84",€1.50m
+6,Jefté,Left-Back,"Dec 21, 2003 ",20,['Brazil'],Brazil,Rio de Janeiro,LM   LW,"1,83",€500k
+,Emanuel,Left-Back,"Jun 22, 2003 ",20,['Brazil'],Brazil,Arapiraca,,,€200k
+,Marcos Paulo,Left-Back,"Jan 18, 2003 ",21,['Brazil'],Brazil,,,"1,83",€150k
+11,Arthur Diniz,Left-Back,"May 6, 2003 ",20,"['Brazil', 'Spain']",Brazil,Indaiatuba,LM,,€75k
+,Guilherme Bastos,Left-Back,"Jun 25, 2003 ",20,['Brazil'],Brazil,Iraquara,,"1,76",€50k
+,Valdo Paraíba,Left-Back,"Jun 21, 2003 ",20,['Brazil'],Brazil,,LM,,-
+,Jhonny Lira,Left-Back,"Mar 20, 2003 ",20,"['Brazil', 'Italy']",Brazil,Cascavel,,,-
+6,Erik,Left-Back,"Apr 5, 2003 ",20,['Brazil'],Brazil,Rio de Janeiro,LM,"1,77",-
+3,Guilherme Santos,Left-Back,"May 24, 2003 ",20,"['Brazil', 'Portugal']",Brazil,Maringa,,"1,70",-
+,Davi Castro,Left-Back,"May 3, 2003 ",20,['Brazil'],Brazil,,LM   DM,"1,76",-
+,Marcelinho,Left-Back,"Feb 15, 2003 ",21,['Brazil'],Brazil,,,,-
+,Thomaz Kenedi,Left-Back,"Jul 30, 2003 ",20,['Brazil'],Brazil,,,"1,82",-
+,Lucas Meirelles,Left-Back,"Dec 16, 2003 ",20,['Brazil'],Brazil,,,,-
+,Matheus Julião,Left-Back,"Apr 10, 2003 ",20,['Brazil'],Brazil,São João de Meriti,,"1,78",-
+,Marquinho,Left-Back,"Oct 17, 2003 ",20,['Brazil'],Brazil,Belo Horizonte,,"1,71",-
+,João Silva,Left-Back,"Dec 18, 2003 ",20,['Brazil'],Brazil,,LM   LW,,-
+,Iury,Left-Back,"Mar 20, 2003 ",20,['Brazil'],Brazil,,,,-
+,João Ourinhos,Left-Back,"Jul 8, 2003 ",20,['Brazil'],Brazil,Santo Antônio da Platina,LW,"1,74",-
+,Gago,Left-Back,"Nov 27, 2003 ",20,['Brazil'],Brazil,Cuiabá,CB   LW,,-
+,João Victor Morales,Left-Back,"May 9, 2003 ",20,['Brazil'],Brazil,,,,-
+,Riquelme,Left-Back,"Dec 25, 2003 ",20,['Brazil'],Brazil,Fortaleza,,,-
+,Diego Ferreira,Left-Back,"May 19, 2003 ",20,['Brazil'],Brazil,Pombal,,,-
+,Patricio,Left-Back,"Sep 21, 2003 ",20,['Brazil'],Brazil,,,"1,73",-
+,Abimael,Left-Back,"Jan 11, 2003 ",21,['Brazil'],Brazil,Governador Nunes Freire,,"1,71",-
+,Renilson,Left-Back,"Jun 21, 2003 ",20,['Brazil'],Brazil,,CB,"1,87",-
+,Adryel,Left-Back,"Oct 12, 2003 ",20,['Brazil'],Brazil,Itaqui,RB,,-
+,Anthony,Left-Back,"Jan 16, 2003 ",21,['Brazil'],Brazil,Floriano,,,-
+,Nicolas,Left-Back,"Jan 14, 2003 ",21,['Brazil'],Brazil,Rio de Janeiro,LM,"1,74",-
+,Eduardo Café,Left-Back,"May 10, 2003 ",20,['Brazil'],Brazil,Quaraí,,"1,78",-
+,Tallyson,Left-Back,"Feb 8, 2003 ",21,['Brazil'],Brazil,,,"1,75",-
+,Gabriel,Left-Back,"Jan 13, 2003 ",21,['Brazil'],Brazil,,LM,"1,83",-
+,Eduardo,Left-Back,"Jan 12, 2003 ",21,['Brazil'],Brazil,,,,-
+,Alec Gama,Left-Back,"Jan 9, 2003 ",21,['Brazil'],Brazil,,,"1,76",-
+38,Kevyson,Left-Back,"Mar 29, 2004 ",19,['Brazil'],Brazil,Leopoldina,LW,"1,74",€1.00m
+,José Welinton,Left-Back,"Jan 8, 2004 ",20,['Brazil'],Brazil,Jardim,,"1,74",€300k
+4,Zanella,Left-Back,"Sep 10, 2004 ",19,['Brazil'],Brazil,Içara,,"1,78",€150k
+,Paulinho,Left-Back,"Jun 29, 2004 ",19,['Brazil'],Brazil,Ribeirão Preto,DM,,€100k
+,Lauan Marques,Left-Back,"Nov 4, 2004 ",19,['Brazil'],Brazil,,DM   LM,,€50k
+,Jefferson,Left-Back,"Oct 12, 2004 ",19,['Brazil'],Brazil,,,,-
+,Rafael,Left-Back,"Jun 6, 2004 ",19,['Brazil'],Brazil,,DM,"1,72",-
+,Juan Pitbull,Left-Back,"Mar 9, 2004 ",20,['Brazil'],Brazil,Belém,,"1,67",-
+,João Vinícius,Left-Back,"Aug 20, 2004 ",19,['Brazil'],Brazil,Meleiro,,"1,80",-
+,Leoratto,Left-Back,"Dec 16, 2004 ",19,['Brazil'],Brazil,Concórdia,,"1,82",-
+,Leander,Left-Back,"Jan 5, 2004 ",20,['Brazil'],Brazil,Duque de Caxias,,"1,72",-
+,Cauã Barros,Left-Back,"Sep 13, 2004 ",19,['Brazil'],Brazil,Brasília,DM,"1,79",-
+,Jean Tadeu,Left-Back,"Nov 16, 2004 ",19,['Brazil'],Brazil,,,,-
+,Thauan Lara,Left-Back,"Jan 22, 2004 ",20,['Brazil'],Brazil,Porto Alegre,,"1,76",€1.00m
+,Rafael Monteiro,Left-Back,"Feb 14, 2004 ",20,['Brazil'],Brazil,Manaus,LW,"1,73",€200k
+,Wesley Costa,Left-Back,"Feb 4, 2004 ",20,['Brazil'],Brazil,Alvorada,,,€100k
+,Da Rocha,Left-Back,"Dec 13, 2004 ",19,"['Brazil', 'Italy']",Brazil,Caxias do Sul,,"1,85",€50k
+,Victor Gabriel,Left-Back,"Apr 28, 2004 ",19,['Brazil'],Brazil,Tuntum,,"1,85",€50k
+,Lucca Lanes,Left-Back,"May 12, 2004 ",19,['Brazil'],Brazil,,,"1,73",-
+,Diego Santana,Left-Back,"Jan 18, 2004 ",20,['Brazil'],Brazil,Ubaitaba,DM,"1,81",-
+,Dedé Fernandes,Left-Back,"May 19, 2004 ",19,['Brazil'],Brazil,,,,-
+,Gabriel Braga,Left-Back,"Jun 20, 2004 ",19,['Brazil'],Brazil,,,,-
+,Kauã,Left-Back,"Jan 23, 2004 ",20,['Brazil'],Brazil,,,,-
+,Saimon,Left-Back,"Apr 12, 2004 ",19,['Brazil'],Brazil,,,"1,69",-
+,Gabriel Augusto,Left-Back,"May 25, 2004 ",19,['Brazil'],Brazil,Limeira,,"1,81",-
+,Patryck Extrato,Left-Back,"Jan 29, 2004 ",20,['Brazil'],Brazil,,,,-
+,Kellytton,Left-Back,"Apr 23, 2004 ",19,['Brazil'],Brazil,Goianinha,RB,,-
+,Ryan Carvalho,Left-Back,"Mar 19, 2004 ",19,['Brazil'],Brazil,,,,-
+,Bandaró,Left-Back,"Jun 12, 2004 ",19,['Brazil'],Brazil,Salto,,"1,86",-
+,Kauan,Left-Back,"May 5, 2004 ",19,['Brazil'],Brazil,Candeias,,"1,73",-
+21,Thauan,Left-Back,"Apr 17, 2004 ",19,['Brazil'],Brazil,Santos,LM   AM,"1,82",-
+,Luiz Otávio,Left-Back,"Oct 13, 2004 ",19,['Brazil'],Brazil,,,,-
+,Arthur,Left-Back,"Apr 27, 2004 ",19,['Brazil'],Brazil,,DM,,-
+,Renzo Trotta,Left-Back,"Feb 10, 2004 ",20,"['Brazil', 'Italy']",Brazil,Rio de Janeiro,DM   CM,"1,79",-
+16,Rangel,Left-Back,"Apr 30, 2004 ",19,['Brazil'],Brazil,Rebouças,,"1,77",-
+,Fábio,Left-Back,"Mar 15, 2004 ",19,['Brazil'],Brazil,,,"1,75",-
+,Nathan Oliveira,Left-Back,"Apr 1, 2004 ",19,['Brazil'],Brazil,Taubaté,LM,"1,74",-
+,Petty,Left-Back,"Mar 10, 2004 ",20,['Brazil'],Brazil,Porto Alegre,,"1,75",-
+,Cauê Raphael,Left-Back,"Apr 26, 2004 ",19,['Brazil'],Brazil,Campinas,,,-
+,João Bezerra,Left-Back,"Jul 24, 2004 ",19,['Brazil'],Brazil,Aparecida de Goiânia,,,-
+,Fabricio,Left-Back,"Jan 2, 2004 ",20,['Brazil'],Brazil,Várzea Grande,,,-
+,Dimas,Left-Back,"Feb 12, 2004 ",20,['Brazil'],Brazil,Santa Luzia do Paruá,,,-
+,Rafael Soares,Left-Back,"Dec 27, 2004 ",19,['Brazil'],Brazil,,,"1,78",-
+6,Samuel,Left-Back,"Aug 26, 2004 ",19,['Brazil'],Brazil,Maceió,LM,"1,77",-
+,Eduardo Rodrigues,Left-Back,"May 17, 2004 ",19,['Brazil'],Brazil,Porto Alegre,CB,"1,82",-
+,Xavier,Left-Back,"Feb 20, 2004 ",20,['Brazil'],Brazil,,,"1,74",-
+20,Jurandir Brandão,Left-Back,"Feb 19, 2004 ",20,['Brazil'],Brazil,Campo Grande,LM,,-
+,Fábio,Left-Back,"Mar 10, 2004 ",20,['Brazil'],Brazil,,,,-
+6,Vitor Meer,Left-Back,"Jun 21, 2004 ",19,['Brazil'],Brazil,Itaquaquecetuba,DM   LM,"1,76",-
+,Gregory,Left-Back,"Jun 10, 2004 ",19,['Brazil'],Brazil,,,"1,67",-
+,João Douglas,Left-Back,"Mar 29, 2004 ",19,['Brazil'],Brazil,Piauí,,"1,80",-
+8,Léo Derik,Left-Back,"Jul 24, 2005 ",18,['Brazil'],Brazil,São Paulo,LM   LW,"1,66",€150k
+,Gustavo Daniel,Left-Back,"Mar 7, 2005 ",19,['Brazil'],Brazil,Nísia Floresta,,,€50k
+,Vitinho Ramos,Left-Back,"Sep 7, 2005 ",18,['Brazil'],Brazil,,LM,"1,77",-
+,Paulo Henrique,Left-Back,"Apr 11, 2005 ",18,['Brazil'],Brazil,,,,-
+,Kauã Oliveira,Left-Back,"Mar 24, 2005 ",18,['Brazil'],Brazil,,,,-
+,Lucas Santos,Left-Back,"Feb 16, 2005 ",19,['Brazil'],Brazil,Salvador,,"1,80",-
+,Eduardo Gabriel,Left-Back,"Jun 17, 2005 ",18,['Brazil'],Brazil,,,,-
+20,Arthur Gabriel,Left-Back,"Sep 4, 2005 ",18,['Brazil'],Brazil,São Paulo,,"1,76",-
+,Ainoã,Left-Back,"Feb 1, 2005 ",19,['Brazil'],Brazil,,,"1,86",-
+,Léo Garbi,Left-Back,"Jan 13, 2005 ",19,['Brazil'],Brazil,Marília,,"1,87",-
+,Felipe Vieira,Left-Back,"Feb 9, 2005 ",19,['Brazil'],Brazil,,,,-
+,Leandrinho,Left-Back,"Mar 17, 2005 ",18,['Brazil'],Brazil,Rio de Janeiro,LW,"1,70",-
+5,Víctor Bonmati,Left-Back,"Jan 9, 2005 ",19,"['Brazil', 'Spain']",Brazil,Brasil,LW,"1,78",-
+6,Zé Guilherme,Left-Back,"Mar 16, 2005 ",18,['Brazil'],Brazil,Fortaleza,,,€100k
+,Richard,Left-Back,"Jan 18, 2005 ",19,['Brazil'],Brazil,Sumaré,,"1,75",€50k
+,Kayky,Left-Back,"Aug 4, 2005 ",18,['Brazil'],Brazil,Campo Grande,CB,"1,83",-
+,Orlando,Left-Back,"Apr 12, 2005 ",18,['Brazil'],Brazil,,RB,"1,75",-
+,Enzo Rocha,Left-Back,"May 5, 2005 ",18,['Brazil'],Brazil,,DM,,-
+,Julio César,Left-Back,"May 9, 2005 ",18,['Brazil'],Brazil,,LW,,-
+,Alex Martins,Left-Back,"Feb 10, 2005 ",19,['Brazil'],Brazil,São Paulo,LW   LM,"1,73",-
+,Jefferson França,Left-Back,"Jul 10, 2005 ",18,['Brazil'],Brazil,São Luís,,,-
+,Lucio Flavio,Left-Back,"Aug 12, 2005 ",18,['Brazil'],Brazil,,,,-
+,Alex Ferreira,Left-Back,"Mar 29, 2005 ",18,['Brazil'],Brazil,,,"1,77",-
+,Bernardo,Left-Back,"Mar 5, 2005 ",19,['Brazil'],Brazil,,,,-
+,Matheus Streit,Left-Back,"Aug 18, 2005 ",18,['Brazil'],Brazil,São Bento do Sul,,,-
+,Hiago Alves,Left-Back,"Sep 2, 2005 ",18,['Brazil'],Brazil,Porto Alegre,AM   LW,"1,65",-
