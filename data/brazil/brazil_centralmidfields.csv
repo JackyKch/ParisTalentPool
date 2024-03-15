@@ -1,0 +1,817 @@
+Number,Name,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+29,Romário,Central Midfield,"Aug 10, 1985 ",38,"['Brazil', 'Sweden']",Brazil,Imperatriz,,"1,74",€200k
+,Thiago Ribeiro,Central Midfield,"Jan 23, 1985 ",39,['Brazil'],Brazil,Rio de Janeiro,DM   AM,"1,76",€25k
+,Ricardinho,Central Midfield,"Dec 15, 1985 ",38,['Brazil'],Brazil,Rosário do Sul,AM   RM,"1,75",-
+,Rodrigo,Central Midfield,"May 12, 1985 ",38,['Brazil'],Brazil,Porto Alegre,DM,"1,71",-
+,Joca,Central Midfield,"Jun 24, 1985 ",38,['Brazil'],Brazil,Alto Paraíso de Goiás,LM   DM,"1,79",-
+,Diogo Gomes,Central Midfield,"Sep 12, 1985 ",38,['Brazil'],Brazil,Curitiba,,"1,83",-
+,Amarildo,Central Midfield,"Mar 20, 1985 ",38,['Brazil'],Brazil,Taguatinga,DM   LB,"1,69",-
+,Felipe,Central Midfield,"Jan 15, 1985 ",39,['Brazil'],Brazil,São Paulo,,"1,84",-
+,Dennis Pena Lamego,Central Midfield,"Jun 17, 1985 ",38,['Brazil'],Brazil,Manaus,,"1,79",-
+,Benny Feilhaber,Central Midfield,"Jan 19, 1985 ",39,"['United States', 'Austria']",Brazil,Rio de Janeiro,AM   DM,"1,75",-
+22,Luíz Carlos,Central Midfield,"Jul 5, 1985 ",38,['Brazil'],Brazil,Itaguai,DM   AM,"1,75",€50k
+,Leandro Negretti,Central Midfield,"Mar 1, 1985 ",39,['Brazil'],Brazil,São Paulo,DM   CB,"1,87",-
+,Álvaro Dias,Central Midfield,"Dec 15, 1985 ",38,"['Portugal', 'Brazil']",Brazil,São Paulo,DM,"1,77",-
+,Diones,Central Midfield,"Jun 21, 1985 ",38,['Brazil'],Brazil,Timbiras,DM   AM,"1,78",-
+,Kim,Central Midfield,"Nov 18, 1985 ",38,['Brazil'],Brazil,Goiânia,,"1,78",-
+,Elias,Central Midfield,"May 16, 1985 ",38,['Brazil'],Brazil,São Paulo,DM   AM,"1,73",-
+,Fabio Pinho,Central Midfield,"Oct 9, 1985 ",38,['Brazil'],Brazil,Dois Irmãos,,"1,91",-
+,Maicon,Central Midfield,"Sep 14, 1985 ",38,['Brazil'],Brazil,Rio de Janeiro,DM   AM,"1,84",-
+,Olberdam,Central Midfield,"Feb 6, 1985 ",39,['Brazil'],Brazil,João Pessoa,DM,"1,80",-
+,Galdino,Central Midfield,N/A ,38,['Brazil'],Brazil,Rio de Janeiro,AM   LM,"1,80",-
+,Juninho Valoura,Central Midfield,"Mar 20, 1986 ",37,['Brazil'],Brazil,Rio de Janeiro,DM   AM,"1,72",€200k
+10,Cleiton,Central Midfield,"Dec 9, 1986 ",37,['Brazil'],Brazil,"Uruguaiana, Rio Grande do Sul",AM   DM,"1,77",€125k
+8,Leonardo Pantaleao,Central Midfield,N/A ,37,['Brazil'],Brazil,Ribeirao Preto,DM   CB,"1,88",-
+,Alex Porto,Central Midfield,"May 21, 1986 ",37,"['Brazil', 'Portugal']",Brazil,Tocantinópolis (TO),DM   CB,"1,77",-
+,Leo Tomé,Central Midfield,"Sep 17, 1986 ",37,"['Brazil', 'Portugal']",Brazil,São Paulo,AM   RM,"1,70",-
+,Elton,Central Midfield,"Feb 12, 1986 ",38,['Brazil'],Brazil,Cuiabá,DM   AM,"1,78",-
+,Robson,Central Midfield,"Nov 3, 1986 ",37,['Brazil'],Brazil,Rio de Janeiro,DM   AM,"1,75",-
+,Fabrício,Central Midfield,"Jun 13, 1986 ",37,['Brazil'],Brazil,Tomé Açú,,"1,69",-
+,Júnior,Central Midfield,"Feb 28, 1986 ",38,['Brazil'],Brazil,Rio de Janeiro,DM,"1,80",-
+50,Toró,Central Midfield,"Apr 13, 1986 ",37,['Brazil'],Brazil,Rio de Janeiro,DM   AM,"1,71",-
+,Marco Nicoletti,Central Midfield,"May 19, 1986 ",37,"['Italy', 'Brazil']",Brazil,Recife,,"1,76",-
+,Bruno Silva,Central Midfield,"Aug 3, 1986 ",37,['Brazil'],Brazil,Nova Lima,DM   RM,"1,82",€200k
+,Dudu,Central Midfield,"Oct 26, 1986 ",37,['Brazil'],Brazil,Pará,DM,"1,75",-
+,Washington,Central Midfield,"Nov 16, 1986 ",37,['Brazil'],Brazil,Recife,DM,"1,82",-
+10,Bruno Figueiredo,Central Midfield,"Sep 11, 1986 ",37,['Brazil'],Brazil,Santos,,"1,81",-
+,Jerson,Central Midfield,"Nov 23, 1986 ",37,['Brazil'],Brazil,Fortaleza,DM   AM,"1,76",-
+,Tony,Central Midfield,"May 29, 1986 ",37,['Brazil'],Brazil,São Paulo,AM   SS,"1,76",-
+71,Tarcísio,Central Midfield,"Mar 1, 1986 ",38,['Brazil'],Brazil,Riachuelo,LM   DM,"1,72",-
+,Fred,Central Midfield,"Jul 22, 1986 ",37,['Brazil'],Brazil,Salvador da Bahia,,"1,85",-
+,William,Central Midfield,"Nov 20, 1986 ",37,"['Brazil', 'Mexico']",Brazil,São Paulo,DM,"1,75",-
+16,Vinicius,Central Midfield,"May 16, 1986 ",37,"['Brazil', 'Portugal']",Brazil,Campo Grande,DM,"1,86",-
+,Rômulo,Central Midfield,"May 22, 1987 ",36,"['Italy', 'Brazil']",Brazil,Pelotas,RB   RM,"1,78",€300k
+19,Felipe Klein,Central Midfield,"Apr 9, 1987 ",36,"['Brazil', 'Uruguay']",Brazil,Porto Alegre,RW   LW,"1,77",€25k
+,Rômulo,Central Midfield,"Dec 9, 1987 ",36,['Brazil'],Brazil,Frutal,,"1,81",-
+,Marcelo Pinho Santos Souza,Central Midfield,"Mar 13, 1987 ",37,['Brazil'],Brazil,Salvador da Bahia,AM   CF,,-
+,Camargo,Central Midfield,"May 4, 1987 ",36,['Brazil'],Brazil,Vinhedo,DM   AM,"1,77",-
+,Uelliton,Central Midfield,"Aug 28, 1987 ",36,['Brazil'],Brazil,Monte Santo,AM,"1,72",-
+,Alan Casagrande,Central Midfield,"Feb 16, 1987 ",37,"['Brazil', 'Italy']",Brazil,Rio de Janeiro,,"1,73",-
+,Wesley,Central Midfield,"Jun 24, 1987 ",36,['Brazil'],Brazil,Catanduva,AM   RM,"1,79",-
+,Juninho Botelho,Central Midfield,"Jan 19, 1987 ",37,['Brazil'],Brazil,Porto Alegre,,"1,78",-
+,Flávio Beck Junior,Central Midfield,"Mar 14, 1987 ",37,"['Brazil', 'Croatia']",Brazil,Augusto Pestana,AM   DM,"1,82",-
+,Pedro Abelha,Central Midfield,"Jan 5, 1987 ",37,"['Portugal', 'Brazil']",Brazil,Niterói (RJ),,"1,83",-
+,Eloir,Central Midfield,"Sep 7, 1987 ",36,['Brazil'],Brazil,Uruguaiana,AM   DM,"1,82",€100k
+16,Diego Santos,Central Midfield,"Aug 9, 1987 ",36,['Brazil'],Brazil,Rio de Janeiro,,"1,78",-
+,Vitor Cruz,Central Midfield,"Feb 1, 1987 ",37,['Brazil'],Brazil,Vera Cruz,DM   RM,"1,81",-
+,Edenilson,Central Midfield,"Sep 13, 1987 ",36,"['Brazil', 'Italy']",Brazil,Carlos Barbosa,AM,"1,86",-
+,Jackson Caucaia,Central Midfield,"May 21, 1987 ",36,['Brazil'],Brazil,Caucaia,,"1,77",-
+,Caique,Central Midfield,"Jan 10, 1987 ",37,['Brazil'],Brazil,Salvador,AM   LM,"1,85",-
+,Ramires,Central Midfield,"Mar 24, 1987 ",36,['Brazil'],Brazil,Barra do Piraí,RM   DM,"1,79",-
+,Pedro Ken,Central Midfield,"Mar 20, 1987 ",36,['Brazil'],Brazil,Curitiba,AM   DM,"1,82",-
+,Campos,Central Midfield,"Feb 27, 1987 ",37,['Brazil'],Brazil,Sorocaba,,"1,75",-
+,Ji-Paraná,Central Midfield,"Jun 11, 1987 ",36,['Brazil'],Brazil,Ji-Paraná,AM,"1,72",-
+20,Renato Augusto,Central Midfield,"Feb 8, 1988 ",36,['Brazil'],Brazil,Rio de Janeiro,AM   SS,"1,86",€1.20m
+15,Moisés,Central Midfield,"Mar 17, 1988 ",35,['Brazil'],Brazil,Belo Horizonte,AM   SS,"1,84",€300k
+19,Eliomar,Central Midfield,"Mar 16, 1988 ",35,['Brazil'],Brazil,Cardoso Moreira,LW   AM,"1,75",€50k
+,Baby,Central Midfield,"Jan 30, 1988 ",36,['Brazil'],Brazil,,,,-
+,Cloves,Central Midfield,"Jun 15, 1988 ",35,['Brazil'],Brazil,,AM   DM,"1,91",-
+6,Ragner Paula,Central Midfield,"Nov 14, 1988 ",35,"['Brazil', 'Portugal']",Brazil,Ipojuca,AM   DM,"1,76",-
+,Gabriel Vieira,Central Midfield,"Feb 5, 1988 ",36,['Brazil'],Brazil,Sorocaba,DM,"1,79",-
+,Clayton,Central Midfield,"Nov 8, 1988 ",35,['Brazil'],Brazil,Piracicaba,DM,"1,78",-
+,Rodrigo Menezes,Central Midfield,"Aug 9, 1988 ",35,['Brazil'],Brazil,Taguatinga,,"1,87",-
+,Carlos Alberto,Central Midfield,"Feb 22, 1988 ",36,['Brazil'],Brazil,São Paulo,AM,"1,74",-
+,Vinícius Kiss,Central Midfield,"Jun 8, 1988 ",35,['Brazil'],Brazil,São Paulo,DM   AM,"1,83",-
+20,Vinícius Hess,Central Midfield,"Jan 16, 1988 ",36,"['Brazil', 'Italy']",Brazil,Curitiba,DM,"1,77",-
+,Somália,Central Midfield,"Sep 28, 1988 ",35,['Brazil'],Brazil,Rio de Janeiro,RM   RB,"1,81",-
+18,Paulinho,Central Midfield,"Jul 25, 1988 ",35,['Brazil'],Brazil,São Paulo,DM   AM,"1,83",€500k
+14,Alex Lima,Central Midfield,"Dec 15, 1988 ",35,"['Brazil', 'United States']",Brazil,São Paulo,LW   LM,"1,74",€275k
+17,Marcos Paulo,Central Midfield,"Jul 13, 1988 ",35,"['Brazil', 'Italy']",Brazil,Pedro Leopoldo,AM   DM,"1,82",€50k
+,Delciney,Central Midfield,"Nov 11, 1988 ",35,['Brazil'],Brazil,Manaus,DM   RB,"1,72",-
+8,Marcelo,Central Midfield,"Jun 24, 1988 ",35,['Brazil'],Brazil,Rio Bonito,AM   DM,"1,75",-
+,Daniel Barros,Central Midfield,"Aug 21, 1988 ",35,['Brazil'],Brazil,,DM,"1,68",-
+,Felipe Baiano,Central Midfield,"Dec 22, 1988 ",35,['Brazil'],Brazil,Porto Seguro,AM,"1,78",-
+,Lohan,Central Midfield,N/A ,36,['Brazil'],Brazil,Curitiba (PR),AM   SS,"1,71",-
+,Renan,Central Midfield,"Feb 5, 1988 ",36,['Brazil'],Brazil,,RB,"1,64",-
+,Jefferson Soares,Central Midfield,"Apr 4, 1988 ",35,['Brazil'],Brazil,Volta Redonda,AM,"1,83",-
+,Da Silva,Central Midfield,"Jan 4, 1988 ",36,['Brazil'],Brazil,Juiz de Fora,DM   CB,"1,78",-
+,Júnior Paraíba,Central Midfield,"Jan 1, 1988 ",36,['Brazil'],Brazil,João Pessoa,DM,"1,84",-
+,Marconi,Central Midfield,"Jun 22, 1988 ",35,['Brazil'],Brazil,Teixeira de Freitas,DM,"1,75",-
+,Marcos,Central Midfield,"Jun 11, 1988 ",35,['Brazil'],Brazil,Maceió,LW   LB,"1,71",-
+,Bruno César,Central Midfield,"Nov 3, 1988 ",35,"['Brazil', 'Italy']",Brazil,Santa Bárbara d'Oeste,AM   LM,"1,78",-
+,Anderson,Central Midfield,"Apr 13, 1988 ",35,['Brazil'],Brazil,Porto Alegre,AM,"1,76",-
+,Renan,Central Midfield,"Nov 28, 1988 ",35,['Brazil'],Brazil,Rio de Janeiro,AM   DM,"1,70",-
+,Erick,Central Midfield,"Mar 24, 1988 ",35,['Brazil'],Brazil,Ilha Solteira,DM,"1,79",-
+,Bruno Gallo,Central Midfield,"May 7, 1988 ",35,['Brazil'],Brazil,Niterói,AM   DM,"1,82",-
+8,Edenilson,Central Midfield,"Dec 18, 1989 ",34,['Brazil'],Brazil,Porto Alegre,AM   DM,"1,75",€1.80m
+30,Júnior Urso,Central Midfield,"Mar 10, 1989 ",35,['Brazil'],Brazil,Taboão da Serra,AM   DM,"1,81",€400k
+20,Richard Almeyda,Central Midfield,"Mar 20, 1989 ",34,"['Azerbaijan', 'Brazil']",Brazil,São Paulo,AM   DM,"1,77",€200k
+15,Christian,Central Midfield,"Jun 14, 1989 ",34,"['Brazil', 'Portugal']",Brazil,Belém do Pará,DM   LB,"1,82",€100k
+23,Denis,Central Midfield,"Jan 8, 1989 ",35,"['Brazil', 'Portugal']",Brazil,,AM,"1,80",-
+,Joilson,Central Midfield,"Aug 21, 1989 ",34,['Brazil'],Brazil,,,,-
+,Rodrigo de Jesus Mendes,Central Midfield,N/A ,34,['Brazil'],Brazil,,,"1,87",-
+,Lucas Michels,Central Midfield,"Mar 28, 1989 ",34,['Brazil'],Brazil,Curitiba,DM,"1,78",-
+,Marquinhos,Central Midfield,"Jun 15, 1989 ",34,['Brazil'],Brazil,Rio de Janeiro,RM   LM,"1,70",-
+,Bruno Tiago,Central Midfield,"Mar 28, 1989 ",34,['Brazil'],Brazil,São Luis,DM,"1,71",-
+,Bruno,Central Midfield,"Feb 5, 1989 ",35,['Brazil'],Brazil,Andradas,LM   RM,"1,74",-
+,Juninho,Central Midfield,"Aug 1, 1989 ",34,['Brazil'],Brazil,São José dos Campos,DM   AM,"1,73",-
+,Rodrigo Possebon,Central Midfield,"Feb 13, 1989 ",35,"['Italy', 'Brazil']",Brazil,Sapucaia do Sul,DM,"1,83",-
+8,Bruno Henrique,Central Midfield,"Oct 21, 1989 ",34,"['Brazil', 'Italy']",Brazil,Apucarana,DM   AM,"1,80",€600k
+18,Ricardinho,Central Midfield,"Mar 27, 1989 ",34,['Brazil'],Brazil,Itaberaí,DM   AM,"1,74",€250k
+,Renê Júnior,Central Midfield,"Sep 16, 1989 ",34,['Brazil'],Brazil,Rio de Janeiro,DM   AM,"1,80",€200k
+88,Ulisses Oliveira,Central Midfield,"Mar 25, 1989 ",34,"['Brazil', 'Portugal']",Brazil,Belo Horizonte,AM   DM,"1,85",€50k
+,Rafael Tchuca,Central Midfield,"Jan 3, 1989 ",35,['Brazil'],Brazil,,DM,"1,79",-
+,Eduardo,Central Midfield,"Apr 2, 1989 ",34,['Brazil'],Brazil,Rio Branco,AM   CF,"1,78",-
+,Tufy Pina,Central Midfield,"Mar 26, 1989 ",34,['Brazil'],Brazil,Aracati,DM,"1,81",-
+,Diego Zilio,Central Midfield,"Jul 23, 1989 ",34,"['Brazil', 'Italy']",Brazil,Garibaldi,AM,N/A,-
+,Romário Pires,Central Midfield,"Jan 16, 1989 ",35,['Brazil'],Brazil,Rio de Janeiro,DM   CB,"1,82",-
+,Marco Aurelio,Central Midfield,"Feb 9, 1989 ",35,['Brazil'],Brazil,Caetanópolis,AM   LM,"1,70",-
+,Paulinho,Central Midfield,"May 10, 1989 ",34,['Brazil'],Brazil,São Paulo,DM,"1,72",-
+,Byro,Central Midfield,"Jan 27, 1989 ",35,"['Brazil', 'Italy']",Brazil,Marabá,RM   LM,"1,77",-
+15,Fransérgio,Central Midfield,"Oct 18, 1990 ",33,"['Brazil', 'Portugal']",Brazil,Rondonópolis,DM   AM,"1,86",€900k
+8,Felipe Martins,Central Midfield,"Sep 30, 1990 ",33,"['Brazil', 'Italy']",Brazil,Engenheiro Beltrao,DM   AM,"1,73",€350k
+,Jean Cleber,Central Midfield,"Apr 29, 1990 ",33,['Brazil'],Brazil,Santo André,AM   DM,"1,80",€200k
+14,Fellipe Bastos,Central Midfield,"Feb 1, 1990 ",34,['Brazil'],Brazil,Rio de Janeiro,AM   DM,"1,78",€150k
+2,Bebeto,Central Midfield,"Jan 1, 1990 ",34,['Brazil'],Brazil,Lagarto,RB   RW,"1,74",€100k
+,Jean,Central Midfield,"Nov 30, 1990 ",33,['Brazil'],Brazil,,,,-
+,Micheel,Central Midfield,"Nov 26, 1990 ",33,"['Brazil', 'Spain']",Brazil,Rio de Janeiro,DM   AM,"1,80",-
+8,Tiago Fernandes,Central Midfield,"Nov 20, 1990 ",33,"['Brazil', 'Spain']",Brazil,Belo Horizonte,AM,"1,91",-
+,Paulo Mendes,Central Midfield,"May 13, 1990 ",33,"['Brazil', 'United States']",Brazil,Goiania,LM   RM,"1,83",-
+10,Nando,Central Midfield,"May 3, 1990 ",33,"['Brazil', 'Italy']",Brazil,São Paulo,LM   AM,"1,82",-
+,Lineker,Central Midfield,"Oct 31, 1990 ",33,['Brazil'],Brazil,Ipatinga,,"1,78",-
+,Anderson,Central Midfield,"Dec 11, 1990 ",33,['Brazil'],Brazil,Paraná,AM,"1,84",-
+,Boquita,Central Midfield,"Apr 7, 1990 ",33,['Brazil'],Brazil,São Paulo,AM,"1,79",-
+8,Lucas Souza,Central Midfield,"Jul 4, 1990 ",33,"['Brazil', 'Portugal']",Brazil,Santo Andrè,DM   AM,"1,86",€450k
+,Camacho,Central Midfield,"Mar 2, 1990 ",34,['Brazil'],Brazil,Rio de Janeiro,DM   AM,"1,80",€300k
+6,Wellington Priori,Central Midfield,"Feb 21, 1990 ",34,['Brazil'],Brazil,São Paulo,AM   DM,"1,90",€175k
+10,André Mensalão,Central Midfield,"Jun 21, 1990 ",33,['Brazil'],Brazil,Belém,AM   LM,"1,74",€125k
+,Lucas Finazzi,Central Midfield,"Aug 18, 1990 ",33,"['Brazil', 'Italy']",Brazil,Cuiabà,,"1,79",€50k
+,Nildo,Central Midfield,"Sep 17, 1990 ",33,['Brazil'],Brazil,Maragogi,,"1,79",-
+10,Andrey Coutinho,Central Midfield,"Jan 12, 1990 ",34,['Brazil'],Brazil,,DM,"1,75",-
+,Diego Lorenzi,Central Midfield,"Jan 27, 1990 ",34,"['Brazil', 'Italy']",Brazil,Xanxerê (SC),DM   AM,"1,83",-
+,Sato,Central Midfield,"Feb 19, 1990 ",34,['Brazil'],Brazil,São Paulo,AM,"1,80",-
+,Renato Augusto,Central Midfield,"Jul 17, 1990 ",33,['Brazil'],Brazil,Bom Despacho,DM,"1,82",-
+,Maicon,Central Midfield,"Aug 3, 1990 ",33,['Brazil'],Brazil,Ariquemes,RM   RW,,-
+,Medina,Central Midfield,"Apr 23, 1990 ",33,['Brazil'],Brazil,Jaraguá do Sul,RB   RW,"1,72",-
+6,João Paulo,Central Midfield,"Mar 8, 1991 ",33,['Brazil'],Brazil,Rio Grande do Sul,AM   RM,"1,71",€2.00m
+,Raphael Augusto,Central Midfield,"Mar 6, 1991 ",33,['Brazil'],Brazil,Rio de Janeiro,DM   AM,"1,81",€250k
+,Zé Eduardo,Central Midfield,"Aug 16, 1991 ",32,['Brazil'],Brazil,Uberaba,AM   DM,"1,86",€175k
+6,Bruninho Araújo,Central Midfield,"May 2, 1991 ",32,['Brazil'],Brazil,Vila Velha,DM,"1,80",€125k
+,Marcos Vinicius,Central Midfield,N/A ,32,['Brazil'],Brazil,,LM,"1,77",-
+,Ruan,Central Midfield,"Sep 11, 1991 ",32,['Brazil'],Brazil,,,,-
+,Felipe Recife,Central Midfield,"Sep 29, 1991 ",32,['Brazil'],Brazil,Recife,,"1,87",-
+,Samu Alves,Central Midfield,"Jun 14, 1991 ",32,['Brazil'],Brazil,Belo Horizonte,DM,"1,73",-
+,Filipe Mello,Central Midfield,"Apr 13, 1991 ",32,['Brazil'],Brazil,Porto Alegre,AM,"1,80",-
+,Marcelo,Central Midfield,"Feb 7, 1991 ",33,['Brazil'],Brazil,Rio de Janeiro,,"1,76",-
+,Gerson Belão,Central Midfield,"Jun 14, 1991 ",32,['Brazil'],Brazil,Rio de Janiero,AM   RB,"1,76",-
+,João Vitor,Central Midfield,"Dec 1, 1991 ",32,['Brazil'],Brazil,Caratinga,DM,"1,78",-
+,Renan Wagner,Central Midfield,"Dec 19, 1991 ",32,"['Brazil', 'Germany']",Brazil,Blumenau,LM,"1,80",-
+8,Neto,Central Midfield,"Sep 2, 1991 ",32,['Brazil'],Brazil,Junqueirópolis,AM   DM,"1,81",€250k
+8,Igor Henrique,Central Midfield,"Dec 20, 1991 ",32,['Brazil'],Brazil,Castanhal,DM   AM,"1,83",€200k
+5,Marcelo Muniz,Central Midfield,"Jan 14, 1991 ",33,"['Brazil', 'Portugal']",Brazil,Niterói,DM,"1,80",€150k
+5,Alvaro Iuliano,Central Midfield,"Jun 6, 1991 ",32,"['Brazil', 'Italy']",Brazil,Ribeirão Preto,DM,"1,78",€100k
+12,Roberson,Central Midfield,"Jun 11, 1991 ",32,['Brazil'],Brazil,"Roseira, SP",,"1,77",-
+12,Jair,Central Midfield,"Jan 10, 1991 ",33,"['Brazil', 'Paraguay']",Brazil,Foz do Iguaçu,DM,"1,75",-
+,Evair,Central Midfield,"Dec 10, 1991 ",32,['Brazil'],Brazil,Araçatuba,AM,"1,76",-
+,Ruan Teixeira,Central Midfield,"Jan 7, 1991 ",33,['Brazil'],Brazil,Salvador,,"1,71",-
+,Fernandinho,Central Midfield,"Jun 1, 1991 ",32,['Brazil'],Brazil,Recife,LB   LM,"1,74",-
+,Wellington Pessoa,Central Midfield,"Feb 18, 1991 ",33,['Brazil'],Brazil,Acaraú,DM,"1,73",-
+,Milton Júnior,Central Midfield,"Mar 27, 1991 ",32,['Brazil'],Brazil,Nova Andradina,DM,"1,85",-
+,Rafael Costa,Central Midfield,"Jan 19, 1991 ",33,"['Brazil', 'Italy']",Brazil,Araras,LB   DM,"1,83",-
+49,Patrick,Central Midfield,"Jul 29, 1992 ",31,['Brazil'],Brazil,Rio de Janeiro,AM   DM,"1,76",€2.20m
+8,Diego Pituca,Central Midfield,"Aug 15, 1992 ",31,['Brazil'],Brazil,Mogi Guaçu,DM,"1,78",€1.60m
+,Matheus Galdezani,Central Midfield,"Mar 13, 1992 ",32,['Brazil'],Brazil,Limeira,DM   AM,"1,79",€300k
+14,Fabrício Isidoro,Central Midfield,"Jan 28, 1992 ",32,['Brazil'],Brazil,Belo Horizonte,DM   AM,"1,72",€250k
+,Guga,Central Midfield,"Aug 7, 1992 ",31,['Brazil'],Brazil,Vargem Grande Paulista,,,-
+,Jessé Boaventura,Central Midfield,"Jan 21, 1992 ",32,['Brazil'],Brazil,,DM,"1,91",-
+,Douglas,Central Midfield,"May 9, 1992 ",31,['Brazil'],Brazil,Río Grande do Sul,,"1,85",-
+,Alan Carlos,Central Midfield,"Mar 17, 1992 ",31,['Brazil'],Brazil,,,,-
+,Robson,Central Midfield,"Feb 26, 1992 ",32,['Brazil'],Brazil,Erechim,DM,"1,80",-
+,Wellisdey,Central Midfield,"Oct 26, 1992 ",31,['Brazil'],Brazil,,AM,"1,75",-
+,Felipe Lucho,Central Midfield,"Oct 17, 1992 ",31,"['Brazil', 'Italy']",Brazil,São Bernardo do Campo (SP),,"1,82",-
+,Rodrigo Albatroz,Central Midfield,"Jun 8, 1992 ",31,['Brazil'],Brazil,Rio de Janeiro,DM   AM,"1,76",-
+,Luizinho,Central Midfield,"May 4, 1992 ",31,"['Brazil', 'Italy']",Brazil,Curitiba,RM   LM,"1,67",-
+6,Tchê Tchê,Central Midfield,"Aug 30, 1992 ",31,['Brazil'],Brazil,São Paulo,DM   RB,"1,75",€1.80m
+,Ewerton,Central Midfield,"Dec 1, 1992 ",31,['Brazil'],Brazil,São Paulo,AM   DM,"1,81",€550k
+10,Tomás Bastos,Central Midfield,"Apr 30, 1992 ",31,['Brazil'],Brazil,Araguaína,AM   DM,"1,75",€300k
+,Neto Paraíba,Central Midfield,"Jul 2, 1992 ",31,['Brazil'],Brazil,João Pessoa,AM   RM,"1,79",€50k
+,Marcos Silva,Central Midfield,"Feb 22, 1992 ",32,['Brazil'],Brazil,Costa Rica (MS),RM   RW,"1,80",-
+,Batata,Central Midfield,"Sep 26, 1992 ",31,['Brazil'],Brazil,,RB,"1,70",-
+,Fernandinho,Central Midfield,"Dec 8, 1992 ",31,['Brazil'],Brazil,Manaus,,,-
+,Miller,Central Midfield,"Nov 6, 1992 ",31,['Brazil'],Brazil,,AM,"1,77",-
+,Guilherme Falcão,Central Midfield,"Feb 17, 1992 ",32,['Brazil'],Brazil,Brasília,,,-
+,Arthur,Central Midfield,"Jan 10, 1992 ",32,['Brazil'],Brazil,Irupi,AM,"1,74",-
+,Amilton Filho,Central Midfield,"Apr 27, 1992 ",31,"['Belize', 'Brazil']",Brazil,Brasília,,"1,68",-
+,Roger Bissi,Central Midfield,"Apr 22, 1992 ",31,['Brazil'],Brazil,Braganey,,"1,75",-
+,Caio,Central Midfield,"Oct 15, 1992 ",31,"['Spain', 'Brazil']",Brazil,Panca,AM,"1,82",-
+,Juninho,Central Midfield,"Aug 5, 1992 ",31,['Brazil'],Brazil,Presidente Alves (SP),AM   DM,,-
+,Lucas Mineiro,Central Midfield,"Jun 16, 1992 ",31,['Brazil'],Brazil,Montes Claros,DM   AM,"1,73",-
+,Gabriel Greener,Central Midfield,"Jan 24, 1992 ",32,"['Israel', 'Brazil']",Brazil,Rio de Janeiro,RM   RW,,-
+,Robson,Central Midfield,"Jul 6, 1992 ",31,['Brazil'],Brazil,Lages,AM   RW,"1,74",-
+10,Caleb,Central Midfield,"Nov 9, 1992 ",31,['Brazil'],Brazil,Belo Horizonte,RW   AM,"1,72",-
+,Cristhian,Central Midfield,"Feb 27, 1992 ",32,['Brazil'],Brazil,Paraná,,"1,92",-
+,Augusto,Central Midfield,"Aug 6, 1992 ",31,['Brazil'],Brazil,Porto Alegre,DM,"1,78",-
+35,Fred,Central Midfield,"Mar 5, 1993 ",31,['Brazil'],Brazil,Belo Horizonte,AM   DM,"1,69",€19.00m
+22,Gabriel Pires,Central Midfield,"Sep 18, 1993 ",30,"['Brazil', 'Portugal']",Brazil,Rio de Janeiro,AM   DM,"1,87",€3.00m
+25,Alisson,Central Midfield,"Jun 25, 1993 ",30,['Brazil'],Brazil,Rio Pomba,AM   LW,"1,74",€1.50m
+17,Ramiro,Central Midfield,"May 22, 1993 ",30,"['Brazil', 'Italy']",Brazil,Gramado,DM,"1,69",€1.20m
+15,Lucas Cândido,Central Midfield,"Dec 25, 1993 ",30,['Brazil'],Brazil,Uberlândia,DM   LB,"1,78",€550k
+14,Gladestony,Central Midfield,"Aug 5, 1993 ",30,"['Brazil', 'Italy']",Brazil,Bebedouro,DM,"1,83",€275k
+,Lucas Surcin,Central Midfield,"Dec 3, 1993 ",30,['Brazil'],Brazil,,,"1,73",-
+,Cássio Góes,Central Midfield,"Oct 13, 1993 ",30,"['Brazil', 'Spain']",Brazil,São Roque,,"1,83",-
+,Henrique Sposito,Central Midfield,"Oct 12, 1993 ",30,['Brazil'],Brazil,Varginha,,,-
+8,João Paulo,Central Midfield,"Sep 6, 1993 ",30,['Brazil'],Brazil,Vila Velha,AM   LW,"1,78",-
+,Júlio Santana,Central Midfield,"Mar 17, 1993 ",30,['Brazil'],Brazil,São Paulo,,"1,84",-
+,Luíz Henrique Gregatti,Central Midfield,N/A ,30,[],Brazil,Birigui,DM,N/A,-
+,Gian,Central Midfield,"May 14, 1993 ",30,['Brazil'],Brazil,Ribeirão Preto,,"1,76",-
+8,Zé Rafael,Central Midfield,"Jun 16, 1993 ",30,"['Brazil', 'Italy']",Brazil,Ponta Grossa,DM   AM,"1,75",€4.50m
+11,Daniel Bessa,Central Midfield,"Jan 14, 1993 ",31,"['Italy', 'Brazil']",Brazil,San Paolo,LM   AM,"1,78",€3.00m
+,Jean Mota,Central Midfield,"Oct 15, 1993 ",30,['Brazil'],Brazil,São Paulo,AM   LB,"1,72",€1.50m
+16,Jádson,Central Midfield,"Aug 30, 1993 ",30,['Brazil'],Brazil,São Bernardo do Campo,DM   AM,"1,71",€900k
+21,Pedro Castro,Central Midfield,"Feb 5, 1993 ",31,['Brazil'],Brazil,Volta Redonda,DM   AM,"1,80",€500k
+,Maicon,Central Midfield,"Aug 23, 1993 ",30,['Brazil'],Brazil,,,,-
+15,Gustavo,Central Midfield,"Dec 8, 1993 ",30,"['Brazil', 'Italy']",Brazil,,,"1,80",-
+,Matheus Borghetti,Central Midfield,"Sep 10, 1993 ",30,['Brazil'],Brazil,,DM,,-
+,Rodrigo,Central Midfield,"Jul 5, 1993 ",30,['Brazil'],Brazil,Salvador,AM,,-
+,Karl,Central Midfield,"Apr 7, 1993 ",30,['Brazil'],Brazil,Tubarão,DM   AM,"1,82",-
+8,Maurício,Central Midfield,"Mar 28, 1993 ",30,['Brazil'],Brazil,Primeiro de Maio,DM,"1,62",-
+,Nildo,Central Midfield,"Aug 23, 1993 ",30,['Brazil'],Brazil,Feira de Santana,AM,"1,80",-
+,Graxa,Central Midfield,"Oct 8, 1993 ",30,['Brazil'],Brazil,Contagem,,"1,78",-
+,Kaio Wilker,Central Midfield,"Feb 5, 1993 ",31,['Brazil'],Brazil,Goiânia,AM,"1,86",-
+,Rafael Santos,midfield,N/A ,N/A,[],Brazil,N/A,,N/A,-
+,Lelêu,Central Midfield,"Mar 5, 1993 ",31,['Brazil'],Brazil,Rio de Janeiro,LM,"1,71",-
+,Fernando Neto,Central Midfield,"Jan 27, 1993 ",31,['Brazil'],Brazil,São Domingos,DM   AM,"1,79",-
+7,Anderson Rosa,Central Midfield,"Mar 11, 1993 ",31,['Brazil'],Brazil,Laguna,AM   LM,"1,75",-
+,Lorran,Central Midfield,"Jan 10, 1993 ",31,['Brazil'],Brazil,Barra do Garças,AM,"1,82",-
+8,Jair,Central Midfield,"Aug 26, 1994 ",29,['Brazil'],Brazil,Ibirubá,DM,"1,78",€4.00m
+27,Hernani,Central Midfield,"Mar 27, 1994 ",29,['Brazil'],Brazil,São Gonçalo do Sapucaí,DM   AM,"1,88",€1.70m
+,Ismael Silva,Central Midfield,"Dec 1, 1994 ",29,['Brazil'],Brazil,Rio de Janeiro,DM   AM,"1,72",€1.00m
+8,Jair,Central Midfield,"Aug 3, 1994 ",29,['Brazil'],Brazil,Barra de Santo Antônio,DM   AM,"1,74",€850k
+8,Bruno Ramires,Central Midfield,"Mar 18, 1994 ",29,['Brazil'],Brazil,Minas Gerais,DM,"1,90",€375k
+22,Jefferson,Central Midfield,"Jan 22, 1994 ",30,['Brazil'],Brazil,Campinas,DM   RM,"1,80",€350k
+,Danielzinho,Central Midfield,"Nov 4, 1994 ",29,['Brazil'],Brazil,Andradina,DM   AM,"1,66",€300k
+8,Caique Chagas,Central Midfield,"Apr 26, 1994 ",29,['Brazil'],Brazil,Barueri,DM   LB,"1,84",€250k
+,Marcos Serrato,Central Midfield,"Feb 8, 1994 ",30,"['Brazil', 'Italy']",Brazil,Curitiba,AM   DM,"1,75",€250k
+,Adriano,Central Midfield,"Aug 30, 1994 ",29,['Brazil'],Brazil,Ipaussu,AM,"1,75",€175k
+,Agnaldo,Central Midfield,"Mar 11, 1994 ",30,['Brazil'],Brazil,São Gonçalo (RJ),AM   LW,"1,76",€100k
+,Dionísio,Central Midfield,"Apr 17, 1994 ",29,['Brazil'],Brazil,Itapetinga,DM   AM,"1,72",€50k
+21,Emerson Silva,Central Midfield,"Jun 15, 1994 ",29,['Brazil'],Brazil,,DM   RM,"1,80",-
+,Fernando Sobral,Central Midfield,"Dec 17, 1994 ",29,['Brazil'],Brazil,Sobral,AM   DM,"1,78",€2.00m
+18,Léo Cittadini,Central Midfield,"Feb 27, 1994 ",30,"['Brazil', 'Italy']",Brazil,Rio Claro,AM   DM,"1,79",€1.50m
+27,Mattheus,Central Midfield,"Jul 7, 1994 ",29,"['Brazil', 'Portugal']",Brazil,Rio de Janeiro,RM   AM,"1,86",€1.00m
+8,Arthur Rezende,Central Midfield,"Mar 21, 1994 ",29,['Brazil'],Brazil,Goiatuba,DM,"1,79",€400k
+8,Morelatto,Central Midfield,"May 25, 1994 ",29,"['Brazil', 'Italy']",Brazil,Caieiras (SP),DM   AM,"1,80",€350k
+14,Marcelo Freitas,Central Midfield,"Jun 1, 1994 ",29,['Brazil'],Brazil,Limeira,AM   DM,"1,83",€300k
+47,Jonatan Lucca,Central Midfield,"Jun 2, 1994 ",29,"['Brazil', 'Italy']",Brazil,Santa Maria,RM   DM,"1,84",€300k
+20,Lucas Villela,Central Midfield,"Mar 24, 1994 ",29,['Brazil'],Brazil,Santa Luzia,AM   LW,"1,76",€250k
+8,Dudu Vieira,Central Midfield,"Feb 20, 1994 ",30,['Brazil'],Brazil,Campo Grande,DM   AM,"1,76",€200k
+94,Zé Paulo,Central Midfield,"Mar 26, 1994 ",29,['Brazil'],Brazil,Rio de Janeiro,AM   SS,"1,89",€100k
+17,Gustavo Henrique,Central Midfield,"Nov 8, 1994 ",29,['Brazil'],Brazil,Campo Limpo Paulista,CF,"1,83",€75k
+13,Aliff Santana,Central Midfield,"Jun 30, 1994 ",29,['Brazil'],Brazil,Rio de Janeiro,LM,"1,75",-
+,Foguinho,Central Midfield,"Feb 8, 1994 ",30,['Brazil'],Brazil,Brasília,DM,"1,78",-
+,Paulo Victor,Central Midfield,"Jun 22, 1994 ",29,['Brazil'],Brazil,,,"1,75",-
+,Jonathan Ferreira,Central Midfield,"Jan 20, 1994 ",30,"['Brazil', 'Spain']",Brazil,João Neiva,LB,,-
+,Tiago Bagagem,Central Midfield,"Jun 8, 1994 ",29,['Brazil'],Brazil,Cabo Santo Agostinho,DM,"1,75",-
+,Matias Caio,Central Midfield,"May 14, 1994 ",29,['Brazil'],Brazil,Ouricuri (PE),AM,"1,78",-
+,Yan,Central Midfield,"Aug 5, 1994 ",29,['Brazil'],Brazil,São Paulo,,"1,82",-
+,Rafael Moura da Silva,Central Midfield,"Jan 8, 1994 ",30,['Brazil'],Brazil,Bahia,DM,"1,78",-
+8,Mateus Oliveira,Central Midfield,"Sep 27, 1994 ",29,['Brazil'],Brazil,São José dos Campos,AM,"1,75",-
+,Sandy,Central Midfield,"Jun 9, 1994 ",29,['Brazil'],Brazil,Brasília,AM   RB,"1,87",-
+,Felipe Ferraz,Central Midfield,"Feb 1, 1994 ",30,['Brazil'],Brazil,,,,-
+,Augusto Ferreira,Central Midfield,"Sep 13, 1994 ",29,"['Brazil', 'Italy']",Brazil,Sao Paulo,CB   RB,,-
+,Paulo Salas,Central Midfield,"Dec 14, 1994 ",29,"['Uruguay', 'Brazil']",Brazil,São Paulo,AM,"1,80",-
+,João Lucas,Central Midfield,"Jul 4, 1994 ",29,['Brazil'],Brazil,Brasilândia,,"1,74",-
+,Patrick,Central Midfield,"Dec 26, 1994 ",29,['Brazil'],Brazil,,,,-
+,Brendo Silva Barbosa,Central Midfield,"Jun 24, 1994 ",29,['Brazil'],Brazil,,,,-
+,Vitor,Central Midfield,"Oct 22, 1994 ",29,['Brazil'],Brazil,,,,-
+,Germano,Central Midfield,"Mar 31, 1994 ",29,['Brazil'],Brazil,Porto Alegre,LB   LM,"1,82",-
+,Alex Nemetz,Central Midfield,"Mar 10, 1994 ",30,['Brazil'],Brazil,Campo Largo,RM   LM,"1,78",-
+,Bruno,Central Midfield,"Aug 9, 1994 ",29,"['Brazil', 'Israel']",Brazil,Rio de Janeiro,AM,"1,86",-
+,Caio Fábio Gabriel Quiroga,Central Midfield,"Jun 7, 1994 ",29,['Brazil'],Brazil,Rio de Janeiro,DM   AM,"1,76",-
+,Gustavo Blanco,Central Midfield,"Oct 3, 1994 ",29,['Brazil'],Brazil,Salvador,DM,"1,74",-
+,Daycson Artico,Central Midfield,"May 10, 1994 ",29,['Brazil'],Brazil,São Paulo,AM,"1,77",-
+,Leonardo Dias Consulin,Central Midfield,"Jun 23, 1994 ",29,"['Italy', 'Brazil']",Brazil,S. Barbara d’Oeste,LM   AM,"1,75",-
+,Misael,Central Midfield,"Jul 15, 1994 ",29,['Brazil'],Brazil,Três de Maio,LM   AM,"1,75",-
+8,Lucas Evangelista,Central Midfield,"May 6, 1995 ",28,['Brazil'],Brazil,Limeira,AM   DM,"1,81",€4.00m
+80,Alex Santana,Central Midfield,"May 13, 1995 ",28,"['Brazil', 'Bulgaria']",Brazil,Atibaia,AM   DM,"1,82",€2.00m
+,Diego,Central Midfield,"Oct 31, 1995 ",28,['Brazil'],Brazil,Macaé,AM   DM,"1,75",€1.00m
+80,Raphael Guzzo,Central Midfield,"Jan 6, 1995 ",29,"['Portugal', 'Brazil']",Brazil,São Paulo,AM   DM,"1,78",€700k
+,Caio César,Central Midfield,"Jul 27, 1995 ",28,['Brazil'],Brazil,São Vicente,DM,"1,93",€600k
+26,Silva,Central Midfield,"Sep 7, 1995 ",28,['Brazil'],Brazil,Cabedelo,DM,"1,83",€300k
+,Marcos Júnior,Central Midfield,"May 13, 1995 ",28,['Brazil'],Brazil,Rio de Janeiro,DM   RB,"1,80",€225k
+,Danilo,Central Midfield,"May 9, 1995 ",28,['Brazil'],Brazil,Lençóis Paulista,AM,"1,81",-
+,Abner,Central Midfield,"Jun 6, 1995 ",28,['Brazil'],Brazil,Guarulhos,,"1,78",-
+,Harrisson,Central Midfield,"May 4, 1995 ",28,['Brazil'],Brazil,,,,-
+,Léo Coutinho,Central Midfield,"Jun 12, 1995 ",28,['Brazil'],Brazil,,,"1,74",-
+8,Lucas Andrade,Central Midfield,"May 23, 1995 ",28,['Brazil'],Brazil,Nanuque,,,-
+,Alef Silva,Central Midfield,"Mar 25, 1995 ",28,"['Portugal', 'Brazil']",Brazil,,AM,"1,85",-
+20,Yago Felipe,Central Midfield,"Feb 3, 1995 ",29,['Brazil'],Brazil,Limoeiro do Norte,AM   DM,"1,74",€2.00m
+16,Thaciano,Central Midfield,"May 12, 1995 ",28,['Brazil'],Brazil,Campina Grande,AM   SS,"1,82",€1.50m
+22,Léo Cordeiro,Central Midfield,"Sep 27, 1995 ",28,['Brazil'],Brazil,Minas Gerais,AM   DM,"1,74",€800k
+8,Jobson,Central Midfield,"Sep 13, 1995 ",28,['Brazil'],Brazil,São Paulo,DM,"1,85",€600k
+8,Erick Brendon,Central Midfield,"May 23, 1995 ",28,['Brazil'],Brazil,Rio de Janeiro,,"1,73",€350k
+95,Carlos Jatobá,Central Midfield,"Sep 15, 1995 ",28,"['Brazil', 'Italy']",Brazil,Curitiba,DM   LB,"1,83",€250k
+,Gabriel Bonet,Central Midfield,"Feb 22, 1995 ",29,['Brazil'],Brazil,Verê,,"1,79",-
+,Chico,Central Midfield,"Aug 3, 1995 ",28,['Brazil'],Brazil,,,,-
+14,Lucas Silva,Central Midfield,"Jun 16, 1995 ",28,['Brazil'],Brazil,Londrina,AM,,-
+,Kennedy,Central Midfield,"Apr 23, 1995 ",28,['Brazil'],Brazil,,,,-
+,Gustavo Barba,Central Midfield,"Jun 13, 1995 ",28,['Brazil'],Brazil,,,,-
+10,Junior,Central Midfield,"Mar 6, 1995 ",29,"['Brazil', 'Spain']",Brazil,Niteroi,AM   DM,"1,75",-
+,Edilson,Central Midfield,"Feb 15, 1995 ",29,['Brazil'],Brazil,São Paulo (SP),AM   CF,,-
+,Alan Torres,Central Midfield,"Dec 29, 1995 ",28,['Brazil'],Brazil,,AM,"1,78",-
+,Rodrigo Reis,Central Midfield,"May 2, 1995 ",28,['Brazil'],Brazil,,,"1,83",-
+,Pedro Mercadante,Central Midfield,"Jun 27, 1995 ",28,"['Brazil', 'Italy']",Brazil,Porto Alegre,AM,,-
+,Filipe Ribeiro,Central Midfield,"May 27, 1995 ",28,['Brazil'],Brazil,São Paulo,AM,"1,84",-
+,Paulinho,Central Midfield,"Jan 13, 1995 ",29,['Brazil'],Brazil,Angatuba (SP),DM   LM,"1,76",-
+,Matheus Tosta,Central Midfield,N/A ,28,[],Brazil,Goiânia,AM   SS,N/A,-
+,Douglas Cordeiro,Central Midfield,"Apr 12, 1995 ",28,['Brazil'],Brazil,Limieira (SP),DM   AM,"1,76",-
+,Marciel,Central Midfield,"Mar 8, 1995 ",29,['Brazil'],Brazil,Porto Alegre,DM   LB,"1,86",-
+,Igor Caetano,Central Midfield,"Jul 5, 1995 ",28,['Brazil'],Brazil,,AM,"1,78",-
+,Bruno Rodrigues,Central Midfield,"Apr 3, 1995 ",28,['Brazil'],Brazil,,DM,"1,75",-
+10,Matheus Pranke,Central Midfield,"Apr 15, 1995 ",28,['Brazil'],Brazil,Ibirubá (RS),AM,"1,75",-
+,Rafael Santos,Central Midfield,"May 22, 1995 ",28,['Brazil'],Brazil,Rio de Janeiro,AM   DM,"1,78",-
+,Matheus Paquetá,Central Midfield,"Mar 12, 1995 ",29,['Brazil'],Brazil,Rio de Janeiro,,"1,80",-
+,Djavan,Central Midfield,"Nov 27, 1995 ",28,['Brazil'],Brazil,João Pessoa,DM,"1,76",-
+,Vitor Braga,Central Midfield,"Feb 15, 1995 ",29,['Brazil'],Brazil,Bandeirantes,AM,"1,83",-
+,Felipe Tontini,Central Midfield,"Jul 16, 1995 ",28,['Brazil'],Brazil,Foz do Iguaçu,AM,"1,83",-
+,Lucas Marques,Central Midfield,"May 24, 1995 ",28,['Brazil'],Brazil,Osasco,RB   DM,"1,78",-
+,Luiz Fernando,Central Midfield,"Apr 8, 1995 ",28,['Brazil'],Brazil,Rio de Janeiro,AM,"1,78",-
+,Matheus Biteco,Central Midfield,"Jun 28, 1995","Jun 28, 1995",['Brazil'],Brazil,Porto Alegre,DM   AM,"1,72",-
+7,Joelinton,Central Midfield,"Aug 14, 1996 ",27,['Brazil'],Brazil,Aliança,AM   LW,"1,86",€42.00m
+16,Matheus Rossetto,Central Midfield,"Jun 3, 1996 ",27,"['Brazil', 'Italy']",Brazil,Santo Amaro da Imperatriz,AM,"1,80",€1.50m
+,Danielzinho,Central Midfield,"Jan 11, 1996 ",28,['Brazil'],Brazil,Rio de Janeiro,AM   DM,"1,73",€1.40m
+,Thiago Lopes,Central Midfield,"Oct 27, 1996 ",27,['Brazil'],Brazil,Mogi Mirim,AM   RW,"1,78",€450k
+55,Gustavo Cazonatti,Central Midfield,"Jul 3, 1996 ",27,['Brazil'],Brazil,Florianópolis,DM,"1,76",€200k
+50,Sávio Roberto,Central Midfield,"Apr 30, 1996 ",27,['Brazil'],Brazil,Salvador-BA,AM   DM,"1,89",€150k
+21,João Paulo,Central Midfield,"Mar 21, 1996 ",27,['Brazil'],Brazil,São Bernardo do Campo,,"1,80",€50k
+,Daniel Farias,Central Midfield,"Jan 17, 1996 ",28,['Brazil'],Brazil,,RM   RB,"1,75",€10k
+,Ganso,Central Midfield,"Aug 19, 1996 ",27,['Brazil'],Brazil,,,,-
+8,Tokinho,Central Midfield,"Sep 30, 1996 ",27,['Brazil'],Brazil,Rio de Janeiro,DM,"1,80",-
+6,Bernardo Pasquali,Central Midfield,"Sep 18, 1996 ",27,['Brazil'],Brazil,Porto Alegre,CB,"1,89",-
+,Igor Santos,Central Midfield,"Apr 26, 1996 ",27,['Brazil'],Brazil,,,"1,81",-
+,Dudu,Central Midfield,"Jun 12, 1996 ",27,['Brazil'],Brazil,,DM,"1,82",-
+24,Flávio,Central Midfield,"Feb 10, 1996 ",28,['Brazil'],Brazil,Santos,DM   AM,"1,78",€1.60m
+,Matheus Vargas,Central Midfield,"Jun 18, 1996 ",27,['Brazil'],Brazil,Cláudia,AM   SS,"1,81",€1.50m
+35,Charles,Central Midfield,"Jun 19, 1996 ",27,['Brazil'],Brazil,Santiago,DM   CB,"1,87",€750k
+,Giovanni Pavani,Central Midfield,"Nov 22, 1996 ",27,['Brazil'],Brazil,Catanduva,DM   AM,"1,78",€300k
+16,Arthur Bonaldo,Central Midfield,"Feb 18, 1996 ",28,"['Brazil', 'Italy']",Brazil,Palotina,CB,"1,81",€200k
+,João Igor,Central Midfield,"Mar 14, 1996 ",28,['Brazil'],Brazil,Jardinópolis,DM   AM,"1,77",€100k
+,Gustavo Hebling,Central Midfield,"Apr 5, 1996 ",27,['Brazil'],Brazil,Piracicaba,AM   DM,"1,73",€25k
+8,Bruno Santos,Central Midfield,"Sep 11, 1996 ",27,['Brazil'],Brazil,Ponta Grossa (PR),DM,"1,76",-
+,Rafael Busqueti,Central Midfield,"Jan 5, 1996 ",28,"['Brazil', 'Italy']",Brazil,São José do Rio Preto,AM,"1,74",-
+,Ítalo Rocha,Central Midfield,"Sep 11, 1996 ",27,['Brazil'],Brazil,Aracaju (SE),,"1,70",-
+,Maycon Nascimento,Central Midfield,"Apr 6, 1996 ",27,['Brazil'],Brazil,,DM,"1,75",-
+,Keyllo,Central Midfield,"Jul 11, 1996 ",27,['Brazil'],Brazil,,DM,"1,80",-
+,Micael Neves,Central Midfield,"May 9, 1996 ",27,['Brazil'],Brazil,Palhoça (SC),RM   LM,"1,82",-
+,Guilherme Faria,Central Midfield,"Mar 4, 1996 ",28,"['Brazil', 'Italy']",Brazil,Sao Paulo,,"1,80",-
+,Cícero,Central Midfield,"Mar 18, 1996 ",27,['Brazil'],Brazil,,,"1,84",-
+,Mayron,Central Midfield,"Nov 18, 1996 ",27,['Brazil'],Brazil,,DM,"1,70",-
+,Fabinho,Central Midfield,"Jul 7, 1996 ",27,['Brazil'],Brazil,Rio de Janeiro,AM   CF,"1,86",-
+,Léo Prado,Central Midfield,"May 14, 1996 ",27,['Brazil'],Brazil,,,,-
+70,Hudson,Central Midfield,"Jan 24, 1996 ",28,['Brazil'],Brazil,Rio de Janeiro,DM   RB,"1,80",-
+,Mathias Lavet,Central Midfield,"Jul 31, 1996 ",27,['Belgium'],Brazil,Vitoria,AM,,-
+96,David Moura,Central Midfield,"Jul 2, 1996 ",27,['Brazil'],Brazil,Bahia,LB   AM,"1,80",-
+,Cléver,Central Midfield,"Feb 3, 1996 ",28,"['Portugal', 'Brazil']",Brazil,Belém (PA),DM,"1,80",-
+,Roberto Henrique,Central Midfield,"Jan 24, 1996 ",28,['Brazil'],Brazil,,,,-
+,Alex Pernambucano,Central Midfield,"May 20, 1996 ",27,['Brazil'],Brazil,,,,-
+,Marcio José,Central Midfield,"Mar 2, 1996 ",28,['Brazil'],Brazil,,,,-
+,Gigante,Central Midfield,"Sep 25, 1996 ",27,['Brazil'],Brazil,,,"1,78",-
+,Murillo Carmo,Central Midfield,"Jul 30, 1996 ",27,"['Brazil', 'Italy']",Brazil,Jaú (SP),AM,"1,78",-
+3,Lucas Villar,Central Midfield,N/A ,27,[],Brazil,São Gonçalo,DM   AM,N/A,-
+,Roldan,Central Midfield,"Mar 20, 1996 ",27,['Brazil'],Brazil,,DM,"1,78",-
+,Vinícius Paulista,Central Midfield,"Apr 12, 1996 ",27,['Brazil'],Brazil,Campinas,AM   DM,"1,88",-
+,Lucas Guedes,Central Midfield,"May 30, 1996 ",27,"['Brazil', 'Poland']",Brazil,Brasília,DM   AM,"1,81",-
+8,Wendel,Central Midfield,"Aug 28, 1997 ",26,['Brazil'],Brazil,Duque de Caxias,AM   DM,"1,80",€22.00m
+7,Matheus Henrique,Central Midfield,"Dec 19, 1997 ",26,['Brazil'],Brazil,São Paulo,DM   AM,"1,75",€12.00m
+7,Maycon,Central Midfield,"Jul 15, 1997 ",26,['Brazil'],Brazil,São Paulo,DM   AM,"1,75",€5.00m
+18,Paulinho Paula,Central Midfield,"Jan 8, 1997 ",27,['Brazil'],Brazil,Rio de Janeiro,AM   DM,"1,73",€1.00m
+6,Matheus Jesus,Central Midfield,"Apr 10, 1997 ",26,"['Brazil', 'Italy']",Brazil,Salvador,DM   AM,"1,87",€450k
+6,Gabriel Bispo,Central Midfield,"Mar 5, 1997 ",27,['Brazil'],Brazil,Trancoso,DM   AM,"1,77",€300k
+,Ramon,Central Midfield,"May 19, 1997 ",26,['Brazil'],Brazil,Limeira,DM   AM,"1,73",€300k
+,Thiaguinho,Central Midfield,"Apr 11, 1997 ",26,['Brazil'],Brazil,Suzano,CM   DM,"1,80",€250k
+8,João Gomiero,Central Midfield,"Jun 20, 1997 ",26,['Brazil'],Brazil,São Paulo,AM,"1,70",€125k
+,Rodrigo,Central Midfield,"Jan 22, 1997 ",27,['Brazil'],Brazil,,,"1,80",-
+,Horácio,Central Midfield,"May 22, 1997 ",26,['Brazil'],Brazil,,,,-
+,Doglão,Central Midfield,"Jun 3, 1997 ",26,['Brazil'],Brazil,,DM,,-
+,Alessandro Lucas,Central Midfield,"Jun 20, 1997 ",26,['Brazil'],Brazil,Belém,LM   AM,"1,80",-
+20,Gerson,Central Midfield,"May 20, 1997 ",26,['Brazil'],Brazil,Belford Roxo,DM   AM,"1,84",€15.00m
+6,Douglas Augusto,Central Midfield,"Jan 13, 1997 ",27,['Brazil'],Brazil,Rio de Janeiro,DM   AM,"1,73",€6.00m
+28,Pedro Augusto,Central Midfield,"Mar 3, 1997 ",27,['Brazil'],Brazil,Ubá,AM,"1,81",€1.50m
+97,Cícero,Central Midfield,"May 10, 1997 ",26,['Brazil'],Brazil,Penaforte,DM   CB,"1,78",€500k
+,Everton Morelli,Central Midfield,"Nov 4, 1997 ",26,['Brazil'],Brazil,Batatais,AM   DM,"1,85",€400k
+,Eduardo Person,Central Midfield,"Jan 24, 1997 ",27,['Brazil'],Brazil,Garuva,DM   AM,"1,75",€300k
+18,Léo Antônio,Central Midfield,"Jun 9, 1997 ",26,['Brazil'],Brazil,"Mesquita, RJ",DM   CB,"1,84",€250k
+10,Yan Maciel,Central Midfield,"Mar 24, 1997 ",26,['Brazil'],Brazil,,DM   AM,"1,86",€150k
+16,Léo Gomes,Central Midfield,"Apr 30, 1997 ",26,['Brazil'],Brazil,Fortaleza,DM   RB,"1,81",€50k
+,Vitinho,Central Midfield,"Apr 29, 1997 ",26,['Brazil'],Brazil,Lencois Paulista,DM,"1,80",-
+,Lucas,Central Midfield,"Mar 5, 1997 ",27,['Brazil'],Brazil,,,,-
+,Lucas Paulista,Central Midfield,"Nov 17, 1997 ",26,['Brazil'],Brazil,Sao Paulo,,"1,77",-
+,Matheus Santana,Central Midfield,"Jul 30, 1997 ",26,['Brazil'],Brazil,,,,-
+6,Allan,Central Midfield,"Jan 30, 1997 ",27,['Brazil'],Brazil,,,"1,73",-
+,Gabriel Terra,Central Midfield,"Apr 5, 1997 ",26,['Brazil'],Brazil,Niterói,,"1,78",-
+,Lynconl,Central Midfield,"Mar 25, 1997 ",26,['Brazil'],Brazil,,,"1,81",-
+11,Nestor Mansur,Central Midfield,"Oct 23, 1997 ",26,['Brazil'],Brazil,Varginha,LW   LB,"1,78",-
+,Talisson,Central Midfield,"Oct 19, 1997 ",26,['Brazil'],Brazil,,,,-
+,Murilo Cadina,Central Midfield,"Jan 27, 1997 ",27,"['Brazil', 'Italy']",Brazil,Sorocaba,LM,"1,73",-
+,Felipe Jesus,Central Midfield,"Mar 25, 1997 ",26,['Brazil'],Brazil,Monte Alegre,AM,"1,75",-
+,Emerson Souza,Central Midfield,"Dec 18, 1997 ",26,['Brazil'],Brazil,Anchieta,DM,"1,85",-
+,Joílson,Central Midfield,"Aug 4, 1997 ",26,['Brazil'],Brazil,Salvador,RM,"1,77",-
+,Jeferson Lima,Central Midfield,"Feb 7, 1997 ",27,['Brazil'],Brazil,Novo Hamburgo,,"1,83",-
+7,Murilo Scarpari,Central Midfield,"Mar 15, 1997 ",27,"['Brazil', 'Italy']",Brazil,Piracicaba (SP),RM   LM,"1,84",-
+,Manes,Central Midfield,"Sep 23, 1997 ",26,"['Brazil', 'Italy']",Brazil,Rio de Janeiro,AM   DM,"1,72",-
+17,Bryan Rodrigues,Central Midfield,"Nov 20, 1997 ",26,"['Brazil', 'Spain']",Brazil,Apucarana,RB   RW,"1,78",-
+,Igor Gouvêa,Central Midfield,"Sep 23, 1997 ",26,"['Brazil', 'Portugal']",Brazil,Londrina,AM   DM,"1,74",-
+,Ruan Café,Central Midfield,"Jan 12, 1997 ",27,['Brazil'],Brazil,,RM   LM,"1,73",-
+8,João Vieira,Central Midfield,"Nov 8, 1997 ",26,['Brazil'],Brazil,Pato Branco,DM,"1,73",-
+22,Pablo Araújo,Central Midfield,"Apr 26, 1997 ",26,['Brazil'],Brazil,Belo Horizonte,AM,"1,80",-
+,Caeté,Central Midfield,"May 2, 1997 ",26,['Brazil'],Brazil,,,,-
+,Patryck Anderson,Central Midfield,"Apr 16, 1997 ",26,['Brazil'],Brazil,,AM   DM,"1,80",-
+,Paulinho,Central Midfield,"May 27, 1997 ",26,['Brazil'],Brazil,Osasco,DM,"1,84",-
+,Julio Rusch,Central Midfield,"Jun 22, 1997 ",26,['Brazil'],Brazil,Candelaria,DM   LB,"1,70",-
+,Vinicius Leonel,Central Midfield,"Apr 18, 1997 ",26,['Brazil'],Brazil,Minas Gerais,AM   DM,"1,87",-
+,Nauhan,Central Midfield,"Nov 6, 1997 ",26,['Brazil'],Brazil,,AM,,-
+,Bruno Cosendey,Central Midfield,"Jan 25, 1997 ",27,"['Brazil', 'Portugal']",Brazil,Rio de Janeiro,AM   DM,"1,86",-
+,Matheus Vercillo Cardoso,Central Midfield,"Jun 8, 1997 ",26,['Brazil'],Brazil,Rio de Janeiro,CB   LB,,-
+6,Douglas Luiz,Central Midfield,"May 9, 1998 ",25,['Brazil'],Brazil,Rio de Janeiro,DM,"1,77",€70.00m
+10,Evander,Central Midfield,"Jun 9, 1998 ",25,['Brazil'],Brazil,Rio de Janeiro,AM,"1,80",€8.00m
+23,Pepê,Central Midfield,"Jan 6, 1998 ",26,['Brazil'],Brazil,Rio de Janeiro,AM   DM,"1,83",€2.50m
+7,Nonato,Central Midfield,"Mar 3, 1998 ",26,"['Brazil', 'Italy']",Brazil,São Paulo,AM   DM,"1,75",€1.70m
+,Baralhas,Central Midfield,"Oct 10, 1998 ",25,['Brazil'],Brazil,Botucatu,DM   AM,"1,78",€1.00m
+30,Pedro Naressi,Central Midfield,"Jan 10, 1998 ",26,['Brazil'],Brazil,São José dos Campos,DM   AM,"1,78",€900k
+,Queven,Central Midfield,"Nov 21, 1998 ",25,['Brazil'],Brazil,Palmeira d'Oeste,DM   AM,"1,76",€400k
+7,Matheus Clemente,Central Midfield,"Jun 10, 1998 ",25,"['Portugal', 'Brazil']",Brazil,Fronteira,AM,"1,82",€225k
+,Alan Calbergue,Central Midfield,"Jul 11, 1998 ",25,['Brazil'],Brazil,Belém,AM   DM,"1,70",€200k
+8,Renan Areias,Central Midfield,"Jan 18, 1998 ",26,['Brazil'],Brazil,,DM,"1,73",€200k
+12,Marco Tulio,Central Midfield,"May 31, 1998 ",25,['Brazil'],Brazil,Belo Horizonte,LB   AM,"1,83",€100k
+,Natham,Central Midfield,"Aug 14, 1998 ",25,['Brazil'],Brazil,Penedo,DM   AM,"1,70",€50k
+,José Aldo,Central Midfield,"Jul 25, 1998 ",25,['Brazil'],Brazil,Surubim,AM   SS,"1,75",€50k
+27,Matheus Nunes,Central Midfield,"Aug 27, 1998 ",25,"['Portugal', 'Brazil']",Brazil,Rio de Janeiro,AM   DM,"1,83",€50.00m
+6,Jean Lucas,Central Midfield,"Jun 22, 1998 ",25,['Brazil'],Brazil,Rio de Janeiro,DM   AM,"1,81",€6.00m
+28,Liziero,Central Midfield,"Feb 7, 1998 ",26,"['Brazil', 'Italy']",Brazil,Jales,DM   LB,"1,77",€2.00m
+8,Matheus Pereira,Central Midfield,"Feb 25, 1998 ",26,['Brazil'],Brazil,São Paulo,AM   RW,"1,83",€1.20m
+20,Matheus Frizzo,Central Midfield,"Jul 24, 1998 ",25,['Brazil'],Brazil,Guarulhos,AM   DM,"1,82",€900k
+18,Matheus Bianqui,Central Midfield,"Jan 31, 1998 ",26,['Brazil'],Brazil,Ribeirão Claro,AM   DM,"1,87",€700k
+,Matheus Bueno,Central Midfield,"Jul 30, 1998 ",25,['Brazil'],Brazil,Curitiba,AM   DM,"1,78",€350k
+18,João Erick,Central Midfield,"May 15, 1998 ",25,['Brazil'],Brazil,Jaboatão dos Guararapes,,,€200k
+,Ralph,Central Midfield,"Mar 7, 1998 ",26,['Brazil'],Brazil,São Fidelis,DM   RB,"1,75",€200k
+98,Falcão,Central Midfield,"Apr 14, 1998 ",25,['Brazil'],Brazil,Feira de Santana,DM   AM,"1,83",€100k
+,Matheus Santana,Central Midfield,"Feb 19, 1998 ",26,"['Brazil', 'Spain']",Brazil,Ribeirão Claro,AM,"1,85",€100k
+,Crystopher,Central Midfield,"Jun 7, 1998 ",25,['Brazil'],Brazil,Porto Alegre,AM   DM,"1,74",€50k
+,Alexandre,Central Midfield,"Mar 30, 1998 ",25,['Brazil'],Brazil,Americana,AM,"1,70",-
+,Jeferson,Central Midfield,"Jul 29, 1998 ",25,['Brazil'],Brazil,,AM,"1,87",-
+,Toró,Central Midfield,"Apr 8, 1998 ",25,['Brazil'],Brazil,Rio de Janeiro,,"1,69",-
+,Adeílson Maranhão,Central Midfield,"Apr 7, 1998 ",25,['Brazil'],Brazil,,DM,"1,79",-
+,Hugo,Central Midfield,"Feb 28, 1998 ",26,['Brazil'],Brazil,,,,-
+,Wictor Hugo,Central Midfield,"Jun 15, 1998 ",25,['Brazil'],Brazil,São Paulo,LM,"1,81",-
+,Érison,Central Midfield,"Mar 14, 1998 ",26,['Brazil'],Brazil,,,,-
+,Antônio Carlos,Central Midfield,"May 17, 1998 ",25,['Brazil'],Brazil,,AM,"1,75",-
+,Jordan Souza,Central Midfield,"May 4, 1998 ",25,['Brazil'],Brazil,,DM   LB,"1,73",-
+,Bruno Luka,Central Midfield,"Mar 22, 1998 ",25,['Brazil'],Brazil,,,,-
+,Luis Fernando,Central Midfield,"Jan 27, 1998 ",26,['Brazil'],Brazil,,AM   DM,"1,83",-
+,Theo Maia,Central Midfield,"Jan 29, 1998 ",26,['Brazil'],Brazil,Rio de Janeiro,AM,"1,79",-
+,Tharlis,Central Midfield,"Jan 7, 1998 ",26,"['Brazil', 'Italy']",Brazil,Maravilha,CB,"1,82",-
+,Christian Witkowski,Central Midfield,"Oct 1, 1998 ",25,"['Brazil', 'United States']",Brazil,Curitiba,DM   CB,"1,83",-
+,Marquinhos,Central Midfield,"Jan 15, 1998 ",26,['Brazil'],Brazil,,AM,,-
+12,Fabricio,Central Midfield,"Jan 27, 1998 ",26,['Brazil'],Brazil,Belén de Pará,AM,"1,70",-
+,Guilherme Pessoa,Central Midfield,"Sep 18, 1998 ",25,['Brazil'],Brazil,,,"1,78",-
+,Fernando,Central Midfield,"Apr 9, 1998 ",25,['Brazil'],Brazil,,,,-
+5,Caique,Central Midfield,"May 15, 1998 ",25,['Brazil'],Brazil,São Paulo,RM   CB,"1,83",-
+,Alex Cardoso,Central Midfield,N/A ,25,['Brazil'],Brazil,Rio de Janeiro (RJ),DM   AM,"1,78",-
+,Matheus Lima,Central Midfield,"Jan 23, 1998 ",26,['Brazil'],Brazil,Contagem,RM   DM,"1,75",-
+,Berg,Central Midfield,"Jun 9, 1998 ",25,['Brazil'],Brazil,,DM   LB,"1,86",-
+,Steylor,Central Midfield,"Aug 18, 1998 ",25,['Brazil'],Brazil,,,"1,85",-
+,Ítalo Henrique,Central Midfield,"Jul 12, 1998 ",25,['Brazil'],Brazil,Recife,,"1,80",-
+,Wesley Soares,Central Midfield,"Mar 6, 1998 ",26,['Brazil'],Brazil,Mauá,DM,"1,83",-
+51,Renzo,Central Midfield,"Jul 17, 1998 ",25,['Brazil'],Brazil,Vila Velha,AM,"1,72",-
+,Emerson Crepaldi,Central Midfield,"Jun 8, 1998 ",25,"['Brazil', 'Italy']",Brazil,Limeira,AM,"1,64",-
+,Brayan,Central Midfield,"Jan 5, 1998 ",26,"['Brazil', 'Italy']",Brazil,Curitiba,LM   LB,"1,78",-
+,Wallace,Central Midfield,"Jul 30, 1998 ",25,['Brazil'],Brazil,,RW   AM,"1,68",-
+,Fabrício Bigode,Central Midfield,"Jun 3, 1998 ",25,['Brazil'],Brazil,Arapiraca,DM   RB,"1,71",-
+,Pedro Vitor,Central Midfield,"Feb 14, 1998 ",26,['Brazil'],Brazil,,,,-
+13,Éderson,Central Midfield,"Jul 7, 1999 ",24,['Brazil'],Brazil,Campo Grande,DM   AM,"1,83",€30.00m
+8,Patrick de Paula,Central Midfield,"Sep 8, 1999 ",24,['Brazil'],Brazil,Rio de Janeiro,AM   DM,"1,78",€3.00m
+18,Wenderson,Central Midfield,"Apr 27, 1999 ",24,['Brazil'],Brazil,Ceará-Mirim,,"1,74",€600k
+,Bruno Matias,Central Midfield,"Feb 24, 1999 ",25,['Brazil'],Brazil,São Paulo,DM,"1,72",€300k
+77,Klismahn,Central Midfield,"Nov 23, 1999 ",24,['Brazil'],Brazil,Santana do Araguaia (PA),DM   AM,"1,79",€275k
+8,Thalisson,Central Midfield,"Mar 2, 1999 ",25,['Brazil'],Brazil,Montes Claros,DM,"1,83",€150k
+20,Cássio Júnior,Central Midfield,"Jun 20, 1999 ",24,['Brazil'],Brazil,Osasco,CB,"1,84",€50k
+,Rafinha Potiguar,Central Midfield,"Aug 9, 1999 ",24,['Brazil'],Brazil,Natal,DM,"1,79",-
+,Kauã,Central Midfield,"Jan 8, 1999 ",25,['Brazil'],Brazil,São Paulo,AM   DM,"1,83",-
+,Mateus,Central Midfield,"Jan 5, 1999 ",25,['Brazil'],Brazil,,,,-
+,Matheus Rosa,Central Midfield,"Mar 19, 1999 ",24,['Brazil'],Brazil,,,,-
+,Giovani,Central Midfield,"Jul 13, 1999 ",24,['Brazil'],Brazil,,DM,,-
+,Mosquito,Central Midfield,"Jan 29, 1999 ",25,['Brazil'],Brazil,,,,-
+17,Gabriel Sara,Central Midfield,"Jun 26, 1999 ",24,['Brazil'],Brazil,Joinville,AM   DM,"1,77",€16.00m
+99,Guilherme Castilho,Central Midfield,"Sep 19, 1999 ",24,['Brazil'],Brazil,Arapoema,AM   DM,"1,80",€1.00m
+80,Pablo Roberto,Central Midfield,"Nov 14, 1999 ",24,['Brazil'],Brazil,São Francisco,AM,"1,83",€600k
+,Anderson Ceará,Central Midfield,"May 21, 1999 ",24,['Brazil'],Brazil,Tianguá,AM,"1,76",€300k
+9,Pedro Dolabella,Central Midfield,"Jul 29, 1999 ",24,['Brazil'],Brazil,Brasília,CF,"1,93",€150k
+,Pedro Rodrigues,Central Midfield,"Jan 5, 1999 ",25,['Brazil'],Brazil,Belo Horizonte,AM,"1,85",€50k
+42,Henrique Gallina,Central Midfield,"Jul 1, 1999 ",24,['Brazil'],Brazil,São Paulo,DM,,-
+78,Pedro Reis,Central Midfield,"Sep 11, 1999 ",24,['Brazil'],Brazil,,AM,"1,74",-
+,Luigi Corso,Central Midfield,"Sep 13, 1999 ",24,['Brazil'],Brazil,,AM,"1,84",-
+14,Juninho,Central Midfield,"Feb 2, 1999 ",25,['Brazil'],Brazil,Belém,DM,"1,68",-
+,Matheus Alves,Central Midfield,"Oct 1, 1999 ",24,['Brazil'],Brazil,Campinas,,"1,72",-
+,Jean Sergipano,Central Midfield,"Feb 7, 1999 ",25,['Brazil'],Brazil,,,"1,78",-
+10,Tulio Silva,Central Midfield,"Nov 21, 1999 ",24,['Brazil'],Brazil,,AM   LW,"1,78",-
+,Lucas Pederzoli,Central Midfield,"Nov 4, 1999 ",24,['Brazil'],Brazil,,,"1,77",-
+,Geovane,Central Midfield,"Mar 2, 1999 ",25,['Brazil'],Brazil,Salvador,DM   AM,"1,70",-
+,Matheus Junio,Central Midfield,"Jun 21, 1999 ",24,['Brazil'],Brazil,,,,-
+,Mateus,Central Midfield,"Apr 10, 1999 ",24,['Brazil'],Brazil,,,,-
+,Daniel de Pauli,Central Midfield,"Aug 6, 1999 ",24,"['Brazil', 'Italy']",Brazil,Goiânia,DM   LB,"1,84",-
+,Cleisson,Central Midfield,"Nov 9, 1999 ",24,['Brazil'],Brazil,,,"1,82",-
+,Mosquito,Central Midfield,"Oct 16, 1999 ",24,['Brazil'],Brazil,,,,-
+80,Renato Soares,Central Midfield,"Mar 6, 1999 ",25,['Brazil'],Brazil,São Paulo,LM   AM,"1,76",-
+,Léo,Central Midfield,"Jan 2, 1999 ",25,['Brazil'],Brazil,,,,-
+5,Barba,Central Midfield,"Jan 29, 1999 ",25,['Brazil'],Brazil,São José do Rio Preto,DM   AM,"1,77",-
+6,Douglas Matheus Coutinho da Silva,Central Midfield,"May 7, 1999 ",24,['Brazil'],Brazil,Touros,DM   RB,"1,72",-
+,Caio Mello,Central Midfield,"Dec 18, 1999 ",24,['Brazil'],Brazil,,DM   AM,"1,82",-
+48,Gustavo Apis,Central Midfield,"Jun 14, 1999 ",24,['Brazil'],Brazil,Nova Iguaçu,AM   LB,"1,76",-
+,Rendell,Central Midfield,"Jun 2, 1999 ",24,['Brazil'],Brazil,Paracatu,,"1,80",-
+,Daniel,Central Midfield,"Feb 21, 1999 ",25,['Brazil'],Brazil,,,,-
+77,Leo Murilo,Central Midfield,"Nov 2, 1999 ",24,['Brazil'],Brazil,Hortolândia,AM,"1,80",-
+,Caio,Central Midfield,"Aug 29, 1999 ",24,['Brazil'],Brazil,São Paulo,AM,"1,78",-
+,Larusso,Central Midfield,"Jun 26, 1999 ",24,['Brazil'],Brazil,Ananindeua,DM,"1,76",-
+,Vitor Alves,Central Midfield,"Mar 9, 1999 ",25,['Brazil'],Brazil,São Paulo,SS   LW,"1,70",-
+,Pedro Alves,Central Midfield,"Jun 1, 1999 ",24,['Brazil'],Brazil,Barra Mansa,,,-
+,Edson Júnior,Central Midfield,"Apr 9, 1999 ",24,['Brazil'],Brazil,,,,-
+,De Paula,Central Midfield,"Mar 14, 1999 ",25,['Brazil'],Brazil,Caieiras,AM   LM,"1,83",-
+,Linnick,Central Midfield,"May 24, 1999 ",24,['Brazil'],Brazil,Rio de Janeiro,DM   AM,"1,73",-
+,Roberio,Central Midfield,"Jan 21, 1999 ",25,['Brazil'],Brazil,,,,-
+,Filipe Trindade,Central Midfield,"Jul 18, 1999 ",24,['Brazil'],Brazil,Brasília,,"1,75",-
+,Gustavo Hideki,Central Midfield,"Apr 7, 1999 ",24,['Brazil'],Brazil,,LB   RB,"1,74",-
+,Pablo,Central Midfield,"Sep 9, 1999 ",24,['Brazil'],Brazil,,,,-
+,Pedro Acorsi,Central Midfield,"Jun 26, 1999 ",24,['Brazil'],Brazil,,DM,"1,80",-
+6,Vitor Vieira Thomas,Central Midfield,"Nov 18, 1999 ",24,['Iceland'],Brazil,Porto Alegre,,,-
+5,Edson Aquino,Central Midfield,"Jun 15, 1999 ",24,['Brazil'],Brazil,Feira De Santana,,"1,77",-
+,Lima,Central Midfield,"May 9, 1999 ",24,['Brazil'],Brazil,Chapecó,AM   DM,"1,73",-
+5,Mateus Vieira,Central Midfield,"Mar 22, 1999 ",24,['Brazil'],Brazil,Itaguaçu,DM,"1,77",-
+,Brendo,Central Midfield,"Jan 7, 1999 ",25,['Brazil'],Brazil,,,,-
+,Dedé,Central Midfield,N/A ,25,['Brazil'],Brazil,Rio de Janeiro,DM   RB,"1,90",-
+,Estefano,Central Midfield,"Feb 14, 1999 ",25,['Brazil'],Brazil,,DM,"1,75",-
+,Lucas Bessa,Central Midfield,"Nov 17, 1999 ",24,"['Brazil', 'Portugal']",Brazil,Belém,DM,"1,84",-
+,Guilherme Borges,Central Midfield,"Nov 27, 1999 ",24,['Brazil'],Brazil,Goiânia,,"1,82",-
+,Anderson Hinacio,Central Midfield,"Jan 7, 1999 ",25,['Brazil'],Brazil,Aliança do Tocantins,,,-
+89,Bitello,Central Midfield,"Jan 7, 2000 ",24,['Brazil'],Brazil,Formosa do Oeste,RW   AM,"1,79",€10.00m
+11,Rodrigo Nestor,Central Midfield,"Aug 9, 2000 ",23,['Brazil'],Brazil,São Paulo,AM   DM,"1,75",€9.00m
+88,Marcos Antônio,Central Midfield,"Jun 13, 2000 ",23,['Brazil'],Brazil,Poções,AM   DM,"1,66",€6.00m
+7,Eric Ramires,Central Midfield,"Aug 10, 2000 ",23,['Brazil'],Brazil,Salvador,AM   DM,"1,72",€4.00m
+37,Du Queiroz,Central Midfield,"Jan 7, 2000 ",24,['Brazil'],Brazil,São Paulo,DM   RB,"1,71",€3.00m
+8,Miguel Ferreira,Central Midfield,"Apr 22, 2000 ",23,['Brazil'],Brazil,Santana,DM   AM,"1,88",€650k
+,Jhonata Varela,Central Midfield,"Jul 4, 2000 ",23,['Brazil'],Brazil,Natal,DM   RB,"1,76",€600k
+43,Vitinho,Central Midfield,"Jan 4, 2000 ",24,['Brazil'],Brazil,Guaraulhos,AM,"1,75",€400k
+20,Stephan Seiler,Central Midfield,"Sep 16, 2000 ",23,"['Switzerland', 'Brazil']",Brazil,Fortaleza,DM   RM,"1,74",€300k
+10,Bernardo Rosa,Central Midfield,"Sep 20, 2000 ",23,"['Brazil', 'Italy']",Brazil,Rio de Janeiro,AM   LM,"1,77",€200k
+27,Denilson,Central Midfield,"Mar 17, 2000 ",23,['Brazil'],Brazil,,RW,"1,80",€150k
+8,Resende,Central Midfield,"Mar 5, 2000 ",24,['Brazil'],Brazil,,AM   LM,,€100k
+25,João Rezende,Central Midfield,"Apr 12, 2000 ",23,"['Brazil', 'Portugal']",Brazil,,,,-
+25,Gabriel Menino,Central Midfield,"Sep 29, 2000 ",23,['Brazil'],Brazil,Morungaba,DM   RB,"1,76",€10.00m
+88,Christian,Central Midfield,"Dec 19, 2000 ",23,['Brazil'],Brazil,Jundiaí,AM,"1,78",€7.00m
+27,Luan Pereira,Central Midfield,"Apr 21, 2000 ",23,"['United Arab Emirates', 'Brazil']",Brazil,Ariquemes,AM   LM,"1,80",€4.50m
+35,Hércules,Central Midfield,"Oct 20, 2000 ",23,['Brazil'],Brazil,Jaicós,AM   DM,"1,78",€3.00m
+33,Ruan Oliveira,Central Midfield,"Mar 23, 2000 ",23,['Brazil'],Brazil,Paraíso do Norte,AM   SS,"1,76",€700k
+,Maciel,Central Midfield,"Jan 18, 2000 ",24,['Brazil'],Brazil,Rio de Janeiro,DM,"1,68",€600k
+,Jhonny Lucas,Central Midfield,"Feb 21, 2000 ",24,['Brazil'],Brazil,Curitiba,AM   DM,"1,70",€400k
+23,Romildo Del Piage,Central Midfield,"Apr 12, 2000 ",23,"['Brazil', 'Italy']",Brazil,São José dos Campos,CB,"1,83",€350k
+10,Lucas de Vega,Central Midfield,"Jan 16, 2000 ",24,"['Brazil', 'Spain']",Brazil,Fortaleza,AM,"1,80",€250k
+8,Lucas Felippe,Central Midfield,"May 3, 2000 ",23,"['Brazil', 'Spain']",Brazil,São Paulo,DM,"1,78",€175k
+,João Lucas,Central Midfield,"Aug 18, 2000 ",23,['Brazil'],Brazil,Iporá,AM,"1,81",€100k
+,Nucival,Central Midfield,"Aug 17, 2000 ",23,['Brazil'],Brazil,Dois Vizinhos,AM,"1,83",-
+,Jeovane,Central Midfield,"May 1, 2000 ",23,['Brazil'],Brazil,,,"1,78",-
+10,Eduardo Souza,Central Midfield,"Aug 20, 2000 ",23,['Brazil'],Brazil,,AM,"1,74",-
+,Fernando Paz,Central Midfield,"Dec 8, 2000 ",23,"['Brazil', 'Italy']",Brazil,Santa Cruz do Sul,RM   RB,"1,77",-
+,Danilo,Central Midfield,"Aug 6, 2000 ",23,['Brazil'],Brazil,,,"1,73",-
+8,Marcus Vinicius,Central Midfield,"Apr 19, 2000 ",23,['Brazil'],Brazil,,AM   LW,"1,71",-
+,Eduardo Bizoni,Central Midfield,"Jul 22, 2000 ",23,['Brazil'],Brazil,,,,-
+,Athirson,Central Midfield,"Sep 24, 2000 ",23,['Brazil'],Brazil,,,,-
+,Pedro Victor,Central Midfield,"Feb 17, 2000 ",24,['Brazil'],Brazil,,,"1,78",-
+,Taylor,Central Midfield,"Sep 20, 2000 ",23,['Brazil'],Brazil,,,,-
+,Marcelo,Central Midfield,"Aug 23, 2000 ",23,['Brazil'],Brazil,,,"1,79",-
+16,Caio Carioca,Central Midfield,"Mar 28, 2000 ",23,['Brazil'],Brazil,Angra dos Reis,,"1,83",-
+,João Victor,Central Midfield,"May 3, 2000 ",23,['Brazil'],Brazil,,,,-
+,Breninho,Central Midfield,"Mar 9, 2000 ",24,['Brazil'],Brazil,,,"1,66",-
+,Ricardinho,Central Midfield,"Sep 2, 2000 ",23,['Brazil'],Brazil,Fortaleza,DM,"1,75",-
+,Mateus,Central Midfield,"Dec 29, 2000 ",23,['Brazil'],Brazil,Porto Franco,,,-
+,Filipe Fraga,Central Midfield,"Feb 13, 2000 ",24,['Brazil'],Brazil,Novo Hamburgo,,"1,86",-
+,Arthur,Central Midfield,"Mar 25, 2000 ",23,['Brazil'],Brazil,,DM,"1,77",-
+,Vargas,Central Midfield,"Aug 10, 2000 ",23,['Brazil'],Brazil,Ponta Porã,RW   RB,"1,77",-
+,Vagner,Central Midfield,"Dec 19, 2000 ",23,['Brazil'],Brazil,,,,-
+,Felipe Valdívia,Central Midfield,"Oct 27, 2000 ",23,['Brazil'],Brazil,,AM,"1,74",-
+,Lucas Black,Central Midfield,"Apr 19, 2000 ",23,['Brazil'],Brazil,,AM,"1,90",-
+,Bruninho,Central Midfield,"Jun 15, 2000 ",23,['Brazil'],Brazil,Juiz de Fora,,"1,84",-
+,Valter,Central Midfield,"Aug 20, 2000 ",23,['Brazil'],Brazil,,,,-
+,Zé Vitor,Central Midfield,"May 2, 2000 ",23,['Brazil'],Brazil,Goiânia,,"1,94",-
+,Paulo Vitor,Central Midfield,"Feb 4, 2000 ",24,['Brazil'],Brazil,,,,-
+,João Vitor,Central Midfield,"Oct 3, 2000 ",23,['Brazil'],Brazil,,,,-
+,Richard,Central Midfield,"Feb 22, 2000 ",24,['Brazil'],Brazil,,,,-
+,Yago,Central Midfield,"Feb 28, 2000 ",24,['Brazil'],Brazil,,,,-
+,Pedro Azevedo,Central Midfield,"Jan 14, 2000 ",24,['Brazil'],Brazil,,AM,"1,75",-
+8,Eduardo,Central Midfield,"Jun 15, 2000 ",23,['Brazil'],Brazil,Miraíma,AM   DM,"1,73",-
+,Lucca Di Giuseppe,Central Midfield,"Mar 10, 2000 ",24,"['Brazil', 'Italy']",Brazil,São Paulo (SP),AM   DM,"1,80",-
+,Chico,Central Midfield,"Apr 26, 2000 ",23,['Brazil'],Brazil,,,,-
+,Luan Patric,Central Midfield,"Aug 9, 2000 ",23,['Brazil'],Brazil,,,"1,80",-
+16,João Costa,Central Midfield,"Jan 17, 2000 ",24,['Brazil'],Brazil,,,,-
+,Matheus Santos,Central Midfield,"Mar 10, 2000 ",24,['Brazil'],Brazil,Belo Horizonte (MG),AM,"1,73",-
+,Natan,Central Midfield,"Mar 11, 2000 ",24,['Brazil'],Brazil,Aracaju,DM   RB,"1,82",-
+,Marco Antônio,Central Midfield,"Jul 15, 2000 ",23,['Brazil'],Brazil,Belo Horizonte,CM   AM,"1,82",-
+,Bruno Miguel,Central Midfield,"May 20, 2000 ",23,['Brazil'],Brazil,,DM,"1,75",-
+,Tauã,Central Midfield,"Apr 28, 2000 ",23,['Brazil'],Brazil,,,,-
+,Joao Paulo,Central Midfield,"Sep 14, 2000 ",23,['Brazil'],Brazil,,,"1,77",-
+,Andrew,Central Midfield,"Feb 12, 2000 ",24,['Brazil'],Brazil,,,,-
+18,Pedro do Rio,Central Midfield,"Nov 21, 2000 ",23,"['Brazil', 'Italy']",Brazil,São Carlos,DM,"1,76",-
+,Gabriel Pierini,Central Midfield,"May 4, 2000 ",23,['Brazil'],Brazil,,AM   DM,"1,72",-
+,Marquinhos Brazion,Central Midfield,"Jul 8, 2000 ",23,['Brazil'],Brazil,São Paulo,RB   RW,"1,69",-
+,Iago Mestre,Central Midfield,"Mar 24, 2000 ",23,['Brazil'],Brazil,,,,-
+,Brener,Central Midfield,"Apr 1, 2000 ",23,['Brazil'],Brazil,,,"1,77",-
+,Guilherme Barbosa,Central Midfield,"Jan 17, 2000 ",24,['Brazil'],Brazil,Rio de Janeiro,AM   CF,"1,65",-
+,Serginho,Central Midfield,"Jan 21, 2000 ",24,"['Brazil', 'Italy']",Brazil,Guarujá,AM,"1,73",-
+28,Danilo,Central Midfield,"Apr 29, 2001 ",22,['Brazil'],Brazil,Salvador,DM   AM,"1,77",€28.00m
+7,Zanocelo,Central Midfield,"Jan 30, 2001 ",23,['Brazil'],Brazil,Santo André,AM   DM,"1,85",€3.00m
+,Juninho,Central Midfield,"Jan 23, 2001 ",23,['Brazil'],Brazil,Volta Redonda,DM   AM,"1,74",€1.00m
+44,Mandaca,Central Midfield,"Oct 2, 2001 ",22,['Brazil'],Brazil,João Pessoa,DM,"1,78",€500k
+23,Filipinho,Central Midfield,"Oct 18, 2001 ",22,['Brazil'],Brazil,Boa Vista,DM   LB,"1,83",€300k
+,Miqueias,Central Midfield,"Jul 27, 2001 ",22,['Brazil'],Brazil,Limeira,DM   CB,"1,87",€250k
+,Wallace,Central Midfield,"Mar 15, 2001 ",23,['Brazil'],Brazil,Itaboraí,DM   AM,"1,78",€200k
+,Sammuel,Central Midfield,"Dec 21, 2001 ",22,['Brazil'],Brazil,Fortaleza,LW   RW,"1,77",€100k
+,Léo Rafael,Central Midfield,"Apr 25, 2001 ",22,['Brazil'],Brazil,Campinas,AM,"1,82",€50k
+13,Henrick Oliveira,Central Midfield,"Apr 13, 2001 ",22,"['Brazil', 'Portugal']",Brazil,,AM,"1,76",€25k
+,Kevin,Central Midfield,"Jun 17, 2001 ",22,['Brazil'],Brazil,Marília,,"1,75",-
+,Aleson,Central Midfield,"Jun 25, 2001 ",22,['Brazil'],Brazil,,,,-
+13,Bruno Sousa,Central Midfield,"May 27, 2001 ",22,['Brazil'],Brazil,Bahia,,"1,86",-
+8,João Gomes,Central Midfield,"Feb 12, 2001 ",23,['Brazil'],Brazil,Rio de Janeiro,DM,"1,76",€28.00m
+,Denilson,Central Midfield,"Mar 23, 2001 ",22,['Brazil'],Brazil,Nazaré do Piauí,AM,"1,80",€2.00m
+37,Ed Carlos,Central Midfield,"Mar 19, 2001 ",22,['Brazil'],Brazil,São Paulo,AM   DM,"1,87",€800k
+5,Cristiano,Central Midfield,"Feb 20, 2001 ",23,['Brazil'],Brazil,Bauru,DM   AM,"1,75",€350k
+88,Victor Braga,Central Midfield,"Apr 18, 2001 ",22,['Brazil'],Brazil,,DM,"1,75",€250k
+30,Nick Firmino,Central Midfield,"Jan 30, 2001 ",23,"['Brazil', 'United States']",Brazil,Mantena,AM   DM,"1,80",€250k
+22,Yago Gomes,Central Midfield,"Sep 8, 2001 ",22,"['Switzerland', 'Brazil']",Brazil,Ceará,AM,"1,83",€125k
+,Macaé,Central Midfield,"Jan 9, 2001 ",23,['Brazil'],Brazil,Rio de Janeiro,DM,"1,81",€50k
+,Victor Yan,Central Midfield,"Apr 9, 2001 ",22,['Brazil'],Brazil,Taboão da Serra,AM   DM,"1,80",€50k
+88,Gabriel Chagas,Central Midfield,"Mar 22, 2001 ",22,['Brazil'],Brazil,Salvador (BA),AM,"1,80",-
+10,Cirilo,Central Midfield,"Mar 1, 2001 ",23,['Brazil'],Brazil,,DM   LM,,-
+,Bastico,Central Midfield,"May 1, 2001 ",22,['Brazil'],Brazil,,,"1,70",-
+8,Dudu Fagundes,Central Midfield,"Jan 31, 2001 ",23,['Brazil'],Brazil,Porto Alegre,AM,"1,70",-
+7,Ktatau,Central Midfield,"Jul 13, 2001 ",22,['Brazil'],Brazil,,,"1,80",-
+,Igor,Central Midfield,"Nov 28, 2001 ",22,['Brazil'],Brazil,,,,-
+,Luann,Central Midfield,"Jun 11, 2001 ",22,['Brazil'],Brazil,Galiléia,DM,"1,80",-
+,David,Central Midfield,"Aug 18, 2001 ",22,['Brazil'],Brazil,,,,-
+,Thiago,Central Midfield,"Jun 30, 2001 ",22,['Brazil'],Brazil,,,"1,65",-
+6,Gabriel Luiz De Souza Alves,Central Midfield,"May 29, 2001 ",22,"['Belgium', 'Brazil']",Brazil,,,,-
+,Neko,Central Midfield,"Feb 20, 2001 ",23,['Brazil'],Brazil,Caxias do Sul,,"1,78",-
+10,Arthur Bessa,Central Midfield,"Feb 15, 2001 ",23,['Brazil'],Brazil,São Paulo,,"1,76",-
+,Igor Pereira,Central Midfield,"May 12, 2001 ",22,['Brazil'],Brazil,Gentio do Ouro,,"1,81",-
+,Mateus Lopes,Central Midfield,"Mar 12, 2001 ",23,['Brazil'],Brazil,,,,-
+,Índio,Central Midfield,"Oct 1, 2001 ",22,['Brazil'],Brazil,,,"1,78",-
+,Jeferson Douglas,Central Midfield,"Mar 19, 2001 ",22,['Brazil'],Brazil,Salvador,,,-
+11,Juninho,Central Midfield,"Jan 6, 2001 ",23,['Brazil'],Brazil,Paraguaçu,AM,"1,83",-
+,Jeferson Mendes,Central Midfield,"Dec 25, 2001 ",22,['Brazil'],Brazil,,,,-
+,Samuel Santos,Central Midfield,"Jan 18, 2001 ",23,['Brazil'],Brazil,Teresina,AM,"1,71",-
+,Marquinhos,Central Midfield,"Jan 4, 2001 ",23,['Brazil'],Brazil,Seberi,DM,"1,70",-
+,Amaral,Central Midfield,"Oct 30, 2001 ",22,['Brazil'],Brazil,,DM,,-
+,Gabriel Tota,Central Midfield,"Oct 29, 2001 ",22,['Brazil'],Brazil,Santa Fé do Sul,AM   DM,"1,86",-
+,Wendel,Central Midfield,"Apr 1, 2001 ",22,['Brazil'],Brazil,"Limeira, SP",,"1,78",-
+,Gabriel Motta,Central Midfield,"Sep 23, 2001 ",22,['Brazil'],Brazil,,,"1,71",-
+,Dudu Scheit,Central Midfield,"Feb 25, 2001 ",23,['Brazil'],Brazil,Espumosa,AM,"1,74",-
+,Arielton,Central Midfield,"May 28, 2001 ",22,['Brazil'],Brazil,,DM,"1,82",-
+,Renan Souza,Central Midfield,"May 7, 2001 ",22,"['Brazil', 'Portugal']",Brazil,Campinas,DM   RB,"1,75",-
+,Jhoninha,Central Midfield,"Dec 29, 2001 ",22,['Brazil'],Brazil,,AM,"1,68",-
+,Beto,Central Midfield,"Jun 20, 2001 ",22,['Brazil'],Brazil,Itapicuru,DM,"1,73",-
+,Ronald Bele,Central Midfield,"Mar 6, 2001 ",23,['Brazil'],Brazil,,DM,"1,80",-
+,Ewerthon,Central Midfield,"May 27, 2001 ",22,['Brazil'],Brazil,Rio de Janeiro,AM,,-
+,Willian,Central Midfield,"Jan 8, 2001 ",23,['Brazil'],Brazil,,,,-
+,Victor,Central Midfield,"Jun 5, 2001 ",22,['Brazil'],Brazil,,DM,,-
+,Geilson,Central Midfield,"Jun 15, 2001 ",22,['Brazil'],Brazil,Salvador,DM,"1,75",-
+,Kleyber,Central Midfield,"Oct 6, 2001 ",22,['Brazil'],Brazil,Iraceminha,AM,,-
+,Octávio Soares,Central Midfield,"Mar 7, 2001 ",23,['Brazil'],Brazil,Jaguarão,LM   LB,"1,70",-
+,Igor Maduro,Central Midfield,"Mar 3, 2001 ",23,['Brazil'],Brazil,Ouro Fino,AM,"1,82",-
+,Leonardo Montezello,Central Midfield,"Jan 21, 2001 ",23,"['Brazil', 'Italy']",Brazil,,,"1,76",-
+21,Praxedes,Central Midfield,"Feb 8, 2002 ",22,['Brazil'],Brazil,Itaboraí,AM   DM,"1,86",€6.00m
+,Ivonei,Central Midfield,"Apr 16, 2002 ",21,['Brazil'],Brazil,Rondonópolis,AM   DM,"1,75",€800k
+,Pierre,Central Midfield,"Mar 12, 2002 ",22,['Brazil'],Brazil,Rio de Janeiro,,"1,81",€300k
+18,Ageu,Central Midfield,"Feb 20, 2002 ",22,['Brazil'],Brazil,Belo Horizonte,LW   AM,"1,81",€200k
+75,Raí,Central Midfield,"Apr 21, 2002 ",21,['Brazil'],Brazil,Duque de Caxias,AM,"1,75",€100k
+,Juan Xavier,Central Midfield,"Feb 8, 2002 ",22,"['Brazil', 'Portugal']",Brazil,,AM,"1,73",€50k
+,Madison,Central Midfield,"May 27, 2002 ",21,['Brazil'],Brazil,,,"1,78",€50k
+16,Alejandro Viniegra,Central Midfield,"Feb 13, 2002 ",22,"['Mexico', 'Brazil']",Brazil,Ribeirão Preto,AM   SS,"1,71",€50k
+,Giovanni,Central Midfield,"Apr 10, 2002 ",21,['Brazil'],Brazil,,DM,"1,77",-
+,Pedrinho,Central Midfield,"May 14, 2002 ",21,['Brazil'],Brazil,,RB,"1,77",-
+,David José,Central Midfield,"May 14, 2002 ",21,['Brazil'],Brazil,,,,-
+21,Jorginho,Central Midfield,"Feb 21, 2002 ",22,['Brazil'],Brazil,,,"1,82",-
+,Allef,Central Midfield,"Aug 20, 2002 ",21,['Brazil'],Brazil,,,,-
+37,Talles Costa,Central Midfield,"Aug 2, 2002 ",21,['Brazil'],Brazil,São Paulo,AM   DM,"1,76",€2.00m
+,Ricardo Cerqueira,Central Midfield,"Dec 29, 2002 ",21,['Brazil'],Brazil,Feira de Santana,CB   DM,"1,84",€350k
+17,Pedro Vilhena,Central Midfield,"Feb 18, 2002 ",22,['Brazil'],Brazil,São Paulo,DM   AM,"1,75",€250k
+36,Mateus Henrique,Central Midfield,"Oct 2, 2002 ",21,['Brazil'],Brazil,Salinas,DM   AM,"1,78",€150k
+,Rodrigo Souza,Central Midfield,"May 31, 2002 ",21,['Brazil'],Brazil,Marabá,AM,"1,71",€50k
+7,Wendell,Central Midfield,"Dec 14, 2002 ",21,['Brazil'],Brazil,Frei Inocêncio,DM,"1,82",€50k
+,Riquelmo,Central Midfield,"Mar 19, 2002 ",21,['Brazil'],Brazil,Piumhi,AM,"1,70",€50k
+,Victor Leonardo Elias da Silva,Central Midfield,"May 22, 2002 ",21,['Brazil'],Brazil,Natal,,,€10k
+,Peppe,Central Midfield,"Aug 22, 2002 ",21,['Brazil'],Brazil,,,,-
+,Rodrigo,Central Midfield,"Dec 30, 2002 ",21,['Brazil'],Brazil,,,"1,74",-
+,Constancio,Central Midfield,"Aug 27, 2002 ",21,['Brazil'],Brazil,Estreito,,,-
+22,Welysson Wendell,Central Midfield,"Feb 9, 2002 ",22,['Brazil'],Brazil,Rio de Janeiro,LM,"1,82",-
+,Caio Cavaletti,Central Midfield,"Aug 11, 2002 ",21,['Brazil'],Brazil,,AM,"1,75",-
+,Kayo,Central Midfield,"Jun 4, 2002 ",21,['Brazil'],Brazil,Boa Vista,AM,"1,80",-
+,Jadson,Central Midfield,"Feb 10, 2002 ",22,['Brazil'],Brazil,Governador Valadares,,"1,65",-
+,Alencar,Central Midfield,"Aug 7, 2002 ",21,['Brazil'],Brazil,Itabuna,AM   DM,"1,78",-
+,Pagé,Central Midfield,"Jun 3, 2002 ",21,['Brazil'],Brazil,,,,-
+,Rafael Dias,Central Midfield,"Mar 13, 2002 ",22,['Brazil'],Brazil,,,,-
+,Victor Jácome,Central Midfield,"May 7, 2002 ",21,['Brazil'],Brazil,,LM   AM,"1,72",-
+,Juan Cássio,Central Midfield,"Jul 24, 2002 ",21,['Brazil'],Brazil,,DM,,-
+,Nathan Dutra,Central Midfield,"Feb 18, 2002 ",22,['Brazil'],Brazil,Capivari do Sul,,"1,76",-
+,Isaque,Central Midfield,"Mar 11, 2002 ",22,['Brazil'],Brazil,,,,-
+,Luiz Eduardo,Central Midfield,"Mar 15, 2002 ",22,"['Brazil', 'Italy']",Brazil,,,,-
+,Ramon Cirino,Central Midfield,"Mar 25, 2002 ",21,['Brazil'],Brazil,Pindamonhangaba,DM   AM,"1,69",-
+,André Costa,Central Midfield,"Feb 9, 2002 ",22,"['United States', 'Brazil']",Brazil,São Paulo,DM   RM,"1,80",-
+,Lucas Quinha,Central Midfield,"Dec 28, 2002 ",21,['Brazil'],Brazil,Mucajaí,,,-
+,Brendo,Central Midfield,"Jan 25, 2002 ",22,['Brazil'],Brazil,,,,-
+,Luquinha,Central Midfield,"Dec 3, 2002 ",21,['Brazil'],Brazil,Governador Valadares,,"1,78",-
+,Igor Elias,Central Midfield,"Feb 10, 2002 ",22,['Brazil'],Brazil,,,,-
+,Matheus Campos,Central Midfield,"Jan 31, 2002 ",22,['Brazil'],Brazil,Volta Redonda,,"1,73",-
+,Kaio Daniel,Central Midfield,"Mar 10, 2002 ",22,['Brazil'],Brazil,,AM,"1,75",-
+,Athyrson,Central Midfield,"Dec 21, 2002 ",21,['Brazil'],Brazil,,DM,"1,73",-
+,Gustavo Lila,Central Midfield,"Jan 3, 2002 ",22,['Brazil'],Brazil,,,,-
+,João Victor,Central Midfield,"Jan 11, 2002 ",22,['Brazil'],Brazil,Suzano,AM,"1,82",-
+,Rikelton,Central Midfield,"May 13, 2002 ",21,['Brazil'],Brazil,,,,-
+,Mateus Alves,Central Midfield,"Aug 27, 2002 ",21,['Brazil'],Brazil,Indaiatuba,AM,,-
+11,Vitinho,Central Midfield,"Jun 25, 2002 ",21,['Brazil'],Brazil,Brasília,AM   DM,"1,68",-
+16,Hiago,Central Midfield,"Jan 28, 2002 ",22,['Brazil'],Brazil,Iporã,DM,,-
+30,Marlon Gomes,Central Midfield,"Dec 14, 2003 ",20,['Brazil'],Brazil,Rio de Janeiro,AM   DM,"1,84",€6.00m
+,Ian Luccas,Central Midfield,"Feb 11, 2003 ",21,['Brazil'],Brazil,Ribeirão Preto,DM   AM,"1,88",€500k
+47,Fábio Matheus,Central Midfield,"Apr 13, 2003 ",20,['Brazil'],Brazil,,DM   AM,"1,82",€450k
+6,Thalyson,Central Midfield,"Jan 21, 2003 ",21,['Brazil'],Brazil,Conceição do Araguaia,DM   CB,,€150k
+45,Kevin Malthus,Central Midfield,"Jan 11, 2003 ",21,['Brazil'],Brazil,Belém,AM   DM,"1,77",€100k
+55,Lucas André,Central Midfield,"Jan 29, 2003 ",21,['Brazil'],Brazil,Recife,DM   AM,"1,78",€50k
+18,Alexandre,Central Midfield,"Jan 17, 2003 ",21,['Brazil'],Brazil,,,"1,69",€25k
+,Fred,Central Midfield,"Jan 14, 2003 ",21,['Brazil'],Brazil,,DM   RB,"1,82",-
+5,Hugo Velloso,Central Midfield,"Dec 21, 2003 ",20,['Brazil'],Brazil,Rio de Janeiro,,"1,78",-
+,Loram,Central Midfield,"Jun 17, 2003 ",20,['Brazil'],Brazil,,,"1,80",-
+,João Vittor,Central Midfield,"Oct 15, 2003 ",20,['Brazil'],Brazil,,,"1,76",-
+,Kauã Henrique,Central Midfield,"Nov 4, 2003 ",20,['Brazil'],Brazil,,,,-
+,Victor Anjos,Central Midfield,"Sep 25, 2003 ",20,['Brazil'],Brazil,São Paulo,,"1,80",-
+75,Rodriguinho,Central Midfield,"Jun 5, 2003 ",20,['Brazil'],Brazil,Contagem,AM   DM,"1,70",€500k
+13,Caio Eduardo,Central Midfield,"Apr 9, 2003 ",20,['Brazil'],Brazil,Rio de Janeiro,,"1,76",€500k
+19,Felipe Amaral,Central Midfield,"Jul 8, 2003 ",20,['Brazil'],Brazil,Campinas,DM   AM,"1,74",€250k
+,João Neto,Central Midfield,"May 21, 2003 ",20,['Brazil'],Brazil,São Paulo,AM   LW,"1,86",€125k
+,Wellington Alves,Central Midfield,"Jan 13, 2003 ",21,['Brazil'],Brazil,Curitiba,RB   DM,"1,81",€50k
+73,Tallison,Central Midfield,"Apr 4, 2003 ",20,['Brazil'],Brazil,Macau,AM,,€50k
+,Caio Bertolla,Central Midfield,"Feb 14, 2003 ",21,['Brazil'],Brazil,Guarapuava,DM   RB,"1,70",-
+,Eric Ken-Iti Tsutida Vanzela,Central Midfield,"Mar 18, 2003 ",20,['Brazil'],Brazil,Sao Jose Do Rio Preto,,,-
+6,Rafael dos Santos,Central Midfield,"Jan 3, 2003 ",21,['Brazil'],Brazil,,,,-
+,Erik Gomes,Central Midfield,"Mar 3, 2003 ",21,['Brazil'],Brazil,,,,-
+,Bal,Central Midfield,"Dec 6, 2003 ",20,['Brazil'],Brazil,Banabuiú,,"1,72",-
+,Vicente,Central Midfield,"Jul 11, 2003 ",20,"['Brazil', 'Italy']",Brazil,,,"1,85",-
+,Iago,Central Midfield,"Feb 14, 2003 ",21,['Brazil'],Brazil,Mococa,DM,"1,74",-
+,Dhiordan,Central Midfield,"Jan 8, 2003 ",21,['Brazil'],Brazil,,,,-
+,Giovani Alvisi,Central Midfield,"Jan 24, 2003 ",21,['Brazil'],Brazil,,RB,"1,84",-
+,Diego,Central Midfield,"Feb 10, 2003 ",21,['Brazil'],Brazil,,DM,,-
+,Diogo,Central Midfield,"Jul 21, 2003 ",20,['Brazil'],Brazil,,AM,,-
+8,Yago Santos,Central Midfield,"Apr 3, 2003 ",20,['Brazil'],Brazil,Santos,DM   AM,"1,82",-
+,Gabriel Canal,Central Midfield,"Jan 31, 2003 ",21,['Brazil'],Brazil,,DM,"1,78",-
+,Enzo Zaidan,Central Midfield,"Mar 27, 2003 ",20,"['Brazil', 'Portugal']",Brazil,Rio de Janeiro,RB   RM,"1,75",-
+,Samuel,Central Midfield,"Jun 3, 2003 ",20,['Brazil'],Brazil,,,,-
+,Diogo Crispim,Central Midfield,"Feb 13, 2003 ",21,['Brazil'],Brazil,Balsas,DM   RB,"1,76",-
+20,Murilo,Central Midfield,"Jun 17, 2003 ",20,"['Portugal', 'Brazil']",Brazil,São Paulo,RB,"1,69",-
+,Gabriel,Central Midfield,"Feb 7, 2003 ",21,['Brazil'],Brazil,,,,-
+,Alex,Central Midfield,"Apr 13, 2003 ",20,['Brazil'],Brazil,,,,-
+,Gabriel Alves,Central Midfield,"Feb 28, 2003 ",21,['Brazil'],Brazil,,,"1,77",-
+,Fernando Mineiro,Central Midfield,"May 18, 2003 ",20,['Brazil'],Brazil,,,,-
+,Caio Dantas,Central Midfield,"Mar 14, 2003 ",21,['Brazil'],Brazil,Mesquita,AM,,-
+,Pedro Lima,Central Midfield,"Mar 27, 2003 ",20,['Brazil'],Brazil,Brasília,DM   AM,"1,84",-
+8,Andrey Santos,Central Midfield,"May 3, 2004 ",19,['Brazil'],Brazil,Rio de Janeiro,DM,"1,80",€14.00m
+18,Rodriguinho,Central Midfield,"Mar 16, 2004 ",19,['Brazil'],Brazil,Mineiros,AM,"1,85",€3.00m
+77,Japa,Central Midfield,"Jan 2, 2004 ",20,['Brazil'],Brazil,,AM   LB,"1,86",€200k
+,Clayton Valentini Junior,Central Midfield,"Feb 9, 2004 ",20,"['Brazil', 'Italy']",Brazil,,,"1,86",€25k
+,Pato,Central Midfield,"Mar 23, 2004 ",19,['Brazil'],Brazil,São José dos Campos,DM,"1,84",-
+,Rikelme,Central Midfield,"Nov 13, 2004 ",19,['Brazil'],Brazil,,,,-
+,Marquinhos,Central Midfield,"May 10, 2004 ",19,['Brazil'],Brazil,,,"1,74",-
+,João Santarem,Central Midfield,"Mar 4, 2004 ",20,['Brazil'],Brazil,,,"1,78",-
+,Vitor Tardelli,Central Midfield,"Aug 3, 2004 ",19,['Brazil'],Brazil,,AM,,-
+,Lipe,Central Midfield,"Mar 20, 2004 ",19,['Brazil'],Brazil,Dourados,AM,"1,80",-
+,Emmanuel,Central Midfield,"Jan 7, 2004 ",20,['Brazil'],Brazil,São Paulo,DM,"1,74",-
+,Mizael,Central Midfield,"May 31, 2004 ",19,['Brazil'],Brazil,Salvador,,"1,77",-
+,Vitor Musqueira,Central Midfield,"Mar 10, 2004 ",20,"['Brazil', 'Portugal']",Brazil,São Paulo,AM,"1,86",-
+29,Victor Hugo,Central Midfield,"May 11, 2004 ",19,['Brazil'],Brazil,Rio de Janeiro,AM   DM,"1,82",€5.00m
+22,Gustavinho,Central Midfield,"Apr 23, 2004 ",19,['Brazil'],Brazil,Goiânia,AM,"1,76",€2.00m
+21,Jonathan Silva,Central Midfield,"Apr 24, 2004 ",19,['Brazil'],Brazil,Taboão da Serra,RW   RM,,€50k
+16,Chester Richard,Central Midfield,"Aug 12, 2004 ",19,['Brazil'],Brazil,,,"1,76",-
+,Fernando,Central Midfield,"May 6, 2004 ",19,['Brazil'],Brazil,,,"1,73",-
+,Samuel,Central Midfield,"Jan 16, 2004 ",20,['Brazil'],Brazil,,,,-
+,Tavinho,Central Midfield,"Jul 19, 2004 ",19,['Brazil'],Brazil,Dourado,,"1,70",-
+,Kauê,Central Midfield,"Oct 24, 2004 ",19,['Brazil'],Brazil,Osasco,,,-
+,Luiz Felipe,Central Midfield,"Aug 7, 2004 ",19,['Brazil'],Brazil,,AM   DM,"1,78",-
+,Gregory,Central Midfield,"Jul 2, 2004 ",19,['Brazil'],Brazil,,,,-
+,Jota,Central Midfield,"Feb 6, 2004 ",20,['Brazil'],Brazil,Salvador,,"1,80",-
+26,Rodriguinho,Central Midfield,"Apr 21, 2004 ",19,['Brazil'],Brazil,,,,-
+16,Riki de Moraes,Central Midfield,"Feb 19, 2004 ",20,['Brazil'],Brazil,Rio de Janeiro,,,-
+,Breno Felipe,Central Midfield,"Jan 9, 2004 ",20,['Brazil'],Brazil,,,,-
+,Manoel,Central Midfield,"Apr 27, 2004 ",19,['Brazil'],Brazil,,,,-
+,Caio Ribas,Central Midfield,"Jan 11, 2004 ",20,['Brazil'],Brazil,,,,-
+,Biro,Central Midfield,"Mar 13, 2004 ",20,['Brazil'],Brazil,,,"1,81",-
+,Kauan,Central Midfield,"Aug 29, 2004 ",19,['Brazil'],Brazil,Abaeté,,"1,83",-
+,Anderson Palácio,Central Midfield,"Jan 21, 2004 ",20,['Brazil'],Brazil,,,,-
+,Kauan,Central Midfield,"May 11, 2004 ",19,['Brazil'],Brazil,,,,-
+6,João Assunção,Central Midfield,"May 27, 2004 ",19,"['Portugal', 'Brazil']",Brazil,São Paulo (SP),DM   RB,"1,81",-
+37,Kauan Rodrigues,Central Midfield,"Apr 16, 2005 ",18,['Brazil'],Brazil,Caxias,DM   AM,"1,74",€100k
+,Mateus,Central Midfield,"Jan 11, 2005 ",19,['Brazil'],Brazil,,,,-
+,João Trevisol,Central Midfield,"Apr 19, 2005 ",18,['Brazil'],Brazil,Garibaldi,,"1,85",-
+,Gustavo Prado,Central Midfield,"Jun 6, 2005 ",18,['Brazil'],Brazil,Rio de Janeiro,RM,"1,79",-
+,Rafael Silva,Central Midfield,"Aug 22, 2005 ",18,['Brazil'],Brazil,,,,-
+,JP,Central Midfield,"Apr 19, 2005 ",18,['Brazil'],Brazil,Goiânia,,"1,76",-
+,Amilton,Central Midfield,"Feb 2, 2005 ",19,['Brazil'],Brazil,,,"1,75",-
+,Diego Hubner,Central Midfield,"Dec 30, 2005 ",18,['Brazil'],Brazil,,,"1,76",-
+,Davi Gama,Central Midfield,"Mar 31, 2005 ",18,['Brazil'],Brazil,,,,-
+,Caíke,Central Midfield,"Jan 10, 2005 ",19,['Brazil'],Brazil,Americana,,,-
+,David Kauã,Central Midfield,"Mar 12, 2005 ",19,['Brazil'],Brazil,Bandeirantes,LW   AM,"1,82",-
+,Douglas Rafael,Central Midfield,"May 23, 2005 ",18,['Brazil'],Brazil,,DM,,-
+,Murilo,Central Midfield,"Feb 10, 2005 ",19,['Brazil'],Brazil,,AM,,-
