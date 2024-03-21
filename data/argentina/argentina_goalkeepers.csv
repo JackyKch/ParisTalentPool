@@ -1,0 +1,658 @@
+Number,Name,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Height,Market Value
+1,Cristian Álvarez,Goalkeeper,"Nov 13, 1985 ",38,"['Argentina', 'Spain']",Brazil,Rosario,"1,86",€100k
+,Nereo Champagne,Goalkeeper,"Jan 20, 1985 ",39,"['Argentina', 'Italy']",Brazil,Salto,"1,88",€10k
+1,Rodrigo Pombo,Goalkeeper,"Jun 16, 1985 ",38,['Argentina'],Brazil,Córdoba,,-
+,Gastón Folgar,Goalkeeper,"Mar 7, 1985 ",39,['Argentina'],Brazil,Buenos Aires,,-
+,Ángel Pedroso,Goalkeeper,"Jun 18, 1985 ",38,['Argentina'],Brazil,Formosa,,-
+,Matías Coloca,Goalkeeper,"Sep 11, 1985 ",38,"['Argentina', 'El Salvador']",Brazil,Pehuajó,"1,80",-
+,Adrián Villa,Goalkeeper,"May 8, 1985 ",38,['Argentina'],Brazil,Junín,,-
+,Sebastián Portigliatti,Goalkeeper,"Mar 1, 1985 ",39,"['Argentina', 'Italy']",Brazil,San Francisco (Córdoba),"1,84",-
+,Norberto Scoponi,Goalkeeper,"Dec 13, 1985 ",38,['Argentina'],Brazil,Santa Fé,"1,87",-
+,Adrián Gabbarini,Goalkeeper,"Oct 10, 1985 ",38,"['Argentina', 'Ecuador']",Brazil,Guaymallén,"1,82",-
+,Diego Pavé,Goalkeeper,"Apr 29, 1985 ",38,['Argentina'],Brazil,Concaran,"1,82",-
+22,Nicolás Peranic,Goalkeeper,"Jun 2, 1985 ",38,"['Argentina', 'Chile']",Brazil,Ituzaingó,"1,84",€75k
+,Alejandro Granero,Goalkeeper,"Sep 3, 1985 ",38,['Argentina'],Brazil,,,-
+,Rodrigo Benítez,Goalkeeper,"Dec 16, 1985 ",38,['Argentina'],Brazil,Ensenada,"1,82",-
+,Ricardo Grieger,Goalkeeper,"Jun 2, 1985 ",38,['Argentina'],Brazil,San Fernando (BUE),,-
+,Osvaldo Cabral,Goalkeeper,"Jun 4, 1985 ",38,"['Argentina', 'Paraguay']",Brazil,Clorinda,"1,87",-
+,Denis Roberts,Goalkeeper,"Jan 22, 1985 ",39,['Argentina'],Brazil,Trelew,,-
+,Rodrigo Cervetti,Goalkeeper,"Apr 22, 1985 ",38,"['Argentina', 'Italy']",Brazil,Córdoba,,-
+,Matías Alasia,Goalkeeper,"May 7, 1985 ",38,"['Argentina', 'Italy']",Brazil,Corral de Bustos,"1,80",-
+,Sebastián López,Goalkeeper,"Sep 14, 1985 ",38,['Argentina'],Brazil,San Nicolás,"1,87",-
+,Pablo Bangardino,Goalkeeper,"Jan 9, 1985 ",39,['Argentina'],Brazil,Berisso,"1,86",-
+,Nicolás Navarro,Goalkeeper,"Mar 25, 1985 ",38,['Argentina'],Brazil,Buenos Aires,"1,90",-
+1,Fernando Muslera,Goalkeeper,"Jun 16, 1986 ",37,"['Uruguay', 'Italy']",Brazil,Buenos Aires,"1,90",€1.50m
+1,Nahuel Guzmán,Goalkeeper,"Feb 10, 1986 ",38,['Argentina'],Brazil,Rosario,"1,91",€800k
+23,Alejandro Medina,Goalkeeper,"Dec 17, 1986 ",37,['Argentina'],Brazil,Capital Federal,"1,82",€175k
+12,Matías Ibáñez,Goalkeeper,"Dec 16, 1986 ",37,['Argentina'],Brazil,Buenos Aires,"1,90",€50k
+,Fernando Otárola,Goalkeeper,"Feb 4, 1986 ",38,"['Argentina', 'Chile']",Brazil,Buenos Aires,"1,77",€25k
+,Matías Vega,Goalkeeper,"Apr 18, 1986 ",37,['Argentina'],Brazil,Rosario,"1,91",€25k
+,Matías Lescano,Goalkeeper,"Oct 12, 1986 ",37,['Argentina'],Brazil,Buenos Aires,"1,83",-
+,Gonzalo Gómez,Goalkeeper,"Mar 25, 1986 ",37,['Argentina'],Brazil,Ledesma,"1,80",-
+,Alex Koch,Goalkeeper,"May 13, 1986 ",37,"['Liechtenstein', 'Argentina']",Brazil,Neuquén,"1,77",-
+,Juan Andrés Imola,Goalkeeper,"Jun 9, 1986 ",37,['Argentina'],Brazil,Inriville,"1,84",-
+,Fernando Pellegrino,Goalkeeper,"Mar 31, 1986 ",37,"['Argentina', 'Italy']",Brazil,Buenos Aires,"1,98",-
+,Valentin Brasca,Goalkeeper,"Aug 27, 1986 ",37,"['Argentina', 'Italy']",Brazil,Cordoba,"1,80",-
+,Emiliano Olivero,Goalkeeper,"Mar 27, 1986 ",37,['Argentina'],Brazil,Junín (Buenos Aires),"1,93",-
+1,Franco Armani,Goalkeeper,"Oct 16, 1986 ",37,['Argentina'],Brazil,Casilda,"1,89",€1.20m
+23,Óscar Ustari,Goalkeeper,"Jul 3, 1986 ",37,"['Argentina', 'Italy']",Brazil,América,"1,83",€600k
+1,Jorge Broun,Goalkeeper,"May 26, 1986 ",37,['Argentina'],Brazil,Rosario,"1,90",€150k
+74,Marcos Díaz,Goalkeeper,"Feb 5, 1986 ",38,"['Argentina', 'Italy']",Brazil,Santa Fe,"1,87",€50k
+,Alejandro Sánchez,Goalkeeper,"Oct 25, 1986 ",37,['Argentina'],Brazil,Buenos Aires,"1,88",€25k
+,Juan Mendonça,Goalkeeper,"Apr 5, 1986 ",37,['Argentina'],Brazil,Mar del Plata,"1,86",€10k
+,Álvaro Ramírez,Goalkeeper,"May 28, 1986 ",37,['Argentina'],Brazil,Rosario (SFE),"1,81",-
+,Matías Cano,Goalkeeper,"Apr 20, 1986 ",37,['Argentina'],Brazil,Adrogué,"1,80",-
+23,Mauro Beltramella,Goalkeeper,"Apr 20, 1986 ",37,"['Argentina', 'Italy']",Brazil,Olavarría,"1,89",-
+,Lucas Abud,Goalkeeper,"Mar 8, 1986 ",38,['Argentina'],Brazil,Buenos Aires,"1,80",-
+,Lucas Di Grazia,Goalkeeper,"Mar 5, 1986 ",38,['Argentina'],Brazil,Buenos Aires,"1,86",-
+,Guillermo Stucky,Goalkeeper,"Dec 15, 1986 ",37,['Argentina'],Brazil,Sunchales,"1,86",-
+,Sebastián Cuerdo,Goalkeeper,"Jul 16, 1986 ",37,"['Argentina', 'Italy']",Brazil,Santiago del Estero,"1,88",-
+,Mauricio Jose Bastiera,Goalkeeper,"May 29, 1986 ",37,['Argentina'],Brazil,Buenos Aires,"1,86",-
+,Elías Gómez,Goalkeeper,"Sep 13, 1986 ",37,['Argentina'],Brazil,Buenos Aires,,-
+,Fernando Escobar,Goalkeeper,"Feb 21, 1986 ",38,['Argentina'],Brazil,Buenos Aires,"1,83",-
+,Matías Botto,Goalkeeper,"Jun 4, 1986 ",37,['Argentina'],Brazil,Santa Rosa,"1,81",-
+,Fabián Assmann,Goalkeeper,"Mar 23, 1986 ",37,['Argentina'],Brazil,Zárate,"1,89",-
+,Fabián Moyano,Goalkeeper,"Jan 2, 1986 ",38,['Argentina'],Brazil,Mendoza,"1,89",-
+21,Gabriel Arias,Goalkeeper,"Sep 13, 1987 ",36,"['Chile', 'Argentina']",Brazil,Neuquén,"1,89",€1.00m
+1,Sergio Romero,Goalkeeper,"Feb 22, 1987 ",37,"['Argentina', 'Italy']",Brazil,Bernardo de Irigoyen,"1,92",€400k
+1,César Rigamonti,Goalkeeper,"Apr 7, 1987 ",36,['Argentina'],Brazil,San Agustín,"1,86",€125k
+30,Emilio Rébora,Goalkeeper,"Aug 17, 1987 ",36,['Argentina'],Brazil,Gualeguaychu,"1,82",€75k
+,Julio Salvá,Goalkeeper,"May 18, 1987 ",36,['Argentina'],Brazil,Tres Lomas,"1,88",€50k
+,Danilo Lerda,Goalkeeper,"Mar 30, 1987 ",36,"['Argentina', 'Uruguay']",Brazil,Arias,"1,90",€25k
+,Lucas Rodríguez,Goalkeeper,"Jun 1, 1987 ",36,['Argentina'],Brazil,Salta,"1,87",-
+,Julian Lovera,Goalkeeper,"Mar 9, 1987 ",37,['Argentina'],Brazil,Santa Fe de Cordoba,,-
+1,Maximiliano Cossa,Goalkeeper,"Sep 28, 1987 ",36,"['Argentina', 'Italy']",Brazil,Rafaela,,-
+,Mauro Ruggiero,Goalkeeper,"May 16, 1987 ",36,['Argentina'],Brazil,Río Cuarto,,-
+,Adrián Arias,Goalkeeper,"Jan 21, 1987","Jan 21, 1987",['Argentina'],Brazil,Resistencia,"1,80",-
+,Iván Noy,Goalkeeper,"Jun 18, 1987 ",36,['Argentina'],Brazil,Morón,,-
+,Matías Piñal,Goalkeeper,"Jan 30, 1987 ",37,['Argentina'],Brazil,Río Cuarto,"1,82",-
+13,Matías Dituro,Goalkeeper,"May 8, 1987 ",36,"['Argentina', 'Chile']",Brazil,Bigand,"1,91",€550k
+1,Hernán Galíndez,Goalkeeper,"Mar 30, 1987 ",36,"['Ecuador', 'Argentina']",Brazil,Rosario,"1,89",€350k
+19,Jonathan Rougier,Goalkeeper,"Oct 29, 1987 ",36,"['Honduras', 'Argentina']",Brazil,Villa Elisa,"1,91",€100k
+22,Leandro Requena,Goalkeeper,"Sep 11, 1987 ",36,['Argentina'],Brazil,Malagueño,"1,86",€75k
+13,Javier García,Goalkeeper,"Jan 29, 1987 ",37,['Argentina'],Brazil,Buenos Aires,"1,80",€50k
+,Federico Cosentino,Goalkeeper,"Sep 1, 1987 ",36,"['Argentina', 'Italy']",Brazil,Rosario,"1,86",€10k
+,Pablo Morata,Goalkeeper,"Jun 2, 1987 ",36,['Argentina'],Brazil,Mar del Plata (BUE),"1,86",-
+,Alejandro Calabria,Goalkeeper,"Aug 11, 1987 ",36,['Argentina'],Brazil,Jáuregui,,-
+,Ezequiel Viola,Goalkeeper,"Sep 1, 1987 ",36,"['Argentina', 'Italy']",Brazil,Bahía Blanca,"1,80",-
+,Martin Herman,Goalkeeper,"Oct 9, 1987 ",36,['Argentina'],Brazil,Buenos Aires,"1,92",-
+,Martín Perafán,Goalkeeper,"Jan 31, 1987 ",37,['Argentina'],Brazil,La Plata,"1,93",-
+,Carlos Morel,Goalkeeper,"Feb 2, 1987 ",37,['Argentina'],Brazil,Barranqueras,"1,85",-
+,José Alcaín,Goalkeeper,"Jul 20, 1987 ",36,['Argentina'],Brazil,General Pico,"1,86",-
+,Flavio Biglia,Goalkeeper,"Feb 16, 1987 ",37,['Argentina'],Brazil,Morteros (Córdoba),"1,83",-
+,Pedro Fernández,Goalkeeper,"Apr 5, 1987 ",36,['Argentina'],Brazil,Villa Adelina,"1,90",-
+,Gastón Monzón,Goalkeeper,"May 13, 1987 ",36,['Argentina'],Brazil,Buenos Aires,"1,84",-
+,Guillermo Sara,Goalkeeper,"Sep 30, 1987 ",36,"['Argentina', 'Italy']",Brazil,Rafaela,"1,84",-
+,Agustín Vistarop,Goalkeeper,"Oct 24, 1987 ",36,['Argentina'],Brazil,Santa Rosa,"1,84",-
+,Cristian Aracena,Goalkeeper,"Feb 8, 1987 ",37,['Argentina'],Brazil,Mendoza,"1,78",-
+1,Agustín Marchesín,Goalkeeper,"Mar 16, 1988 ",36,"['Argentina', 'Italy']",Brazil,San Cayetano,"1,88",€1.00m
+,Darío Sand,Goalkeeper,"Feb 4, 1988 ",36,['Argentina'],Brazil,Bella Vista,"1,80",€100k
+,Matías Quinteros,Goalkeeper,"Oct 3, 1988 ",35,['Argentina'],Brazil,Necochea,"1,92",€75k
+22,Luis Ferreiro,Goalkeeper,"Oct 28, 1988 ",35,['Argentina'],Brazil,Ituzaingó,,€10k
+,Germán Salort,Goalkeeper,"Oct 14, 1988 ",35,['Argentina'],Brazil,Córdoba,"1,82",€10k
+,Julio Arias,Goalkeeper,"Nov 1, 1988 ",35,['Argentina'],Brazil,Bahía Blanca,"1,88",-
+,Damián González,Goalkeeper,"Aug 10, 1988 ",35,['Argentina'],Brazil,Resistencia,"1,88",-
+,Diego Maidana,Goalkeeper,"Apr 29, 1988 ",35,['Argentina'],Brazil,,,-
+,Federico Costa,Goalkeeper,"Oct 8, 1988 ",35,['Argentina'],Brazil,Río Cuarto,"1,88",-
+,Leandro De Bortoli,Goalkeeper,"Aug 3, 1988 ",35,['Argentina'],Brazil,,"1,84",-
+,Juan Pablo Ferreyra,Goalkeeper,"Feb 29, 1988 ",36,['Argentina'],Brazil,Lomas de Zamora,"1,82",-
+,Luciano Molini,Goalkeeper,"Aug 18, 1988 ",35,"['Argentina', 'Italy']",Brazil,Neuquén,"1,86",-
+,Marcos Forgiarini,Goalkeeper,"Mar 1, 1988 ",36,['Argentina'],Brazil,Buenos Aires,,-
+,Francisco Rago,Goalkeeper,"Oct 31, 1988 ",35,['Argentina'],Brazil,Mar del Plata,"1,85",€100k
+16,Manuel García,Goalkeeper,"Jul 8, 1988 ",35,['Argentina'],Brazil,Rosario,"1,88",€100k
+1,Christian Fraiz,Goalkeeper,"Feb 22, 1988 ",36,"['Argentina', 'Spain']",Brazil,Buenos Aires,"1,79",€25k
+,Gastón Canuto,Goalkeeper,"Jul 28, 1988 ",35,['Argentina'],Brazil,Rosario,"1,78",€10k
+,Emiliano Molina,Goalkeeper,"Jan 5, 1988","Jan 5, 1988",['Argentina'],Brazil,Buenos Aires,,-
+,Mauricio Pegini,Goalkeeper,"Sep 3, 1988 ",35,['Argentina'],Brazil,Salta (SAL),"1,78",-
+,Federico Taborda,Goalkeeper,"Nov 1, 1988 ",35,"['Argentina', 'Italy']",Brazil,Pergamino,"1,84",-
+,Sebastián Gambetta,Goalkeeper,"Mar 25, 1988 ",35,['Argentina'],Brazil,Buenos Aires,"1,80",-
+,Lucas Serrano,Goalkeeper,"Nov 7, 1988 ",35,['Argentina'],Brazil,Ingeniero Maschwitz (BUE),,-
+,Gonzalo Mottura,Goalkeeper,"Jan 5, 1988 ",36,['Argentina'],Brazil,,,-
+,Emanuel Vargas,Goalkeeper,"Feb 13, 1988 ",36,"['Chile', 'Argentina']",Brazil,Buenos Aires,"1,85",-
+,Andrés Bailo,Goalkeeper,"Sep 6, 1988 ",35,['Argentina'],Brazil,Santa Fé,"1,90",-
+,Ezequiel Bergese,Goalkeeper,"Jun 27, 1988 ",35,['Argentina'],Brazil,Sunchales,,-
+,Bruno Centeno,Goalkeeper,"Aug 8, 1988 ",35,['Argentina'],Brazil,Pinamar,"1,81",-
+,Josué Ayala,Goalkeeper,"May 30, 1988 ",35,['Argentina'],Brazil,Buenos Aires,"1,84",-
+25,Milton Álvarez,Goalkeeper,"Jan 26, 1989 ",35,['Argentina'],Brazil,Munro,"1,85",€350k
+50,Diego Rodríguez,Goalkeeper,"Jun 25, 1989 ",34,"['Argentina', 'Spain']",Brazil,Buenos Aires,"1,84",€300k
+1,Mariano Monllor,Goalkeeper,"Feb 28, 1989 ",35,['Argentina'],Brazil,Buenos Aires,"1,85",€100k
+23,Emanuel Bilbao,Goalkeeper,"Nov 3, 1989 ",34,['Argentina'],Brazil,Pringles,"1,93",€50k
+,Adrián Peralta,Goalkeeper,"May 18, 1989 ",34,"['Argentina', 'Italy']",Brazil,Córdoba,"1,81",€10k
+,Darío Alemán,Goalkeeper,"Jan 6, 1989 ",35,['Argentina'],Brazil,,,-
+,Damián Cebreiro,Goalkeeper,"Apr 20, 1989 ",34,['Argentina'],Brazil,Tandil,"1,90",-
+,Emmanuel Becerra,Goalkeeper,"Jan 3, 1989 ",35,['Argentina'],Brazil,Justo Daract,"1,85",-
+,Jonathan Ivanoff,Goalkeeper,"May 14, 1989 ",34,['Argentina'],Brazil,Charata,"1,92",-
+,Gastón Giaccaglia,Goalkeeper,"Nov 30, 1989 ",34,['Argentina'],Brazil,Buenos Aires,,-
+,Agustín Silva,Goalkeeper,"Jun 28, 1989 ",34,['Argentina'],Brazil,Bragado,"1,91",-
+,Diego Pérez,Goalkeeper,"Nov 22, 1989 ",34,['Argentina'],Brazil,San Juan,,-
+,Maximiliano Scapparoni,Goalkeeper,"Jan 13, 1989 ",35,"['Argentina', 'Italy']",Brazil,Caseros,"1,86",-
+1,Lucas Hoyos,Goalkeeper,"Apr 29, 1989 ",34,['Argentina'],Brazil,Guaymallén,"1,83",€350k
+32,Gonzalo Marinelli,Goalkeeper,"Feb 7, 1989 ",35,"['Argentina', 'Italy']",Brazil,José Clemente Paz,"1,79",€275k
+22,Fernando Monetti,Goalkeeper,"Feb 21, 1989 ",35,"['Argentina', 'Italy']",Brazil,La Plata,"1,84",€100k
+,Joaquín Ledesma,Goalkeeper,"Jun 7, 1989 ",34,['Argentina'],Brazil,Santiago del Estero,"1,87",€10k
+,Walter Santillán,Goalkeeper,"Feb 12, 1989 ",35,['Argentina'],Brazil,,,-
+,Iván Gorosito,Goalkeeper,"Jan 18, 1989 ",35,['Argentina'],Brazil,San Javier,"1,90",-
+,Lucas Petrich,Goalkeeper,"May 14, 1989 ",34,['Argentina'],Brazil,,,-
+,Emiliano Bovero,Goalkeeper,"Apr 2, 1989 ",34,['Argentina'],Brazil,San Francisco,,-
+,Fernando Tantoni,Goalkeeper,"Jun 29, 1989 ",34,['Argentina'],Brazil,Pergamino,"1,90",-
+,Ramiro Biscardi,Goalkeeper,"Apr 6, 1989 ",34,['Argentina'],Brazil,Bolívar,"1,82",-
+,Emilio Crusat,Goalkeeper,"Feb 9, 1989 ",35,"['Argentina', 'Italy']",Brazil,Buenos Aires,"1,84",-
+,Nicolás Caprio,Goalkeeper,"May 26, 1989 ",34,['Argentina'],Brazil,Santa Fé,"1,86",-
+,Sebastián D’Angelo,Goalkeeper,"Jan 14, 1989 ",35,"['Argentina', 'Italy']",Brazil,San Carlos de Bariloche,"1,85",-
+,Gabriel Frandino,Goalkeeper,"Nov 8, 1989 ",34,['Argentina'],Brazil,Villa Maria,"1,91",-
+,Diego Quirós,Goalkeeper,"Jan 12, 1989 ",35,['Argentina'],Brazil,Buenos Aires,"1,79",-
+,Facundo Lupardo,Goalkeeper,"Apr 3, 1989 ",34,['Argentina'],Brazil,Salto,"1,89",-
+1,Javier Burrai,Goalkeeper,"Oct 9, 1990 ",33,"['Ecuador', 'Argentina']",Brazil,San Nicolás,"1,88",€700k
+1,Leandro Chichizola,Goalkeeper,"Mar 27, 1990 ",33,"['Argentina', 'Italy']",Brazil,San Justo,"1,85",€400k
+12,Andrés Desábato,Goalkeeper,"Mar 30, 1990 ",33,['Argentina'],Brazil,Murphy,"1,83",€200k
+,Federico Nicosia,Goalkeeper,"Feb 5, 1990 ",34,"['Argentina', 'Peru']",Brazil,Rosario,"1,88",€125k
+1,Agustín Cousillas,Goalkeeper,"Apr 19, 1990 ",33,"['Argentina', 'Italy']",Brazil,Corrientes,"1,82",€100k
+,Luis Ojeda,Goalkeeper,"Mar 21, 1990 ",34,['Argentina'],Brazil,Romang,"1,83",€100k
+,Fabricio Henricot,Goalkeeper,"Apr 26, 1990 ",33,['Argentina'],Brazil,Zarate,"1,78",€25k
+,Sebastián Domínguez,Goalkeeper,"Dec 20, 1990 ",33,['Argentina'],Brazil,Pocito,"1,86",-
+,César Horst,Goalkeeper,"May 4, 1990 ",33,['Argentina'],Brazil,,"1,89",-
+,Gustavo Vergara,Goalkeeper,"Jul 19, 1990 ",33,['Argentina'],Brazil,Paraná (ERI),"1,81",-
+30,Sebastián Uranga,Goalkeeper,"Sep 16, 1990 ",33,"['Puerto Rico', 'Argentina']",Brazil,Rosario,,-
+,Germán Oviedo,Goalkeeper,"Dec 30, 1990 ",33,['Argentina'],Brazil,San Fernando (BUE),"1,85",-
+,Fernando Presedo,Goalkeeper,"Oct 1, 1990 ",33,['Argentina'],Brazil,Buenos Aires,"1,92",-
+25,Sebastián Moyano,Goalkeeper,"Aug 26, 1990 ",33,['Argentina'],Brazil,Mendoza,"1,88",€450k
+,Manuel Vicentini,Goalkeeper,"Aug 29, 1990 ",33,"['Argentina', 'Italy']",Brazil,Sanford,"1,87",€225k
+1,Alan Aguerre,Goalkeeper,"Aug 23, 1990 ",33,['Argentina'],Brazil,Buenos Aires,"1,84",€200k
+,Sebastián Giovini,Goalkeeper,"Sep 28, 1990 ",33,['Argentina'],Brazil,La Laguna,"1,87",€100k
+,Yair Bonnín,Goalkeeper,"Sep 20, 1990 ",33,['Argentina'],Brazil,Villa Elisa,"1,87",€100k
+,Pablo Heredia,Goalkeeper,"Jun 11, 1990 ",33,"['Argentina', 'Chile']",Brazil,,"1,87",€75k
+20,Juan Manuel Lago,Goalkeeper,"Jun 16, 1990 ",33,['Argentina'],Brazil,Buenos Aires,"1,83",-
+,Lucas Partal,Goalkeeper,"Feb 20, 1990 ",34,['Argentina'],Brazil,,"1,90",-
+,Exequiel Damiano,Goalkeeper,"Jul 16, 1990 ",33,['Argentina'],Brazil,,"1,86",-
+,Alejandro Dianda,Goalkeeper,"Apr 27, 1990 ",33,"['Argentina', 'Italy']",Brazil,Coronel Bogado (SFE),"1,89",-
+,Marcos Jara,Goalkeeper,"Aug 17, 1990 ",33,['Argentina'],Brazil,Gualeguaychú,"1,84",-
+,Augusto Vantomme,Goalkeeper,"Jun 23, 1990 ",33,['Argentina'],Brazil,,,-
+,Maximiliano Díaz,Goalkeeper,"May 28, 1990 ",33,['Argentina'],Brazil,Merlo,"1,94",-
+,Emir Basabe,Goalkeeper,"Oct 27, 1990 ",33,['Argentina'],Brazil,Mendoza,"1,83",-
+1,Martín Moyano,Goalkeeper,"Dec 22, 1990 ",33,"['Argentina', 'Italy']",Brazil,Buenos Aires,"1,80",-
+,Pablo Varela,Goalkeeper,"Jan 10, 1990 ",34,"['Argentina', 'Spain']",Brazil,San Carlos de Bolívar,"1,82",-
+,Germán Vouilloud,Goalkeeper,"Sep 12, 1990 ",33,['Argentina'],Brazil,General Alvear,"1,94",-
+,José Cornalo,Goalkeeper,"Jan 3, 1990 ",34,['Argentina'],Brazil,Monte Caseros,"1,82",-
+,Leonel Caffaratti,Goalkeeper,"Jan 30, 1990 ",34,['Argentina'],Brazil,General Baldissera (CBA),"1,82",-
+,Lucas De León,Goalkeeper,"Aug 2, 1990 ",33,['Argentina'],Brazil,General Arenales,"1,79",-
+,Facundo Daffonchio,Goalkeeper,"Feb 2, 1990 ",34,['Argentina'],Brazil,Junín,"1,87",-
+,Lucas Vicentín,Goalkeeper,"Jul 6, 1990 ",33,"['Argentina', 'Germany']",Brazil,San Lorenzo,"1,90",-
+,Pablo Lencina,Goalkeeper,"Feb 9, 1990 ",34,['Argentina'],Brazil,Aguilares,"1,86",-
+1,Esteban Andrada,Goalkeeper,"Jan 26, 1991 ",33,['Argentina'],Brazil,San Martín,"1,94",€2.50m
+30,Fernando de Paul,Goalkeeper,"Apr 25, 1991 ",32,"['Chile', 'Argentina']",Brazil,Álvarez,"1,83",€800k
+,Ramiro Martínez,Goalkeeper,"Apr 18, 1991 ",32,['Argentina'],Brazil,Buenos Aires,"1,82",€250k
+,Ignacio Pietrobono,Goalkeeper,"Jun 29, 1991 ",32,['Argentina'],Brazil,Olavarría,"1,76",€200k
+1,Agustín Staropoli,Goalkeeper,"Jan 14, 1991 ",33,"['Argentina', 'Italy']",Brazil,Buenos Aires,"1,81",€50k
+,Luis Rodriguez,Goalkeeper,"Jul 1, 1991 ",32,['Argentina'],Brazil,Juan José Castelli,"1,85",€10k
+,Juan Fernández,Goalkeeper,"Apr 13, 1991 ",32,['Argentina'],Brazil,Quiroga,,-
+,Nicolás Rodríguez,Goalkeeper,"Jan 11, 1991 ",33,['Argentina'],Brazil,,"1,86",-
+,Branko De Tellería,Goalkeeper,"Nov 12, 1991 ",32,['Argentina'],Brazil,Lomas de Zamora (BUE),"1,98",-
+,Adrián Domínguez,Goalkeeper,"Apr 11, 1991 ",32,['Argentina'],Brazil,Córdoba,,-
+,Sebastián Anchoverri,Goalkeeper,"Apr 26, 1991 ",32,['Argentina'],Brazil,Lomas de Zamora,"1,81",-
+,Federico Urraburo,Goalkeeper,"Apr 5, 1991 ",32,['Argentina'],Brazil,Roldán,"1,89",-
+1,Javier Colli,Goalkeeper,"Nov 3, 1991 ",32,['Argentina'],Brazil,Buenos Aires,"1,87",-
+33,Rodrigo Rey,Goalkeeper,"Mar 8, 1991 ",33,"['Argentina', 'Italy']",Brazil,Las Parejas,"1,90",€1.80m
+29,Christian Limousin,Goalkeeper,"Nov 29, 1991 ",32,['Argentina'],Brazil,Buenos Aires,"1,85",€275k
+1,Ezequiel Mastrolía,Goalkeeper,"Mar 25, 1991 ",32,['Argentina'],Brazil,La Tablada,"1,90",€250k
+1,Cristian Correa,Goalkeeper,"May 25, 1991 ",32,"['Argentina', 'Italy']",Brazil,,"1,86",€100k
+,Nicolás Carrizo,Goalkeeper,"Jul 4, 1991 ",32,['Argentina'],Brazil,Aguilares,"1,83",€25k
+,Matías Llanos,Goalkeeper,"Jun 30, 1991 ",32,['Argentina'],Brazil,Rio Colorado,"1,84",-
+,Federico Tursi,Goalkeeper,"Oct 28, 1991 ",32,['Argentina'],Brazil,Coronel Moldes,"1,87",-
+,Gonzalo Chaves,Goalkeeper,"Feb 3, 1991 ",33,['Argentina'],Brazil,Gobernador Crespo,"1,87",-
+,Nahuel Astutti,Goalkeeper,"Jul 21, 1991 ",32,['Argentina'],Brazil,Viedma (RNE),,-
+,Leonardo Romero,Goalkeeper,"Aug 23, 1991 ",32,['Argentina'],Brazil,Rosario,"1,90",-
+,Cristian Blanco,Goalkeeper,"Nov 30, 1991 ",32,['Argentina'],Brazil,Rosario,"1,82",-
+,Nicolás Rodríguez,Goalkeeper,"Jan 11, 1991 ",33,['Argentina'],Brazil,,"1,91",-
+,Emmanuel Pontet,Goalkeeper,"Jun 28, 1991 ",32,"['Argentina', 'Italy']",Brazil,Puan,"1,84",-
+,Gastón Brambatti,Goalkeeper,"Jun 3, 1991 ",32,"['Argentina', 'Italy']",Brazil,San Martín,"1,99",-
+,Esteban Danieri,Goalkeeper,"May 21, 1991 ",32,['Argentina'],Brazil,Buenos Aires,,-
+,Diego Galanternik,Goalkeeper,"Feb 27, 1991 ",33,['Argentina'],Brazil,Buenos Aires,"1,84",-
+,Rodrigo Lugo,Goalkeeper,"Oct 22, 1991 ",32,['Argentina'],Brazil,Buenos Aires,"1,91",-
+1,Emiliano Martínez,Goalkeeper,"Sep 2, 1992 ",31,"['Argentina', 'Spain']",Brazil,Mar del Plata,"1,95",€28.00m
+13,Paulo Gazzaniga,Goalkeeper,"Jan 2, 1992 ",32,"['Argentina', 'Italy']",Brazil,Murphy,"1,95",€4.00m
+1,Alexis Martín Arias,Goalkeeper,"Jul 4, 1992 ",31,['Argentina'],Brazil,Pellegrini,"1,85",€700k
+1,Federico Lanzillotta,Goalkeeper,"Dec 1, 1992 ",31,['Argentina'],Brazil,Villa Luzuriaga,"1,85",€600k
+23,Rodrìgo Garcìa Accinelli,Goalkeeper,"Jul 24, 1992 ",31,"['Argentina', 'Italy']",Brazil,Pehuajó,"1,85",€100k
+,Joaquín Mattalia,Goalkeeper,"Apr 26, 1992 ",31,['Argentina'],Brazil,Etruria,"1,87",€25k
+,Joaquín Pucheta,Goalkeeper,"Jun 9, 1992 ",31,['Argentina'],Brazil,Villa Ángela,"1,84",€25k
+,Gustavo Aguiar,Goalkeeper,"Aug 15, 1992 ",31,['Argentina'],Brazil,Paraná,"1,87",-
+,Matías Giroldi,Goalkeeper,"Dec 9, 1992 ",31,['Argentina'],Brazil,,"1,86",-
+,Emiliano Larrouy,Goalkeeper,"Sep 16, 1992 ",31,['Argentina'],Brazil,Coronel Pringles (BUE),"1,92",-
+,Mariano Barufaldi,Goalkeeper,"Sep 4, 1992 ",31,"['Argentina', 'Italy']",Brazil,Rosario,"1,90",-
+,Federico Díaz,Goalkeeper,"Apr 14, 1992 ",31,['Argentina'],Brazil,Buenos Aires,"1,85",-
+,Facundo Espíndola,Goalkeeper,"Dec 26, 1992","Dec 26, 1992",['Argentina'],Brazil,,,-
+1,Gerónimo Rulli,Goalkeeper,"May 20, 1992 ",31,"['Argentina', 'Italy']",Brazil,La Plata,"1,89",€6.00m
+22,Guido Herrera,Goalkeeper,"Feb 29, 1992 ",32,"['Argentina', 'Italy']",Brazil,Río Cuarto,"1,87",€2.00m
+23,Gaspar Servio,Goalkeeper,"Mar 9, 1992 ",32,['Argentina'],Brazil,General Belgrano,"1,85",€600k
+1,Ignacio Arce,Goalkeeper,"Feb 8, 1992 ",32,['Argentina'],Brazil,Paraná,"1,85",€400k
+,Carlos Franco,Goalkeeper,"Jan 3, 1992 ",32,['Argentina'],Brazil,Misiones,"1,85",€75k
+,Juan Manuel Lungarzo,Goalkeeper,"Dec 12, 1992 ",31,"['Argentina', 'Germany']",Brazil,Chivilcoy,"1,82",€25k
+,Jonathan Lemos,Goalkeeper,"Sep 30, 1992 ",31,['Argentina'],Brazil,Buenos Aires,"1,84",-
+,Javier Balbuena,Goalkeeper,"Jan 19, 1992 ",32,['Argentina'],Brazil,Moron,"1,87",-
+,Leonardo Gomez,Goalkeeper,"Apr 18, 1992 ",31,['Argentina'],Brazil,,"1,90",-
+,Juan Pablo Domínguez,Goalkeeper,"Feb 17, 1992 ",32,['Argentina'],Brazil,Buenos Aires,"1,92",-
+,Emanuel Alarcón,Goalkeeper,"Nov 11, 1992 ",31,['Argentina'],Brazil,,"1,83",-
+,Gonzalo Carniel,Goalkeeper,"Feb 1, 1992 ",32,['Argentina'],Brazil,Buenos Aires,,-
+,Alan Minaglia,Goalkeeper,"Jul 16, 1992 ",31,"['Argentina', 'Italy']",Brazil,,"1,80",-
+,Abraham Reartes,Goalkeeper,"Apr 26, 1992 ",31,['Argentina'],Brazil,Santa Fe,,-
+,Gonzalo Acevedo,Goalkeeper,"Feb 17, 1992 ",32,['Argentina'],Brazil,Salto,,-
+,Juan Figueroa,Goalkeeper,"Jul 14, 1992 ",31,['Argentina'],Brazil,,"1,76",-
+1,Walter Benítez,Goalkeeper,"Jan 19, 1993 ",31,"['Argentina', 'France']",Brazil,General San Martín,"1,91",€13.00m
+25,Nahuel Losada,Goalkeeper,"Apr 17, 1993 ",30,['Argentina'],Brazil,Berisso,"1,88",€3.00m
+22,Nicolás Avellaneda,Goalkeeper,"Feb 24, 1993 ",31,['Argentina'],Brazil,Río Tercero,"1,91",€300k
+13,Juan Dobboletta,Goalkeeper,"Jan 6, 1993 ",31,['Argentina'],Brazil,Carcarañá,"1,85",€75k
+,Franco Agüero,Goalkeeper,"Mar 24, 1993 ",30,['Argentina'],Brazil,Pergamino (BUE),"1,91",€50k
+,Mauricio Aquino,Goalkeeper,"Oct 27, 1993 ",30,['Argentina'],Brazil,Jacinto Arauz,"1,85",€10k
+,Franco Kratina,Goalkeeper,"Jul 13, 1993 ",30,['Argentina'],Brazil,Córdoba,"1,83",-
+,Lucas Roa,Goalkeeper,"Jul 21, 1993 ",30,['Argentina'],Brazil,,"1,85",-
+,Fernando Vijande,Goalkeeper,"Nov 9, 1993 ",30,"['Argentina', 'Spain']",Brazil,General Viamonte,"1,93",-
+1,Mauro Alcaraz,Goalkeeper,N/A ,31,"['Argentina', 'Italy']",Brazil,Viedma,"1,85",-
+,Facundo Tavolieri,Goalkeeper,"Apr 28, 1993 ",30,"['Argentina', 'Italy']",Brazil,,"1,88",-
+,Mauro Leguiza,Goalkeeper,"Aug 14, 1993 ",30,['Argentina'],Brazil,Resistencia,"1,86",-
+,Franco Thomas,Goalkeeper,"Jul 2, 1993 ",30,"['Argentina', 'Italy']",Brazil,Tandil,"1,88",-
+1,Conan Ledesma,Goalkeeper,"Feb 13, 1993 ",31,"['Argentina', 'Italy']",Brazil,Pergamino,"1,86",€6.00m
+1,Nico Ratti,Goalkeeper,"Sep 18, 1993 ",30,"['Argentina', 'Italy']",Brazil,San Rafael,"1,79",€400k
+25,Brian Olivera,Goalkeeper,"Dec 13, 1993 ",30,['Argentina'],Brazil,Córdoba (CBA),"1,83",€300k
+,Cristian Arce,Goalkeeper,"Aug 27, 1993 ",30,['Argentina'],Brazil,Buenos Aires,"1,82",€50k
+,Luciano Silva,Goalkeeper,"Aug 4, 1993 ",30,['Argentina'],Brazil,Mendoza,"1,85",€10k
+,Gabriel Azcona,Goalkeeper,"Jan 3, 1993 ",31,['Argentina'],Brazil,,,-
+,Ceferino Arregui,Goalkeeper,"Sep 13, 1993 ",30,['Argentina'],Brazil,Senillosa,,-
+,Germán Yacaruso,Goalkeeper,"Jan 6, 1993 ",31,"['Argentina', 'Italy']",Brazil,Buenos Aires,"1,90",-
+,Matias Vivaldo,Goalkeeper,"Dec 4, 1993 ",30,"['Argentina', 'Spain']",Brazil,Buenos Aires,"1,97",-
+,Leonardo Torres,Goalkeeper,"Apr 12, 1993 ",30,['Argentina'],Brazil,,,-
+,Francisco Del Riego,Goalkeeper,"Mar 24, 1993 ",30,['Argentina'],Brazil,Rivadavia (BUE),"1,82",-
+,Nicolas Arjona,Goalkeeper,"Aug 31, 1993 ",30,"['Argentina', 'Italy']",Brazil,Mendoza,"1,82",-
+,Carlos Marques,Goalkeeper,"Feb 23, 1993 ",31,['Argentina'],Brazil,Buenos Aires,"1,88",-
+,Pablo Adasme,Goalkeeper,"Oct 25, 1993 ",30,['Argentina'],Brazil,San Rafael,"1,82",-
+,Guido Rossetti,Goalkeeper,"May 12, 1993 ",30,['Argentina'],Brazil,Suipacha (BUE),,-
+,Ignacio Torres,Goalkeeper,"Mar 23, 1993 ",30,['Argentina'],Brazil,Necochea,"1,86",-
+,Nicolás Báez,Goalkeeper,"Aug 27, 1993 ",30,['Argentina'],Brazil,Arata,"1,83",-
+,Nehemías Macedo,Goalkeeper,"Feb 17, 1993 ",31,['Argentina'],Brazil,Buenos Aires,,-
+,Matías Draghi,Goalkeeper,"Feb 22, 1993 ",31,['Argentina'],Brazil,San Rafael,"1,90",-
+,Alan Depotte,Goalkeeper,"May 18, 1993 ",30,['Argentina'],Brazil,Buenos Aires,"1,83",-
+,Brian Ferri,Goalkeeper,"Jul 26, 1993 ",30,['Argentina'],Brazil,Venado Tuerto,"1,84",-
+1,Juan Musso,Goalkeeper,"May 6, 1994 ",29,"['Argentina', 'Italy']",Brazil,San Nicolás,"1,91",€6.50m
+34,Andrés Mehring,Goalkeeper,"Apr 19, 1994 ",29,['Argentina'],Brazil,Franck,"1,91",€350k
+,Matías Basterrechea,Goalkeeper,"Jan 2, 1994 ",30,"['Argentina', 'Portugal']",Brazil,La Plata,"1,91",€100k
+,Matías Wysocki,Goalkeeper,"Feb 18, 1994 ",30,['Argentina'],Brazil,Buenos Aires,"1,87",€10k
+,Álvaro Rezzano,Goalkeeper,"Jul 7, 1994 ",29,"['Argentina', 'United States']",Brazil,Buenos Aires,"1,93",-
+,Ignacio Díaz Peyrous,Goalkeeper,"Mar 26, 1994 ",29,['Argentina'],Brazil,Capital Federal,"1,88",-
+,Juan Torralba,Goalkeeper,"Jun 19, 1994 ",29,['Argentina'],Brazil,Mar del Plata,"1,90",-
+,Fermín Holgado,Goalkeeper,"May 17, 1994 ",29,"['Argentina', 'Spain']",Brazil,Trenque Lauquen (BUE),"1,96",-
+,Ariel Bogarín,Goalkeeper,"Nov 1, 1994 ",29,['Argentina'],Brazil,Adrogué,,-
+,Fernando Lugo,Goalkeeper,"Jul 7, 1994 ",29,['Argentina'],Brazil,Buenos Aires,"1,88",-
+,Alan Aldalla,Goalkeeper,"Jul 5, 1994 ",29,['Argentina'],Brazil,Mendoza,"1,88",-
+,Ignacio Acordino,Goalkeeper,"Jan 25, 1994 ",30,"['Argentina', 'Italy']",Brazil,Chacras de Coria,,-
+,Nicolás Sequeira,Goalkeeper,"Aug 30, 1994 ",29,['Argentina'],Brazil,Venado Tuerto,"1,82",-
+1,Joaquín Papaleo,Goalkeeper,"Mar 23, 1994 ",29,['Argentina'],Brazil,Santo Tomé,"1,88",€350k
+,Rodrigo Saracho,Goalkeeper,"Jan 6, 1994 ",30,['Argentina'],Brazil,General Pacheco,"1,93",€175k
+,Bruno Galván,Goalkeeper,"May 8, 1994 ",29,['Argentina'],Brazil,Buenos Aires,"1,86",€100k
+,Gonzalo Rehak,Goalkeeper,"Jan 11, 1994 ",30,"['Argentina', 'Italy']",Brazil,Bernal,"1,86",€10k
+1,Santiago Sendín,Goalkeeper,"Dec 8, 1994 ",29,"['Argentina', 'Spain']",Brazil,,"1,82",-
+,Franco Moscaritolo,Goalkeeper,"Aug 5, 1994 ",29,"['Argentina', 'Italy']",Brazil,Neuquén (NEU),"1,84",-
+,Sergio Meli,Goalkeeper,"Aug 27, 1994 ",29,['Argentina'],Brazil,,,-
+,Lucio Cid Hernando,Goalkeeper,"Oct 5, 1994 ",29,"['Argentina', 'Spain']",Brazil,Buenos Aires,"1,80",-
+,Lucio Chiappero,Goalkeeper,"May 26, 1994 ",29,['Argentina'],Brazil,Hersilia,"1,87",-
+35,Oscar Acosta,Goalkeeper,"Sep 9, 1994 ",29,['Argentina'],Brazil,Rawson,"1,90",-
+,Gonzalo Yordan,Goalkeeper,"Mar 20, 1994 ",30,['Argentina'],Brazil,,"1,85",-
+,Ariel Bulasio,Goalkeeper,"Jun 4, 1994 ",29,['Argentina'],Brazil,Mar del Plata,"1,91",-
+1,Agustín Rossi,Goalkeeper,"Aug 21, 1995 ",28,"['Argentina', 'Italy']",Brazil,Buenos Aires,"1,93",€6.00m
+1,Tomás Marchiori,Goalkeeper,"Jun 20, 1995 ",28,"['Argentina', 'Italy']",Brazil,Godoy Cruz,"1,86",€2.80m
+1,José Devecchi,Goalkeeper,"Jul 9, 1995 ",28,"['Argentina', 'Italy']",Brazil,Corrientes,"1,89",€1.70m
+42,Lucas Acosta,Goalkeeper,"Mar 12, 1995 ",29,['Argentina'],Brazil,Córdoba,"1,87",€750k
+1,Maximiliano Velazco,Goalkeeper,"Mar 8, 1995 ",29,['Argentina'],Brazil,Villa Constitución,"1,86",€350k
+,Facundo Ferrero,Goalkeeper,"Apr 5, 1995 ",28,['Argentina'],Brazil,La Reja,"1,84",€125k
+,Matías Budiño,Goalkeeper,"Jul 3, 1995 ",28,['Argentina'],Brazil,San Pedro,"1,87",€75k
+,Damián Tello,Goalkeeper,"Sep 23, 1995 ",28,['Argentina'],Brazil,Mendoza,"1,90",€25k
+,Mariano Ramos,Goalkeeper,"Jan 20, 1995 ",29,['Argentina'],Brazil,,,-
+,Octavio Blanchet,Goalkeeper,"May 15, 1995 ",28,['Argentina'],Brazil,,"1,78",-
+,Jairo Diaz,Goalkeeper,"Apr 12, 1995 ",28,['Argentina'],Brazil,,"1,83",-
+23,Nicolás Felker,Goalkeeper,"Jul 27, 1995 ",28,['Argentina'],Brazil,,"1,90",-
+1,Esteban Ruíz Díaz,Goalkeeper,"Jul 20, 1995 ",28,['Argentina'],Brazil,,"1,85",-
+22,Ezequiel Unsain,Goalkeeper,"Mar 9, 1995 ",29,['Argentina'],Brazil,Villa Alcaraz,"1,88",€3.00m
+13,Lucas Chaves,Goalkeeper,"Aug 9, 1995 ",28,['Argentina'],Brazil,Martín Coronado,"1,82",€1.80m
+23,Nelson Insfrán,Goalkeeper,"May 24, 1995 ",28,['Argentina'],Brazil,Clorinda,"1,79",€800k
+13,Daniel Sappa,Goalkeeper,"Feb 9, 1995 ",29,['Argentina'],Brazil,Villa Elisa,"1,93",€400k
+1,Nicolás Temperini,Goalkeeper,"Feb 9, 1995 ",29,['Argentina'],Brazil,Villa Eloisa,"1,86",€200k
+,Lisandro Mitre,Goalkeeper,"Dec 18, 1995 ",28,['Argentina'],Brazil,,"1,85",€100k
+1,Marcos Zappacosta,Goalkeeper,"Apr 17, 1995 ",28,"['Argentina', 'Italy']",Brazil,Mar del Plata,"1,88",€50k
+1,Mateo Grasso,Goalkeeper,"Dec 6, 1995 ",28,"['Argentina', 'Italy']",Brazil,Córdoba,"1,87",€25k
+,Rafael Lapi,Goalkeeper,"Nov 16, 1995 ",28,['Argentina'],Brazil,,"1,85",-
+,Juan Cruz Cavagna,Goalkeeper,"Feb 21, 1995 ",29,['Argentina'],Brazil,,"1,78",-
+,Alexis Bonet,Goalkeeper,"Mar 15, 1995 ",29,['Argentina'],Brazil,Corral De Bustos (Córdoba),"1,86",-
+,David Correa,Goalkeeper,"Jul 8, 1995 ",28,['Argentina'],Brazil,,"1,81",-
+,Germán Cheppi,Goalkeeper,"Sep 8, 1995 ",28,['Argentina'],Brazil,,,-
+,Lautaro Menéndez,Goalkeeper,"May 8, 1995 ",28,"['Argentina', 'Italy']",Brazil,Laborde,"1,85",-
+,Matías Soler,Goalkeeper,"Apr 18, 1995 ",28,['Argentina'],Brazil,San Pedro,"1,76",-
+,Emilio Di Fulvio,Goalkeeper,"May 17, 1995 ",28,['Argentina'],Brazil,Carreras,"1,80",-
+,Tomás Figueroa,Goalkeeper,"Apr 20, 1995 ",28,['Argentina'],Brazil,Buenos Aires,"1,83",-
+,Alan Martínez,Goalkeeper,"Jan 19, 1995 ",29,"['Argentina', 'Italy']",Brazil,San Rafael Mendoza,"1,95",-
+,Martín García,Goalkeeper,"Mar 9, 1995 ",29,['Argentina'],Brazil,Bahía Blanca,"1,81",-
+,Gonzalo Laborda,Goalkeeper,"Jan 13, 1995 ",29,"['Argentina', 'Italy']",Brazil,Saladillo,"1,94",-
+,Juan Boiero,Goalkeeper,"Sep 30, 1995 ",28,"['Argentina', 'Italy']",Brazil,Córdoba,"1,90",-
+,Matías Vaccaneo,Goalkeeper,"Jun 12, 1995 ",28,"['Argentina', 'Italy']",Brazil,Buenos Aires,"1,92",-
+,René Moyano,Goalkeeper,"Mar 16, 1995 ",29,['Argentina'],Brazil,San Miguel,"1,78",-
+,Yannick Millenaar,Goalkeeper,"Feb 9, 1995 ",29,"['Netherlands', 'Argentina']",Brazil,Buenos Aires,"1,87",-
+25,Augusto Batalla,Goalkeeper,"Apr 30, 1996 ",27,"['Argentina', 'Italy']",Brazil,Hurlingham,"1,86",€6.00m
+1,Ignacio Chicco,Goalkeeper,"Jun 30, 1996 ",27,['Argentina'],Brazil,Brinkmann,"1,84",€1.30m
+25,Gastón Gómez,Goalkeeper,"Mar 4, 1996 ",28,['Argentina'],Brazil,Mar del Plata,"1,90",€1.00m
+13,Marcos Ledesma,Goalkeeper,"Sep 15, 1996 ",27,['Argentina'],Brazil,Río Cuarto,"1,91",€800k
+12,Roberto Ramírez,Goalkeeper,"Jul 7, 1996 ",27,['Argentina'],Brazil,Mendoza,"1,88",€275k
+,Alan Sosa,Goalkeeper,"Apr 27, 1996 ",27,['Argentina'],Brazil,Reconquista,"1,83",€175k
+,Gabriel Atamañuk,Goalkeeper,"Apr 9, 1996 ",27,"['Argentina', 'Ukraine']",Brazil,Moreno (BUE),"1,92",€50k
+,Joaquín Mendive,Goalkeeper,"Aug 8, 1996 ",27,"['Argentina', 'Italy']",Brazil,Ezeiza,"1,83",€50k
+,Facundo Abraham,Goalkeeper,"Jan 8, 1996 ",28,['Argentina'],Brazil,,"1,84",€25k
+,Alan González,Goalkeeper,"Jul 22, 1996 ",27,['Argentina'],Brazil,Lomas de Zamora (BUE),"1,87",€10k
+,Facundo Désima,Goalkeeper,"Apr 11, 1996 ",27,['Argentina'],Brazil,,,-
+,Nicolás Grande,Goalkeeper,"Jul 7, 1996 ",27,['Argentina'],Brazil,,"1,86",-
+,Juan Cruz Cuesta,Goalkeeper,"Jul 9, 1996 ",27,['Argentina'],Brazil,Pergamino (BUE),"1,90",-
+12,Matías Mansilla,Goalkeeper,"Feb 15, 1996 ",28,['Argentina'],Brazil,Los Juríes,"1,91",€2.00m
+13,Facundo Altamirano,Goalkeeper,"Mar 21, 1996 ",28,['Argentina'],Brazil,Rojas,"1,86",€1.30m
+1,Nicolás Campisi,Goalkeeper,"Oct 29, 1996 ",27,['Argentina'],Brazil,Viedma,"1,88",€800k
+20,Axel Werner,Goalkeeper,"Feb 28, 1996 ",28,"['Argentina', 'Italy']",Brazil,Rafaela,"1,91",€600k
+,Leonardo Silva,Goalkeeper,"Jul 15, 1996 ",27,['Argentina'],Brazil,Santa Fe,"1,85",€225k
+34,Marco Wolff,Goalkeeper,"Dec 14, 1996 ",27,"['Argentina', 'Israel']",Brazil,Buenos Aires,"1,90",€150k
+,Brian Bustos,Goalkeeper,"Aug 22, 1996 ",27,['Argentina'],Brazil,Larroque,"1,85",€50k
+30,Gonzalo Paz,Goalkeeper,"May 29, 1996 ",27,['Argentina'],Brazil,Lomas de Zamora,"1,85",€25k
+,Nahuel Pezzini,Goalkeeper,"Nov 13, 1996 ",27,['Argentina'],Brazil,Chajarí,"1,86",€25k
+,Matías Bravo,Goalkeeper,"Jun 5, 1996 ",27,['Argentina'],Brazil,,,-
+,Sebastián Nieto,Goalkeeper,"Sep 1, 1996 ",27,['Argentina'],Brazil,Capital Federal,"1,86",-
+,David Rodriguez,Goalkeeper,"Feb 28, 1996 ",28,['Argentina'],Brazil,,"1,83",-
+1,Jorge Serra,Goalkeeper,"Aug 26, 1996 ",27,['Argentina'],Brazil,,"1,82",-
+,Tiago Libares,Goalkeeper,"Dec 15, 1996 ",27,['Argentina'],Brazil,Buenos Aires,"1,85",-
+,Pedro Formosa,Goalkeeper,"Feb 1, 1996 ",28,['Argentina'],Brazil,,,-
+,Nahuel Clavero,Goalkeeper,"Jun 4, 1996 ",27,['Argentina'],Brazil,,"1,84",-
+,Gianfranco Cao,Goalkeeper,"Sep 14, 1996 ",27,"['Argentina', 'Italy']",Brazil,Capitán Bermúdez,"1,88",-
+,Alan Ferreyra,Goalkeeper,"Apr 18, 1996 ",27,['Argentina'],Brazil,"Berazategui, Buenos Aires","1,85",-
+,Pablo Fernández,Goalkeeper,"Aug 14, 1996 ",27,['Argentina'],Brazil,,,-
+,Joaquín Aylagas,Goalkeeper,"Mar 15, 1996 ",28,['Argentina'],Brazil,Santa Fe,"1,84",-
+,Tómas Casas,Goalkeeper,"Sep 27, 1996 ",27,['Argentina'],Brazil,Mina Clavero,"1,83",-
+,Jonathan Sánchez,Goalkeeper,"Aug 3, 1996 ",27,['Argentina'],Brazil,Córdoba,,-
+,Ezequiel Bacher,Goalkeeper,"Apr 26, 1996 ",27,['Argentina'],Brazil,Buenos Aires,"1,90",-
+,Joaquín Marchionno,Goalkeeper,"May 13, 1996 ",27,['Argentina'],Brazil,Buenos Aires,"1,87",-
+1,Guillermo Pedelacq,Goalkeeper,"Feb 27, 1996 ",28,['Argentina'],Brazil,,"1,83",-
+,Enzo López,Goalkeeper,"Nov 19, 1996 ",27,['Argentina'],Brazil,Santiago del Estero,"1,85",-
+,Federico Rojas,Goalkeeper,"Oct 21, 1996 ",27,['Argentina'],Brazil,,,-
+1,Joaquin Ketlun,Goalkeeper,"Apr 2, 1996 ",27,"['Argentina', 'Croatia']",Brazil,Buenos Aires,"1,86",-
+,Agustín Rodríguez,Goalkeeper,"Nov 14, 1996 ",27,['Argentina'],Brazil,,,-
+,Iván López,Goalkeeper,"Feb 17, 1996 ",28,['Argentina'],Brazil,Pontevedra,"1,87",-
+,Franco Pizzicanella,Goalkeeper,"May 29, 1996 ",27,['Argentina'],Brazil,San Miguel de Tucumán,"1,83",-
+25,Facundo Cambeses,Goalkeeper,"Apr 9, 1997 ",26,"['Argentina', 'Italy']",Brazil,Adrogué,"1,86",€3.30m
+33,Ezequiel Centurión,Goalkeeper,"May 20, 1997 ",26,['Argentina'],Brazil,Cipolletti,"1,84",€600k
+,Lucas Bruera,Goalkeeper,"Oct 19, 1997 ",26,['Argentina'],Brazil,La Plata,"1,84",€300k
+25,Franco Ravizzoli,Goalkeeper,"Jul 9, 1997 ",26,['Argentina'],Brazil,Mar del Plata,"1,88",€200k
+,Juan Pablo Noce,Goalkeeper,"Aug 5, 1997 ",26,"['Argentina', 'Italy']",Brazil,City Bell,"1,85",€25k
+,Santiago Nogales,Goalkeeper,"Dec 27, 1997 ",26,['Argentina'],Brazil,,,-
+,Nahuel Cajal,Goalkeeper,"Feb 18, 1997 ",27,['Argentina'],Brazil,Mar del Plata,"1,80",-
+,Juan Pablo Lungarzo,Goalkeeper,"Oct 10, 1997 ",26,"['Argentina', 'Germany']",Brazil,Chivilcoy,"1,89",-
+,Ignacio Colombo,Goalkeeper,"Aug 20, 1997 ",26,['Argentina'],Brazil,Rosario,"1,92",-
+,Daniel Ibáñez,Goalkeeper,"Nov 28, 1997","Nov 28, 1997",['Argentina'],Brazil,Tucumán,,-
+,Cristian Martínez,Goalkeeper,"Aug 5, 1997 ",26,['Argentina'],Brazil,General San Martín (COR),"1,89",-
+,Juan Pablo Mazza,Goalkeeper,"Feb 28, 1997 ",27,['Argentina'],Brazil,Tandil,"1,83",-
+,Nicolás Stella,Goalkeeper,"Mar 26, 1997 ",26,['Argentina'],Brazil,Avellaneda,"1,88",-
+12,Ramiro Macagno,Goalkeeper,"Mar 18, 1997 ",27,"['Argentina', 'Italy']",Brazil,Alicia,"1,85",€2.50m
+30,Marcelo Miño,Goalkeeper,"Aug 21, 1997 ",26,['Argentina'],Brazil,Guatimozín,"1,86",€350k
+1,Juan Bolado,Goalkeeper,"Jul 22, 1997 ",26,"['Argentina', 'Italy']",Brazil,Mendoza,"1,82",€250k
+,Leandro Finochietto,Goalkeeper,"Apr 25, 1997 ",26,"['Argentina', 'Italy']",Brazil,Capital Federal,"1,86",€175k
+,Eros de Luca,Goalkeeper,"Nov 10, 1997 ",26,"['Argentina', 'Italy']",Brazil,Buenos Aires,"1,91",-
+,Alexis Escalzo,Goalkeeper,"Aug 2, 1997 ",26,['Argentina'],Brazil,,,-
+,Mauro Priotti,Goalkeeper,"Mar 1, 1997 ",27,['Argentina'],Brazil,,"1,81",-
+,Brian Beiró,Goalkeeper,"Sep 2, 1997 ",26,['Argentina'],Brazil,,"1,88",-
+30,Nicolas Delpino,Goalkeeper,N/A ,26,"['Argentina', 'Italy']",Brazil,Los Zorros,"1,92",-
+,Federico Gesualdi,Goalkeeper,"Sep 9, 1997 ",26,"['Argentina', 'Italy']",Brazil,Lomas de Zamora,"1,91",-
+,Lucas Robledo,Goalkeeper,"Apr 26, 1997 ",26,['Argentina'],Brazil,,,-
+,Matías Montero,Goalkeeper,"Jan 15, 1997 ",27,['Argentina'],Brazil,San Miguel de Tucumán,"1,81",-
+,Emmanuel Cirrincione,Goalkeeper,"Apr 4, 1997 ",26,"['Argentina', 'Italy']",Brazil,Mendoza,"1,86",-
+,Franco Vélez,Goalkeeper,"Feb 8, 1997 ",27,['Argentina'],Brazil,,"1,88",-
+,Camilo Veloz,Goalkeeper,"May 21, 1997 ",26,['Argentina'],Brazil,,"1,86",-
+,Nicolás Maza,Goalkeeper,"May 27, 1997 ",26,['Argentina'],Brazil,Pergamino (BUE),,-
+,Guillermo Bachke,Goalkeeper,"Mar 22, 1997 ",26,['Argentina'],Brazil,Andresito,"1,84",-
+,Lucas Cabrera,Goalkeeper,"Mar 2, 1997 ",27,['Argentina'],Brazil,,,-
+,Javier Bustillos,Goalkeeper,"Mar 5, 1997 ",27,['Argentina'],Brazil,Santos Lugares,"1,86",-
+,Kevin Humeler,Goalkeeper,"Apr 2, 1997 ",26,['Argentina'],Brazil,San Jerónimo Norte,"1,84",-
+,Juan Berardo,Goalkeeper,"Sep 8, 1997 ",26,"['Argentina', 'Italy']",Brazil,,"1,85",-
+1,Franco Petroli,Goalkeeper,"Jun 11, 1998 ",25,['Argentina'],Brazil,Avellaneda,"1,88",€2.00m
+,Emiliano González,Goalkeeper,"May 29, 1998 ",25,['Argentina'],Brazil,Villa Mercedes,"1,93",€600k
+,Tomás Giménez,Goalkeeper,"Oct 29, 1998 ",25,['Argentina'],Brazil,Mendoza,"1,85",€500k
+22,Guido Villar,Goalkeeper,"Feb 15, 1998 ",26,['Argentina'],Brazil,Bahía Blanca,"1,93",€350k
+31,Nicolás Forastiero,Goalkeeper,"Jul 15, 1998 ",25,['Argentina'],Brazil,Buenos Aires,"1,81",€150k
+13,Juan Flere,Goalkeeper,"May 12, 1998 ",25,"['Argentina', 'Italy']",Brazil,Bariloche,"1,83",€100k
+,Matías Borgogno,Goalkeeper,"Aug 21, 1998 ",25,"['Argentina', 'Italy']",Brazil,San Francisco,"1,88",€50k
+,Federico Abadía,Goalkeeper,"Jun 12, 1998 ",25,['Argentina'],Brazil,Roberts,"1,87",€25k
+22,Robertino Lanziani,Goalkeeper,"Jan 17, 1998 ",26,"['Argentina', 'Italy']",Brazil,Rosario,"1,92",€25k
+,Mauricio Nievas,Goalkeeper,"Apr 14, 1998 ",25,['Argentina'],Brazil,General Cabrera,"1,85",€10k
+,Franco Rivasseau,Goalkeeper,"Jul 10, 1998 ",25,['Argentina'],Brazil,Paraná (Entre Ríos),"1,89",€10k
+,Fabricio Hass,Goalkeeper,"Mar 27, 1998 ",25,['Argentina'],Brazil,Santiago del Estero,"1,86",€10k
+,Lucas Arce,Goalkeeper,"Jun 9, 1998 ",25,['Argentina'],Brazil,,,-
+31,Juan Pablo Cozzani,Goalkeeper,"Oct 9, 1998 ",25,['Argentina'],Brazil,Mendoza,"1,84",€1.00m
+31,Matías Tagliamonte,Goalkeeper,"Feb 19, 1998 ",26,['Argentina'],Brazil,Rafaela,"1,94",€600k
+21,Marcos Peano,Goalkeeper,"Oct 15, 1998 ",25,['Argentina'],Brazil,Freyre,"1,87",€400k
+,Williams Barlasina,Goalkeeper,"Jun 29, 1998 ",25,['Argentina'],Brazil,Providencia,"1,95",€175k
+,Tomás Sultani,Goalkeeper,"Jun 22, 1998 ",25,"['Argentina', 'Portugal']",Brazil,Garín,"1,85",€100k
+,Juan Pablo Romero,Goalkeeper,"Jun 2, 1998 ",25,['Argentina'],Brazil,Elortondo,"1,81",€75k
+,Joaquin Bigo,Goalkeeper,"Jul 13, 1998 ",25,['Argentina'],Brazil,Río Cuarto,"1,83",€25k
+,Jeremías Young,Goalkeeper,"Feb 3, 1998 ",26,"['Argentina', 'Uruguay']",Brazil,Colonia Caroya,"1,90",€25k
+,Federico Bonansea,Goalkeeper,"Mar 13, 1998 ",26,"['Argentina', 'Italy']",Brazil,Dalmacio Vélez Sarsfield,"1,87",€25k
+,Agustín Alastra,Goalkeeper,"Dec 19, 1998 ",25,['Argentina'],Brazil,Rosario,"1,91",€10k
+,Lautaro Petruchi,Goalkeeper,"Sep 1, 1998 ",25,['Argentina'],Brazil,Córdoba,"1,84",€10k
+,Franco Dobler,Goalkeeper,"Jul 26, 1998 ",25,['Argentina'],Brazil,,,-
+,Segundo Cejas,Goalkeeper,"Jul 10, 1998 ",25,['Argentina'],Brazil,,"1,90",-
+,Marcos Abrahin,Goalkeeper,"Apr 29, 1998 ",25,['Argentina'],Brazil,,"1,86",-
+,Nicolas Dormisch,Goalkeeper,"Aug 22, 1998 ",25,['Argentina'],Brazil,Buenos Aires,"1,86",-
+22,Gustavo Tesonotte,Goalkeeper,"Jul 8, 1998 ",25,['Argentina'],Brazil,Berazategui,,-
+,Juan Cruz Nadal,Goalkeeper,"Jun 6, 1998 ",25,['Argentina'],Brazil,,"1,90",-
+,Luciano Guarracino,Goalkeeper,"Sep 21, 1998 ",25,['Argentina'],Brazil,Esquel,"1,85",-
+,Matías Blengio,Goalkeeper,"Apr 14, 1998 ",25,['Argentina'],Brazil,San Fernando,,-
+34,Marco Espíndola,Goalkeeper,"May 26, 1998 ",25,['Colombia'],Brazil,,,-
+,Mauro Rodríguez,Goalkeeper,"Apr 9, 1998 ",25,['Argentina'],Brazil,Mendoza,"1,91",-
+,Juan Jaime,Goalkeeper,"Jan 2, 1998 ",26,['Argentina'],Brazil,,"1,78",-
+,Javier Gerez,Goalkeeper,"Mar 14, 1998 ",26,['Argentina'],Brazil,,"1,80",-
+,Tabaré Benítez,Goalkeeper,"May 11, 1998 ",25,['Argentina'],Brazil,Córdoba (CBA),,-
+,Joaquín De Los Reyes,Goalkeeper,"Dec 3, 1998 ",25,['Argentina'],Brazil,Corrientes,"1,86",-
+19,Franco Jose Ferrarezi,Goalkeeper,"Mar 19, 1998 ",26,"['Argentina', 'Italy']",Brazil,"Junin, Buenos Aires","1,87",-
+,Daniel Acosta,Goalkeeper,"Jul 24, 1998 ",25,['Argentina'],Brazil,,"1,86",-
+,Tomás Catelli,Goalkeeper,"Jan 24, 1998 ",26,"['Argentina', 'Italy']",Brazil,Moron,"1,91",-
+,Gonzalo Arce,Goalkeeper,"Jul 16, 1998 ",25,['Argentina'],Brazil,Berazategui (BUE),,-
+,Estéfano Francesconi,Goalkeeper,"Apr 6, 1998 ",25,['Argentina'],Brazil,Alcorta,"1,85",-
+,Alejandro Rivero,Goalkeeper,"Jun 12, 1998 ",25,['Argentina'],Brazil,,"1,89",-
+,Augusto Bottini,Goalkeeper,"Oct 26, 1998 ",25,['Argentina'],Brazil,Ramos Mejía,"1,87",-
+,Mauricio Gennari,Goalkeeper,"Jun 26, 1998 ",25,"['San Marino', 'Argentina']",Brazil,Córdoba,,-
+,Matias Reynares,Goalkeeper,"Oct 25, 1998 ",25,"['United States', 'Argentina']",Brazil,,"1,85",-
+17,Lautaro Morales,Goalkeeper,"Dec 16, 1999 ",24,['Argentina'],Brazil,Quilmes,"1,87",€1.80m
+,Juan Martín Rojas,Goalkeeper,"Aug 9, 1999 ",24,['Argentina'],Brazil,Corrientes,"1,96",€150k
+,Esteban Glellel,Goalkeeper,"Jan 6, 1999 ",25,['Argentina'],Brazil,Río Cuarto,"1,85",€75k
+,Juan Strumia,Goalkeeper,"Oct 14, 1999 ",24,"['Argentina', 'Italy']",Brazil,Río Cuarto,"1,87",€25k
+35,Emanuel Sittaro,Goalkeeper,"Oct 15, 1999 ",24,['Argentina'],Brazil,Córdoba,"1,85",€25k
+,Facundo Perrone,Goalkeeper,"Aug 10, 1999 ",24,['Argentina'],Brazil,Devoto,"1,91",€10k
+,Matías Balderrama,Goalkeeper,"Nov 30, 1999 ",24,['Argentina'],Brazil,Buenos Aires,"1,90",-
+,Nicolás Bardagi,Goalkeeper,"Oct 4, 1999 ",24,['Argentina'],Brazil,,,-
+,Ignacio Gallardo,Goalkeeper,"Oct 7, 1999 ",24,['Argentina'],Brazil,,"1,88",-
+,Leonel Garcete,Goalkeeper,"May 12, 1999 ",24,['Argentina'],Brazil,,,-
+,Francesco Pitassi,Goalkeeper,"Apr 7, 1999 ",24,['Argentina'],Brazil,,"1,77",-
+,Tomas Palleres,Goalkeeper,"Nov 1, 1999 ",24,['Argentina'],Brazil,,"1,86",-
+,Juan Amann,Goalkeeper,"Jan 1, 1999 ",25,['Argentina'],Brazil,Buenos Aires,"1,88",-
+25,Tomás Durso,Goalkeeper,"Feb 26, 1999 ",25,['Argentina'],Brazil,"La Plata, Buenos Aires","1,85",€1.30m
+,Nicolás Sumavil,Goalkeeper,"Nov 20, 1999 ",24,['Argentina'],Brazil,Santa Rosa,"1,85",€100k
+,Cristian Geist,Goalkeeper,"May 13, 1999 ",24,['Argentina'],Brazil,Bella Italia,"1,94",€50k
+,Lautaro Amadé,Goalkeeper,"Dec 21, 1999 ",24,['Argentina'],Brazil,Buenos Aires,"1,93",€25k
+,Iván Chaves,Goalkeeper,"Nov 25, 1999 ",24,['Argentina'],Brazil,Crespo,"1,87",€10k
+,Agustín Teseyra,Goalkeeper,"Jan 11, 1999 ",25,['Argentina'],Brazil,,,-
+,Alex Verón,Goalkeeper,"Aug 9, 1999 ",24,['Argentina'],Brazil,Cipolletti,"1,76",-
+,Gianluca Albano,Goalkeeper,"Aug 9, 1999 ",24,['Argentina'],Brazil,Trenque Lauquen,"1,87",-
+,Julio Herrera,Goalkeeper,"Jan 23, 1999 ",25,['Argentina'],Brazil,,"1,85",-
+,Jaime Barceló,Goalkeeper,"Oct 6, 1999 ",24,"['Argentina', 'Spain']",Brazil,,"1,87",-
+,Bruno Falcioni,Goalkeeper,"Jan 20, 1999 ",25,['Argentina'],Brazil,,"1,85",-
+,Lautaro Volpicello,Goalkeeper,"Dec 16, 1999 ",24,['Argentina'],Brazil,,,-
+,Bruno Corsi,Goalkeeper,"Aug 15, 1999 ",24,['Argentina'],Brazil,Buenos Aires,,-
+,Lautaro Banegas,Goalkeeper,"Jun 18, 1999 ",24,['Argentina'],Brazil,,,-
+,Facundo Pérez,Goalkeeper,"Mar 2, 1999 ",25,['Argentina'],Brazil,Tandil,"1,79",-
+,Juan Cruz,Goalkeeper,"Jun 13, 1999 ",24,"['Argentina', 'Spain']",Brazil,Rosario,"1,87",-
+,Ezequiel Muth,Goalkeeper,"Jun 14, 1999 ",24,"['Argentina', 'Germany']",Brazil,Saavedra,"1,82",-
+,Franco Carretero,Goalkeeper,"Jan 16, 1999 ",25,['Argentina'],Brazil,La Rioja,"1,93",-
+,Lucas Manso,Goalkeeper,"Feb 2, 1999 ",25,['Argentina'],Brazil,Buenos Aires,,-
+94,Nazareno Gatas,Goalkeeper,"Feb 5, 1999 ",25,['Argentina'],Brazil,Buenos Aires,"1,90",-
+,Gustavo Córdoba,Goalkeeper,"Sep 23, 1999 ",24,['Argentina'],Brazil,,,-
+,Ignacio Viain,Goalkeeper,"Jul 9, 1999 ",24,['Argentina'],Brazil,Buenos Aires,"1,79",-
+,Fernando Verzino,Goalkeeper,"Oct 10, 1999 ",24,['Argentina'],Brazil,,,-
+,Emiliano Facundo Manfredi,Goalkeeper,"Feb 19, 1999 ",25,"['Argentina', 'Italy']",Brazil,La plata,"1,90",-
+,Matias Guberman,Goalkeeper,"Jun 2, 1999 ",24,"['Italy', 'Argentina']",Brazil,,"1,75",-
+,Aaron Díaz,Goalkeeper,"Apr 7, 1999 ",24,"['Argentina', 'Chile']",Brazil,Buenos Aires,"1,94",-
+28,Manuel Roffo,Goalkeeper,"Apr 4, 2000 ",23,"['Argentina', 'Croatia']",Brazil,Teodelina,"1,85",€3.50m
+12,Felipe Zenobio,Goalkeeper,"May 22, 2000 ",23,['Argentina'],Brazil,Tigre,"1,83",€350k
+1,Jerónimo Pourtau,Goalkeeper,"Jan 23, 2000 ",24,['Argentina'],Brazil,Brandsen,"1,93",€275k
+25,Luis Ingolotti,Goalkeeper,"Jan 14, 2000 ",24,['Argentina'],Brazil,Pilar,"1,85",€150k
+13,Matías Ramos Mingo,Goalkeeper,"Aug 4, 2000 ",23,"['Argentina', 'Italy']",Brazil,Córdoba,"1,95",€100k
+,Agustín Grinovero,Goalkeeper,"Aug 10, 2000 ",23,['Argentina'],Brazil,Cerrito,"1,85",€25k
+,Francisco Rivadeneira,Goalkeeper,"May 19, 2000 ",23,['Argentina'],Brazil,San Miguel de Tucumán,"1,80",€25k
+,Agustín Rufinetti,Goalkeeper,"Jan 27, 2000 ",24,['Argentina'],Brazil,Hernando,"1,85",€25k
+,Mauro Casoli,Goalkeeper,"Jan 7, 2000 ",24,['Argentina'],Brazil,Lanus,"1,85",€10k
+,Patricio Albornoz,Goalkeeper,"Apr 4, 2000 ",23,['Argentina'],Brazil,San Miguel de Tucumán,"1,93",€10k
+,Ignacio Turnes,Goalkeeper,"Apr 11, 2000 ",23,"['Argentina', 'Spain']",Brazil,,"1,82",€10k
+,Nicolás Nocetti,Goalkeeper,"Aug 18, 2000 ",23,['Argentina'],Brazil,Formosa,"1,90",€10k
+,Gianfranco Coronati,Goalkeeper,"Dec 14, 2000 ",23,['Argentina'],Brazil,,"1,79",-
+32,Sebastián Meza,Goalkeeper,"Mar 14, 2000 ",24,['Argentina'],Brazil,Oberá,"1,80",€1.50m
+1,Gonzalo Crettaz,Goalkeeper,"Feb 28, 2000 ",24,"['Argentina', 'Spain']",Brazil,Buenos Aires,"1,84",€300k
+65,Jure Marinovich,Goalkeeper,"May 4, 2000 ",23,"['Argentina', 'Croatia']",Brazil,San Lorenzo,"1,87",€200k
+12,Joaquin Domingo Dalmasso,Goalkeeper,"Apr 27, 2000 ",23,"['Argentina', 'Spain']",Brazil,Rio Cuarto,"1,98",€125k
+,Leonardo Díaz,Goalkeeper,"Jan 27, 2000 ",24,['Argentina'],Brazil,Lanús,"1,81",€100k
+,Facundo Masuero,Goalkeeper,"May 23, 2000 ",23,['Argentina'],Brazil,Esmeralda,"1,90",€25k
+1,Rafael Ferrario,Goalkeeper,"Apr 30, 2000 ",23,['Argentina'],Brazil,Monterrico,"1,86",€25k
+,Franco Fragueda,Goalkeeper,"Jul 25, 2000 ",23,['Argentina'],Brazil,Rosario,"1,89",€25k
+,Nazareno Ferreyra,Goalkeeper,"Feb 14, 2000 ",24,['Argentina'],Brazil,Buenos Aires,"1,83",€10k
+,Ignacio Hildmann,Goalkeeper,"Apr 13, 2000 ",23,['Argentina'],Brazil,,"1,90",€10k
+,Nahuel Yzaurralde,Goalkeeper,"Oct 3, 2000 ",23,"['Argentina', 'Italy']",Brazil,Mar del Plata,"1,89",€10k
+,Mauricio Maslovski,Goalkeeper,"Mar 15, 2000 ",24,"['Argentina', 'Poland']",Brazil,San Ignacio,"1,87",€10k
+,Andoni Mendiguibel,Goalkeeper,"Oct 21, 2000 ",23,['Argentina'],Brazil,,,-
+,Enzo Acuña,Goalkeeper,"Dec 31, 2000 ",23,['Argentina'],Brazil,,"1,80",-
+,Lautaro Romero,Goalkeeper,"May 3, 2000 ",23,['Argentina'],Brazil,Santa Fe,,-
+,Augusto Alcorcel,Goalkeeper,"Aug 14, 2000 ",23,['Argentina'],Brazil,Santa Fe,"1,88",-
+,Franco Antoniolli,Goalkeeper,"Jan 1, 2000 ",24,"['Argentina', 'Italy']",Brazil,,"1,97",-
+,Juan Ignacio Borean,Goalkeeper,"Jan 20, 2000 ",24,['Argentina'],Brazil,,"1,84",-
+,Julián García,Goalkeeper,"Jul 8, 2000 ",23,['Argentina'],Brazil,,,-
+,Matías Alberti,Goalkeeper,"Feb 28, 2000 ",24,['Argentina'],Brazil,Leones,"1,85",-
+,Pedro Bravo,Goalkeeper,"Apr 1, 2000 ",23,['Argentina'],Brazil,,"1,87",-
+,Guido Ferrara,Goalkeeper,"Feb 11, 2000 ",24,['Argentina'],Brazil,,"1,92",-
+,Tobías Taliercio,Goalkeeper,"Dec 17, 2000 ",23,['Argentina'],Brazil,,,-
+,Lautaro Callejo,Goalkeeper,"Mar 10, 2000 ",24,"['Argentina', 'Spain']",Brazil,Quilmes,"1,87",-
+,Agustín Quiroz,Goalkeeper,"Jan 1, 2000 ",24,['Argentina'],Brazil,,"1,85",-
+,Lautaro Castro,Goalkeeper,"Oct 23, 2000 ",23,['Argentina'],Brazil,,,-
+,Santiago Romano,Goalkeeper,"Oct 31, 2000 ",23,['Argentina'],Brazil,,,-
+,Iñaki Ludueña,Goalkeeper,"Feb 23, 2000 ",24,['Argentina'],Brazil,Miramar,"1,92",-
+,Santiago Casal,Goalkeeper,"Jun 17, 2000 ",23,['Argentina'],Brazil,Buenos Aires,"1,91",-
+,Alejo Lazarte,Goalkeeper,"Jun 2, 2000 ",23,['Argentina'],Brazil,,"1,82",-
+,Gastón Fernández,Goalkeeper,"Jan 3, 2000 ",24,['Argentina'],Brazil,,,-
+,Santiago Maidana,Goalkeeper,"Aug 15, 2000 ",23,['Argentina'],Brazil,,,-
+,Martín Moyano,Goalkeeper,"Apr 26, 2000 ",23,['Argentina'],Brazil,,,-
+,Federico Quijano,Goalkeeper,"May 28, 2000 ",23,['Argentina'],Brazil,,"1,85",-
+,Darío Barbera,Goalkeeper,"Jan 16, 2000 ",24,['Argentina'],Brazil,,"1,83",-
+,Joaquín Gómez,Goalkeeper,"Aug 7, 2000 ",23,['Argentina'],Brazil,Morteros,"1,85",-
+,Luis Kovacic,Goalkeeper,"Feb 10, 2000 ",24,"['Argentina', 'Chile']",Brazil,Río Grande,"1,87",-
+1,Joaquín Blázquez,Goalkeeper,"Jan 28, 2001 ",23,"['Argentina', 'Italy']",Brazil,Luque,"1,93",€375k
+25,Juan Pablo Zozaya,Goalkeeper,"Aug 13, 2001 ",22,['Argentina'],Brazil,Necochea,"1,87",€250k
+12,Gino Santilli,Goalkeeper,"Oct 26, 2001 ",22,['Argentina'],Brazil,Villa Constitución,"1,91",€75k
+23,Felipe San Juan,Goalkeeper,"Jun 23, 2001 ",22,['Argentina'],Brazil,San Jerónimo Sud,"1,88",€50k
+,Luca Fanuele,Goalkeeper,"Mar 10, 2001 ",23,['Argentina'],Brazil,Necochea,"1,90",€25k
+40,Lucas Meuli,Goalkeeper,"Jun 30, 2001 ",22,['Argentina'],Brazil,Diamante,"1,85",€25k
+,Samuel Velázquez,Goalkeeper,"Aug 17, 2001 ",22,['Argentina'],Brazil,Santa Fe,"1,84",€25k
+12,Daniel Juárez,Goalkeeper,"Dec 4, 2001 ",22,['Argentina'],Brazil,"Capital Federal, Buenos Aires","1,84",€25k
+12,Nahuel Manganelli,Goalkeeper,"Feb 19, 2001 ",23,['Argentina'],Brazil,Selva,"1,84",€25k
+,Mayco Bergia,Goalkeeper,"Jul 30, 2001 ",22,['Argentina'],Brazil,Balnearia,"1,90",€10k
+,Lautaro Maldonado,Goalkeeper,"Dec 5, 2001 ",22,['Argentina'],Brazil,,"1,92",€10k
+,Dante Monzón,Goalkeeper,"Oct 5, 2001 ",22,['Argentina'],Brazil,Buenos Aires,"1,80",€10k
+,Daniel Montagnino,Goalkeeper,"Apr 6, 2001 ",22,['Argentina'],Brazil,Villa San Nicolás,"1,86",-
+12,Facundo Sanguinetti,Goalkeeper,"Mar 1, 2001 ",23,['Argentina'],Brazil,Lanús,"1,85",€250k
+,Luciano Jachfe,Goalkeeper,"Jul 18, 2001 ",22,['Argentina'],Brazil,Villa Luzuriaga,"1,85",€150k
+16,Lautaro López Kaleniuk,Goalkeeper,"Jan 24, 2001 ",23,['Argentina'],Brazil,Tres Isletas,"1,91",€75k
+1,Miguel Ángel Acosta,Goalkeeper,"Oct 19, 2001 ",22,['Argentina'],Brazil,Posadas,"1,89",€50k
+,Joaquín Enrico,Goalkeeper,"Aug 22, 2001 ",22,['Argentina'],Brazil,Santa Fe,"1,90",€25k
+,Manuel Tasso,Goalkeeper,"Mar 5, 2001 ",23,['Argentina'],Brazil,La Plata,"1,83",€25k
+25,Emmanuel Gómez Riga,Goalkeeper,"Sep 14, 2001 ",22,['Argentina'],Brazil,Buenos Aires,"1,86",€25k
+35,Mirko Pagani,Goalkeeper,"Aug 11, 2001 ",22,"['Argentina', 'Spain']",Brazil,Correa (Santa Fe),"1,81",€25k
+42,Roberto León,Goalkeeper,"Aug 8, 2001 ",22,['Argentina'],Brazil,"Lomas de Zamora, Buenos Aires","1,85",€25k
+12,Agustín Lastra,Goalkeeper,"Jan 2, 2001 ",23,['Argentina'],Brazil,Famaillá,"1,93",€10k
+15,Ramiro García,Goalkeeper,"Dec 11, 2001 ",22,['Argentina'],Brazil,Lanús,"1,83",€10k
+,Alessandro López,Goalkeeper,"Mar 23, 2001 ",22,['Argentina'],Brazil,Moreno,"1,80",€10k
+,Leandro Pereira,Goalkeeper,"Aug 22, 2001 ",22,['Argentina'],Brazil,,"1,91",-
+,Franco Pérez,Goalkeeper,"Feb 19, 2001 ",23,['Argentina'],Brazil,,,-
+,Gabriel Sanhueza,Goalkeeper,"Oct 10, 2001 ",22,['Argentina'],Brazil,,,-
+,Hilario Alonso,Goalkeeper,"May 19, 2001 ",22,['Argentina'],Brazil,,,-
+,Franco Puppo,Goalkeeper,"Dec 5, 2001 ",22,['Argentina'],Brazil,Rosario,"1,92",-
+,Rodrigo Montero,Goalkeeper,"May 26, 2001 ",22,['Argentina'],Brazil,Guemes,"1,80",-
+,Franco Gentilli,Goalkeeper,"Jul 10, 2001 ",22,['Argentina'],Brazil,,"1,75",-
+,Ignacio Bessone,Goalkeeper,"Jan 1, 2001 ",23,"['Argentina', 'Italy']",Brazil,,,-
+,Matías Tasuri,Goalkeeper,"Dec 20, 2001 ",22,['Argentina'],Brazil,,,-
+12,Thyago Ayala,Goalkeeper,"Sep 7, 2001 ",22,['Argentina'],Brazil,Villa Ángela,"1,88",-
+,Facundo Sánchez,Goalkeeper,"Jun 29, 2001 ",22,['Argentina'],Brazil,,"1,88",-
+,Alejandro González,Goalkeeper,"Dec 12, 2001 ",22,['Argentina'],Brazil,González Moreno,,-
+,Mateo Pierobon,Goalkeeper,"Feb 10, 2001 ",23,['Argentina'],Brazil,,"1,86",-
+,Diego Paiz,Goalkeeper,"Jul 21, 2001 ",22,['Argentina'],Brazil,,"1,75",-
+,Nicolás Ávalos,Goalkeeper,"Sep 14, 2001 ",22,['Argentina'],Brazil,,"1,86",-
+,Joaquín Cabrera,Goalkeeper,"Jun 4, 2001 ",22,['Argentina'],Brazil,Lincoln,"1,90",-
+12,Leandro Brey,Goalkeeper,"Sep 21, 2002 ",21,['Argentina'],Brazil,Lomas de Zamora,"1,91",€400k
+,Federico Losas,Goalkeeper,"Mar 28, 2002 ",21,"['Argentina', 'Italy']",Brazil,Pilar,"1,84",€175k
+1,Lucas Escobar,Goalkeeper,"May 16, 2002 ",21,['Argentina'],Brazil,Buenos Aires,"1,84",€25k
+12,Laureano Martínez,Goalkeeper,"Apr 3, 2002 ",21,['Argentina'],Brazil,Rosario,"1,88",€25k
+,Lucas Ruiz,Goalkeeper,"Jul 22, 2002 ",21,['Argentina'],Brazil,San Miguel,"1,78",€10k
+,Agustín Auil,Goalkeeper,"May 24, 2002 ",21,"['Argentina', 'Italy']",Brazil,,"1,90",-
+,Jonathan Dacuez,Goalkeeper,"Mar 5, 2002 ",22,['Argentina'],Brazil,,,-
+,Matias Cardozo,Goalkeeper,"Apr 28, 2002 ",21,['Argentina'],Brazil,San Miguel de Tucumán,"1,75",-
+,Andrés Marsengo,Goalkeeper,"Apr 30, 2002 ",21,['Argentina'],Brazil,,"1,98",-
+,Julián Pedernera,Goalkeeper,"Jul 1, 2002 ",21,['Argentina'],Brazil,Córdoba,,-
+,Juan Manuel Vacirca,Goalkeeper,"Jan 1, 2002 ",22,['Argentina'],Brazil,,,-
+,Marcos Paredes,Goalkeeper,"Jan 25, 2002 ",22,['Argentina'],Brazil,,,-
+,Bruno de la Torre,Goalkeeper,"Apr 26, 2002 ",21,['Argentina'],Brazil,Buenos Aires,"1,92",-
+1,Fabricio Iacovich,Goalkeeper,"Jan 29, 2002 ",22,"['Argentina', 'Croatia']",Brazil,La Plata,"1,99",€250k
+12,Gustavo Lescano,Goalkeeper,"Mar 21, 2002 ",22,['Argentina'],Brazil,Tucumán,"1,87",€25k
+33,Mateo Clemente,Goalkeeper,"Jun 12, 2002 ",21,['Argentina'],Brazil,Olavarría,"1,84",€25k
+,Luciano Peraggini,Goalkeeper,"Feb 13, 2002 ",22,['Argentina'],Brazil,Buenos Aires,"1,88",€25k
+,Blas Rolón,Goalkeeper,"Feb 3, 2002 ",22,['Argentina'],Brazil,Formosa,"1,82",-
+,Rodrigo Soria,Goalkeeper,"Dec 15, 2002 ",21,['Argentina'],Brazil,,,-
+,Manuel Testore,Goalkeeper,"Apr 10, 2002 ",21,['Argentina'],Brazil,Vicuña Mackenna,,-
+13,Valentín Mosqueira,Goalkeeper,"Oct 29, 2002 ",21,"['Argentina', 'Italy']",Brazil,Rosario,"1,85",-
+,Valentino Torres,Goalkeeper,"Mar 24, 2002 ",21,['Argentina'],Brazil,,,-
+,Tobías Tournour,Goalkeeper,"Nov 17, 2002 ",21,['Argentina'],Brazil,,"1,83",-
+,Lautaro Bursich,Goalkeeper,"Sep 25, 2002 ",21,"['Argentina', 'Italy']",Brazil,,"1,95",-
+,Uriel Moris,Goalkeeper,"Sep 26, 2002 ",21,['Argentina'],Brazil,Tres Arroyos,"1,90",-
+,Agustín Gómez,Goalkeeper,"Jan 16, 2002 ",22,['Argentina'],Brazil,Villa Celina,"1,83",-
+42,Lautaro Garzón,Goalkeeper,"Jul 30, 2003 ",20,['Argentina'],Brazil,Buenos Aires,"1,80",€300k
+35,Diego González,Goalkeeper,"Apr 20, 2003 ",20,['Argentina'],Brazil,Resistencia,"1,80",€75k
+,Nicolás Rosa,Goalkeeper,"May 15, 2003 ",20,['Argentina'],Brazil,Chañar Ladeado,,€25k
+31,Valentino Quintero,Goalkeeper,"Apr 14, 2003 ",20,['Argentina'],Brazil,Rosario,"1,93",€25k
+,Agustín Galván,Goalkeeper,"Mar 28, 2003 ",20,['Argentina'],Brazil,Lanús,"1,84",-
+12,Gonzalo Siri,Goalkeeper,"Feb 21, 2003 ",21,['Argentina'],Brazil,Buenos Aires,"1,83",-
+,Emilio Vargas,Goalkeeper,"Jun 2, 2003 ",20,['Argentina'],Brazil,,,-
+,Agustín Britos,Goalkeeper,"Aug 7, 2003 ",20,['Argentina'],Brazil,,,-
+,Alejo Varisco,Goalkeeper,"Oct 17, 2003 ",20,['Argentina'],Brazil,,,-
+37,Sebastián Díaz Robles,Goalkeeper,"Nov 1, 2003 ",20,['Argentina'],Brazil,Florencio Varela,"1,85",-
+,Nicolás Cabas,Goalkeeper,"Jun 28, 2003 ",20,['Argentina'],Brazil,Formosa,"1,75",-
+,Franco Herrera,Goalkeeper,"Sep 19, 2003 ",20,['Argentina'],Brazil,Bandera,"1,90",€200k
+,Geronimo De Ridder,Goalkeeper,"May 16, 2003 ",20,"['Argentina', 'Belgium']",Brazil,,"1,90",€50k
+,Francisco Gualiteri,Goalkeeper,"Mar 17, 2003 ",21,['Argentina'],Brazil,Cañada de Gómez,"1,84",€25k
+,Tomás Garcia,Goalkeeper,"Nov 8, 2003 ",20,['Argentina'],Brazil,Delfín Gallo,"1,85",€10k
+30,Josué Reinatti,Goalkeeper,"Jun 2, 2003 ",20,['Argentina'],Brazil,Las Rosas,"1,86",-
+,Nahuel Nistal,Goalkeeper,"Aug 30, 2003 ",20,['Argentina'],Brazil,Buenos Aires,"1,86",-
+,Martín Rolando,Goalkeeper,"Dec 26, 2003 ",20,['Argentina'],Brazil,San Jorge,"1,88",-
+,Joaquín Canadell,Goalkeeper,"Apr 19, 2003 ",20,"['Argentina', 'Italy']",Brazil,Buenos Aires,"1,92",-
+,Sebastián Lerena,Goalkeeper,"Jul 7, 2003 ",20,['Argentina'],Brazil,,,-
+21,Facundo Vila,Goalkeeper,"May 11, 2003 ",20,['Argentina'],Brazil,Mar del Plata,"1,84",-
+12,Federico Gomes,Goalkeeper,"Mar 5, 2004 ",20,['Argentina'],Brazil,San Isidro,"1,95",€500k
+12,Nicolás Cláa,Goalkeeper,"Aug 5, 2004 ",19,['Argentina'],Brazil,Valentín Alsina,"1,85",€150k
+12,Leonel Ruiz,Goalkeeper,"Jun 19, 2004 ",19,['Argentina'],Brazil,Moreno,,-
+1,Juan Múgica,Goalkeeper,"Feb 23, 2004 ",20,"['Argentina', 'Spain']",Brazil,Rosario,"1,90",-
+40,Nazareno Durán,Goalkeeper,"May 10, 2004 ",19,['Argentina'],Brazil,Avellaneda,"1,85",-
+41,Santiago Beltrán,Goalkeeper,"Oct 4, 2004 ",19,['Argentina'],Brazil,Buenos Aires,"1,90",-
+12,Julián Kadijevic,Goalkeeper,"Jan 27, 2004 ",20,"['Argentina', 'Greece']",Brazil,Buenos Aires,"1,86",-
+,Santiago Torres,Goalkeeper,"Jan 8, 2004 ",20,['Argentina'],Brazil,Buenos Aires,"1,87",-
+37,Lucas Lavagnino,Goalkeeper,"Aug 22, 2004 ",19,['Argentina'],Brazil,Palermo,"1,90",€150k
+1,Fernando Rodríguez,Goalkeeper,"Sep 15, 2004 ",19,['Argentina'],Brazil,,,-
+28,Matías Daniele,Goalkeeper,"Jan 2, 2004 ",20,['Argentina'],Brazil,Noetinger,"1,95",-
+30,Rodrigo Borzone,Goalkeeper,"Oct 21, 2004 ",19,['Argentina'],Brazil,"La Plata, Buenos Aires","1,90",-
+12,Lucas Torlaschi,Goalkeeper,"Jan 5, 2004 ",20,['Argentina'],Brazil,Luján,"1,83",-
+,Juan Santia,Goalkeeper,"Aug 14, 2004 ",19,['Argentina'],Brazil,,,-
+,Francisco Gómez,Goalkeeper,"Apr 6, 2004 ",19,['Argentina'],Brazil,"Santa Rosa, La Pampa","1,87",-
+31,Gustavo Calderari,Goalkeeper,"Feb 12, 2004 ",20,['Argentina'],Brazil,San Salvador de Jujuy,,-
+38,Alexis Martinez,Goalkeeper,"Feb 3, 2005 ",19,['Argentina'],Brazil,San Pedro,"1,8",€25k
+,Valentín Díaz,Goalkeeper,"May 19, 2005 ",18,['Argentina'],Brazil,La Plata,"1,92",-
+33,Santino Barbi,Goalkeeper,"Jun 14, 2005 ",18,['Argentina'],Brazil,El Tío,"1,91",-
+,Thiago De Bellis,Goalkeeper,"Feb 1, 2005 ",19,['Argentina'],Brazil,Buenos Aires,"1,83",-
+12,Mateo Morro,Goalkeeper,"Aug 1, 2005 ",18,"['Argentina', 'Italy']",Brazil,Wilde,"1,85",-
