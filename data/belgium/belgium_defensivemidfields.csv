@@ -1,0 +1,166 @@
+Number,Name,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+,Jeroen Vanderputte,Defensive Midfield,"Aug 24, 1985 ",38,['Belgium'],Belgium,Maasmechelen,CM,,-
+,Kadir Bekmezci,Defensive Midfield,"Jul 5, 1985 ",38,"['Türkiye', 'Belgium']",Belgium,Seraing,CM   CB,"1,80",-
+,Mathieu Dejonckheere,Defensive Midfield,"Jul 19, 1985 ",38,['Belgium'],Belgium,Mouscron,,"1,78",-
+,Steven De Petter,Defensive Midfield,"Nov 22, 1985 ",38,['Belgium'],Belgium,Aalst,CB,"1,81",-
+,Olivier Vinamont,Defensive Midfield,"Jul 15, 1985 ",38,['Belgium'],Belgium,Liège,CB   RM,"1,82",-
+,Killian Overmeire,Defensive Midfield,"Dec 6, 1985 ",38,['Belgium'],Belgium,Gent,CM,"1,88",-
+,Maximilien Mouton,Defensive Midfield,"Sep 16, 1986 ",37,['Belgium'],Belgium,Charleroi,CM,,-
+,Sébastien Gonzatti,Defensive Midfield,"Nov 28, 1986 ",37,"['Belgium', 'Italy']",Belgium,Liège,,"1,81",-
+,Joris Van Cleemput,Defensive Midfield,"May 7, 1986 ",37,['Belgium'],Belgium,Antwerpen,,,-
+,Maxime Annys,Defensive Midfield,"Jul 24, 1986 ",37,['Belgium'],Belgium,Oostende,LM,"1,85",-
+,Johan Bombart,Defensive Midfield,"Jan 19, 1987 ",37,['Belgium'],Belgium,La Louvière,CB   RB,"1,79",-
+,Francesco Carratta,Defensive Midfield,"Aug 17, 1987 ",36,"['Belgium', 'Italy']",Belgium,Houthalen,CM,"1,82",-
+,Cemal Köse,Defensive Midfield,"Jun 7, 1987 ",36,"['Belgium', 'Türkiye']",Belgium,Brüssel,CB   RB,"1,75",-
+,Thijs De Langhe,Defensive Midfield,"Oct 8, 1987 ",36,['Belgium'],Belgium,Beveren,,,-
+,Gertjan De Mets,Defensive Midfield,"Apr 2, 1987 ",36,['Belgium'],Belgium,Brugge,RB   RM,"1,76",-
+,Floribert Ngalula,Defensive Midfield,"Mar 7, 1987 ",37,"['Belgium', 'DR Congo']",Belgium,Brussel,RM   CB,"1,87",-
+,David Hubert,Defensive Midfield,"Feb 12, 1988 ",36,['Belgium'],Belgium,Uccle,CB   CM,"1,84",-
+,Mehdi Hadraoui,Defensive Midfield,"Feb 20, 1988 ",36,"['Belgium', 'Morocco']",Belgium,Brussel,CM   CB,"1,85",-
+,Enoch Oteng,Defensive Midfield,"Jul 8, 1988 ",35,"['Belgium', 'Ghana']",Belgium,Brussel,,"1,69",-
+,Kwinten Clappaert,Defensive Midfield,"Dec 6, 1988 ",35,['Belgium'],Belgium,Lochristi,CM,"1,84",-
+,Giel Deferm,Defensive Midfield,"Jun 30, 1988 ",35,['Belgium'],Belgium,Sint-Truiden,LB   CB,"1,80",-
+,Levent Nalıncı,Defensive Midfield,"Feb 24, 1988 ",36,"['Türkiye', 'Belgium']",Belgium,Montigniessur,CF   AM,"1,73",-
+,Yoni Buyens,Defensive Midfield,"Mar 10, 1988 ",36,['Belgium'],Belgium,Duffel,CM,"1,84",-
+,Steven Defour,Defensive Midfield,"Apr 15, 1988 ",35,['Belgium'],Belgium,Mechelen,CM,"1,75",-
+6,Joren Dom,Defensive Midfield,"Nov 29, 1989 ",34,['Belgium'],Belgium,Antwerpen,RB   RM,"1,78",€300k
+,Kurt Remen,Defensive Midfield,"May 29, 1989 ",34,['Belgium'],Belgium,Geel,CB,,-
+13,Jean Fassin,Defensive Midfield,"Jan 13, 1989 ",35,['Belgium'],Belgium,Saint-Ghislain,,"1,94",-
+,Arne Vanneste,Defensive Midfield,"Apr 16, 1989 ",34,['Belgium'],Belgium,Kortrijk,,"1,73",-
+,Ibrahim Maaroufi,Defensive Midfield,"Jan 18, 1989 ",35,"['Morocco', 'Belgium']",Belgium,Brussel,CM,"1,83",-
+,Ken Van Damme,Defensive Midfield,"May 18, 1989 ",34,['Belgium'],Belgium,Dendermonde,,"1,78",-
+,Joachim Cammalleri,Defensive Midfield,"Apr 14, 1989 ",34,['Belgium'],Belgium,Genk,LW   RW,"1,74",-
+,Erdem Sen,Defensive Midfield,"Jan 5, 1989 ",35,"['Belgium', 'Türkiye']",Belgium,Brussel,CB   RB,"1,80",-
+,Emmanuel Wisniewski,Defensive Midfield,"Aug 2, 1989 ",34,"['Poland', 'Belgium']",Belgium,,CM   AM,"1,81",-
+26,Jens Cools,Defensive Midfield,"Oct 16, 1990 ",33,['Belgium'],Belgium,Westerlo,CM   RB,"1,89",€100k
+,Manuel De Castris,Defensive Midfield,"Sep 20, 1990 ",33,"['Belgium', 'Italy']",Belgium,Liège,,,-
+,Christopher Meyers,Defensive Midfield,"Dec 21, 1990 ",33,['Belgium'],Belgium,Schoten,,"1,86",-
+,Karel Van Roose,Defensive Midfield,"Apr 1, 1990 ",33,['Belgium'],Belgium,Tielt,RB   CM,"1,86",-
+,Jordy Cathoir,Defensive Midfield,"Jul 29, 1990 ",33,['Belgium'],Belgium,Beveren,,"1,82",-
+,Yannick Aerts,Defensive Midfield,"Jun 23, 1990 ",33,['Belgium'],Belgium,Borgerhout,,"1,80",-
+,Marcellin Bilali,Defensive Midfield,"Jul 25, 1991 ",32,"['Belgium', 'DR Congo']",Belgium,Huy,CB   RB,"1,79",-
+,René Sterckx,Defensive Midfield,"Jan 18, 1991 ",33,['Belgium'],Belgium,,RM   AM,"1,78",-
+17,Samuel Fabris,Defensive Midfield,"Jan 30, 1991 ",33,['Belgium'],Belgium,Sambreville,RB   CM,"1,76",-
+16,Robin Vercammen,Defensive Midfield,"Jun 20, 1991 ",32,['Belgium'],Belgium,Duffel,,"1,75",-
+,Arnor Angeli,Defensive Midfield,"Feb 25, 1991 ",33,['Belgium'],Belgium,Brussel,RM   LM,"1,84",-
+13,Joachim Van Damme,Defensive Midfield,"Jul 23, 1991 ",32,['Belgium'],Belgium,Beveren,CM   CB,"1,97",-
+18,Ryan Sanusi,Defensive Midfield,"Jan 5, 1992 ",32,"['Belgium', 'Nigeria']",Belgium,Borgerhout,CM   LM,"1,81",€500k
+,Giannelli Imbula,Defensive Midfield,"Sep 12, 1992 ",31,"['DR Congo', 'France']",Belgium,Vilvoorde,CM,"1,86",€125k
+38,Mikail Deliboyraz,Defensive Midfield,"Apr 15, 1992 ",31,['Türkiye'],Belgium,La Louvière,,,-
+,Jore Trompet,Defensive Midfield,"Jul 30, 1992 ",31,['Belgium'],Belgium,Brussel,,"1,78",-
+29,Tom Pietermaat,Defensive Midfield,"Sep 6, 1992 ",31,['Belgium'],Belgium,,CM   RM,"1,74",€200k
+8,Maxime Michel,Defensive Midfield,"Oct 20, 1992 ",31,['Belgium'],Belgium,La Louvière,,"1,80",-
+,Giovanni Franco-Simoës,Defensive Midfield,"Jun 16, 1992 ",31,"['Belgium', 'Portugal']",Belgium,Oostende,,"1,79",-
+26,Grégory Lazitch,Defensive Midfield,"May 26, 1992 ",31,['Belgium'],Belgium,Charleroi,CB   LB,"1,80",-
+23,Mats Rits,Defensive Midfield,"Jul 18, 1993 ",30,['Belgium'],Belgium,Antwerpen,CM,"1,78",€4.00m
+25,Kenneth Houdret,Defensive Midfield,"Aug 9, 1993 ",30,['Belgium'],Belgium,Brussel,CM   CB,"1,91",€150k
+,Brice Ntambwe,Defensive Midfield,"Apr 29, 1993 ",30,"['Belgium', 'DR Congo']",Belgium,Brussel,CM,"1,88",-
+28,Hannes Van Der Bruggen,Defensive Midfield,"Apr 1, 1993 ",30,['Belgium'],Belgium,Burst,CM   AM,"1,81",€750k
+,Aaron Verwilligen,Defensive Midfield,"Dec 26, 1993 ",30,['Belgium'],Belgium,Stekene,CB,"1,78",-
+13,Julien De Sart,Defensive Midfield,"Dec 23, 1994 ",29,['Belgium'],Belgium,Waremme,CM,"1,87",€6.00m
+44,Ibrahima Cissé,Defensive Midfield,"Feb 28, 1994 ",30,"['Guinea', 'Belgium']",Belgium,Liège,CB   RB,"1,84",€700k
+,Christophe Callens,Defensive Midfield,"Jan 13, 1994 ",30,['Belgium'],Belgium,,CM,"1,72",-
+22,Fabrice Stoffels,Defensive Midfield,"Jan 1, 1994 ",30,['Belgium'],Belgium,Malmedy,CB   LB,"1,90",-
+,Thomas Regnier,Defensive Midfield,"Apr 23, 1994 ",29,"['Germany', 'France']",Belgium,,CM,N/A,-
+,Ramon Halmai,Defensive Midfield,"Apr 18, 1994 ",29,['Hungary'],Belgium,Brasschaat,,"1,84",-
+6,Charni Ekangamene,Defensive Midfield,"Feb 16, 1994 ",30,"['Belgium', 'DR Congo']",Belgium,Antwerpen,LB   CB,"1,78",-
+28,Birger Verstraete,Defensive Midfield,"Apr 16, 1994 ",29,['Belgium'],Belgium,Oostende,CM,"1,74",€1.80m
+,Dany Kanga,Defensive Midfield,"Mar 4, 1994 ",30,['Belgium'],Belgium,Brussels,CB   LB,"1,75",-
+8,Sean Aerts,Defensive Midfield,"Sep 26, 1994 ",29,['Belgium'],Belgium,Genk,CB   RB,"1,85",-
+,Tom Dethier,Defensive Midfield,"Oct 30, 1994 ",29,['Belgium'],Belgium,Huy,,"1,77",-
+,Tika Musonda,Defensive Midfield,"Jan 18, 1994 ",30,"['Zambia', 'Belgium']",Belgium,Brussel,CB   RB,"1,85",-
+,Junior Malanda,Defensive Midfield,"Aug 28, 1994","Aug 28, 1994",['Belgium'],Belgium,Brüssel,CB   CM,"1,81",-
+32,Leander Dendoncker,Defensive Midfield,"Apr 15, 1995 ",28,['Belgium'],Belgium,Passendale,CM   CB,"1,88",€9.00m
+22,Nicolas Gerits,Defensive Midfield,"Aug 2, 1995 ",28,['Belgium'],Belgium,Rocourt,RB   CB,"1,72",-
+,Andrei Stan,Defensive Midfield,"Dec 31, 1995 ",28,['Romania'],Belgium,Brügge,CM   CB,N/A,-
+,Simon Decuypere,Defensive Midfield,"Apr 28, 1995 ",28,['Belgium'],Belgium,Genk,CM,"1,74",-
+8,Ahmed El Messaoudi,Defensive Midfield,"Aug 3, 1995 ",28,"['Morocco', 'Belgium']",Belgium,Brussel,AM   CM,"1,82",€500k
+,Muhammed Emel,Defensive Midfield,"May 18, 1995 ",28,"['Türkiye', 'Belgium']",Belgium,La Louvière,RM   RB,"1,75",-
+23,Jasper Sols,Defensive Midfield,"Jun 30, 1995 ",28,['Belgium'],Belgium,Lier,,,-
+8,Nils Pierre,Defensive Midfield,"Feb 4, 1995 ",29,['Belgium'],Belgium,Oostende,RM,"1,80",-
+4,Mathias Fixelles,Defensive Midfield,"Aug 11, 1996 ",27,['Belgium'],Belgium,Soignies,CM   RM,"1,83",€600k
+,Scott Bitsindou,Defensive Midfield,"May 11, 1996 ",27,"['Congo', 'Belgium']",Belgium,Brussel,CB,"1,94",€200k
+,Furkan Aydemir,Defensive Midfield,"Oct 15, 1996 ",27,['Türkiye'],Belgium,-,CB,,-
+,Gregoire Martin,Defensive Midfield,"Feb 8, 1996 ",28,['Belgium'],Belgium,,CB,,-
+3,Robin Lenaerts,Defensive Midfield,"May 31, 1996 ",27,['Belgium'],Belgium,Antwerpen,CB,"1,86",-
+4,Aristote Nkaka,Defensive Midfield,"Mar 27, 1996 ",27,"['Belgium', 'DR Congo']",Belgium,Ghlin,CB,"1,84",€200k
+,Aäron Belpaire,Defensive Midfield,"Nov 25, 1996 ",27,['Belgium'],Belgium,Brugge,LB   CB,,-
+,Sefa Celik,Defensive Midfield,"Nov 27, 1996 ",27,"['Belgium', 'Türkiye']",Belgium,Antwerpen,,,-
+4,Karim Essikal,Defensive Midfield,"Feb 8, 1996 ",28,"['Morocco', 'Belgium']",Belgium,Vilvoorde,CM   CB,"1,88",-
+6,Alessio Alessandro,Defensive Midfield,"Apr 29, 1996 ",27,"['Belgium', 'Italy']",Belgium,Genk,CM   CB,"1,75",-
+52,Jur Schryvers,Defensive Midfield,"Mar 11, 1997 ",27,['Belgium'],Belgium,,RB,"1,81",€150k
+,Glenn Jacobs,Defensive Midfield,"Feb 13, 1997 ",27,['Belgium'],Belgium,Bilzen,,"1,72",-
+,Lucas Berger,Defensive Midfield,"Jun 25, 1997 ",26,['Belgium'],Belgium,,CB,"1,92",-
+,Hasan Özkan,Defensive Midfield,"Nov 14, 1997 ",26,"['Türkiye', 'Belgium']",Belgium,Jette,CM   CB,"1,85",-
+,Dylan De Bruycker,Defensive Midfield,"Dec 5, 1997 ",26,"['Philippines', 'Belgium']",Belgium,Gent,CM   AM,"1,77",€125k
+,Seppe De Langhe,Defensive Midfield,"Dec 27, 1997 ",26,['Belgium'],Belgium,,LB   RB,,-
+21,Ibrahim El Ansri,Defensive Midfield,"Jan 10, 1997 ",27,"['Morocco', 'Belgium']",Belgium,Wilrijk,CM   RB,"1,77",-
+24,Charles Vanhoutte,Defensive Midfield,"Sep 16, 1998 ",25,['Belgium'],Belgium,Kortrijk,CM,"1,82",€3.00m
+6,Matthias Verreth,Defensive Midfield,"Feb 20, 1998 ",26,['Belgium'],Belgium,Morkhoven,CB   CM,"1,81",€550k
+38,Alexandro Cavagnera,Defensive Midfield,"Dec 1, 1998 ",25,"['Belgium', 'Italy']",Belgium,Liège,,"1,86",€100k
+,Rodan Banzuzi,Defensive Midfield,"Dec 3, 1998 ",25,['Belgium'],Belgium,Verviers,CB   CM,"1,90",-
+23,Dani Wilms,Defensive Midfield,"Jul 16, 1998 ",25,['Belgium'],Belgium,Mechelen,CM   AM,"1,80",-
+8,Jordi Maus,Defensive Midfield,"Aug 31, 1998 ",25,['Belgium'],Belgium,Genk,CM,"1,83",-
+,Kaan Tanriver,Defensive Midfield,"Apr 4, 1998 ",25,"['Belgium', 'Türkiye']",Belgium,Genk,CM   CB,"1,76",-
+,Brian Marmitte,Defensive Midfield,"Feb 26, 1998 ",26,['Belgium'],Belgium,Brüssel,CM   CB,,-
+6,Dante Rigo,Defensive Midfield,"Dec 11, 1998 ",25,['Belgium'],Belgium,Tremelo,CM,"1,80",€1.00m
+21,Marko Stojanovic,Defensive Midfield,"Aug 2, 1998 ",25,['Serbia'],Belgium,Antwerp,,,€250k
+,Okan Özcifci,Defensive Midfield,"Feb 15, 1998 ",26,"['Belgium', 'Türkiye']",Belgium,Brussel,LB   LM,"1,81",-
+,Domenico Crea,Defensive Midfield,"Sep 14, 1998 ",25,['Belgium'],Belgium,Charleroi,,"1,80",-
+8,Jordy De Koker,Defensive Midfield,"Sep 29, 1998 ",25,['Belgium'],Belgium,Asse,CB,"1,81",-
+11,Loïc Reciputi,Defensive Midfield,"Oct 22, 1998 ",25,['Belgium'],Belgium,,CM   AM,"1,83",-
+,Robin Walsh,Defensive Midfield,"Apr 1, 1998 ",25,"['Ireland', 'Belgium']",Belgium,Brussels,CB   RB,"1,77",-
+14,Senne Lynen,Defensive Midfield,"Feb 19, 1999 ",25,['Belgium'],Belgium,Antwerpen,CM   AM,"1,85",€3.50m
+,Soufiane Karkache,Defensive Midfield,"Jul 2, 1999 ",24,"['Morocco', 'Belgium']",Belgium,,RB   CB,"1,85",€175k
+,Christopher Veka,Defensive Midfield,N/A ,24,"['Belgium', 'DR Congo']",Belgium,Bruxelles,CB,"1,87",-
+,Toguim Maré,Defensive Midfield,"Dec 21, 1999 ",24,"['Belgium', 'Burkina Faso']",Belgium,Etterbeek,CM,"1,81",-
+,Aaron Geerts,Defensive Midfield,"Feb 17, 1999 ",25,['Belgium'],Belgium,,CB,"1,82",-
+,Ian Opdenakker,Defensive Midfield,"Sep 11, 1999 ",24,['Belgium'],Belgium,Genk,CM   CB,"1,78",-
+,Médard Rolfes,Defensive Midfield,"Sep 8, 1999 ",24,"['Belgium', 'DR Congo']",Belgium,,CB,,-
+16,Sieben Dewaele,Defensive Midfield,"Feb 2, 1999 ",25,['Belgium'],Belgium,Kortrijk,CM   LB,"1,80",€400k
+,Youssef El Khattabi,Defensive Midfield,"Sep 9, 1999 ",24,"['Belgium', 'Morocco']",Belgium,Brussels,RB   CB,"1,78",-
+,Adriano Poli,Defensive Midfield,"Dec 12, 1999 ",24,['Belgium'],Belgium,Boussu,,,-
+4,Sebbe Augustijns,Defensive Midfield,"Sep 3, 1999 ",24,['Belgium'],Belgium,Kalmthout,CB,"1,79",-
+22,Ayoub El Harrak,Defensive Midfield,"Jan 28, 1999 ",25,"['Morocco', 'Belgium']",Belgium,,CM   AM,"1,74",-
+,Yassine El Bekkali,Defensive Midfield,"Dec 29, 1999 ",24,"['Morocco', 'Belgium']",Belgium,Brussel,CM   AM,"1,77",-
+14,Brian De Keersmaecker,Defensive Midfield,"May 6, 2000 ",23,['Belgium'],Belgium,Bornem,CM,"1,82",€900k
+7,Kristian Michal,Defensive Midfield,"Nov 26, 2000 ",23,['Czech Republic'],Belgium,,CM,"1,75",€125k
+5,Calvin Dekuyper,Defensive Midfield,"Feb 24, 2000 ",24,['Belgium'],Belgium,Oostende,,"1,90",-
+,Maxime De Bie,Defensive Midfield,"Dec 13, 2000 ",23,['Belgium'],Belgium,Antwerpen,CB   CM,"1,89",-
+16,Kéres Masangu,Defensive Midfield,"Mar 7, 2000 ",24,"['Belgium', 'DR Congo']",Belgium,Antwerpen,CM   CB,"1,85",€200k
+20,Nikola Pejčić,Defensive Midfield,"Oct 30, 2000 ",23,"['Belgium', 'Serbia']",Belgium,Antwerpen,CB,"1,90",-
+,Hamza Bahaid,Defensive Midfield,"Jan 5, 2000 ",24,"['Belgium', 'Morocco']",Belgium,Brussels,CM   AM,"1,78",-
+,Lorenzo Stevens,Defensive Midfield,"Jun 5, 2000 ",23,['Belgium'],Belgium,,CM   CB,,-
+14,Kristijan Belic,Defensive Midfield,"Mar 25, 2001 ",22,"['Serbia', 'Belgium']",Belgium,Sint-Truiden,CM,"1,77",€3.50m
+8,Sacha Bansé,Defensive Midfield,"Mar 16, 2001 ",23,"['Burkina Faso', 'Belgium']",Belgium,Geel,CM,"1,80",€300k
+6,Dalil Bafdili,Defensive Midfield,"Oct 12, 2001 ",22,['Belgium'],Belgium,Brussel,,"1,78",-
+4,Fabio Polizzi,Defensive Midfield,"Apr 20, 2001 ",22,"['Belgium', 'Italy']",Belgium,Anderlecht,CB   RB,,-
+47,Damjan Pavlovic,Defensive Midfield,"Jul 9, 2001 ",22,"['Serbia', 'Belgium']",Belgium,Eupen,,"1,78",€300k
+4,Jarno Lion,Defensive Midfield,"Feb 13, 2001 ",23,['Belgium'],Belgium,Asse,CB,,-
+23,Max De Ruyver,Defensive Midfield,"Mar 27, 2001 ",22,['Belgium'],Belgium,Gent,RB   CB,"1,84",-
+27,Mandela Keita,Defensive Midfield,"May 10, 2002 ",21,"['Belgium', 'Guinea']",Belgium,Leuven,,"1,80",€11.00m
+27,Allan Delferriere,Defensive Midfield,"Mar 3, 2002 ",22,['Belgium'],Belgium,Liège,CB   RB,"1,83",€400k
+,Jérémy Landu,Defensive Midfield,"Jan 2, 2002 ",22,"['Belgium', 'DR Congo']",Belgium,Liège,CB   RB,"1,78",€100k
+77,Tsotne Bendianishvili,Defensive Midfield,"Dec 27, 2002 ",21,"['Georgia', 'Belgium']",Belgium,,CM,"1,72",-
+20,Xander Blomme,Defensive Midfield,"Jun 21, 2002 ",21,['Belgium'],Belgium,Eeklo,CM,"1,72",€500k
+,Emmanuel Matuta,Defensive Midfield,"Feb 22, 2002 ",22,"['Belgium', 'DR Congo']",Belgium,Mechelen,CM   CB,"1,80",€250k
+56,Mathéo Parmentier,Defensive Midfield,"Oct 31, 2002 ",21,['Belgium'],Belgium,Anderlecht,,"1,86",-
+89,Lynnt Audoor,Defensive Midfield,"Oct 13, 2003 ",20,['Belgium'],Belgium,Merelbeke,CM   AM,"1,84",€450k
+,Jonas Nooyens,Defensive Midfield,"Feb 25, 2003 ",21,['Belgium'],Belgium,Deurne,CB   RB,"1,85",-
+,Yves Mitsindo,Defensive Midfield,"Jan 9, 2003 ",21,"['Belgium', 'Rwanda']",Belgium,,CM,"1,75",-
+,Noam Mayoka-Tika,Defensive Midfield,"Nov 2, 2003 ",20,['Belgium'],Belgium,Charleroi,CM,,€50k
+,Lenny Bagwiza,Defensive Midfield,"Aug 15, 2003 ",20,['France'],Belgium,Ixelle,CM   CB,,-
+3,Cel Teunen,Defensive Midfield,"Mar 19, 2003 ",21,['Belgium'],Belgium,Lier,CB   RB,,-
+45,Roméo Lavia,Defensive Midfield,"Jan 6, 2004 ",20,['Belgium'],Belgium,Brussels,CM,"1,81",€40.00m
+35,Jack Senga,Defensive Midfield,"Jan 27, 2004 ",20,"['Belgium', 'DR Congo']",Belgium,,CB   CM,"1,89",€75k
+26,Bent Reijniers,Defensive Midfield,"Feb 18, 2004 ",20,['Belgium'],Belgium,,RB,,-
+34,Ngal'ayel Mukau,Defensive Midfield,"Nov 3, 2004 ",19,"['DR Congo', 'Belgium']",Belgium,Antwerpen,CM,"1,88",€1.00m
+42,Lukas Mondele,Defensive Midfield,"Mar 29, 2004 ",19,['Belgium'],Belgium,Bruxelles,CM   CB,"1,75",€50k
+66,Warre Smet,Defensive Midfield,"Mar 25, 2004 ",19,['Belgium'],Belgium,Lokeren,,,-
+18,Noah Mbamba,Defensive Midfield,"Jan 5, 2005 ",19,['Belgium'],Belgium,Elsene,CB,"1,87",€3.00m
+26,Noah Mawete Kinsiona,Defensive Midfield,"Oct 17, 2005 ",18,"['Belgium', 'DR Congo']",Belgium,,CB,,€500k
+8,Noah Makanza,Defensive Midfield,"Jan 14, 2005 ",19,['Belgium'],Belgium,Jette,CM,"1,75",-
+,Yasser Chikhi,Defensive Midfield,"Apr 20, 2005 ",18,['Belgium'],Belgium,Leuven,,"1,83",-
+46,Arthur Piedfort,Defensive Midfield,"Feb 1, 2005 ",19,['Belgium'],Belgium,Herentals,CB,"1,80",€1.50m
+33,Andreas Kesa,Defensive Midfield,"Dec 7, 2005 ",18,"['Estonia', 'Belgium']",Belgium,,CM,"1,84",-
+72,Paul Okon,Defensive Midfield,"Jan 24, 2005 ",19,"['Australia', 'Italy']",Belgium,Gent,,"1,83",-
