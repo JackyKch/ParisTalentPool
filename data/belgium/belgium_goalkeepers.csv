@@ -1,0 +1,248 @@
+Number,Name,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Height,Market Value
+,Dries De Boodt,Goalkeeper,"Jan 9, 1985 ",39,['Belgium'],Belgium,,"1,86",-
+,Charly Konstantinidis,Goalkeeper,"Jun 25, 1985 ",38,"['Belgium', 'Greece']",Belgium,Charleroi,"1,88",-
+,Sven Van Ryckeghem,Goalkeeper,"Mar 18, 1985 ",39,['Belgium'],Belgium,Brugge,"1,85",-
+,Logan Bailly,Goalkeeper,"Dec 27, 1985 ",38,['Belgium'],Belgium,Liège,"1,89",-
+38,Sammy Bossut,Goalkeeper,"Aug 11, 1985 ",38,['Belgium'],Belgium,Tielt,"1,86",-
+,Glenn Verbauwhede,Goalkeeper,"May 19, 1985 ",38,['Belgium'],Belgium,Kortrijk,"1,87",-
+,Olivier Werner,Goalkeeper,"Apr 16, 1985 ",38,['Belgium'],Belgium,Malmedy,"1,93",-
+,Kristof Sulmon,Goalkeeper,"Aug 20, 1986 ",37,['Belgium'],Belgium,Brüssel,"1,87",-
+1,Kevin Van Den Noortgaete,Goalkeeper,"Jul 14, 1986 ",37,['Belgium'],Belgium,Zottegem,"1,83",-
+,Bart Weyen,Goalkeeper,"Mar 7, 1986 ",38,['Belgium'],Belgium,Bilzen,"1,88",-
+,Ferhat Kaya,Goalkeeper,"Mar 11, 1986 ",38,"['Belgium', 'Türkiye']",Belgium,Beringen,"1,86",-
+18,Jérémy De Vriendt,Goalkeeper,"Mar 22, 1986 ",38,['Belgium'],Belgium,Sambreville,,-
+,Tom Grootaers,Goalkeeper,"Dec 3, 1986 ",37,['Belgium'],Belgium,Bilzen,"1,87",-
+,Yves Makabu-Makalambay,Goalkeeper,"Jan 31, 1986 ",38,"['DR Congo', 'Belgium']",Belgium,Brüssel,"1,98",-
+,Jonathan Hochepied,Goalkeeper,"Aug 19, 1986 ",37,['Belgium'],Belgium,Tournai,"1,82",-
+,Sander Kevelaerts,Goalkeeper,"Jun 27, 1986 ",37,['Belgium'],Belgium,Zoersel,"1,88",-
+,Bilen Mrabet,Goalkeeper,"Jul 28, 1986 ",37,['Belgium'],Belgium,Sint-Joost-ten-Node,"1,93",-
+,Alan Wolfaert,Goalkeeper,"Feb 15, 1986 ",38,['Belgium'],Belgium,Brugge,"1,88",-
+,Rubin Dantschotter,Goalkeeper,"Feb 18, 1986 ",38,['Belgium'],Belgium,Loppem,"1,85",-
+,Frank Boeckx,Goalkeeper,"Sep 27, 1986 ",37,['Belgium'],Belgium,Leuven,"1,83",-
+87,Davino Verhulst,Goalkeeper,"Nov 25, 1987 ",36,['Belgium'],Belgium,Beveren,"1,93",€50k
+,Kristof Van Hout,Goalkeeper,"Feb 9, 1987 ",37,['Belgium'],Belgium,Lommel,"2,07",-
+,Yves De Winter,Goalkeeper,"May 25, 1987 ",36,['Belgium'],Belgium,Lier,"1,88",-
+,Kevin Kempeneer,Goalkeeper,"Feb 22, 1987 ",37,['Belgium'],Belgium,Anderlecht,"1,86",-
+,Ruud Boffin,Goalkeeper,"Nov 5, 1987 ",36,['Belgium'],Belgium,Sint-Truiden,"1,96",-
+,Steve Berger,Goalkeeper,"Mar 16, 1987 ",37,['Belgium'],Belgium,Lüttich,"1,84",-
+,Jimmy Tordeurs,Goalkeeper,"Jun 15, 1987 ",36,['Belgium'],Belgium,Charleroi,"1,87",-
+,Tom Wagemans,Goalkeeper,"Apr 24, 1987 ",36,['Belgium'],Belgium,Herentals,"1,87",-
+,Fabian Cremers,Goalkeeper,"Oct 25, 1987 ",36,['Belgium'],Belgium,Uccle,"1,80",-
+,Jonathan Ruttens,Goalkeeper,"Aug 24, 1987 ",36,['Belgium'],Belgium,Herk-De-Stad,"1,88",-
+22,Simon Mignolet,Goalkeeper,"Mar 6, 1988 ",36,['Belgium'],Belgium,Sint-Truiden,"1,93",€2.80m
+,Kenneth Trypsteen,Goalkeeper,"Aug 5, 1988 ",35,['Belgium'],Belgium,Kortrijk,"1,94",-
+,Bruno Appels,Goalkeeper,"Aug 15, 1988 ",35,['Belgium'],Belgium,Turnhout,"1,80",-
+,Kenny Steppe,Goalkeeper,"Nov 14, 1988 ",35,['Belgium'],Belgium,Antwerpen,,-
+,Kristof Maes,Goalkeeper,"Apr 19, 1988 ",35,['Belgium'],Belgium,Antwerpen,"1,88",-
+,Dorian Delcour,Goalkeeper,"Mar 11, 1988 ",36,['Belgium'],Belgium,,,-
+,Corentin Auspert,Goalkeeper,"Feb 5, 1988 ",36,['Belgium'],Belgium,Berghem-Sainte-Agathe,"1,80",-
+,Kévin Goeman,Goalkeeper,"Mar 14, 1988 ",36,['Belgium'],Belgium,Brüssel,"1,93",-
+,Mário Matos,Goalkeeper,"Jun 21, 1988 ",35,"['Portugal', 'Belgium']",Belgium,Brüssel,"1,85",-
+,Glenn Piessens,Goalkeeper,"May 7, 1988 ",35,['Belgium'],Belgium,Sint-Niklaas,"1,83",-
+1,Kevin Debaty,Goalkeeper,"Jun 12, 1989 ",34,['Belgium'],Belgium,Liège,"1,89",€150k
+89,Sébastien Bruzzese,Goalkeeper,"Mar 1, 1989 ",35,"['Belgium', 'Italy']",Belgium,Liège,"1,85",€100k
+,Wesley Cristael,Goalkeeper,"Dec 28, 1989 ",34,['Belgium'],Belgium,Tremelo,"1,82",-
+,Cyprien Baguette,Goalkeeper,"Dec 5, 1989 ",34,['Belgium'],Belgium,La Louvière,"1,88",-
+31,Mike Vanhamel,Goalkeeper,"Nov 16, 1989 ",34,['Belgium'],Belgium,Elsene,"1,89",-
+30,Koen Van Langendonck,Goalkeeper,"Jun 9, 1989 ",34,['Belgium'],Belgium,Neerpelt,"1,85",€100k
+,Yannick De Winter,Goalkeeper,"Jun 3, 1989 ",34,['Belgium'],Belgium,Lier,"1,88",-
+,Fred Desomberg,Goalkeeper,"Feb 9, 1989 ",35,['Belgium'],Belgium,Ukkel,"1,85",-
+,David Sugar,Goalkeeper,"Mar 28, 1989 ",34,"['Croatia', 'Belgium']",Belgium,Genk,"1,84",-
+49,Anthony Moris,Goalkeeper,"Apr 29, 1990 ",33,"['Luxembourg', 'Belgium']",Belgium,Arlon,"1,86",€2.00m
+12,Jo Coppens,Goalkeeper,"Dec 21, 1990 ",33,['Belgium'],Belgium,Heusden-Zolder,"1,90",€200k
+,Machael Beeckmans,Goalkeeper,"Jan 19, 1990 ",34,['Belgium'],Belgium,Boom,"1,91",-
+,Sam Vermeylen,Goalkeeper,"Nov 6, 1990 ",33,['Belgium'],Belgium,Antwerpen,"1,81",-
+,Gilles Dhont,Goalkeeper,"Oct 20, 1990 ",33,['Belgium'],Belgium,Gent,"1,78",-
+,Fréderic Ledent,Goalkeeper,"Jan 27, 1990 ",34,['Belgium'],Belgium,Merksem,"1,84",-
+,Jesse Soubry,Goalkeeper,"Mar 14, 1990 ",34,['Belgium'],Belgium,Brüssel,"1,85",-
+15,Yannick Thoelen,Goalkeeper,"Jul 18, 1990 ",33,['Belgium'],Belgium,Tessenderlo,"1,88",€200k
+,Glenn De Jonge,Goalkeeper,"Jul 26, 1990 ",33,['Belgium'],Belgium,,,-
+,Bram de Bruyn,Goalkeeper,"Jun 26, 1990 ",33,['Belgium'],Belgium,Beveren,"1,76",-
+,Ruben Smet,Goalkeeper,"Sep 19, 1990 ",33,['Belgium'],Belgium,Beveren,"1,82",-
+20,Kevin De Wolf,Goalkeeper,"Nov 20, 1990 ",33,['Belgium'],Belgium,Brussel,"1,81",-
+,Stijn Van der Kelen,Goalkeeper,"Jun 11, 1990 ",33,['Belgium'],Belgium,Dendermonde,"1,85",-
+26,Adrien Saussez,Goalkeeper,"Aug 25, 1991 ",32,['Belgium'],Belgium,Mons,"1,83",€150k
+,Denis Jansen,Goalkeeper,"Aug 13, 1991 ",32,"['Belgium', 'Germany']",Belgium,Kettenis,"1,93",-
+,Wouter Deman,Goalkeeper,"Jan 15, 1991 ",33,['Belgium'],Belgium,Lauwe,"1,80",-
+,Pierre Derbaudrenghien,Goalkeeper,"Jan 30, 1991 ",33,['Belgium'],Belgium,Liège,"1,95",-
+13,Sören Dutoit,Goalkeeper,"May 6, 1991 ",32,['Belgium'],Belgium,Harelbeke,"1,88",-
+,Xavier Kerckhove,Goalkeeper,"Aug 27, 1991 ",32,['Belgium'],Belgium,Oostende,"1,80",-
+,Miguel Santos Pravos,Goalkeeper,"Jul 19, 1991 ",32,"['Belgium', 'Brazil']",Belgium,Anderlecht,"1,86",-
+,Aram Jumel,Goalkeeper,"Apr 16, 1991 ",32,['France'],Belgium,Brussels,,-
+,Joris Blondeel,Goalkeeper,"Dec 26, 1991 ",32,['Belgium'],Belgium,,,-
+,Nicola Hatefi Mofrad,Goalkeeper,"Jan 9, 1991 ",33,"['Belgium', 'Iran']",Belgium,Uccle,"1,83",-
+,Jef Snyders,Goalkeeper,"Jan 21, 1991 ",33,['Belgium'],Belgium,,,-
+,Joseph Biersard,Goalkeeper,"Apr 29, 1991 ",32,['Belgium'],Belgium,Verviers,"1,84",-
+22,Thomas Minsart,Goalkeeper,"Mar 15, 1991 ",33,['Belgium'],Belgium,Charleroi,"1,83",-
+,Simon Wagner,Goalkeeper,"Jul 5, 1991 ",32,['Belgium'],Belgium,Tongeren,"1,83",-
+1,Thibaut Courtois,Goalkeeper,"May 11, 1992 ",31,['Belgium'],Belgium,Bree,"2,00",€30.00m
+26,Matz Sels,Goalkeeper,"Feb 26, 1992 ",32,['Belgium'],Belgium,Lint,"1,88",€7.00m
+30,Laurent Henkinet,Goalkeeper,"Sep 14, 1992 ",31,['Belgium'],Belgium,Rocourt,"1,88",€300k
+,Thijs De Boevere,Goalkeeper,"Feb 5, 1992 ",32,['Belgium'],Belgium,,"1,96",-
+1,Lars Knipping,Goalkeeper,"Jan 15, 1992 ",32,['Belgium'],Belgium,Geraardsbergen,"1,88",-
+1,Gilles Lentz,Goalkeeper,"Feb 1, 1992 ",32,['Belgium'],Belgium,Liège,,-
+23,Stefan Roef,Goalkeeper,"Feb 27, 1992 ",32,['Belgium'],Belgium,,"1,90",-
+,Jordi De Jonghe,Goalkeeper,"Apr 3, 1992 ",31,['Belgium'],Belgium,Beveren,,-
+1,Koen Casteels,Goalkeeper,"Jun 25, 1992 ",31,['Belgium'],Belgium,Bonheiden,"1,97",€8.00m
+24,Thomas Kaminski,Goalkeeper,"Oct 23, 1992 ",31,"['Belgium', 'Poland']",Belgium,Dendermonde,"1,90",€2.80m
+26,Colin Coosemans,Goalkeeper,"Aug 3, 1992 ",31,['Belgium'],Belgium,Gent,"1,84",€200k
+,Matthias Algoet,Goalkeeper,"May 7, 1992 ",31,['Belgium'],Belgium,Gent,,-
+,Glenn Vromans,Goalkeeper,"Nov 16, 1992 ",31,['Belgium'],Belgium,Lommel,,-
+,Sten Vandenbossche,Goalkeeper,"Jan 30, 1992 ",32,['Belgium'],Belgium,Antwerpen,"1,82",-
+1,Jelle Merckx,Goalkeeper,"Jan 2, 1992 ",32,['Belgium'],Belgium,Sint-Niklaas,"1,83",-
+1,Hendrik Van Crombrugge,Goalkeeper,"Apr 30, 1993 ",30,['Belgium'],Belgium,Leuven,"1,87",€1.80m
+26,Jorn Brondeel,Goalkeeper,"Sep 7, 1993 ",30,['Belgium'],Belgium,Wetteren,"1,88",€250k
+,Nicolas Lemaire,Goalkeeper,"Jul 20, 1993 ",30,['Belgium'],Belgium,Mons,"2,02",-
+,Nick Adriaensen,Goalkeeper,"Jan 1, 1993 ",31,['Belgium'],Belgium,,,-
+1,Jeroen Hofmans,Goalkeeper,"Oct 23, 1993 ",30,['Belgium'],Belgium,Brasschaat,"1,88",-
+,Salvatore Crimi,Goalkeeper,"Jul 9, 1993 ",30,"['Belgium', 'Italy']",Belgium,Namur,"1,82",-
+1,Louis Bostyn,Goalkeeper,"Oct 4, 1993 ",30,['Belgium'],Belgium,Roeselare,"1,95",€300k
+,Miguel Van Damme,Goalkeeper,"Sep 25, 1993","Sep 25, 1993",['Belgium'],Belgium,Gent,"1,82",-
+,Clint Alliet,Goalkeeper,"Mar 6, 1993 ",31,['Belgium'],Belgium,Brüssel,"1,84",-
+,Yoran Chalon,Goalkeeper,"Apr 27, 1993 ",30,['Belgium'],Belgium,Soignies,"1,87",-
+1,Robin Dengis,Goalkeeper,"Jan 5, 1993 ",31,['Belgium'],Belgium,Rocourt,"1,85",-
+,Luka Lazitch,Goalkeeper,"Feb 8, 1993 ",31,['Belgium'],Belgium,Charleroi,"1,86",-
+33,Davy Roef,Goalkeeper,"Feb 6, 1994 ",30,['Belgium'],Belgium,Rumst,"1,87",€1.50m
+,Allan Toubeau,Goalkeeper,"Oct 15, 1994 ",29,['Belgium'],Belgium,La Louvière,"1,81",-
+,Ilias Rchidi,Goalkeeper,"May 23, 1994 ",29,"['Morocco', 'Belgium']",Belgium,Eeklo,,-
+,Renaud Dotremont,Goalkeeper,"Mar 14, 1994 ",30,['Belgium'],Belgium,Geldenaken,"1,87",-
+,Arthur Hannes,Goalkeeper,"Aug 10, 1994 ",29,['Belgium'],Belgium,Leuven,"1,85",-
+,Roland Máté,Goalkeeper,"Dec 4, 1994 ",29,['Hungary'],Belgium,Kortrijk,"1,80",-
+,Quentin Simonis,Goalkeeper,"Feb 15, 1994 ",30,['Belgium'],Belgium,Verviers,"1,76",-
+,Glenn Daniëls,Goalkeeper,"Jun 30, 1994 ",29,['Belgium'],Belgium,Brussel,"1,96",-
+,Adrien Faidherbe,Goalkeeper,"Jul 12, 1994 ",29,['Belgium'],Belgium,,"1,81",-
+28,Guillaume Hubert,Goalkeeper,"Jan 11, 1994 ",30,['Belgium'],Belgium,Charleroi,"1,98",€400k
+34,Bram Valkeners,Goalkeeper,"May 17, 1994 ",29,['Belgium'],Belgium,,"1,88",-
+,Pierre-Marie Huntz,Goalkeeper,"May 15, 1994 ",29,['Belgium'],Belgium,Ukkel,"1,86",-
+1,Kenneth Leemans,Goalkeeper,"Apr 14, 1994 ",29,['Belgium'],Belgium,Jette,"1,82",-
+,Oguzhan Demirci,Goalkeeper,"Jun 9, 1994 ",29,"['Belgium', 'Türkiye']",Belgium,Heusden Zolder,"1,88",-
+,Wouter Cochet,Goalkeeper,"Jan 31, 1994 ",30,['Belgium'],Belgium,Leuven,"1,77",-
+1,Merveille Goblet,Goalkeeper,"Nov 20, 1994 ",29,"['Belgium', 'DR Congo']",Belgium,Jette,"1,80",-
+1,Stijn Wertelaers,Goalkeeper,"Apr 19, 1994 ",29,['Belgium'],Belgium,Bree,,-
+,Sven Dhoest,Goalkeeper,"Apr 9, 1994 ",29,['Belgium'],Belgium,Brugge,"1,86",-
+95,Lucas Pirard,Goalkeeper,"Mar 10, 1995 ",29,['Belgium'],Belgium,Sprimont,"1,91",€300k
+,Nico Corti,Goalkeeper,"Jun 2, 1995 ",28,['Belgium'],Belgium,Brussels,"1,90",-
+20,Bo Geens,Goalkeeper,"Aug 10, 1995 ",28,['Belgium'],Belgium,Mechelen,"1,85",-
+,Steven Verheyen,Goalkeeper,"Aug 2, 1995 ",28,['Belgium'],Belgium,,,-
+20,Nick Gillekens,Goalkeeper,"Jul 5, 1995 ",28,['Belgium'],Belgium,Leuven,"1,86",€250k
+,Sebastien Zucca,Goalkeeper,"Aug 1, 1995 ",28,['Belgium'],Belgium,Verviers,"1,78",-
+,Damiano Perazzelli,Goalkeeper,"May 21, 1995 ",28,"['Belgium', 'Italy']",Belgium,Liège,"1,85",-
+1,Liam Bossin,Goalkeeper,"Jul 15, 1996 ",27,"['Ireland', 'Belgium']",Belgium,Woluwe-Saint-Pierre,"1,90",€400k
+,Jari Mertens,Goalkeeper,"Feb 3, 1996 ",28,['Belgium'],Belgium,Asse,"1,88",-
+,Thomas Hooyberghs,Goalkeeper,"Jul 26, 1996 ",27,['Belgium'],Belgium,Arendonk,,-
+,Senne Vits,Goalkeeper,"Aug 31, 1996 ",27,['Belgium'],Belgium,Leuven,,-
+,Mathieu Vanderschaeghe,Goalkeeper,"May 14, 1996 ",27,['Belgium'],Belgium,Tielt,,-
+,Julien Wets,Goalkeeper,"Sep 11, 1996 ",27,['Belgium'],Belgium,Liège,,-
+,Lennert Baerts,Goalkeeper,"Sep 1, 1996 ",27,['Belgium'],Belgium,Hasselt,,-
+1,Xavier Gies,Goalkeeper,"Dec 27, 1996 ",27,['Belgium'],Belgium,,"1,82",€300k
+1,Jeffrey Pauwels,Goalkeeper,"Mar 23, 1996 ",28,['Belgium'],Belgium,,,-
+,Brian Gielen,Goalkeeper,"Sep 23, 1996 ",27,['Belgium'],Belgium,,"1,89",-
+,Stéfano Maricosu,Goalkeeper,"Jul 18, 1996 ",27,"['Belgium', 'Italy']",Belgium,Charleroi,"1,81",-
+70,Oussayd Belkouch,Goalkeeper,"Jan 15, 1996 ",28,"['Morocco', 'Belgium']",Belgium,Antwerpen,"1,84",-
+,Sascha Saigal,Goalkeeper,"Feb 15, 1996 ",28,['Belgium'],Belgium,La Louvière,,-
+29,Nordin Jackers,Goalkeeper,"Sep 5, 1997 ",26,['Belgium'],Belgium,Veldwezelt,"1,87",€400k
+,Dennis Wijns,Goalkeeper,"May 12, 1997 ",26,['Belgium'],Belgium,Averbode,,-
+,Wouter Nijsen,Goalkeeper,"Jan 24, 1997 ",27,['Belgium'],Belgium,Kinrooi,,-
+,Heathcliff Collin,Goalkeeper,"Nov 6, 1997 ",26,"['Belgium', 'Luxembourg']",Belgium,,"1,79",-
+31,Maxim Figys,Goalkeeper,"Feb 18, 1997 ",27,['Belgium'],Belgium,,,-
+,Mathias Van Staay,Goalkeeper,"Dec 26, 1997 ",26,['Belgium'],Belgium,,,-
+,Dries Verborgt,Goalkeeper,"Apr 8, 1997 ",26,['Belgium'],Belgium,Gent,,-
+1,Gilles Deusings,Goalkeeper,"Nov 17, 1997 ",26,['Belgium'],Belgium,Dalhem,"1,84",-
+1,Yanni De Vriendt,Goalkeeper,"Feb 21, 1997 ",27,['Belgium'],Belgium,,,-
+1,Quintijn Steelant,Goalkeeper,"Jan 30, 1997 ",27,['Belgium'],Belgium,Brugge,"1,85",-
+97,Ortwin De Wolf,Goalkeeper,"Apr 23, 1997 ",26,['Belgium'],Belgium,,"1,90",€300k
+,Hakim Bahar,Goalkeeper,"Feb 26, 1997 ",27,['Belgium'],Belgium,Seraing,,-
+,Anwar Houmani,Goalkeeper,"Jun 25, 1997 ",26,['Belgium'],Belgium,Antwerpen,"1,92",-
+1,Yarne Arrazola De Onâte,Goalkeeper,"Aug 25, 1997 ",26,['Belgium'],Belgium,,,-
+,Zeb Van Gerven,Goalkeeper,"Apr 13, 1997 ",26,['Belgium'],Belgium,Jette,"1,83",-
+,Stijn Jeurissen,Goalkeeper,"Jan 22, 1997 ",27,['Belgium'],Belgium,Genk,"1,88",-
+,Anthony Swolfs,Goalkeeper,"Nov 25, 1997 ",26,['Belgium'],Belgium,Malle,"1,94",-
+,Gilles Kempeneers,Goalkeeper,"Oct 4, 1997 ",26,['Belgium'],Belgium,Tienen,"1,84",-
+,Dieter Creemers,Goalkeeper,"Sep 2, 1997 ",26,['Belgium'],Belgium,,"1,92",-
+16,Arnaud Bodart,Goalkeeper,"Mar 11, 1998 ",26,['Belgium'],Belgium,Seraing,"1,86",€6.00m
+12,Romain Matthys,Goalkeeper,"Jul 10, 1998 ",25,['Belgium'],Belgium,Seraing,"1,83",€400k
+12,Antoine Lejoly,Goalkeeper,"Mar 26, 1998 ",25,['Belgium'],Belgium,Verviers,"1,87",€50k
+,Yoran Verdeyen,Goalkeeper,"Feb 5, 1998 ",26,['Belgium'],Belgium,,,-
+,Bünyamin Emanet,Goalkeeper,"Oct 26, 1998 ",25,"['Belgium', 'Bosnia-Herzegovina']",Belgium,Genk,"1,90",-
+,Canberk Güler,Goalkeeper,"Jul 17, 1998 ",25,"['Belgium', 'Türkiye']",Belgium,Brussel,"1,86",-
+40,Clément Libertiaux,Goalkeeper,"Feb 21, 1998 ",26,['Belgium'],Belgium,Namur,"1,85",-
+1,Lucas Alfieri,Goalkeeper,"Mar 19, 1998 ",26,"['Belgium', 'Italy']",Belgium,,"1,89",-
+,Adriano Cipollina,Goalkeeper,"Jul 28, 1998 ",25,"['Belgium', 'Italy']",Belgium,,"1,72",-
+,Davide Bochicchio,Goalkeeper,"Apr 13, 1998 ",25,"['Italy', 'Belgium']",Belgium,Mons,,-
+16,Mathias Janssens,Goalkeeper,"Mar 9, 1998 ",26,['Belgium'],Belgium,Brussel,"1,86",-
+1,Gaëtan Coucke,Goalkeeper,"Nov 3, 1998 ",25,['Belgium'],Belgium,Tongeren,"1,87",€2.50m
+1,Jens Teunckens,Goalkeeper,"Jan 30, 1998 ",26,['Belgium'],Belgium,Geel,"1,86",€300k
+13,Julien Devriendt,Goalkeeper,"Nov 25, 1998 ",25,['Belgium'],Belgium,Vilvoorde,"1,89",€25k
+,Fabio Vandenbossche,Goalkeeper,"Nov 19, 1998 ",25,"['Belgium', 'Chile']",Belgium,Asse,,-
+22,Simon Van Brussel,Goalkeeper,"Mar 24, 1998 ",25,['Belgium'],Belgium,Gand,"1,90",-
+,Alexandre Panagiotou,Goalkeeper,"Nov 17, 1998 ",25,"['Belgium', 'Greece']",Belgium,La Louvière,"1,83",-
+28,Vincent Rousseau,Goalkeeper,"Nov 5, 1998 ",25,['Belgium'],Belgium,Mont-Saint-Guibert,"1,82",-
+,Kristof Wymeersch,Goalkeeper,"May 2, 1998 ",25,['Belgium'],Belgium,,,-
+,Kevin Truyts,Goalkeeper,"Jun 6, 1998 ",25,['Belgium'],Belgium,Bonheiden,"1,83",-
+,Steph Van Cauwenberghe,Goalkeeper,"May 19, 1998 ",25,['Belgium'],Belgium,,,-
+99,Mile Svilar,Goalkeeper,"Aug 27, 1999 ",24,"['Serbia', 'Belgium']",Belgium,Antwerpen,"1,89",€4.00m
+1,Bill Lathouwers,Goalkeeper,"Sep 18, 1999 ",24,['Belgium'],Belgium,Wilrijk,"1,92",€200k
+13,Brent Gabriël,Goalkeeper,"Jan 27, 1999 ",25,['Belgium'],Belgium,Sint-Niklaas,"1,90",€75k
+23,Mats Sterkens,Goalkeeper,"Jul 23, 1999 ",24,['Belgium'],Belgium,Lier,"1,86",-
+99,Andrew De Reymaeker,Goalkeeper,"Jan 29, 1999 ",25,['Belgium'],Belgium,Sint-Agatha Berchem,"1,80",-
+29,Pieter Caubergh,Goalkeeper,"Mar 9, 1999 ",25,['Belgium'],Belgium,,"1,85",-
+23,Julien Van Volcem,Goalkeeper,"Jun 29, 1999 ",24,['Belgium'],Belgium,Brugge,"1,81",-
+1,Ilias Moutha-Sebtaoui,Goalkeeper,"Apr 1, 1999 ",24,"['Belgium', 'Morocco']",Belgium,Brussel,"1,88",-
+1,Olivier Vliegen,Goalkeeper,"Feb 7, 1999 ",25,['Belgium'],Belgium,Bree,"1,90",€300k
+12,Jarno De Smet,Goalkeeper,"Feb 5, 1999 ",25,['Belgium'],Belgium,Asse,"1,87",€150k
+,Peter Ebengo-Ngolo,Goalkeeper,"Jan 18, 1999 ",25,['Belgium'],Belgium,Brussel,"1,94",-
+,Florian Thewis,Goalkeeper,"May 25, 1999 ",24,['Belgium'],Belgium,,,-
+,Mirco Polo,Goalkeeper,"Oct 13, 1999 ",24,"['Belgium', 'Italy']",Belgium,Genk,"1,78",-
+,Brecht Mombaerts,Goalkeeper,"Mar 27, 1999 ",24,['Belgium'],Belgium,Leuven,"1,85",-
+,Arne Lekens,Goalkeeper,"Mar 9, 1999 ",25,['Belgium'],Belgium,,,-
+42,Jonathan De Bie,Goalkeeper,"May 28, 2000 ",23,['Belgium'],Belgium,Uccle,"1,86",€150k
+21,Robin Mantel,Goalkeeper,"Nov 15, 2000 ",23,"['Belgium', 'Netherlands']",Belgium,Brasschaat,"1,98",€50k
+,Maxime Van Aerschot,Goalkeeper,"Sep 16, 2000 ",23,['Belgium'],Belgium,,"1,84",-
+,Tiziano Delmotte,Goalkeeper,"Jan 3, 2000 ",24,['Belgium'],Belgium,Waregem,"1,92",-
+1,Corentin Michel,Goalkeeper,"Mar 20, 2000 ",24,['Belgium'],Belgium,Ottignies-Louvain-la-Neuve,"1,87",€100k
+1,Gian Geladé,Goalkeeper,"Sep 23, 2000 ",23,['Belgium'],Belgium,Genk,"1,86",-
+16,Arthur Cremer,Goalkeeper,"Aug 18, 2000 ",23,['Belgium'],Belgium,Verviers,,-
+,Thomas Willocq,Goalkeeper,"Feb 24, 2000 ",24,['Belgium'],Belgium,,,-
+33,Nick Shinton,Goalkeeper,"May 10, 2001 ",22,['Belgium'],Belgium,Aalst,"1,94",€400k
+16,Timothy Martin,Goalkeeper,"Mar 27, 2001 ",22,"['Luxembourg', 'Belgium']",Belgium,Arlon,"1,90",€200k
+1,Timothy Galjé,Goalkeeper,"Jun 5, 2001 ",22,['Belgium'],Belgium,Duffel,"1,80",€100k
+34,Maxime Wenssens,Goalkeeper,"Nov 17, 2001 ",22,"['Rwanda', 'Belgium']",Belgium,Uccle,"1,91",€50k
+,Bavo Coenen,Goalkeeper,"Jan 14, 2001 ",23,['Belgium'],Belgium,,"1,85",-
+,Salvatore Ciulla,Goalkeeper,"May 30, 2001 ",22,['Belgium'],Belgium,Aalst,,-
+20,Victor Swinnen,Goalkeeper,"Mar 20, 2001 ",23,['Belgium'],Belgium,Lasne,"1,88",-
+21,Maxime Delanghe,Goalkeeper,"May 23, 2001 ",22,['Belgium'],Belgium,Halle,"1,89",€300k
+33,Rik Vercauteren,Goalkeeper,"Jun 8, 2001 ",22,['Belgium'],Belgium,Beveren,"1,86",€100k
+99,Tom Roufosse,Goalkeeper,"Mar 28, 2001 ",22,['Belgium'],Belgium,Liège,"1,82",€50k
+,Nicholas Deman,Goalkeeper,"Jun 28, 2001 ",22,['Belgium'],Belgium,Antwerpen,"1,88",-
+,Eymen Eryılmaz,Goalkeeper,"Feb 20, 2001 ",23,"['Türkiye', 'Belgium']",Belgium,Seraing,"1,87",-
+,Kerian Atheba,Goalkeeper,"May 31, 2001 ",22,['Belgium'],Belgium,Brussels,"1,87",-
+,Victor Camps,Goalkeeper,"Mar 14, 2001 ",23,['Belgium'],Belgium,Turnhout,"1,85",-
+26,Maarten Vandevoordt,Goalkeeper,"Feb 26, 2002 ",22,['Belgium'],Belgium,Sint-Truiden,"1,92",€11.00m
+91,Senne Lammens,Goalkeeper,"Jul 7, 2002 ",21,['Belgium'],Belgium,Zottegem,"1,93",€700k
+12,Senne Goossens,Goalkeeper,"Sep 27, 2002 ",21,['Belgium'],Belgium,Mechelen,"1,72",-
+25,Yari Deltour,Goalkeeper,"Feb 14, 2002 ",22,['Belgium'],Belgium,Leuven,"1,87",-
+25,Martijn Beernaert,Goalkeeper,"Oct 3, 2002 ",21,['Belgium'],Belgium,Ieper,"1,88",-
+,Lillo Guarneri,Goalkeeper,"May 8, 2002 ",21,"['Italy', 'Belgium']",Belgium,Liège,"1,88",-
+1,Tobe Leysen,Goalkeeper,"Mar 9, 2002 ",22,['Belgium'],Belgium,Geel,"1,89",€2.50m
+91,Richmond Badu,Goalkeeper,"May 3, 2002 ",21,['Belgium'],Belgium,Oostende,"1,90",€25k
+1,Wim Vanmarsenille,Goalkeeper,"Jul 31, 2002 ",21,['Belgium'],Belgium,,,-
+1,Nicolas Bourguet,Goalkeeper,"Apr 10, 2002 ",21,['Belgium'],Belgium,,,-
+23,Logan Ancion,Goalkeeper,"Jan 21, 2002 ",22,['Belgium'],Belgium,Liége,"1,84",-
+30,Vic Chambaere,Goalkeeper,"Jan 10, 2003 ",21,['Belgium'],Belgium,Roeselare,"1,91",€150k
+,Naim Van Attenhoven,Goalkeeper,"Jan 31, 2003 ",21,"['Niger', 'Belgium']",Belgium,Leuven,"1,86",€50k
+,Arnaud Olivier,Goalkeeper,"Jul 28, 2003 ",20,['Belgium'],Belgium,,"1,82",-
+,Antoni Bort,Goalkeeper,"Apr 16, 2003 ",20,"['England', 'Poland']",Belgium,,"1,90",-
+61,Owen Jochmans,Goalkeeper,"Jan 28, 2003 ",21,['Belgium'],Belgium,Leuven,"1,85",-
+1,Matteo Chiacig,Goalkeeper,"Aug 22, 2003 ",20,['Belgium'],Belgium,Liège,"1,92",€50k
+1,Noah Vanwalleghem,Goalkeeper,"Aug 5, 2003 ",20,['Belgium'],Belgium,Roeselare,"1,95",-
+,Matthias Van Hecke,Goalkeeper,"Jun 18, 2003 ",20,['Belgium'],Belgium,Gent,"1,86",-
+42,Joppe Vannuffelen,Goalkeeper,"May 26, 2003 ",20,['Belgium'],Belgium,Turnhout,"1,93",-
+41,Kjell Peersman,Goalkeeper,"May 21, 2004 ",19,['Belgium'],Belgium,Wilrijk,"1,94",€300k
+63,Timon Vanhoutte,Goalkeeper,"Jan 29, 2004 ",20,['Belgium'],Belgium,Kortrijk,"1,89",€100k
+49,Anton Kemps,Goalkeeper,"Jun 22, 2004 ",19,['Belgium'],Belgium,Duffel,,-
+24,Viktor Sterckx,Goalkeeper,"Jul 21, 2004 ",19,['Belgium'],Belgium,,"1,88",-
+,Jelle Van Neck,Goalkeeper,"Mar 7, 2004 ",20,['Belgium'],Belgium,Brugge,"1,91",€100k
+13,Henri Maton,Goalkeeper,"May 12, 2004 ",19,"['Belgium', 'France']",Belgium,Mouscron,"1,86",€50k
+35,Brecht Hertveldt,Goalkeeper,"Jun 22, 2004 ",19,['Belgium'],Belgium,,"1,84",-
+,Zenzo De Boeck,Goalkeeper,"Jan 17, 2005 ",19,['Belgium'],Belgium,Geel,"1,80",€50k
+66,Wout Meese,Goalkeeper,"Apr 11, 2005 ",18,['Belgium'],Belgium,Gent,,-
