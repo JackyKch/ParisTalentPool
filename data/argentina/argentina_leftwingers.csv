@@ -1,0 +1,320 @@
+Number,Name,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+21,Juanito Gómez,Left Winger,"May 20, 1985 ",38,"['Argentina', 'Italy']",Brazil,Santa Fe,RW   SS,"1,78",€175k
+,Mateo Martinelli,Left Winger,"Jan 9, 1985 ",39,['Argentina'],Brazil,Rosario,,"1,84",-
+,Ezequiel Lázaro,Left Winger,"Dec 4, 1985 ",38,['Argentina'],Brazil,Córdoba,LM,"1,70",-
+,Ramiro Palacios,Left Winger,"Feb 13, 1985 ",39,['Argentina'],Brazil,Orán,,"1,72",-
+,Ezequiel Lavezzi,Left Winger,"May 3, 1985 ",38,"['Argentina', 'Italy']",Brazil,Villa Gobernador Gálvez,SS   CF,"1,73",-
+,Alejandro Aguirre,Left Winger,"Apr 30, 1985 ",38,['Argentina'],Brazil,San Miguel de Tucumán,,,-
+,Lucas Longoni,Left Winger,"Jun 30, 1985 ",38,"['Argentina', 'Italy']",Brazil,Esperanza,AM,"1,82",-
+11,Gerardo Yecerotte,Left Winger,"Aug 28, 1985 ",38,"['Argentina', 'Bolivia']",Brazil,San Ramón de la Nueva Orán,CM   AM,"1,74",-
+,Jorge Drovandi,Left Winger,"May 11, 1985 ",38,['Argentina'],Brazil,Rosario,,"1,72",-
+,Ignacio Piatti,Left Winger,"Feb 4, 1985 ",39,"['Argentina', 'Italy']",Brazil,General Baldissera,AM   LM,"1,80",-
+24,Alfredo Ábalos,Left Winger,"Mar 17, 1986 ",38,"['Argentina', 'Chile']",Brazil,Las Heras,RW   AM,"1,65",€50k
+10,Adolfo Hirsch,Left Winger,"Jan 31, 1986 ",38,"['San Marino', 'Argentina']",Brazil,Guerrico,RW   SS,"1,75",€10k
+,Nicolás Bertolo,Left Winger,"Jan 2, 1986 ",38,"['Argentina', 'Italy']",Brazil,Córdoba,RW   AM,"1,80",-
+,Emiliano Armenteros,Left Winger,"Jan 18, 1986 ",38,"['Argentina', 'Italy']",Brazil,Luis Guillón,RW   AM,"1,78",-
+8,Esteban Vizcarra,Left Winger,"Apr 11, 1986 ",37,"['Indonesia', 'Argentina']",Brazil,Belén de Escobar,AM   RW,"1,75",€25k
+,Leandro Puig,Left Winger,"Jun 14, 1986 ",37,['Argentina'],Brazil,Santa Fe,CF,,-
+,Sebastián Leto,Left Winger,"Aug 30, 1986 ",37,['Argentina'],Brazil,Alejandro Korn,CF   SS,"1,88",-
+,Pablo Mouche,Left Winger,"Oct 11, 1987 ",36,"['Argentina', 'Italy']",Brazil,San Martín,CF   RW,"1,77",€75k
+,Germán Bulgarella,Left Winger,"Mar 6, 1987 ",37,['Argentina'],Brazil,,,,-
+,Cristian Baz,Left Winger,"May 5, 1987 ",36,['Argentina'],Brazil,Buenos Aires,LM,"1,76",-
+,Pablo Mazza,Left Winger,"Dec 21, 1987 ",36,"['Argentina', 'Italy']",Brazil,Pergamino,RW   SS,"1,75",-
+,Juan Carlos Carrizo,Left Winger,"Jun 3, 1987 ",36,['Argentina'],Brazil,San Miguel de Tucumán,,"1,79",-
+,Pablo Ruiz,Left Winger,"Jul 17, 1987 ",36,['Argentina'],Brazil,Buenos Aires,RM   CF,"1,77",€25k
+,Enzo Pelosi,Left Winger,"May 8, 1987 ",36,['Argentina'],Brazil,Trenque Lauquen,SS   CF,"1,87",-
+,David Distéfano,Left Winger,"Jul 10, 1987 ",36,"['Argentina', 'Italy']",Brazil,Buenos Aires,LM   AM,"1,75",-
+,Mauricio Carrasco,Left Winger,"Sep 24, 1987 ",36,['Argentina'],Brazil,Neuquén,RW   SS,"1,73",-
+7,Lautaro Acosta,Left Winger,"Mar 14, 1988 ",36,['Argentina'],Brazil,Glew,RW   CM,"1,71",€175k
+,Lucas García,Left Winger,"Jan 13, 1988 ",36,['Argentina'],Brazil,San Martín,RW   AM,"1,68",-
+27,Maximiliano Cerato,Left Winger,"Apr 21, 1988 ",35,"['Argentina', 'Chile']",Brazil,Río Gallegos,RW   CF,"1,70",-
+,Hernán Hechalar,Left Winger,"Aug 12, 1988 ",35,['Argentina'],Brazil,Córdoba,RW   SS,"1,73",-
+,Gabriel Méndez,Left Winger,"May 8, 1988 ",35,['Argentina'],Brazil,Paso de los Libres,CM   CF,"1,69",-
+,Rafael Viotti,Left Winger,"Feb 15, 1988 ",36,['Argentina'],Brazil,Buenos Aires,RW   CF,"1,64",-
+8,Alexander Szymanowski,Left Winger,"Oct 13, 1988 ",35,"['Argentina', 'Spain']",Brazil,Buenos Aires,RW,"1,74",€50k
+,Nicolás Villafañe,Left Winger,"May 19, 1988 ",35,"['Argentina', 'Italy']",Brazil,Mar del Plata,LB,"1,78",-
+,Armando Lescano,Left Winger,"Feb 25, 1988 ",36,['Argentina'],Brazil,Buenos Aires,,,-
+,Pablo Vergara,Left Winger,"Sep 15, 1988 ",35,['Argentina'],Brazil,Neuquén,AM   DM,"1,74",-
+,Diego Perotti,Left Winger,"Jul 26, 1988 ",35,"['Argentina', 'Spain']",Brazil,Moreno,RW   AM,"1,79",-
+17,Papu Gómez,Left Winger,"Feb 15, 1988 ",36,"['Argentina', 'Italy']",Brazil,Buenos Aires,SS   AM,"1,67",-
+11,Neri Bandiera,Left Winger,"Jul 3, 1989 ",34,['Argentina'],Brazil,Rosario,CF   RW,"1,72",€300k
+,Gonzalo Verón,Left Winger,"Dec 24, 1989 ",34,['Argentina'],Brazil,Moreno,CF   RW,"1,78",€150k
+,Ángel Luna,Left Winger,"Jan 30, 1989 ",35,['Argentina'],Brazil,Buenos Aires,CF   AM,"1,68",-
+,Fabián Acuña,Left Winger,"Jun 24, 1989 ",34,['Argentina'],Brazil,Buenos Aires,,"1,70",-
+,Leandro Martínez,Left Winger,"Oct 15, 1989 ",34,"['Italy', 'Argentina']",Brazil,Buenos Aires,AM,"1,82",-
+10,Pablo Piatti,Left Winger,"Mar 31, 1989 ",34,"['Argentina', 'Italy']",Brazil,La Carlota,RW,"1,63",€250k
+,Franco Figueroa,Left Winger,"Dec 30, 1989 ",34,['Argentina'],Brazil,Buenos Aires,CF   SS,"1,77",-
+,Gonzalo Cabrera,Left Winger,"Jan 15, 1989 ",35,"['Argentina', 'Iraq']",Brazil,Buenos Aires,SS   RW,"1,69",-
+,Santiago Sogno,Left Winger,"Jul 20, 1989 ",34,"['Argentina', 'Italy']",Brazil,Cordoba,CF   SS,"1,82",-
+17,Pato Rodríguez,Left Winger,"May 4, 1990 ",33,"['Argentina', 'Bolivia']",Brazil,Quilmes,RW   CF,"1,72",€450k
+,Emanuel Moreno,Left Winger,"Mar 19, 1990 ",34,['Argentina'],Brazil,Paraná,CM   LB,"1,82",€125k
+,Jonathan Zacaría,Left Winger,"Feb 6, 1990 ",34,['Argentina'],Brazil,Ramos Mejía,LM   LB,"1,72",€25k
+,Gonzalo Díaz,Left Winger,"Mar 1, 1990 ",34,['Argentina'],Brazil,Mendoza,AM   RW,"1,70",-
+26,Nicolás Silva,Left Winger,"Jan 24, 1990 ",34,['Argentina'],Brazil,Las Parejas,RW,"1,63",€175k
+,Mariano Barbieri,Left Winger,"Nov 29, 1990 ",33,['Argentina'],Brazil,Chivilcoy,CF   RW,"1,63",€50k
+,Marcelo Pappano,Left Winger,"Feb 28, 1990 ",34,['Argentina'],Brazil,Munro,RW   AM,"1,67",-
+8,Federico Carrizo,Left Winger,"May 17, 1991 ",32,['Argentina'],Brazil,Villa Giardino,RW   AM,"1,73",€750k
+15,Matías García,Left Winger,"Oct 22, 1991 ",32,"['Argentina', 'Italy']",Brazil,Lanús,LM   RW,"1,74",€400k
+32,Franco Costa,Left Winger,"Dec 10, 1991 ",32,['Argentina'],Brazil,Luján,LM   RW,"1,62",€200k
+,Fernando Valdebenito,Left Winger,"Jun 21, 1991 ",32,['Argentina'],Brazil,Rosario,RW   SS,"1,67",-
+,Valentín Viola,Left Winger,"Aug 28, 1991 ",32,['Argentina'],Brazil,Moreno,CF   RW,"1,82",-
+11,Jonathan Benítez,Left Winger,"Sep 4, 1991 ",32,['Argentina'],Brazil,Corrientes,RW   LB,"1,78",€500k
+7,Cristian Insaurralde,Left Winger,"Jul 20, 1991 ",32,['Argentina'],Brazil,Resistencia,RW   AM,"1,79",€300k
+10,Franco Ruibal,Left Winger,"Feb 21, 1991 ",33,"['Argentina', 'Spain']",Brazil,Buenos Aires,AM   RW,"1,69",-
+,Leandro Barrera,Left Winger,"Feb 22, 1991 ",33,"['Argentina', 'United States']",Brazil,Godoy Cruz,AM   RW,"1,79",-
+59,Christian Ortíz,Left Winger,"Aug 20, 1992 ",31,['Argentina'],Brazil,Rosario,AM,"1,70",€700k
+11,Alejandro Barbaro,Left Winger,"Jan 20, 1992 ",32,"['Argentina', 'Italy']",Brazil,Lomas de Zamora,AM   RW,"1,77",€200k
+11,Nicolás Gauna,Left Winger,"Apr 3, 1992 ",31,['Argentina'],Brazil,Villa Celina,LM   LB,"1,77",€175k
+,Juan Manuel Martínez,Left Winger,"Jan 12, 1992 ",32,['Argentina'],Brazil,San Miguel de Tucumán,RW   LB,"1,81",€125k
+11,Nicolás Vanina,Left Winger,"Nov 11, 1992 ",31,['Argentina'],Brazil,La Plata,AM,,-
+,Franco Franzino,Left Winger,"May 2, 1992 ",31,"['Argentina', 'Italy']",Brazil,Bahia Blanca,LM,"1,74",-
+,Matías Pato,Left Winger,"Sep 4, 1992 ",31,['Argentina'],Brazil,Córdoba,RW,"1,75",-
+,Nicolás Gómez,Left Winger,"Dec 3, 1992 ",31,['Argentina'],Brazil,Santiago del Estero,,"1,70",-
+11,Abel Méndez,Left Winger,"Oct 27, 1992 ",31,['Argentina'],Brazil,Tucumán,RW,"1,78",-
+15,Fabricio Pedrozo,Left Winger,"Nov 6, 1992 ",31,['Argentina'],Brazil,Eldorado,RW   CF,"1,78",€250k
+,Sebastián González,Left Winger,"Mar 4, 1992 ",32,['Argentina'],Brazil,Lomas de Zamora,AM,"1,66",€200k
+,Juan Vieyra,Left Winger,"Apr 20, 1992 ",31,['Argentina'],Brazil,Arrecifes,RW,"1,75",€150k
+,Ariel Cháves,Left Winger,"Feb 20, 1992 ",32,['Argentina'],Brazil,Rosario,DM,"1,78",€50k
+,Carlos Chávez,Left Winger,"Jun 3, 1992 ",31,['Argentina'],Brazil,,,,-
+,Matías Ruiz,Left Winger,"Mar 17, 1992 ",32,['Argentina'],Brazil,,AM   SS,"1,71",-
+,Lucas Romano,Left Winger,"Jun 12, 1992 ",31,"['Argentina', 'Spain']",Brazil,Buenos Aires,,"1,90",-
+,Rodrigo Caballuci,Left Winger,"Jul 22, 1992 ",31,['Argentina'],Brazil,Pergamino,,"1,73",-
+20,Francisco Pizzini,Left Winger,"Sep 19, 1993 ",30,"['Argentina', 'Italy']",Brazil,Bahía Blanca,RW   AM,"1,77",€2.70m
+15,Júnior Mendieta,Left Winger,"Jun 13, 1993 ",30,['Argentina'],Brazil,Corrientes,RW   AM,"1,70",€1.00m
+22,Federico Castro,Left Winger,"Aug 24, 1993 ",30,['Argentina'],Brazil,Villa Ramallo,CF   SS,"1,83",€300k
+21,Juan Ignacio Duma,Left Winger,"Dec 8, 1993 ",30,"['Argentina', 'Chile']",Brazil,Vedia,RW,"1,75",€175k
+22,José Méndez,Left Winger,"Mar 28, 1993 ",30,['Argentina'],Brazil,Mendoza,,"1,71",€75k
+33,Ricardo Centurión,Left Winger,"Jan 19, 1993 ",31,"['Argentina', 'Italy']",Brazil,Avellaneda,RW   AM,"1,74",€50k
+,Maximiliano López,Left Winger,"Mar 11, 1993 ",31,['Argentina'],Brazil,Funes,LM   RW,"1,74",-
+,Rodrigo Bruera,Left Winger,"Feb 1, 1993 ",31,['Argentina'],Brazil,Mendoza,,"1,74",-
+7,Franco Fragapane,Left Winger,"Feb 6, 1993 ",31,"['Argentina', 'Italy']",Brazil,Mendoza,RW   SS,"1,67",€2.00m
+20,Jorge Correa,Left Winger,"Apr 4, 1993 ",30,"['Argentina', 'Italy']",Brazil,San Martín,RW   AM,"1,70",€350k
+34,Gabriel Esparza,Left Winger,"Jan 30, 1993 ",31,['Argentina'],Brazil,Tucumán,LM   RW,"1,68",€300k
+,Oscar Benítez,Left Winger,"Jan 14, 1993 ",31,['Argentina'],Brazil,Adrogué,RW   SS,"1,83",€125k
+21,Facundo Álvarez,Left Winger,"Nov 11, 1993 ",30,"['Argentina', 'Italy']",Brazil,Córdoba,LB,,€50k
+28,Ramón Lindner,Left Winger,"Jun 23, 1993 ",30,['Argentina'],Brazil,Coronel Dorrego,CF,,-
+,Luciano Araya,Left Winger,"Aug 5, 1993 ",30,['Argentina'],Brazil,Junín,,,-
+,Leandro Chetti,Left Winger,"May 23, 1993 ",30,['Argentina'],Brazil,Lomas de Zamora,,"1,78",-
+5,Lucas Ocampos,Left Winger,"Jul 11, 1994 ",29,"['Argentina', 'Spain']",Brazil,Quilmes,RW,"1,87",€12.00m
+11,Franco Cervi,Left Winger,"May 26, 1994 ",29,"['Argentina', 'Italy']",Brazil,San Lorenzo,LM   RW,"1,66",€1.80m
+16,Jonathan Menéndez,Left Winger,"Mar 5, 1994 ",30,['Argentina'],Brazil,Buenos Aires,RW   CF,"1,64",€750k
+10,Eugenio Isnaldo,Left Winger,"Jan 7, 1994 ",30,"['Argentina', 'Italy']",Brazil,Rosario,CF   RW,"1,80",€350k
+,Exequiel Márquez,Left Winger,"Dec 18, 1994 ",29,['Argentina'],Brazil,Buenos Aires,RW   AM,"1,62",€200k
+7,Victorio Ramis,Left Winger,"Jul 7, 1994 ",29,['Argentina'],Brazil,Córdoba,RW   CF,"1,81",€175k
+,Nazareno Solís,Left Winger,"Apr 22, 1994 ",29,['Argentina'],Brazil,Campana,RW,"1,70",€150k
+,Lucas Comachi,Left Winger,"Jan 15, 1994 ",30,"['Argentina', 'Italy']",Brazil,Santa Fe,LM   RW,"1,73",€50k
+21,Franco Boló,Left Winger,"Feb 4, 1994 ",30,['Argentina'],Brazil,Buenos Aires,RW,"1,70",€25k
+,Augustin Alejandro,Left Winger,"Nov 11, 1994 ",29,['Argentina'],Brazil,Bahia Blanca,RW,"1,69",-
+,Gianfranco D'Errico,Left Winger,"Aug 16, 1994 ",29,"['Argentina', 'Italy']",Brazil,Villa Constitución,,"1,83",-
+,Maki Salces,Left Winger,"Nov 25, 1994 ",29,"['Argentina', 'Bolivia']",Brazil,San Salvador de Jujuy,,"1,71",-
+11,Lucas Janson,Left Winger,"Aug 16, 1994 ",29,['Argentina'],Brazil,Olavarría,RW   RM,"1,71",€2.00m
+,Yamil Asad,Left Winger,"Jul 27, 1994 ",29,"['Argentina', 'Lebanon']",Brazil,San Antonio de Padua,AM   RW,"1,77",€800k
+8,Héctor Fértoli,Left Winger,"Dec 3, 1994 ",29,['Argentina'],Brazil,El Trébol,CF   RW,"1,75",€600k
+22,Lucas Colitto,Left Winger,"Jun 1, 1994 ",29,"['Argentina', 'Italy']",Brazil,San Martin,RW   DM,"1,72",€250k
+7,Juampa Barros,Left Winger,"Mar 25, 1994 ",29,"['Argentina', 'Spain']",Brazil,Buenos Aires,RW,"1,74",€200k
+,Alan Sombra,Left Winger,"May 23, 1994 ",29,['Argentina'],Brazil,Laferrere (BUE),RW,"1,78",€150k
+,Brian Gómez,Left Winger,"Feb 15, 1994 ",30,['Argentina'],Brazil,San Justo,CF,"1,73",€125k
+7,Carlos Torres,Left Winger,"Oct 20, 1994 ",29,['Argentina'],Brazil,Rosario,AM,"1,74",€50k
+,Franco Gauna,Left Winger,"Feb 16, 1994 ",30,['Argentina'],Brazil,San Luis,,,-
+,Leandro Martín,Left Winger,"Mar 9, 1994 ",30,['Argentina'],Brazil,Ensenada,RW   AM,"1,75",-
+,Iván Chacón,Left Winger,"Dec 6, 1994 ",29,"['Argentina', 'Spain']",Brazil,Barranqueras,LM,"1,79",-
+8,Bautista Merlini,Left Winger,"Jul 4, 1995 ",28,['Argentina'],Brazil,Vicente López,AM   RW,"1,79",€750k
+8,Santiago Rosales,Left Winger,"Mar 22, 1995 ",29,['Argentina'],Brazil,Mar del Plata,AM,"1,80",€450k
+,Leandro Ciccolini,Left Winger,"Apr 22, 1995 ",28,['Argentina'],Brazil,Buenos Aires,RW   AM,"1,75",€225k
+,Nahuel Luján,Left Winger,"Aug 23, 1995 ",28,['Argentina'],Brazil,Córdoba,AM   RW,"1,76",€200k
+,Wilson Gómez,Left Winger,"Jan 25, 1995 ",29,['Argentina'],Brazil,Chabas (SFE),RW   AM,"1,70",€100k
+,Eduardo Bogarín,Left Winger,"Jun 2, 1995 ",28,['Argentina'],Brazil,,,"1,62",-
+,Rodolfo Periale,Left Winger,"Nov 14, 1995 ",28,"['Argentina', 'Italy']",Brazil,,RW   CF,"1,79",-
+,Juan Pablo Varona,Left Winger,"Mar 2, 1995 ",29,['Argentina'],Brazil,San Luis,,"1,74",-
+,Juan Manuel Torres,Left Winger,"Dec 26, 1995 ",28,['Argentina'],Brazil,,RW   CF,"1,76",-
+,Leandro Lencinas,Left Winger,"Mar 6, 1995 ",29,['Argentina'],Brazil,Rivadavia,CF,"1,74",-
+14,Jordi Scigliotti,Left Winger,"Nov 16, 1995 ",28,"['Argentina', 'Spain']",Brazil,Buenos Aires,CF,"1,75",-
+11,Gaspar Gentile,Left Winger,"Feb 16, 1995 ",29,['Argentina'],Brazil,Santa Fe,RW,"1,82",€500k
+37,Lautaro Comas,Left Winger,"Jan 15, 1995 ",29,"['Argentina', 'Italy']",Brazil,Paraná,RW   AM,"1,72",€300k
+,Iván Ortigoza,Left Winger,"Mar 11, 1995 ",29,['Argentina'],Brazil,Rosario,,"1,67",€200k
+,Rodrigo Sayavedra,Left Winger,"Jul 21, 1995 ",28,['Argentina'],Brazil,Quilmes (BUE),RW   CM,"1,75",€100k
+,Jose Torres,Left Winger,"Jul 17, 1995 ",28,['Argentina'],Brazil,Santiago del Estero,CF   RW,"1,73",€50k
+,Brian Otero,Left Winger,"Mar 14, 1995 ",29,['Argentina'],Brazil,Rosario,RW,"1,71",-
+,Miguel Pabón,Left Winger,"Jul 16, 1995 ",28,['Argentina'],Brazil,San Bernardo,CF,"1,74",-
+,Ramiro De Lillo,Left Winger,"Apr 27, 1995 ",28,"['Argentina', 'Italy']",Brazil,Chubut,RW   SS,"1,76",-
+,Guillermo Resquín,Left Winger,"Apr 26, 1995 ",28,['Argentina'],Brazil,Buenos Aires,RW,"1,69",-
+,Ezequiel Córdoba,Left Winger,"Jun 6, 1995 ",28,"['Argentina', 'Italy']",Brazil,Mendoza,RW   SS,"1,70",-
+,Maxi Rolón,Left Winger,"Jan 19, 1995","Jan 19, 1995",['Argentina'],Brazil,Rosario,RW   CF,"1,71",-
+21,Cristian Pavón,Left Winger,"Jan 21, 1996 ",28,"['Argentina', 'Italy']",Brazil,Anisacate,RW   SS,"1,74",€4.00m
+7,Julián Bartolo,Left Winger,"Apr 15, 1996 ",27,"['Argentina', 'Italy']",Brazil,Quilmes,AM   SS,"1,66",€600k
+11,Hernán Toledo,Left Winger,"Jan 17, 1996 ",28,['Argentina'],Brazil,Sastre,RW,"1,80",€325k
+,Marcos Astina,Left Winger,"Jan 21, 1996 ",28,['Argentina'],Brazil,Buenos Aires,RW,"1,70",€150k
+,Enzo Martínez,Left Winger,"Sep 9, 1996 ",27,['Argentina'],Brazil,Lincoln,CF,"1,78",€100k
+,Matías Valdivia,Left Winger,"Sep 21, 1996 ",27,['Argentina'],Brazil,Rafaela,AM   RW,"1,75",€50k
+,Tomás Armoa,Left Winger,"May 8, 1996 ",27,['Argentina'],Brazil,Rosario (SF),,,-
+,Augusto Laena,Left Winger,"Jul 25, 1996 ",27,"['Argentina', 'Spain']",Brazil,,LM,"1,80",-
+,Rodrigo Bogado,Left Winger,"Oct 18, 1996 ",27,['Argentina'],Brazil,Lomas de Zamora,,"1,87",-
+,Braian Crivaro,Left Winger,"Feb 12, 1996 ",28,"['Argentina', 'Italy']",Brazil,Buenos Aires,SS,,-
+30,Brian Oyola,Left Winger,"Jun 15, 1996 ",27,['Argentina'],Brazil,Buenos Aires,RW,"1,58",€1.20m
+27,Luciano Herrera,Left Winger,"May 31, 1996 ",27,['Argentina'],Brazil,Ledesma,CF   RW,"1,79",€500k
+11,Pibe,Left Winger,"Jan 31, 1996 ",28,"['Argentina', 'Spain']",Brazil,Adrogué,AM   RW,"1,77",€250k
+7,Horacio Tijanovich,Left Winger,"Feb 28, 1996 ",28,"['Argentina', 'Uruguay']",Brazil,Villa San Justo,RW   AM,"1,73",€125k
+,Joaquín Ibáñez,Left Winger,"Sep 5, 1996 ",27,['Argentina'],Brazil,Venado Tuerto,LM   CM,"1,78",€100k
+,Emiliano Ozuna,Left Winger,"Feb 9, 1996 ",28,['Argentina'],Brazil,Magdalena,LM,"1,72",€50k
+,Brian Peralta,Left Winger,"Jan 25, 1996 ",28,['Argentina'],Brazil,,,"1,84",-
+,Lautaro Ruiz,Left Winger,"May 9, 1996 ",27,['Argentina'],Brazil,,AM   RW,,-
+,Facundo Barbero,Left Winger,"May 3, 1996 ",27,['Argentina'],Brazil,Tucuman,RW,"1,83",-
+10,Matías Vargas,Left Winger,"May 8, 1997 ",26,['Argentina'],Brazil,Salta,AM   RW,"1,68",€4.00m
+14,Alejandro Martínez,Left Winger,"Apr 16, 1997 ",26,['Argentina'],Brazil,González Catán,LM,"1,70",€1.20m
+9,Brian Mansilla,Left Winger,"Apr 16, 1997 ",26,['Argentina'],Brazil,Rosario,CF   RW,"1,78",€1.20m
+,Gianluca Pugliese,Left Winger,"Mar 7, 1997 ",27,"['Argentina', 'Italy']",Brazil,Buenos Aires,RW   CF,"1,79",€325k
+30,Brian Andrada,Left Winger,"Jun 22, 1997 ",26,['Argentina'],Brazil,Mendoza,AM,"1,67",€300k
+,Carlo Lattanzio,Left Winger,"Jul 25, 1997 ",26,['Argentina'],Brazil,La Plata,AM   LM,"1,74",€125k
+,Diego Crego,Left Winger,"Jun 19, 1997 ",26,['Argentina'],Brazil,Buenos Aires,,"1,73",€75k
+9,Néstor Orellana,Left Winger,N/A ,27,['Argentina'],Brazil,Salta,LM   SS,"1,78",-
+,Adrián Rodríguez,Left Winger,"Feb 5, 1997 ",27,['Argentina'],Brazil,Villa Ocampo,LM,"1,79",-
+31,Rafael Acosta,Left Winger,"Oct 30, 1997 ",26,['Argentina'],Brazil,Tarija,LM   RM,"1,79",-
+26,Tomás Oses,Left Winger,"Jun 26, 1997 ",26,['Argentina'],Brazil,Neuquén,RW   AM,"1,75",-
+3,Conrado,Left Winger,"May 26, 1997 ",26,"['Argentina', 'Spain']",Brazil,Santa Fe,,"1,74",-
+,Nahuel Speck,Left Winger,"May 16, 1997 ",26,['Argentina'],Brazil,Termas de Río Hondo,,"1,67",-
+11,Gastón Togni,Left Winger,"Sep 20, 1997 ",26,['Argentina'],Brazil,General Pinto,LM   LB,"1,81",€3.20m
+8,Jonás Acevedo,Left Winger,"Feb 6, 1997 ",27,['Argentina'],Brazil,Concarán,RW   AM,"1,72",€1.20m
+22,Carlos Valenzuela,Left Winger,"Apr 22, 1997 ",26,['Argentina'],Brazil,Santiago del Estero,RW,"1,67",€1.00m
+,Nicolás Delgadillo,Left Winger,"Oct 2, 1997 ",26,['Argentina'],Brazil,Buenos Aires,RW   AM,"1,77",€300k
+30,David Gallardo,Left Winger,"Feb 28, 1997 ",27,['Argentina'],Brazil,Cañada de Gómez (SFE),RW,"1,80",€200k
+,Braian Álvarez,Left Winger,"Aug 22, 1997 ",26,['Argentina'],Brazil,Mar del Plata,RM,"1,71",€100k
+7,Juan Cruz Martínez,Left Winger,"Apr 1, 1997 ",26,"['Argentina', 'Italy']",Brazil,,RW,"1,71",€10k
+,Nicolás Castro,Left Winger,"Mar 22, 1997 ",27,['Argentina'],Brazil,,RW   LM,,-
+,Gonzalo Schonfeld,Left Winger,"Dec 9, 1997 ",26,['Argentina'],Brazil,Sunchales,LM,"1,72",-
+,Joaquin Elias Castanares,Left Winger,N/A ,26,['Argentina'],Brazil,,LB,"1,82",-
+,Tomás Díaz,Left Winger,"Apr 24, 1997 ",26,"['Argentina', 'Spain']",Brazil,Buenos Aires,RM   RW,"1,78",-
+,Lionel Segovia,Left Winger,"Jul 21, 1997 ",26,['Argentina'],Brazil,Buenos Aires,RW,"1,72",-
+,Agustín Guiffrey,Left Winger,"Nov 3, 1997 ",26,['Argentina'],Brazil,San Cipriano,,"1,74",-
+,Carlos Fernández Colla,Left Winger,"Mar 5, 1997 ",27,['Argentina'],Brazil,Buenos Aires,,"1,68",-
+,Pablo Gómez,Left Winger,"Jul 16, 1997 ",26,"['Argentina', 'Mexico']",Brazil,Mendoza,RW,"1,68",-
+,Juan Álvarez,Left Winger,"Oct 27, 1997 ",26,['Argentina'],Brazil,El Palomar,AM   RW,"1,76",-
+11,Martín Ojeda,Left Winger,"Nov 27, 1998 ",25,['Argentina'],Brazil,Gualeguaychú,RW   AM,"1,79",€6.00m
+11,Tomás Conechny,Left Winger,"Mar 30, 1998 ",25,"['Argentina', 'Poland']",Brazil,Comodoro Rivadavia,SS   RW,"1,76",€4.50m
+26,Matías Moya,Left Winger,"Mar 26, 1998 ",25,"['Argentina', 'Chile']",Brazil,Centenario,,"1,67",€450k
+26,Yair Arismendi,Left Winger,"Apr 5, 1998 ",25,['Argentina'],Brazil,San Nicolas,RW   CF,"1,75",€250k
+27,Alfredo Blancq,Left Winger,"Feb 16, 1998 ",26,['Argentina'],Brazil,Curuzú Cuatiá,SS   RB,"1,74",€125k
+,Agustín Campana,Left Winger,"May 2, 1998 ",25,['Argentina'],Brazil,Buenos Aires,LM   AM,"1,77",€50k
+,Gaston Semenzin,Left Winger,"Sep 15, 1998 ",25,"['Argentina', 'Italy']",Brazil,Cordoba,SS,"1,79",-
+,Valentín Rizzo,Left Winger,"Feb 10, 1998 ",26,"['Argentina', 'Italy']",Brazil,Buenos Aires,CF,"1,76",-
+,Franco Pérez,Left Winger,"Nov 4, 1998 ",25,['Argentina'],Brazil,Necochea,RW   AM,"1,76",-
+,Valentino Cernaz,Left Winger,"Jun 19, 1998 ",25,"['Argentina', 'Italy']",Brazil,Neuquen,,"1,69",-
+10,Nahuel Barrios,Left Winger,"May 7, 1998 ",25,['Argentina'],Brazil,Buenos Aires,AM,"1,56",€5.00m
+7,Bautista Cejas,Left Winger,"Mar 6, 1998 ",26,"['Argentina', 'Italy']",Brazil,La Plata,RW   SS,"1,76",€800k
+,Mauro Cachi,Left Winger,"Aug 22, 1998 ",25,['Argentina'],Brazil,General Guemes,SS   RW,"1,66",€350k
+,Tomás Assennato,Left Winger,"Jul 23, 1998 ",25,['Argentina'],Brazil,Salta,,"1,74",€125k
+,Francisco Nouet,Left Winger,"May 25, 1998 ",25,['Argentina'],Brazil,San Pedro,RW   CF,"1,83",€100k
+9,René Billalba,Left Winger,"May 9, 1998 ",25,['Argentina'],Brazil,,,"1,67",-
+,Agustin Martinez,Left Winger,"Jan 2, 1998 ",26,['Argentina'],Brazil,,RW,"1,76",-
+,Nicolás Muscio,Left Winger,"Feb 18, 1998 ",26,['Argentina'],Brazil,Lanús,,"1,70",-
+,Matías Gómez,Left Winger,"Aug 10, 1998 ",25,['Argentina'],Brazil,Chaco,,"1,70",-
+5,Tomás Chancalay,Left Winger,"Jan 1, 1999 ",25,['Argentina'],Brazil,Viale,RW,"1,79",€4.00m
+70,Alan Marinelli,Left Winger,"Apr 7, 1999 ",24,['Argentina'],Brazil,Rosario,LM   CF,"1,74",€500k
+7,Maximiliano Lovera,Left Winger,"Mar 9, 1999 ",25,['Argentina'],Brazil,Formosa,RW   AM,"1,70",€500k
+16,Matías Ramírez,Left Winger,"Mar 14, 1999 ",25,['Argentina'],Brazil,Pontevedra,SS   RW,"1,75",€200k
+,Israel Escalante,Left Winger,"Jan 9, 1999 ",25,['Argentina'],Brazil,Resistencia,RW,"1,74",€75k
+,Estanislao Jara,Left Winger,"Aug 26, 1999 ",24,['Argentina'],Brazil,City Bell,,"1,77",€25k
+,Ángel Bulacio,Left Winger,"Jul 22, 1999 ",24,['Argentina'],Brazil,,,"1,79",-
+,Braian Maidana,Left Winger,"Jul 22, 1999 ",24,['Argentina'],Brazil,Isidro Casanova,RW,"1,70",-
+28,Ricardo Ramírez,Left Winger,"Apr 27, 1999 ",24,['Argentina'],Brazil,Miraflores,CF   RW,"1,69",-
+,Julián Ramírez,Left Winger,"Oct 28, 1999 ",24,['Argentina'],Brazil,San Salvador (JUJ),,,-
+29,Braian Martínez,Left Winger,"Aug 18, 1999 ",24,['Argentina'],Brazil,Pampa del Infierno,RW,"1,60",€800k
+21,Julián Brea,Left Winger,"Oct 10, 1999 ",24,['Argentina'],Brazil,Tres Algarrobos,RW,"1,80",€500k
+27,Lucas Ambrogio,Left Winger,"Jul 14, 1999 ",24,['Argentina'],Brazil,Villa Mercedes,SS,"1,81",€350k
+,Exequiel Beltramone,Left Winger,"Feb 9, 1999 ",25,['Argentina'],Brazil,Frontera,,"1,65",€125k
+,Juan Ignacio Baiardino,Left Winger,"Sep 26, 1999 ",24,"['Argentina', 'Italy']",Brazil,Buenos Aires,SS   RW,"1,79",€50k
+14,Santiago Rinaldi,Left Winger,"Feb 28, 1999 ",25,['Argentina'],Brazil,Buenos Aires,AM   RW,,-
+,Bautista Lopez Villagra,Left Winger,"Jan 19, 1999 ",25,['Argentina'],Brazil,,,"1,71",-
+,Gastón Martiré,Left Winger,"Mar 7, 1999 ",25,['Argentina'],Brazil,Roldán,RW,"1,65",-
+21,Brian Gambarte,Left Winger,"Mar 15, 1999 ",25,['Argentina'],Brazil,Rosario,RW   AM,"1,73",-
+10,Benjamín Garré,Left Winger,"Jul 11, 2000 ",23,"['Argentina', 'Italy']",Brazil,Buenos Aires,RW,"1,72",€8.00m
+31,Ignacio Aliseda,Left Winger,"Mar 14, 2000 ",24,['Argentina'],Brazil,Buenos Aires,RW   CF,"1,68",€3.00m
+26,Ramiro Sordo,Left Winger,"Jun 29, 2000 ",23,['Argentina'],Brazil,Las Rosas,AM,"1,76",€2.50m
+10,Mateo Klimowicz,Left Winger,"Jul 6, 2000 ",23,"['Germany', 'Argentina']",Brazil,Buenos Aires,CF   RW,"1,81",€2.50m
+11,Valentín Depietri,Left Winger,"Oct 31, 2000 ",23,['Argentina'],Brazil,Tandil,AM   CF,"1,78",€800k
+28,Alexis Cuello,Left Winger,"Feb 18, 2000 ",24,['Argentina'],Brazil,Dock Sud,RW   CF,"1,74",€350k
+,Agustín Curruhinca,Left Winger,"Jan 6, 2000 ",24,['Argentina'],Brazil,Viedma,RW,"1,67",€150k
+11,Giuliano Bertino,Left Winger,"Dec 2, 2000 ",23,"['Argentina', 'Italy']",Brazil,Buenos Aires,,"1,74",€150k
+,Matías Belloso,Left Winger,"Feb 16, 2000 ",24,['Argentina'],Brazil,Rosario,CF   SS,"1,75",€100k
+,Agustín Ramírez,Left Winger,"May 2, 2000 ",23,['Argentina'],Brazil,Concordia,RW   CF,"1,67",€50k
+,Tomi Pérez,Left Winger,"Mar 6, 2000 ",24,['Argentina'],Brazil,,RW   LB,"1,73",-
+,Santiago Róttoli,Left Winger,"Oct 4, 2000 ",23,['Argentina'],Brazil,"San José, Entre Rios",SS,"1,69",-
+,Gastón Pedernera,Left Winger,"Oct 9, 2000 ",23,"['Argentina', 'Spain']",Brazil,San Rafael,RW   SS,"1,72",-
+21,Álvaro Barreal,Left Winger,"Aug 17, 2000 ",23,"['Argentina', 'United States']",Brazil,Buenos Aires,RW   LB,"1,72",€5.00m
+28,Tomás Cuello,Left Winger,"Mar 5, 2000 ",24,['Argentina'],Brazil,San Miguel de Tucumán,RW   AM,"1,76",€3.00m
+11,Matías Pellegrini,Left Winger,"Mar 11, 2000 ",24,"['Argentina', 'United States']",Brazil,Magdalena,RW   AM,"1,76",€2.50m
+16,Rodrigo Cabral,Left Winger,"Aug 8, 2000 ",23,['Argentina'],Brazil,Mercedes,RW,"1,70",€800k
+7,Juan Cruz Esquivel,Left Winger,"Aug 22, 2000 ",23,['Argentina'],Brazil,Cañada Rosquín,,"1,73",€600k
+7,Agustín Obando,Left Winger,"Mar 11, 2000 ",24,['Argentina'],Brazil,Monte Caseros,LM,"1,76",€275k
+,Facundo González,Left Winger,"Aug 4, 2000 ",23,['Argentina'],Brazil,,SS,"1,72",€150k
+,Augusto Berrondo,Left Winger,"Jan 28, 2000 ",24,['Argentina'],Brazil,San Miguel de Tucumán,RW   CF,"1,87",€100k
+,Diego Vásquez,Left Winger,"Sep 11, 2000 ",23,['Argentina'],Brazil,Santiago del Estero,AM   RW,"1,74",€50k
+,Santiago Sosa,Left Winger,"Dec 12, 2000 ",23,['Argentina'],Brazil,Jovita,AM   CF,"1,75",€10k
+,Diego Pedraza,Left Winger,"May 26, 2000 ",23,['Argentina'],Brazil,,,"1,74",-
+,Nicolas Aires,Left Winger,"Sep 11, 2000 ",23,['Argentina'],Brazil,Armstrong (Santa Fe),,"1,80",-
+,Alexis Villarroel,Left Winger,"Sep 23, 2000 ",23,"['Argentina', 'Chile']",Brazil,San Carlos de Bariloche,RW,"1,70",-
+,Gaspar Di Pizio,Left Winger,"Feb 23, 2000 ",24,['Argentina'],Brazil,La Plata,RW   CF,"1,78",-
+,Rodrigo Giorno,Left Winger,"Dec 5, 2000 ",23,['Argentina'],Brazil,,LM,"1,65",-
+7,Lucas Quiroga,Left Winger,"May 8, 2000 ",23,['Argentina'],Brazil,San Luis,CF   RW,"1,84",-
+,Gastón Gerzel,Left Winger,"Jan 5, 2000 ",24,"['Argentina', 'Italy']",Brazil,Resistencia,LM,"1,72",-
+19,Gastón González,Left Winger,"Jun 27, 2001 ",22,"['Argentina', 'United States']",Brazil,Santa Fé,RW,"1,83",€2.00m
+26,Facundo Lencioni,Left Winger,"Feb 14, 2001 ",23,['Argentina'],Brazil,Rafaela,CM,"1,80",€700k
+,Lucas Ríos,Left Winger,"Nov 5, 2001 ",22,['Argentina'],Brazil,Buenos Aires,,"1,72",€150k
+,Evelio Cardozo,Left Winger,"Feb 6, 2001 ",23,"['Argentina', 'Paraguay']",Brazil,Buenos Aires,AM   RW,"1,70",€150k
+,Nicolás Chaves,Left Winger,"Jul 1, 2001 ",22,['Argentina'],Brazil,Grand Bourg,LB   RB,"1,70",€125k
+,Alex Aranda,Left Winger,"Apr 10, 2001 ",22,['Argentina'],Brazil,Tartagal,LM,"1,77",€10k
+,Lucas Matas,Left Winger,"Jul 26, 2001 ",22,['Argentina'],Brazil,,,,-
+,José Vanetta,Left Winger,"Nov 28, 2001 ",22,['Argentina'],Brazil,,,"1,72",-
+,Rosendo Barni,Left Winger,"Jan 7, 2001 ",23,['Argentina'],Brazil,Daireaux,,"1,75",-
+22,Lautaro Giaccone,Left Winger,"Feb 1, 2001 ",23,['Argentina'],Brazil,San Francisco,RW   AM,"1,72",€1.70m
+27,Sebastián Zeballos,Left Winger,"Jul 17, 2001 ",22,['Argentina'],Brazil,Luján,,"1,68",€150k
+,Kevin Isa Luna,Left Winger,"Apr 18, 2001 ",22,"['Argentina', 'Lebanon']",Brazil,San Miguel de Tucumán,RW,"1,80",€150k
+24,Valentín Coria,Left Winger,"Oct 14, 2001 ",22,"['Argentina', 'Chile']",Brazil,Neuquén,RW   AM,"1,68",€125k
+,Agustín Alonso,Left Winger,"Jan 23, 2001 ",23,['Argentina'],Brazil,Avellaneda,RW,"1,71",€50k
+,Gabriel Méndez,Left Winger,"Feb 28, 2001 ",23,['Argentina'],Brazil,Jujuy,RW   LM,"1,76",€10k
+,Franco Saccone,Left Winger,"Dec 19, 2001 ",22,"['Argentina', 'Italy']",Brazil,"Rosario, Santa Fe",RW,,-
+,Guillermo Mackay,Left Winger,"Dec 12, 2001 ",22,['Argentina'],Brazil,,,"1,75",-
+20,Alan Velasco,Left Winger,"Jul 27, 2002 ",21,['Argentina'],Brazil,Quilmes,RW   AM,"1,67",€7.00m
+7,Exequiel Zeballos,Left Winger,"Apr 24, 2002 ",21,['Argentina'],Brazil,Santiago del Estero,RW   SS,"1,70",€5.00m
+17,Lautaro Pastrán,Left Winger,"Jun 27, 2002 ",21,"['Chile', 'Argentina']",Brazil,Mendoza,RW   AM,"1,73",€1.20m
+,Ignacio Lago,Left Winger,"Aug 5, 2002 ",21,['Argentina'],Brazil,Isidro Casanova,,"1,72",€350k
+20,Rodrigo Márquez,Left Winger,"Feb 15, 2002 ",22,['Argentina'],Brazil,General Belgrano,RW   LM,"1,77",€250k
+,Bruno Juncos,Left Winger,"Jan 21, 2002 ",22,['Argentina'],Brazil,Alta Gracia,RW   AM,"1,78",€50k
+,Juan Rocca,Left Winger,"Apr 14, 2002 ",21,['Argentina'],Brazil,,,,€10k
+,Daniel Rodríguez,Left Winger,"Jan 1, 2002 ",22,['Argentina'],Brazil,,,,-
+,Federico Ibáñez,Left Winger,"Feb 14, 2002 ",22,['Argentina'],Brazil,Claypole,RW   LM,"1,70",-
+27,Facundo Kruspzky,Left Winger,"Jul 28, 2002 ",21,"['Argentina', 'Poland']",Brazil,Avellaneda,LM   RW,"1,81",€5.00m
+32,Franco Orozco,Left Winger,"Jan 9, 2002 ",22,"['Argentina', 'Italy']",Brazil,Canning,RW   CF,"1,68",€2.00m
+11,Luciano Ferreyra,Left Winger,"Feb 19, 2002 ",22,['Argentina'],Brazil,Rosario,AM   RW,"1,68",€600k
+29,Emiliano Viveros,Left Winger,"Sep 30, 2002 ",21,['Argentina'],Brazil,Ruiz de Montoya,RW   AM,"1,78",€300k
+25,David Zalazar,Left Winger,"May 9, 2002 ",21,['Argentina'],Brazil,General Villegas,LM,"1,77",€125k
+,Joel Ortíz,Left Winger,"Aug 18, 2002 ",21,['Argentina'],Brazil,San Francisco Solano,,"1,75",€10k
+,Elián Tus,Left Winger,"Feb 15, 2002 ",22,['Argentina'],Brazil,Las Flores,RW   LM,"1,73",-
+11,Ángel Gillard,Left Winger,"Jan 21, 2002 ",22,['Argentina'],Brazil,Ciudad Jardín El Libertador,CF   RW,"1,76",-
+11,Facu Moreyra,Left Winger,"Jan 29, 2002 ",22,['Argentina'],Brazil,Buenos Aires,,,-
+18,Brian Aguirre,Left Winger,"Jan 6, 2003 ",21,['Argentina'],Brazil,Granadero Baigorria,RW,"1,78",€8.00m
+7,Gerónimo Rivera,Left Winger,"Aug 18, 2003 ",20,"['Argentina', 'Chile']",Brazil,Buenos Aires,LM   RW,"1,70",€3.50m
+,Alan Sosa,Left Winger,"May 5, 2003 ",20,['Argentina'],Brazil,La Plata,LM,"1,80",€500k
+45,Valentín Mancini,Left Winger,"Jun 2, 2003 ",20,['Argentina'],Brazil,Arroyito,,"1,64",€75k
+,Agustín Palavecino,Left Winger,"Mar 9, 2003 ",21,['Argentina'],Brazil,Buenos Aires,CF,"1,85",€25k
+,Matías Salerno,Left Winger,"Nov 27, 2003 ",20,"['Argentina', 'Italy']",Brazil,Buenos Aires,LM   CF,"1,70",-
+32,Gian Franco Salerno,Left Winger,"Feb 24, 2003 ",21,"['Argentina', 'Italy']",Brazil,La Boca,RW,"1,76",-
+,Ivo Pohmajevic,Left Winger,"Jan 7, 2003 ",21,"['Argentina', 'Italy']",Brazil,San Juan,SS   RW,"1,85",-
+7,Benjamín Domínguez,Left Winger,"Sep 19, 2003 ",20,['Argentina'],Brazil,La Plata,RW   SS,"1,72",€5.00m
+22,Lucas Besozzi,Left Winger,"Jan 22, 2003 ",21,['Argentina'],Brazil,Lanús,AM   RW,"1,76",€1.20m
+,Patricio Moyano,Left Winger,"Jul 4, 2003 ",20,['Argentina'],Brazil,El Perdido,CF   LM,"1,78",€75k
+49,Julián Contrera,Left Winger,"May 10, 2003 ",20,['Argentina'],Brazil,Rufino,RW,"1,67",€25k
+,Luciano Centurión,Left Winger,"Mar 7, 2003 ",21,['Argentina'],Brazil,Rosario,RW   SS,"1,76",-
+,Jonathan Guenzani,Left Winger,"May 20, 2003 ",20,['Argentina'],Brazil,,,"1,75",-
+,Valentín Umeres,Left Winger,"Jun 16, 2003 ",20,['Argentina'],Brazil,Campana,SS   RW,"1,67",-
+26,Agustín Ojeda,Left Winger,"Jun 19, 2004 ",19,['Argentina'],Brazil,Rosario,RW   CM,"1,69",€3.00m
+,Tomás Rambert,Left Winger,"Jan 3, 2004 ",20,"['Argentina', 'France']",Brazil,Buenos Aires,,"1,81",€50k
+,Lautaro Zotta,Left Winger,"May 1, 2004 ",19,['Argentina'],Brazil,Buenos Aires,,"1,80",€10k
+,Alejo Garnica,Left Winger,"Jan 1, 2004 ",20,['Argentina'],Brazil,Rosario,LM,,-
+10,Mateo Sanabria,Left Winger,"Mar 31, 2004 ",19,['Argentina'],Brazil,Lomas de Zamora,RW,"1,78",€325k
+35,Misael Jaime,Left Winger,"Jan 13, 2004 ",20,['Argentina'],Brazil,Rosario,RW   SS,"1,72",€25k
+23,Tomas Agustin Garcia,Left Winger,"Jan 30, 2004 ",20,['Argentina'],Brazil,,RW,,-
+25,Dylan Aquino,Left Winger,"Jun 4, 2005 ",18,['Argentina'],Brazil,Quilmes,,"1,71",€75k
+11,Franco Pelozo,Left Winger,"Aug 11, 2005 ",18,['Argentina'],Brazil,Santa Fe,,,-
+,Juan Pablo Arango,Left Winger,"May 29, 2005 ",18,['Argentina'],Brazil,Necochea,LM   AM,"1,65",-
+,Jeronimo Russo,Left Winger,"May 30, 2005 ",18,"['Argentina', 'Italy']",Brazil,Rosario,RW,,€25k
+,Joaquín Flores,Left Winger,"May 28, 2005 ",18,['Argentina'],Brazil,San Miguel de Tucumán,CF,"1,68",-
