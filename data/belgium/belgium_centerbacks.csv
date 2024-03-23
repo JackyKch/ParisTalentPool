@@ -1,0 +1,320 @@
+Number,Name,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+,Jeroen Van Damme,Centre-Back,"Nov 30, 1985 ",38,['Belgium'],Belgium,,,,-
+,Kevin Nicaise,Centre-Back,"Apr 17, 1985 ",38,"['Chad', 'Belgium']",Belgium,Brussel,DM,"1,92",-
+,Philippe Buysens,Centre-Back,"Feb 16, 1985 ",39,['Belgium'],Belgium,Ronse,,"1,86",-
+,David Vandenbroeck,Centre-Back,"Jul 12, 1985 ",38,['Belgium'],Belgium,Braine-l'Alleud,,"1,86",-
+,Quantin Durieux,Centre-Back,"Jan 28, 1985 ",39,['Belgium'],Belgium,Chimay,,"1,87",-
+,Nicolas Lombaerts,Centre-Back,"Mar 20, 1985 ",39,['Belgium'],Belgium,Brugge,LB,"1,88",-
+,Thomas Vermaelen,Centre-Back,"Nov 14, 1985 ",38,['Belgium'],Belgium,Kapellen,LB,"1,83",-
+,Nico Van Der Linden,Centre-Back,"Mar 12, 1985 ",39,['Belgium'],Belgium,Ekeren,,"1,95",-
+,Brecht De Rouck,Centre-Back,"Apr 29, 1985 ",38,['Belgium'],Belgium,Waregem,,"1,87",-
+,Jeroen Simaeys,Centre-Back,"May 12, 1985 ",38,['Belgium'],Belgium,Mechelen,DM,"1,93",-
+,Jan Wuytens,Centre-Back,"Jun 9, 1985 ",38,['Belgium'],Belgium,Hasselt,,"1,89",-
+,Loic Piolot,Centre-Back,"Jan 17, 1985 ",39,['Belgium'],Belgium,Tubize,,,-
+,Laurent Ciman,Centre-Back,"Aug 5, 1985 ",38,"['Belgium', 'Canada']",Belgium,Farciennes,RB,"1,84",-
+,Cyril Detremmerie,Centre-Back,"Jun 20, 1985","Jun 20, 1985",['Belgium'],Belgium,Mouscron,DM,"1,85",-
+,Wim Raymaekers,Centre-Back,"Apr 4, 1985 ",38,['Belgium'],Belgium,Hasselt,,"1,86",-
+,Hans Hoornaert,Centre-Back,"Jul 10, 1986 ",37,['Belgium'],Belgium,Roeselare,RB,"1,90",-
+,Gaëtan Audoor,Centre-Back,"Nov 9, 1986 ",37,['Belgium'],Belgium,Rocourt,,"1,79",-
+,Sébastien van Aerschot,Centre-Back,"Apr 2, 1986 ",37,['Belgium'],Belgium,Namur,,"1,88",-
+,Benjamin De Wilde,Centre-Back,"Apr 7, 1986 ",37,['Belgium'],Belgium,Lokeren,,"1,86",-
+,David Triantafillidis,Centre-Back,"Feb 15, 1986 ",38,"['Belgium', 'Greece']",Belgium,Leuven,DM,"1,89",-
+,Steve Colpaert,Centre-Back,"Sep 13, 1986 ",37,['Belgium'],Belgium,Etterbeek,RB,"1,77",-
+,Foeke Rossel,Centre-Back,"Jul 11, 1986 ",37,['Belgium'],Belgium,Asse,,"1,78",-
+,Valentín Goffin,Centre-Back,"Aug 14, 1986 ",37,['Belgium'],Belgium,Libramont,,"1,91",-
+40,Maxime Biset,Centre-Back,"Mar 26, 1986 ",37,['Belgium'],Belgium,Antwerpen,DM,,-
+,Siebe Blondelle,Centre-Back,"Apr 20, 1986 ",37,['Belgium'],Belgium,Brugge,LB   DM,"1,85",-
+,Ludovic Buysens,Centre-Back,"Mar 13, 1986 ",38,['Belgium'],Belgium,Ronse,RB   LB,"1,88",-
+,Vincent Kompany,Centre-Back,"Apr 10, 1986 ",37,"['Belgium', 'DR Congo']",Belgium,Uccle,DM,"1,90",-
+14,Jan Vertonghen,Centre-Back,"Apr 24, 1987 ",36,['Belgium'],Belgium,Sint-Niklaas,LB,"1,89",€1.50m
+19,Benjamin Lambot,Centre-Back,"May 2, 1987 ",36,['Belgium'],Belgium,Etterbeek,DM,"1,90",€100k
+,Steven Vandenbergh,Centre-Back,"Feb 2, 1987 ",37,['Belgium'],Belgium,Diest,RB,"1,86",-
+,Pieter De Wulf,Centre-Back,"Apr 2, 1987 ",36,['Belgium'],Belgium,,RB,"1,79",-
+,Philippe Fostier,Centre-Back,"Jan 26, 1987 ",37,['Belgium'],Belgium,Virton,,"1,75",-
+17,Alexandre Jansen da Silva,Centre-Back,"Jan 16, 1987 ",37,"['Belgium', 'Brazil']",Belgium,Waregem,RB   LB,"1,90",-
+,Seth De Witte,Centre-Back,"Oct 18, 1987 ",36,['Belgium'],Belgium,Antwerp,DM,"1,93",-
+,Michael Jonckheere,Centre-Back,"Sep 1, 1987 ",36,['Belgium'],Belgium,Uccle,RB,"1,86",-
+,Timothy Dreesen,Centre-Back,"Jan 30, 1987 ",37,['Belgium'],Belgium,Geel,RB,"1,90",-
+16,Timothy Derijck,Centre-Back,"May 25, 1987 ",36,['Belgium'],Belgium,Dendermonde,DM,"1,85",€150k
+44,Adrien Leclercq,Centre-Back,"Feb 8, 1987 ",37,['Belgium'],Belgium,,,"1,83",-
+,Abdülkerim Öcal,Centre-Back,"Aug 24, 1987 ",36,"['Türkiye', 'Belgium']",Belgium,Genk,,"1,88",-
+,Laurent Castellana,Centre-Back,"Jan 17, 1987 ",37,['Belgium'],Belgium,Liège,RB,"1,85",-
+,Fabian Beine,Centre-Back,"Oct 6, 1987 ",36,['Belgium'],Belgium,Lüttich,,"1,77",-
+,Robin Jacobs,Centre-Back,"Sep 8, 1987 ",36,['Belgium'],Belgium,Lier,,"1,83",-
+,Jonas Bogaerts,Centre-Back,"Mar 6, 1987 ",37,['Belgium'],Belgium,Tienen,DM,"1,81",-
+,Pieter Thijs,Centre-Back,"Mar 24, 1987 ",36,['Belgium'],Belgium,Neerpelt,,"1,83",-
+,Kobe de Rudder,Centre-Back,"Jan 20, 1988 ",36,['Belgium'],Belgium,Gent,,"1,90",-
+,Yannick Marchand,Centre-Back,"Aug 15, 1988 ",35,['Belgium'],Belgium,Geraardsbergen,DM,,-
+21,Gertjan Martens,Centre-Back,"Sep 20, 1988 ",35,['Belgium'],Belgium,Ursel,DM,"1,88",-
+,Niels De Schutter,Centre-Back,"Aug 8, 1988 ",35,['Belgium'],Belgium,Dendermonde,DM   RB,"1,81",-
+,Brecht Vierstraete,Centre-Back,"Jun 16, 1988 ",35,['Belgium'],Belgium,Kortrijk,,,-
+,Naïm Aarab,Centre-Back,"Feb 7, 1988 ",36,"['Belgium', 'Morocco']",Belgium,Brussel,RB   DM,"1,88",-
+,Jelle De Bock,Centre-Back,"May 4, 1988 ",35,['Belgium'],Belgium,Sint-Niklaas,,"1,86",-
+,Sven Verdonck,Centre-Back,"Jan 30, 1988 ",36,['Belgium'],Belgium,Herentals,,"1,86",-
+,Steven Schürmann,Centre-Back,"Jan 24, 1988 ",36,['Belgium'],Belgium,Vilvoorde,,"1,86",-
+4,Bart Biemans,Centre-Back,"Mar 14, 1988 ",36,['Belgium'],Belgium,Hamont,RB,"1,83",-
+,Yves Van Lokeren,Centre-Back,"Nov 7, 1988 ",35,['Belgium'],Belgium,Beveren,CF   AM,,-
+4,Miguel Dachelet,Centre-Back,"Jan 16, 1988 ",36,"['Belgium', 'Spain']",Belgium,Liège,LB,,-
+,Arnaud Chareton,Centre-Back,"Mar 1, 1988 ",36,['Belgium'],Belgium,Lüttich,,"1,78",-
+,Jasper Vermeerbergen,Centre-Back,"Jan 8, 1988 ",36,['Belgium'],Belgium,Edegem,,"1,85",-
+,Tom Raes,Centre-Back,"Jan 8, 1988 ",36,['Belgium'],Belgium,Roeselare,DM,"1,90",-
+,Daan Van Gijseghem,Centre-Back,"Mar 2, 1988 ",36,['Belgium'],Belgium,Oudenaarde,DM,"1,84",-
+20,Axel Witsel,Centre-Back,"Jan 12, 1989 ",35,"['Belgium', 'Martinique']",Belgium,Liège,DM   CM,"1,86",€4.00m
+4,Stijn Wuytens,Centre-Back,"Oct 8, 1989 ",34,['Belgium'],Belgium,Eksel,CM   DM,"1,85",€150k
+27,François Kompany,Centre-Back,"Sep 28, 1989 ",34,"['Belgium', 'DR Congo']",Belgium,Uccle,LB   LM,"1,84",-
+,Romeo Van Dessel,Centre-Back,"Apr 9, 1989 ",34,['Belgium'],Belgium,Rumst,,"1,91",-
+,Ömer Kulga,Centre-Back,"Jan 8, 1989 ",35,"['Türkiye', 'Belgium']",Belgium,Sint-Niklaas,DM,"1,89",-
+,Matthias van Gysel,Centre-Back,"Feb 17, 1989 ",35,['Belgium'],Belgium,Gent,,"1,78",-
+,Frédéric Frans,Centre-Back,"Jan 3, 1989 ",35,['Belgium'],Belgium,Wespelaar,,"1,93",-
+,Cor Gillis,Centre-Back,"Mar 31, 1989 ",34,['Belgium'],Belgium,Anderlecht,LB   DM,"1,90",-
+23,Toby Alderweireld,Centre-Back,"Mar 2, 1989 ",35,['Belgium'],Belgium,Wilrijk,,"1,87",€3.00m
+,Lennert Vanherberghen,Centre-Back,"Dec 3, 1989 ",34,['Belgium'],Belgium,Tienen,,"1,83",-
+,Nabil El Abed,Centre-Back,"Dec 5, 1989 ",34,"['Belgium', 'Morocco']",Belgium,Sint-Joost-ten-Node,,"1,91",-
+5,Hannes Meeus,Centre-Back,"Jan 26, 1989 ",35,['Belgium'],Belgium,Vilvoorde,DM,"1,89",-
+,Jeroen Van den Broek,Centre-Back,"Feb 16, 1989","Feb 16, 1989",['Belgium'],Belgium,Borgerhout,DM,"1,80",-
+,Patrick Bollue,Centre-Back,"Apr 20, 1989 ",34,['Belgium'],Belgium,Lüttich,RB,"1,90",-
+,Dwayne Dildick,Centre-Back,"Apr 25, 1989 ",34,"['Belgium', 'Canada']",Belgium,Oostende,RB,"1,83",-
+28,Dedryck Boyata,Centre-Back,"Nov 28, 1990 ",33,"['Belgium', 'DR Congo']",Belgium,Brussel,,"1,88",€800k
+6,Glenn Neven,Centre-Back,"Feb 8, 1990 ",34,['Belgium'],Belgium,Tongeren,DM   RB,"1,86",€150k
+,Yannick Lodders,Centre-Back,"Jun 3, 1990 ",33,['Belgium'],Belgium,Wilrijk,,"1,86",-
+,Thomas Hendrickx,Centre-Back,"Jun 21, 1990 ",33,['Belgium'],Belgium,Leuven,,"1,81",-
+,Rudy Mansoni Ngombo,Centre-Back,"Mar 25, 1990 ",33,"['Belgium', 'DR Congo']",Belgium,Antwerpen,,,-
+16,Sam Vanaken,Centre-Back,"Mar 9, 1990 ",34,['Belgium'],Belgium,Lommel,DM,"1,90",-
+17,Koen Weuts,Centre-Back,"Sep 18, 1990 ",33,['Belgium'],Belgium,Lier,LB   DM,"1,86",-
+,Niels Ringoot,Centre-Back,"Apr 22, 1990 ",33,['Belgium'],Belgium,Aalst,LB,"1,89",-
+19,Jonathan Heris,Centre-Back,"Sep 3, 1990 ",33,['Belgium'],Belgium,Brussel,RB,"1,88",€250k
+32,Pierre-Alain Laloux,Centre-Back,"Aug 30, 1990 ",33,['Belgium'],Belgium,,DM,,-
+,Julien Habdas,Centre-Back,"Mar 14, 1990 ",34,"['Belgium', 'Poland']",Belgium,Charleroi,,"1,85",-
+,Thomas Wils,Centre-Back,"Apr 24, 1990 ",33,['Belgium'],Belgium,Turnhout,DM,"1,81",-
+,Koen Hustinx,Centre-Back,"Jan 30, 1990 ",34,['Belgium'],Belgium,Bilzen,,,-
+,Bart De Corte,Centre-Back,"Feb 26, 1990 ",34,['Belgium'],Belgium,Borgerhout,,"1,79",-
+,Kadir Erciyas,Defender,N/A ,N/A,[],Belgium,N/A,,N/A,-
+,Fazlı Kocabaş,Centre-Back,"Jan 1, 1990 ",34,"['Belgium', 'Türkiye']",Belgium,Brussel,LB   DM,"1,85",-
+91,Sébastien Dewaest,Centre-Back,"May 27, 1991 ",32,['Belgium'],Belgium,Poperinge,RB,"1,88",€350k
+15,Dries Wuytens,Centre-Back,"Mar 18, 1991 ",33,['Belgium'],Belgium,Eksel,RB,"1,83",€250k
+,Thomas Vande Velde,Centre-Back,"Jul 17, 1991 ",32,['Belgium'],Belgium,Oudenaarde,DM,,-
+,Glenn Lowet,Centre-Back,"Feb 15, 1991 ",33,['Belgium'],Belgium,Sint-Truiden,,"1,91",-
+19,Mücahit Ceylan,Centre-Back,"Sep 13, 1991 ",32,"['Belgium', 'Türkiye']",Belgium,Verviers,LB,"1,80",-
+,Stijn Laenen,Centre-Back,"Mar 26, 1991 ",32,['Belgium'],Belgium,Wilrijk,,"1,85",-
+,Karel Van Lierde,Centre-Back,"Jun 25, 1991 ",32,['Belgium'],Belgium,Gent,,"1,80",-
+,Grégory Mertens,Centre-Back,"Feb 2, 1991","Feb 2, 1991",['Belgium'],Belgium,Brussel,LB,"1,90",-
+,Birger Longueville,Centre-Back,"Jan 23, 1991 ",33,['Belgium'],Belgium,Brugge,LB,"1,86",-
+23,Kenneth Schuermans,Centre-Back,"May 25, 1991 ",32,['Belgium'],Belgium,Genk,DM,"1,95",€250k
+,Cédric Laschet,Centre-Back,"Jul 25, 1991 ",32,['Belgium'],Belgium,,RB   RM,"1,81",-
+4,Marin Lacroix,Centre-Back,"May 1, 1991 ",32,['Belgium'],Belgium,Liège,RB,"1,86",-
+,Pierre Binon,Centre-Back,"Apr 8, 1991 ",32,['Belgium'],Belgium,Auvelais,,"1,76",-
+,Seyit Güner,Centre-Back,"Apr 14, 1991 ",32,"['Türkiye', 'Belgium']",Belgium,Etterbeek,,,-
+,Jef Vogels,Centre-Back,"Jan 3, 1991 ",33,['Belgium'],Belgium,Brasschaat,,"1,85",-
+,Rutger Billen,Centre-Back,"Sep 23, 1991 ",32,['Belgium'],Belgium,Tongeren,,"1,86",-
+,Senne Vanderheyden,Centre-Back,"Sep 7, 1991 ",32,['Belgium'],Belgium,Brasschaat,LB,"1,78",-
+6,Noë Dussenne,Centre-Back,"Apr 7, 1992 ",31,['Belgium'],Belgium,Mons,RB,"1,92",€600k
+2,Pietro Perdichizzi,Centre-Back,"Dec 16, 1992 ",31,"['Belgium', 'Italy']",Belgium,Charleroi,LB,"1,82",€350k
+5,Pierre-Yves Ngawa,Centre-Back,"Feb 9, 1992 ",32,"['Belgium', 'DR Congo']",Belgium,Liège,LB   RB,"1,87",€200k
+,Thomas Goddeeris,Centre-Back,"Jun 30, 1992 ",31,['Belgium'],Belgium,,DM,"1,78",-
+,Lance Kawaya,Centre-Back,"Nov 19, 1992 ",31,"['Belgium', 'DR Congo']",Belgium,Brussel,RB   LB,"1,78",-
+,Pavèl Verstraete,Centre-Back,"Apr 2, 1992 ",31,['Belgium'],Belgium,,LB,"1,96",-
+,Arnaud De Greef,Centre-Back,"Apr 12, 1992 ",31,['Belgium'],Belgium,Jette,RB   DM,"1,84",-
+31,Bruno Godeau,Centre-Back,"May 10, 1992 ",31,['Belgium'],Belgium,Brussel,LB,"1,90",€500k
+,Dorian Dessoleil,Centre-Back,"Aug 7, 1992 ",31,['Belgium'],Belgium,Charleroi,,"1,88",€300k
+,Yassine Benali,Centre-Back,"Jul 27, 1992 ",31,"['Belgium', 'Morocco']",Belgium,Brussel,RB   LB,"1,84",-
+,Roméo Debefve,Centre-Back,"Sep 14, 1992 ",31,['Belgium'],Belgium,Liège,RB   LB,"1,82",-
+,Niels Vets,Centre-Back,"Feb 19, 1992 ",32,['Belgium'],Belgium,Bonheiden,RB,"1,86",-
+,Dylan Vanneste,Centre-Back,"Sep 9, 1992 ",31,['Belgium'],Belgium,Kortrijk,,"1,80",-
+,Simon Wantiez,Centre-Back,"Sep 24, 1992 ",31,['Belgium'],Belgium,Dour,DM,"1,83",-
+44,Brandon Mechele,Centre-Back,"Jan 28, 1993 ",31,['Belgium'],Belgium,Bredene,RB,"1,90",€3.00m
+36,Dino Arslanagic,Centre-Back,"Apr 24, 1993 ",30,"['Belgium', 'Bosnia-Herzegovina']",Belgium,Nivelles,,"1,91",€600k
+,Ralph Samutondo,Centre-Back,"Jul 26, 1993 ",30,['Belgium'],Belgium,Woluwe-Saint-Lambert,,,-
+,Jari Verhaegen,Centre-Back,"Oct 1, 1993 ",30,['Belgium'],Belgium,Merksem,,"1,88",-
+27,Quentin Louagé,Centre-Back,"Dec 30, 1993 ",30,['Belgium'],Belgium,La Louvière,CM,,-
+,Koenraad Hendrickx,Centre-Back,"May 26, 1993 ",30,['Belgium'],Belgium,,RB   DM,"1,88",-
+39,Jonathan Buatu,Centre-Back,"Sep 27, 1993 ",30,"['Angola', 'Belgium']",Belgium,Liège,DM,"1,87",€600k
+33,Alpaslan Öztürk,Centre-Back,"Jul 16, 1993 ",30,"['Türkiye', 'Belgium']",Belgium,Antwerpen,DM   RB,"1,86",€300k
+,Sebastiaan De Wilde,Centre-Back,"Feb 2, 1993 ",31,['Belgium'],Belgium,Wetteren,RB,"1,86",-
+,Jonathan Vervoort,Centre-Back,"Aug 13, 1993 ",30,['Belgium'],Belgium,Brussel,RB,"1,84",-
+,Emre Yumuşak,Centre-Back,"Sep 24, 1993 ",30,"['Türkiye', 'Belgium']",Belgium,Lüttich,,"1,93",-
+3,Björn Engels,Centre-Back,"Sep 15, 1994 ",29,['Belgium'],Belgium,Kaprijke,,"1,95",€700k
+13,Michaël Heylen,Centre-Back,"Jan 3, 1994 ",30,['Belgium'],Belgium,Wommelgem,,"1,87",€275k
+4,Kjetil Borry,Centre-Back,"Aug 16, 1994 ",29,['Belgium'],Belgium,Tielt,LB,"1,90",€200k
+,Oumar Diallo Alpha,Centre-Back,"Nov 8, 1994 ",29,"['Belgium', 'Guinea']",Belgium,Oostende,,"1,88",-
+,Luk Loeters,Centre-Back,"Nov 8, 1994 ",29,['Belgium'],Belgium,,,"1,91",-
+3,Mohamed Mrabet,Centre-Back,"Mar 18, 1994 ",30,['Belgium'],Belgium,,,"1,93",-
+12,Gianni De Neve,Centre-Back,"Jul 25, 1994 ",29,"['Belgium', 'Italy']",Belgium,Gent,DM,"1,88",-
+,Cedric Mingiedi Mpembele,Centre-Back,"Dec 5, 1994 ",29,"['Belgium', 'DR Congo']",Belgium,Sint-Niklaas,CM,"1,86",-
+,Jasper Ameye,Centre-Back,"Apr 20, 1994 ",29,['Belgium'],Belgium,,,"1,92",-
+5,Jan Van den Bergh,Centre-Back,"Oct 2, 1994 ",29,['Belgium'],Belgium,Bonheiden,LB   RB,"1,88",€500k
+5,Dylan Ragolle,Centre-Back,"May 11, 1994 ",29,['Belgium'],Belgium,,DM,"1,85",€250k
+33,Koy Nathan Sikumoya,Centre-Back,"Aug 26, 1994 ",29,['Belgium'],Belgium,,DM   RB,"1,83",-
+,Ridwan Gyselinck,Centre-Back,"Jun 11, 1994 ",29,['Belgium'],Belgium,,DM,"1,84",-
+,Jens Vos,Centre-Back,"Dec 13, 1994 ",29,['Belgium'],Belgium,Diest,DM,"1,86",-
+23,Thierry Vandermeeren,Centre-Back,"Jan 14, 1994 ",30,['Belgium'],Belgium,Hasselt,RB,"1,85",-
+8,Gianni Vets,Centre-Back,"Mar 25, 1994 ",29,['Belgium'],Belgium,,DM,"1,94",-
+,Wout Bastiaens,Centre-Back,"Mar 30, 1994 ",29,['Belgium'],Belgium,Geel,,"1,91",-
+,Jordan Atheba,Centre-Back,"Apr 4, 1994 ",29,"['Belgium', ""Cote d'Ivoire""]",Belgium,,RB,,-
+64,Jason Denayer,Centre-Back,"Jun 28, 1995 ",28,"['Belgium', 'DR Congo']",Belgium,Jette,RB   DM,"1,84",€3.50m
+3,Dario Van den Buijs,Centre-Back,"Sep 12, 1995 ",28,['Belgium'],Belgium,Lier,,"1,87",€750k
+44,Joeri Poelmans,Centre-Back,"Sep 8, 1995 ",28,['Belgium'],Belgium,Sint-Truiden,LB   LM,"1,78",€250k
+,Alejandro Castro Suarez,Centre-Back,"May 13, 1995 ",28,['Belgium'],Belgium,Antwerpen,RB,,-
+,Jeroen Michiels,Centre-Back,"Feb 10, 1995 ",29,['Belgium'],Belgium,Brussel,DM,"1,85",-
+,Brian Oppong,Centre-Back,"Aug 15, 1995 ",28,['Belgium'],Belgium,Kortrijk,RB   DM,"1,76",-
+4,Tom Vermeire,Centre-Back,"May 14, 1995 ",28,['Belgium'],Belgium,,DM,"1,82",-
+,Jan Mertens,Centre-Back,"Jan 12, 1995 ",29,['Belgium'],Belgium,Duffel,LB   LW,"1,82",-
+30,Jordy de Wijs,Centre-Back,"Jan 8, 1995 ",29,['Netherlands'],Belgium,Kortrijk,LB,"1,89",€1.50m
+22,Wolke Janssens,Centre-Back,"Jan 11, 1995 ",29,['Belgium'],Belgium,Peer,RB,"1,85",€500k
+5,Benjamin Van Den Ackerveken,Centre-Back,"Jun 29, 1995 ",28,['Belgium'],Belgium,Seraing,LB   DM,"1,87",€75k
+,Martin Selak,Centre-Back,"Jun 22, 1995 ",28,['Belgium'],Belgium,Liège,DM,"1,87",-
+,Yoshi Verbrugge,Centre-Back,"Jun 7, 1995 ",28,['Belgium'],Belgium,Oudenburg,,,-
+,Nicola Vandewalle,Centre-Back,"Feb 28, 1995 ",29,['Belgium'],Belgium,,LB,"1,77",-
+,Gert Ulrichts,Centre-Back,"Jun 21, 1995 ",28,['Belgium'],Belgium,Wilrijk,,,-
+44,Kristiaan Haagen,Centre-Back,"Apr 30, 1995 ",28,['Belgium'],Belgium,Kasterlee,,"1,91",-
+3,Samy Mmaee,Centre-Back,"Sep 8, 1996 ",27,"['Morocco', 'Belgium']",Belgium,Halle,,"1,88",€2.50m
+3,Hervé Matthys,Centre-Back,"Jan 19, 1996 ",28,['Belgium'],Belgium,Brugge,LB,"1,86",€800k
+,Jordy Corten,Centre-Back,"May 18, 1996 ",27,['Belgium'],Belgium,Diest,,"1,88",-
+16,Stef De Backer,Centre-Back,"Feb 28, 1996 ",28,['Belgium'],Belgium,,,"1,90",-
+,Arno Monsecour,Centre-Back,"Jan 19, 1996 ",28,['Belgium'],Belgium,Gent,,"1,76",-
+,Piet Proesmans,Centre-Back,"Sep 2, 1996 ",27,['Belgium'],Belgium,Sint-Truiden,RB   RW,"1,85",-
+30,Jordi Vanlerberghe,Centre-Back,"Jun 27, 1996 ",27,['Belgium'],Belgium,,DM   CM,"1,89",€1.50m
+14,Jordan Renson,Centre-Back,"May 14, 1996 ",27,['Belgium'],Belgium,,RB   LB,,€400k
+,Johan De Picker,Centre-Back,"Jun 3, 1996 ",27,['Belgium'],Belgium,,,,-
+3,Niels De Pauw,Centre-Back,"Jan 19, 1996 ",28,['Belgium'],Belgium,Sint-Niklaas,LB,"1,90",-
+14,Constant Delsanne,Centre-Back,"Apr 27, 1996 ",27,['Belgium'],Belgium,Soignies,,,-
+,Mathias Bossaerts,Centre-Back,"Jul 10, 1996 ",27,['Belgium'],Belgium,Brasschaat,RB   DM,"1,84",-
+5,Maximiliano Caufriez,Centre-Back,"Feb 16, 1997 ",27,['Belgium'],Belgium,Saint-Ghislain,DM   RB,"1,89",€3.00m
+22,Elias Cobbaut,Centre-Back,"Nov 24, 1997 ",26,['Belgium'],Belgium,Mechelen,LB,"1,88",€2.00m
+25,Nathan de Medina,Centre-Back,"Oct 8, 1997 ",26,"['Belgium', 'DR Congo']",Belgium,Brüssel,RB   LB,"1,83",€500k
+3,Joedrick Pupe,Centre-Back,"Jun 4, 1997 ",26,['Belgium'],Belgium,Brugge,LB,"1,90",€300k
+97,Laurens Huysentruyt,Centre-Back,"Jan 9, 1997 ",27,['Belgium'],Belgium,,,"1,90",-
+,Jeremy Mbolo Lutuako,Centre-Back,"Dec 20, 1997 ",26,['Belgium'],Belgium,,DM,"1,96",-
+,Daniele Zotti,Centre-Back,"Feb 23, 1997 ",27,"['Belgium', 'Italy']",Belgium,,RB,"1,77",-
+,Ethan Poulain,Centre-Back,"Aug 11, 1997 ",26,['Belgium'],Belgium,Baudour,,"1,80",-
+,Yentle De Maegd,Centre-Back,"Jul 14, 1997 ",26,['Belgium'],Belgium,,RB,,-
+,Tim Vercammen,Centre-Back,"May 1, 1997 ",26,['Belgium'],Belgium,Herentals,,,-
+,Jonathan Mambabua,Centre-Back,"Oct 3, 1997 ",26,['Belgium'],Belgium,,LB   DM,"1,82",-
+4,Senne Van Dooren,Centre-Back,"May 16, 1997 ",26,['Belgium'],Belgium,,RB   LB,"1,82",-
+3,Yentl Meyssen,Centre-Back,"May 13, 1997 ",26,['Belgium'],Belgium,,DM,,-
+24,Dimitri Lavalée,Centre-Back,"Jan 13, 1997 ",27,['Belgium'],Belgium,Soumagne,LB   DM,"1,87",€2.50m
+5,Dries Wouters,Centre-Back,"Jan 28, 1997 ",27,['Belgium'],Belgium,Tongeren,DM   LB,"1,91",€700k
+18,Senna Miangue,Centre-Back,"Feb 5, 1997 ",27,['Belgium'],Belgium,Antwerpen,LB   LM,"1,92",€500k
+,Romain Puttemans,Centre-Back,"Jul 17, 1997 ",26,['Belgium'],Belgium,Uccle,,"1,94",-
+25,Kobe Vande Cauter,Centre-Back,"Aug 11, 1997 ",26,['Belgium'],Belgium,Leuven,,"1,90",-
+16,Raphael Devillé,Centre-Back,"May 28, 1997 ",26,['Belgium'],Belgium,,RB   DM,,-
+,Jordy Lokando,Centre-Back,"Apr 28, 1997 ",26,"['Belgium', 'DR Congo']",Belgium,,DM,"1,85",-
+24,Brent Peers,Centre-Back,"Mar 25, 1997 ",26,['Belgium'],Belgium,Nijlen,DM   CM,"1,90",-
+25,Lorenzo Matarrese,Centre-Back,"Feb 1, 1997 ",27,"['Belgium', 'Italy']",Belgium,,DM,"1,86",-
+2,Andrea Morias,Centre-Back,"Feb 14, 1997 ",27,['Belgium'],Belgium,,RB   LB,"1,75",-
+,Gökhan Kardes,Centre-Back,"May 15, 1997 ",26,"['Türkiye', 'Belgium']",Belgium,Beverlo,DM,"1,88",-
+61,Ilkan Cavus,Centre-Back,"Jan 24, 1997 ",27,"['Belgium', 'Türkiye']",Belgium,,RB   DM,"1,76",-
+,Nathan Leyder,Centre-Back,"Apr 14, 1997 ",26,['Belgium'],Belgium,Namur,DM,"1,78",-
+3,Wout Faes,Centre-Back,"Apr 3, 1998 ",25,['Belgium'],Belgium,Mol,,"1,87",€20.00m
+17,Alec Van Hoorenbeeck,Centre-Back,"Dec 30, 1998 ",25,['Belgium'],Belgium,Mortsel,LB,"1,87",€1.00m
+5,Laurent Lemoine,Centre-Back,"Apr 24, 1998 ",25,"['Belgium', 'Brazil']",Belgium,La Louvière,DM   RB,"1,86",€250k
+80,Mathieu Despontin,Centre-Back,"Apr 4, 1998 ",25,['Belgium'],Belgium,,,,-
+5,Mats De Bauw,Centre-Back,"Oct 14, 1998 ",25,['Belgium'],Belgium,Aalst,RB   DM,,-
+,Anthony Bongiovanni,Centre-Back,"Feb 3, 1998 ",26,['Belgium'],Belgium,Montigny-le-Tilleul,,"1,78",-
+,Alan Wanya,Centre-Back,"May 6, 1998 ",25,['Belgium'],Belgium,,RB,"1,78",-
+4,Kensau Masangu,Centre-Back,"Feb 9, 1998 ",26,['Belgium'],Belgium,Antwerpen,,"1,84",-
+6,Niels Verburgh,Centre-Back,"Jan 31, 1998 ",26,['Belgium'],Belgium,Brugge,DM   CM,"1,88",-
+,Nathan Nuyts,Centre-Back,"Feb 6, 1998 ",26,['Belgium'],Belgium,Lokeren,RB,"1,85",-
+4,Siebe Van der Heyden,Centre-Back,"May 30, 1998 ",25,['Belgium'],Belgium,Denderleeuw,DM   LB,"1,85",€3.00m
+5,Rubin Seigers,Centre-Back,"Jan 11, 1998 ",26,['Belgium'],Belgium,,DM   RB,"1,87",€600k
+30,Simon Bammens,Centre-Back,"May 16, 1998 ",25,['Belgium'],Belgium,Genk,CM   DM,"1,91",€150k
+,Marlon Lukinga,Centre-Back,"Jan 8, 1998 ",26,"['Belgium', 'Congo']",Belgium,Ixelles,DM,,-
+,Tom Houwaer,Centre-Back,"Nov 28, 1998 ",25,['Belgium'],Belgium,Tongeren,DM   CM,"1,84",-
+,Jonathan Deglas,Centre-Back,"Feb 16, 1998 ",26,['Belgium'],Belgium,,RB   DM,"1,84",-
+4,Pieter De Smet,Centre-Back,"Feb 12, 1998 ",26,['Belgium'],Belgium,Waregem,DM,"1,96",-
+24,Hannes Smolders,Centre-Back,"Feb 24, 1998 ",26,['Belgium'],Belgium,Lier,DM,"1,89",-
+15,Steve Ryckaert,Centre-Back,"Jun 29, 1998 ",25,['Belgium'],Belgium,,LB,"1,85",-
+21,Pascal Struijk,Centre-Back,"Aug 11, 1999 ",24,"['Netherlands', 'Belgium']",Belgium,Deurne,LB   DM,"1,90",€18.00m
+4,Zinho Vanheusden,Centre-Back,"Jul 29, 1999 ",24,['Belgium'],Belgium,Hasselt,,"1,87",€6.00m
+33,Rocky Bushiri,Centre-Back,"Nov 30, 1999 ",24,"['DR Congo', 'Belgium']",Belgium,Duffel,,"1,87",€500k
+,Antoine Ruelle,Centre-Back,"Sep 20, 1999 ",24,['Belgium'],Belgium,,DM,"1,84",-
+,Maxime Baelongandi Ikombele,Centre-Back,"Jun 7, 1999 ",24,"['Belgium', 'DR Congo']",Belgium,Braine-l'Alleud,,"1,87",-
+4,Jonas Taillieu,Centre-Back,"May 14, 1999 ",24,['Belgium'],Belgium,Izegem,,,-
+47,Gaël Kakudji,Centre-Back,"Jul 6, 1999 ",24,"['DR Congo', 'Belgium']",Belgium,Liège,RB,"1,92",-
+,Thomas Evrard,Centre-Back,"Jun 30, 1999 ",24,['Belgium'],Belgium,Mons,RB,"1,83",-
+70,Onur Gürler,Centre-Back,"Mar 25, 1999 ",24,"['Belgium', 'Türkiye']",Belgium,Lier,DM   RB,"1,84",-
+3,Sebastiaan Bornauw,Centre-Back,"Mar 22, 1999 ",25,['Belgium'],Belgium,Wemmel,RB,"1,91",€7.00m
+3,Anton Tanghe,Centre-Back,"Jan 28, 1999 ",25,['Belgium'],Belgium,Roeselare,DM,"1,94",€700k
+16,William Fonkeu,Centre-Back,"Nov 21, 1999 ",24,"['Belgium', 'Cameroon']",Belgium,,RB,,€50k
+18,Alan Bokungu,Centre-Back,"Mar 31, 1999 ",24,"['Belgium', 'DR Congo']",Belgium,,DM   RB,"1,92",-
+,Younes El Hadj,Centre-Back,"Sep 29, 1999 ",24,"['Belgium', 'Morocco']",Belgium,Mechelen,RB   LB,"1,80",-
+19,Nasseredine Mazouz,Centre-Back,"May 31, 1999 ",24,['Belgium'],Belgium,Ronse,DM   CM,,-
+,Davino Liessens,Centre-Back,"Apr 8, 1999 ",24,['Belgium'],Belgium,Beveren,,"1,86",-
+,Jerome Callebaut,Centre-Back,"May 19, 1999 ",24,['Belgium'],Belgium,,LB,"1,79",-
+3,Sacha Iglicki,Centre-Back,"Jun 15, 1999 ",24,['Belgium'],Belgium,,RB,,-
+5,Arthur Theate,Centre-Back,"May 25, 2000 ",23,['Belgium'],Belgium,Liège,LB,"1,85",€20.00m
+4,Shawn Adewoye,Centre-Back,"Jun 29, 2000 ",23,"['Belgium', 'Nigeria']",Belgium,Bree,RB,"1,83",€1.00m
+3,Flor Van den Eynden,Centre-Back,"Jul 29, 2000 ",23,['Belgium'],Belgium,Herentals,,"1,86",€350k
+26,Sami El Anabi,Centre-Back,"Jun 21, 2000 ",23,"['Morocco', 'Belgium']",Belgium,Lüttich,DM   LB,"1,90",€50k
+27,Stan Kolen,Centre-Back,"Jun 21, 2000 ",23,['Belgium'],Belgium,,DM,"1,96",-
+4,Brendan Schoonbaert,Centre-Back,"May 9, 2000 ",23,['Belgium'],Belgium,,RB,,-
+,Brandon Kasongo,Centre-Back,"Jan 16, 2000 ",24,['Belgium'],Belgium,,,,-
+35,Boris Lambert,Centre-Back,"Apr 10, 2000 ",23,['Belgium'],Belgium,Han-sur-Lesse,DM,"1,87",€1.20m
+4,Matteo Waem,Centre-Back,"Jun 21, 2000 ",23,['Belgium'],Belgium,Borgerhout,,"1,90",€650k
+4,Xander Lambrix,Centre-Back,"Mar 25, 2000 ",23,['Belgium'],Belgium,Tongeren,DM,"1,81",€325k
+32,Arne Cassaert,Centre-Back,"Nov 20, 2000 ",23,['Belgium'],Belgium,Torhout,,"1,85",-
+,Pierre Weijnjes,Centre-Back,"Nov 1, 2000 ",23,['Belgium'],Belgium,Hermalle Sous Argenteau,RB,"1,84",-
+,Jordy Janssens,Centre-Back,"Apr 26, 2000 ",23,['Belgium'],Belgium,,DM   RB,"1,80",-
+3,Matisse Didden,Centre-Back,"Oct 8, 2001 ",22,['Belgium'],Belgium,As,DM,"1,98",€650k
+19,Dylan Maes,Centre-Back,"Mar 7, 2001 ",23,"['Rwanda', 'Belgium']",Belgium,Ukkel,DM,"1,93",€50k
+15,Ismail Bilgin,Centre-Back,"Mar 16, 2001 ",23,"['Türkiye', 'Belgium']",Belgium,Hasselt,,"1,86",-
+,Merveil Nseku,Centre-Back,"Jan 1, 2001 ",23,"['Belgium', 'DR Congo']",Belgium,Brussel,RB   DM,"1,84",-
+3,Jack Goodrich,Centre-Back,"Oct 23, 2001 ",22,['Belgium'],Belgium,Brüssel,LB,,-
+,Japhet Muanza,Centre-Back,"Jul 25, 2001 ",22,['Belgium'],Belgium,Antwerpen,,"1,90",-
+,Trey Ryan Itangishaka,Centre-Back,"Mar 16, 2001 ",23,['Belgium'],Belgium,,DM,,-
+20,Siebe Vandermeulen,Centre-Back,"Jan 2, 2001 ",23,['Belgium'],Belgium,Tienen,RB,"1,79",-
+5,Lucas Lissens,Centre-Back,"Jul 25, 2001 ",22,['Belgium'],Belgium,Gent,,"1,84",€350k
+24,David Mindombe,Centre-Back,"Jun 19, 2001 ",22,"['Belgium', 'DR Congo']",Belgium,,,"1,83",€50k
+94,Eray Ertorun,Centre-Back,"Jun 18, 2001 ",22,['Türkiye'],Belgium,Gent,LB   RB,"1,81",-
+46,Eric Kaba,Centre-Back,"Jan 21, 2001 ",23,"['DR Congo', 'Belgium']",Belgium,,RB   DM,"1,86",-
+,Wannes De Waele,Centre-Back,"Jun 30, 2001","Jun 30, 2001",['Belgium'],Belgium,Sint-Niklaas,,,-
+16,Simon Libert,Centre-Back,"Sep 20, 2001 ",22,['Belgium'],Belgium,Eupen,RB,,-
+,Maxime Thiel,Centre-Back,"Aug 6, 2001 ",22,['Belgium'],Belgium,Tournai,LB   DM,"1,87",-
+,Lars Dendoncker,Centre-Back,"Apr 3, 2001 ",22,['Belgium'],Belgium,Passendale,,"1,88",-
+4,Koni De Winter,Centre-Back,"Jun 12, 2002 ",21,['Belgium'],Belgium,Antwerpen,RB   DM,"1,91",€10.00m
+20,Rein Van Helden,Centre-Back,"Jul 24, 2002 ",21,['Belgium'],Belgium,Genk,DM,"1,87",€2.00m
+4,Antef Tsoungui,Centre-Back,"Dec 30, 2002 ",21,"['Belgium', 'Cameroon']",Belgium,Brussel,RB   DM,"1,85",€500k
+2,Isaac Donkor,Centre-Back,"Aug 26, 2002 ",21,"['Belgium', 'Ghana']",Belgium,Ghent,RB   LB,"1,82",€25k
+,Fatlind Ajdini,Centre-Back,"Feb 21, 2002 ",22,"['France', 'Kosovo']",Belgium,Kortrijk,DM,"1,95",-
+,Mikel Nuhaj,Centre-Back,"Apr 1, 2002 ",21,"['Albania', 'Belgium']",Belgium,Maasmechelen,,,-
+,Luca Di Rupo,Centre-Back,"Apr 16, 2002 ",21,"['Belgium', 'France']",Belgium,Bruxelles,,"1,83",-
+,Markus Kont,Centre-Back,"Sep 19, 2002 ",21,['Estonia'],Belgium,Woluwe-Saint-Lambert,LB   RB,,-
+,Henri Stanic,Centre-Back,"Jul 18, 2002 ",21,['Belgium'],Belgium,Jette,DM,"1,91",-
+66,Christiaan Ravych,Centre-Back,"Jul 30, 2002 ",21,['Belgium'],Belgium,Kortrijk,DM,"1,92",€3.00m
+28,Rune Paeshuyse,Centre-Back,"Mar 28, 2002 ",21,['Belgium'],Belgium,Edegem,RB   DM,"1,87",€700k
+25,Ibe Hautekiet,Centre-Back,"Apr 13, 2002 ",21,['Belgium'],Belgium,Kortrijk,,"1,88",€350k
+,Sada Bruneel,Centre-Back,"Jun 9, 2002 ",21,"['Belgium', 'Senegal']",Belgium,Oostende,RB,"1,86",-
+,Sidi Berat Haroun,Centre-Back,"Oct 19, 2002 ",21,"['Belgium', 'Türkiye']",Belgium,Brüssel,DM,"1,93",-
+15,Gabor Zukowski,Centre-Back,"Mar 12, 2002 ",22,['Poland'],Belgium,Bruksela,DM,"1,88",-
+,Saba Chincharauli,Centre-Back,"Mar 22, 2002 ",22,"['Georgia', 'Belgium']",Belgium,,DM   RB,,-
+17,Joshua Veeckman,Centre-Back,"Jan 22, 2002 ",22,['Belgium'],Belgium,Wetteren,RB   DM,,-
+56,Zeno Debast,Centre-Back,"Oct 24, 2003 ",20,['Belgium'],Belgium,Halle,DM,"1,91",€15.00m
+3,Nathan Ngoy,Centre-Back,"Jun 10, 2003 ",20,"['Belgium', 'DR Congo']",Belgium,,RB,"1,83",€4.00m
+29,Daan Dierckx,Centre-Back,"Feb 24, 2003 ",21,['Belgium'],Belgium,Leuven,,"1,92",€400k
+,Jorne Simons,Centre-Back,"Mar 18, 2003 ",21,['Belgium'],Belgium,Antwerpen,CM   DM,"1,86",-
+18,Yohen Tangala,Centre-Back,"Oct 28, 2003 ",20,"['Belgium', 'DR Congo']",Belgium,Vilvoorde,DM,"1,90",-
+,Ilias Belhadj,Centre-Back,"Mar 14, 2003 ",21,"['Morocco', 'Belgium']",Belgium,Sint-Lambrechts-Woluwe,,"1,88",-
+33,Zeno Van Den Bosch,Centre-Back,"Jul 6, 2003 ",20,['Belgium'],Belgium,Brasschaat,,"1,91",€4.00m
+31,Lukas Willen,Centre-Back,"Apr 25, 2003 ",20,['Belgium'],Belgium,Oudenaarde,DM   LB,"1,89",€800k
+32,Djovkar Doudaev,Centre-Back,"Nov 10, 2003 ",20,"['Belgium', 'Russia']",Belgium,,,,€150k
+,Nathan De Raes,Centre-Back,"Sep 1, 2003 ",20,['Belgium'],Belgium,,CM,,-
+63,Noa Wyns,Centre-Back,"Feb 20, 2003 ",21,['Belgium'],Belgium,,,"1,92",-
+33,Olivier Dewaele,Centre-Back,"Apr 18, 2003 ",20,['Belgium'],Belgium,Aalst,LB,"1,83",-
+32,Mehdi Boukamir,Centre-Back,"Jan 26, 2004 ",20,"['Morocco', 'Belgium']",Belgium,Jemeppe-sur-Sambre,DM,"1,88",€750k
+,Matteo Dams,Centre-Back,"Mar 9, 2004 ",20,['Belgium'],Belgium,Brasschaat,DM   LB,,€200k
+30,Jelle Somers,Centre-Back,"Jul 1, 2004 ",19,['Belgium'],Belgium,Lier,,,-
+50,Hamza Kaya,Centre-Back,"Sep 6, 2004 ",19,"['Türkiye', 'Belgium']",Belgium,Charleroi,RB,"1,82",-
+4,Ferre Maho,Centre-Back,"Nov 21, 2004 ",19,['Belgium'],Belgium,,,,-
+3,Jano Willems,Centre-Back,"Jan 15, 2004 ",20,['Belgium'],Belgium,,DM,"1,84",€350k
+16,Noah Stassin,Centre-Back,"Jul 5, 2004 ",19,['Belgium'],Belgium,Brugge,RB   DM,"1,86",€10k
+15,Jarno De Loecker,Centre-Back,"Oct 22, 2004 ",19,['Belgium'],Belgium,,,,-
+,Thibo Van Den Branden,Centre-Back,"May 5, 2004 ",19,['Belgium'],Belgium,,,"1,88",-
+,Pedro Nkosi,Centre-Back,"Feb 3, 2004 ",20,['Belgium'],Belgium,Bruxelles,CM   DM,,-
+51,Lucas Noubi,Centre-Back,"Jan 15, 2005 ",19,"['Belgium', 'Cameroon']",Belgium,Mouscron,,"1,80",€2.00m
+5,Konrad Magnuszewski,Centre-Back,"Jan 3, 2005 ",19,['Poland'],Belgium,Brussels,,"1,87",€50k
+23,Théo Battiston,Centre-Back,"Jun 8, 2005 ",18,['Belgium'],Belgium,Charleroi,DM,"1,80",-
+,Tyron Mikobi-Bimini,Centre-Back,"Jul 18, 2005 ",18,['Belgium'],Belgium,,LB,"1,92",-
+,Sebastien Zoete,Centre-Back,"Jul 25, 2005 ",18,['Belgium'],Belgium,Mechelen,LB,,-
+63,Faissal Al Mazyani,Centre-Back,"Jan 18, 2005 ",19,"['Morocco', 'Belgium']",Belgium,Antwerpen,DM   RB,"1,79",€250k
+26,Ibrahim Digberekou,Centre-Back,"Feb 22, 2005 ",19,"['Belgium', 'Ghana']",Belgium,Eupen,,"1,88",€25k
+55,Matteo Vandendaele,Centre-Back,"Jun 16, 2005 ",18,['Belgium'],Belgium,Ukkel,LB,"1,86",-
+20,Lukas Baert,Centre-Back,"Feb 1, 2005 ",19,['Belgium'],Belgium,Leuven,,"1,85",-
