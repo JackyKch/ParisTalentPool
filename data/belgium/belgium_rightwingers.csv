@@ -1,0 +1,125 @@
+Number,Name,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+,René De Cooman,Right Winger,"Aug 7, 1985 ",38,['Belgium'],Belgium,Ukkel,,"1,80",-
+,Jurgen Raeymaeckers,Right Winger,"May 3, 1985 ",38,['Belgium'],Belgium,Herenthout,,"1,83",-
+,Wouter Scheelen,Right Winger,"Oct 16, 1985 ",38,['Belgium'],Belgium,Hasselt,LW   CM,"1,72",-
+,Jelle Bloemen,Right Winger,"Aug 7, 1986 ",37,['Belgium'],Belgium,Neerpelt,CF,"1,70",-
+,Bram Criel,Right Winger,"Jun 2, 1986 ",37,['Belgium'],Belgium,Wilrijk,LW   AM,"1,82",-
+,Tail Schoonjans,Right Winger,"Aug 19, 1986 ",37,['Belgium'],Belgium,Brüssel,RM   AM,"1,91",-
+10,Alessandro Cordaro,Right Winger,"May 2, 1986 ",37,"['Belgium', 'Italy']",Belgium,La Louvière,CF   RM,"1,69",-
+,Ladji Koulibaly,Right Winger,N/A ,36,"['Belgium', ""Cote d'Ivoire""]",Belgium,Hasselt,RM,"1,86",-
+,Ihsan Sögütcü,Right Winger,"Aug 19, 1987 ",36,"['Belgium', 'Türkiye']",Belgium,Genk,SS,"1,77",-
+30,Jonathan Legear,Right Winger,"Apr 13, 1987 ",36,['Belgium'],Belgium,Liège,LW,"1,79",-
+,Hüseyin Bilican,Right Winger,"Aug 22, 1987 ",36,"['Türkiye', 'Belgium']",Belgium,Limburg,CF   LW,,-
+,Kevin Mirallas,Right Winger,"Oct 5, 1987 ",36,"['Belgium', 'Spain']",Belgium,Liège,LW   SS,"1,82",-
+,Lens Annab,Right Winger,"Jul 20, 1988 ",35,"['Belgium', 'Algeria']",Belgium,Maaseik,LW   AM,"1,83",-
+,Ömer Özpoyraz,Right Winger,"May 9, 1988 ",35,"['Belgium', 'Türkiye']",Belgium,Hasselt,LW   AM,"1,75",-
+,Davy Brouwers,Right Winger,"Feb 3, 1988 ",36,['Belgium'],Belgium,Waterschei,AM   CF,"1,79",-
+7,Joeri Dequevy,Right Winger,"Apr 27, 1988 ",35,['Belgium'],Belgium,Brussel,LW   SS,"1,74",-
+,Joachim Mununga,Right Winger,"Jun 30, 1988 ",35,"['Belgium', 'DR Congo']",Belgium,Ottignies,CF   AM,"1,79",-
+10,Yvan Yagan,Right Winger,"Oct 11, 1989 ",34,"['Armenia', 'Belgium']",Belgium,Brussel,LW   SS,"1,75",-
+,Jarno Molenberghs,Right Winger,"Dec 11, 1989 ",34,['Belgium'],Belgium,Geel,SS   AM,"1,77",-
+,Doran Mertens,Right Winger,"Mar 21, 1989 ",35,['Belgium'],Belgium,Gent,,"1,87",-
+,Mehdi Carcela-González,Right Winger,"Jul 1, 1989 ",34,"['Morocco', 'Belgium']",Belgium,Liège,LW   AM,"1,79",-
+,Dieter Charlier,Right Winger,"Dec 22, 1990 ",33,['Belgium'],Belgium,Leuven,LW,"1,80",-
+7,Geoffry Hairemans,Right Winger,"Oct 21, 1991 ",32,['Belgium'],Belgium,Wilrijk,LW   CM,"1,83",€700k
+22,Stallone Limbombe,Right Winger,"Mar 26, 1991 ",32,"['Belgium', 'DR Congo']",Belgium,Mechelen,LW   RM,"1,69",€75k
+,Nayib Lagouireh,Right Winger,"Jun 6, 1991 ",32,"['Belgium', 'Morocco']",Belgium,Heusden-Zolder,LW,"1,69",-
+39,Ziguy Badibanga,Right Winger,"Nov 26, 1991 ",32,"['Belgium', 'DR Congo']",Belgium,Evere,LW   CF,"1,72",€300k
+18,Martijn Stefani,Right Winger,"Sep 3, 1991 ",32,['Belgium'],Belgium,Genk,LW   SS,,-
+,Quentin Pottiez,Right Winger,"May 15, 1991 ",32,['Belgium'],Belgium,Tournai,,"1,77",-
+19,Viktor Klonaridis,Right Winger,"Jul 28, 1992 ",31,"['Belgium', 'Greece']",Belgium,Seraing,SS   LW,"1,79",€300k
+10,Sami Lkoutbi,Right Winger,"Nov 14, 1992 ",31,"['Belgium', 'Morocco']",Belgium,,RM   LW,"1,83",-
+,Bigen Yala Lusala,Right Winger,"Oct 20, 1992 ",31,"['Belgium', 'DR Congo']",Belgium,Nivelles,SS,"1,85",-
+,Loris Brogno,Right Winger,"Sep 18, 1992 ",31,"['Belgium', 'Italy']",Belgium,Charleroi,LW   AM,"1,78",€175k
+,Jordan Garcia-Calvete,Right Winger,"May 6, 1992 ",31,"['Belgium', 'Spain']",Belgium,Brussel,RM   AM,"1,70",-
+,Kévin Makila,Right Winger,"Jan 22, 1992 ",32,"['Belgium', 'DR Congo']",Belgium,Bruxelles,,"1,69",-
+70,Massimo Bruno,Right Winger,"Sep 17, 1993 ",30,"['Belgium', 'Italy']",Belgium,Boussu,LW   AM,"1,78",€500k
+17,Mehdi Lazaar,Right Winger,"Mar 9, 1993 ",31,"['Belgium', 'Morocco']",Belgium,Montegnée,LW   LM,"1,79",-
+,David Timmermans,Right Winger,"Apr 10, 1993 ",30,['Belgium'],Belgium,Verviers,AM   LW,"1,74",-
+,Valentin Lamort,Right Winger,"Apr 13, 1993 ",30,['Belgium'],Belgium,Chimay,AM   RM,"1,81",-
+,Okan Köse,Right Winger,"Feb 8, 1993 ",31,"['Türkiye', 'Belgium']",Belgium,Houthalen,LW,"1,70",-
+11,Jordy Croux,Right Winger,"Jan 15, 1994 ",30,['Belgium'],Belgium,Hasselt,LW,"1,72",€700k
+14,Olivier Myny,Right Winger,"Nov 10, 1994 ",29,['Belgium'],Belgium,Zwevegem,LW   RM,"1,78",€300k
+77,Théo Bongonda,Right Winger,"Nov 20, 1995 ",28,"['DR Congo', 'Belgium']",Belgium,Charleroi,LW   SS,"1,75",€5.00m
+55,Tuur Dierckx,Right Winger,"May 9, 1995 ",28,['Belgium'],Belgium,Broechem,LW   SS,"1,71",€600k
+,Jasper Van Der Heyden,Right Winger,"Jul 3, 1995 ",28,['Belgium'],Belgium,Brugge,LW   CF,"1,80",€75k
+7,Mitchell Van Den Meersch,Right Winger,"Mar 24, 1995 ",29,['Belgium'],Belgium,Aalst,,,-
+,Célestin Djim,Right Winger,"May 14, 1995 ",28,"['Belgium', 'Central African Republic']",Belgium,Visé,CF,"1,79",-
+25,Adnan Januzaj,Right Winger,"Feb 5, 1995 ",29,"['Belgium', 'Kosovo']",Belgium,Brussel,LW   AM,"1,86",€3.00m
+89,Anıl Koç,Right Winger,"Jan 29, 1995 ",29,"['Türkiye', 'Belgium']",Belgium,Brussel,LW   RM,"1,75",€100k
+7,Mylan Carrasco,Right Winger,"Jan 2, 1995 ",29,"['Belgium', 'Spain']",Belgium,Brussel,LW   SS,"1,84",-
+30,Gyamfi Kyeremeh,Right Winger,"Mar 9, 1995 ",29,"['Belgium', 'Ghana']",Belgium,Gent,LW,"1,70",-
+13,Damien Mouchamps,Right Winger,"Jan 10, 1996 ",28,['Belgium'],Belgium,Verviers,LW,"1,72",€250k
+,Thomas Karagiannis,Right Winger,"Aug 1, 1996 ",27,"['Greece', 'Belgium']",Belgium,Bruxelles,LW,"1,73",-
+7,Kevin Hebbelinck,Right Winger,"Sep 8, 1996 ",27,['Belgium'],Belgium,Gent,LW,,-
+,Tuur Houben,Right Winger,"Jan 12, 1996 ",28,['Belgium'],Belgium,Sint-Truiden,LW   SS,"1,67",-
+,Ilias Maatoug,Right Winger,"Apr 28, 1996 ",27,['Belgium'],Belgium,,LW,"1,78",-
+,Tars Notteboom,Right Winger,"Jan 18, 1996 ",28,['Belgium'],Belgium,,,"1,75",-
+7,Nabil Jaadi,Right Winger,"Jul 1, 1996 ",27,"['Morocco', 'Belgium']",Belgium,Brussel,LW   AM,"1,78",€125k
+,Diego Zidda,Right Winger,"Dec 3, 1996 ",27,['Belgium'],Belgium,Montigny-le-Tilleul,AM   SS,,-
+,Josias Roulez,Right Winger,"Dec 26, 1996 ",27,"['Belgium', 'DR Congo']",Belgium,Ixelles,AM   LW,"1,80",-
+24,Dylan Seys,Right Winger,"Sep 26, 1996 ",27,['Belgium'],Belgium,Kortrijk,LW   CF,,-
+,Jinty Caenepeel,Right Winger,"Jul 18, 1996 ",27,['Belgium'],Belgium,Oostende,LW   CF,"1,78",-
+77,Lucas Walbrecq,Right Winger,"Jul 12, 1996 ",27,['Belgium'],Belgium,Lobbes,LW,,-
+11,Dodi Lukébakio,Right Winger,"Sep 24, 1997 ",26,"['Belgium', 'DR Congo']",Belgium,Brussels,LW   CF,"1,87",€15.00m
+24,William Baeten,Right Winger,"Feb 7, 1997 ",27,['Belgium'],Belgium,,CM   LM,"1,81",€650k
+12,Necdet Buzlu,Right Winger,"Aug 20, 1997 ",26,"['Türkiye', 'Belgium']",Belgium,Sint-Joost-ten-Node,LW,,-
+11,Bob Straetman,Right Winger,"Dec 29, 1997 ",26,['Belgium'],Belgium,Dendermonde,LW   CF,"1,83",-
+7,Charles Kwateng,Right Winger,"May 27, 1997 ",26,"['Belgium', 'Ghana']",Belgium,Liège,LW   SS,"1,66",-
+10,Benson Manuel,Right Winger,"Mar 28, 1997 ",26,"['Belgium', 'Angola']",Belgium,Lokeren,LW,"1,66",€6.00m
+97,Paolino Bertaccini,Right Winger,"Nov 19, 1997 ",26,"['Belgium', 'Italy']",Belgium,Charleroi,LW,"1,65",€250k
+,Vinni Audin,Right Winger,"Feb 20, 1997 ",27,['Belgium'],Belgium,,SS,"1,70",-
+17,Pierre Fonkeu,Right Winger,"Jul 10, 1997 ",26,"['Cameroon', 'Belgium']",Belgium,Brussels,LW   CF,"1,78",-
+,Michiel Thys,Right Winger,"Jun 13, 1997 ",26,['Belgium'],Belgium,,RB   CF,"1,84",-
+75,Jason Lokilo,Right Winger,"Sep 17, 1998 ",25,"['Belgium', 'DR Congo']",Belgium,Brussel,AM   LW,"1,75",€700k
+24,Walid Houssane,Right Winger,"Jan 30, 1998 ",26,"['Belgium', 'Morocco']",Belgium,Bruxelles,AM   SS,"1,78",-
+11,Terry Osei-Berkoe,Right Winger,"Jan 9, 1998 ",26,"['Belgium', 'Ghana']",Belgium,Brugge,LW   AM,"1,74",-
+,Boubacar Diallo,Right Winger,"Feb 23, 1998 ",26,"['Belgium', 'Guinea']",Belgium,Brussel,AM   LW,"1,86",-
+7,Endrit Voca,Right Winger,"Jan 22, 1998 ",26,"['Belgium', 'Albania']",Belgium,Wuustwezel,LW,"1,79",-
+56,Alexis Saelemaekers,Right Winger,"Jun 27, 1999 ",24,['Belgium'],Belgium,Berchem-Sainte-Agathe,RM   LW,"1,80",€10.00m
+10,Arno Van Keilegom,Right Winger,"May 27, 1999 ",24,['Belgium'],Belgium,Duffel,LW,"1,78",€225k
+,Sami Djadi,Right Winger,"Aug 7, 1999 ",24,"['Belgium', 'Algeria']",Belgium,,LW,,-
+,Kevin Aliaj,Right Winger,"Aug 5, 1999 ",24,"['Albania', 'Belgium']",Belgium,,LW   CF,,-
+,Stephan Bulut,Right Winger,"Dec 2, 1999 ",24,['Belgium'],Belgium,,RM   CF,,-
+34,Thibo Somers,Right Winger,"Mar 16, 1999 ",25,['Belgium'],Belgium,Brugge,LW   SS,"1,83",€2.50m
+18,Blaise Baillet,Right Winger,"Dec 30, 1999 ",24,"['Belgium', 'DR Congo']",Belgium,,LW   CF,"1,80",€25k
+7,Yavuz Tek,Right Winger,"Dec 16, 1999 ",24,"['Belgium', 'Türkiye']",Belgium,Antwerpen,LW   AM,"1,86",-
+22,Jérémie Manoka,Right Winger,"Sep 5, 1999 ",24,['Belgium'],Belgium,Brussel,LW   CF,"1,67",-
+26,Cyril Ngonge,Right Winger,"May 26, 2000 ",23,"['Belgium', 'DR Congo']",Belgium,Ukkel,CF   SS,"1,80",€12.00m
+,Stefanos Kasapis,Right Winger,"Jan 21, 2000 ",24,['Greece'],Belgium,Brussels,,,-
+11,Joachim Ngongo,Right Winger,"Jul 6, 2000 ",23,"['Belgium', 'DR Congo']",Belgium,,CF,"1,83",-
+,Grégory Descotte,Right Winger,"Nov 11, 2000 ",23,['Belgium'],Belgium,,,,-
+7,Tom Reyners,Right Winger,"Apr 20, 2000 ",23,['Belgium'],Belgium,,LW   AM,,€900k
+44,Jordi Liongola,Right Winger,"May 17, 2000 ",23,"['Burundi', 'Belgium']",Belgium,Tessenderlo,LW,,-
+,Kerim Altınok,Right Winger,"Sep 25, 2000 ",23,"['Belgium', 'Türkiye']",Belgium,Bruxelles,AM   LW,"1,78",-
+7,Bryan Limbombe,Right Winger,"May 14, 2001 ",22,"['Belgium', 'DR Congo']",Belgium,Mechelen,LW,"1,72",€600k
+34,Ayman Kassimi,Right Winger,"Oct 8, 2001 ",22,['Belgium'],Belgium,,LW   SS,"1,75",€200k
+,Orfeo Sera,Right Winger,"Dec 12, 2001 ",22,['Belgium'],Belgium,La Louvière,LW,"1,86",-
+12,Richard Makutungu,Right Winger,"Dec 21, 2001 ",22,"['Belgium', 'DR Congo']",Belgium,Liège,RM   LM,"1,74",-
+,Marco Usai,Right Winger,"Jan 5, 2001 ",23,"['Belgium', 'Italy']",Belgium,,AM,"1,62",-
+9,Niklo Dailly,Right Winger,"Nov 6, 2001 ",22,['Belgium'],Belgium,Brussel,LW   SS,"1,85",€350k
+10,Evangelos Patoulidis,Right Winger,"Sep 24, 2001 ",22,"['Belgium', 'Greece']",Belgium,,AM   LW,"1,76",€150k
+7,Maxime Dejonghe,Right Winger,"Aug 4, 2001 ",22,['Belgium'],Belgium,Roeselare,LW,"1,74",-
+,Diyar Açik,Right Winger,"Feb 4, 2001 ",23,"['Belgium', 'Türkiye']",Belgium,,CF   LW,,-
+18,Jarne Steuckers,Right Winger,"Feb 4, 2002 ",22,['Belgium'],Belgium,Sint-Truiden,AM   LW,"1,79",€3.50m
+12,Adama Ousmane Ly,Right Winger,"Feb 13, 2002 ",22,"['Belgium', 'Senegal']",Belgium,Gent,RB   LW,"1,73",-
+10,Bryan Api-Kindanda,Right Winger,"Mar 24, 2002 ",22,"['Belgium', 'DR Congo']",Belgium,Mons,LW   SS,"1,77",-
+,Robbe Gheerardyns,Right Winger,"Apr 29, 2002 ",21,['Belgium'],Belgium,Knokke,LW   CF,"1,72",-
+27,Ken Nkuba,Right Winger,"Jan 21, 2002 ",22,"['Belgium', 'DR Congo']",Belgium,Mons,RM   LW,"1,79",€3.50m
+,Ilansa Monamay,Right Winger,"Jul 23, 2002 ",21,['Belgium'],Belgium,Woluwe-Saint-Lambert,RB,"1,95",-
+,Din Cviko,Right Winger,"Mar 8, 2002 ",22,"['Bosnia-Herzegovina', 'Belgium']",Belgium,Eupen,RB   LW,"1,78",-
+11,Johan Bakayoko,Right Winger,"Apr 20, 2003 ",20,"['Belgium', ""Cote d'Ivoire""]",Belgium,Overijse,,"1,79",€40.00m
+48,Adnane Abid,Right Winger,"Aug 23, 2003 ",20,"['Belgium', 'Morocco']",Belgium,Verviers,LW   AM,"1,65",€150k
+,Kylian Meire,Right Winger,"Sep 16, 2003 ",20,"['Belgium', 'Spain']",Belgium,,LW,"1,86",-
+,Badr Oulad Abdellah,Right Winger,"Jun 17, 2003 ",20,"['Belgium', 'Morocco']",Belgium,Antwerpen,RB,"1,77",-
+24,Ilyes Ziani,Right Winger,"Jun 20, 2003 ",20,"['Morocco', 'Belgium']",Belgium,Brussel,LW   SS,"1,73",€400k
+50,Ilyas Lefrancq,Right Winger,"Dec 3, 2003 ",20,"['Morocco', 'Belgium']",Belgium,,LW   AM,"1,75",€100k
+9,Kasim Konneh,Right Winger,"Feb 10, 2003 ",21,"['Belgium', 'Guinea']",Belgium,Deurne,LW,"1,78",-
+,Andry Hanicq,Right Winger,"Mar 6, 2003 ",21,['Belgium'],Belgium,,LW   AM,"1,81",-
+27,Paco Van Den Bogaert,Right Winger,"Nov 23, 2004 ",19,['Belgium'],Belgium,,SS,,-
+,Elias Santos Gonçalves,Right Winger,"Mar 9, 2004 ",20,"['Belgium', 'Brazil']",Belgium,,,,-
+68,Chemsdine Talbi,Right Winger,"May 9, 2005 ",18,"['Belgium', 'Morocco']",Belgium,Sambrevile,AM,"1,75",€800k
+12,Kahil Al Houss,Right Winger,"Nov 2, 2005 ",18,['Belgium'],Belgium,Genk,LW,,-
+,Jaden Malhage,Right Winger,"Jul 13, 2005 ",18,['Belgium'],Belgium,Arlon,LW   CF,"1,72",-
+34,Ilias El Hari,Right Winger,"Jul 6, 2005 ",18,"['Morocco', 'Belgium']",Belgium,,,,€100k
+18,Wannes Van Elsen,Right Winger,"Apr 20, 2005 ",18,['Belgium'],Belgium,,LW   RB,"1,84",-
