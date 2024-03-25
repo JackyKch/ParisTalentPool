@@ -1,225 +1,225 @@
 Number,Name,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
-7,Leonardo Villa,Right Midfield,"Mar 3, 1985 ",39,"['Argentina', 'New Zealand']",Brazil,Santa Fé,CM,"1,83",€75k
-,Gastón Otreras,Right Midfield,"Aug 24, 1985 ",38,['Argentina'],Brazil,Quilmes,RW,"1,74",-
-,Emanuel Perea,Right Midfield,"Apr 8, 1985 ",38,['Argentina'],Brazil,Tierra del Fuego,,"1,81",-
-,Javier Robles,Right Midfield,"Jan 18, 1985 ",39,['Argentina'],Brazil,Buenos Aires,LM,"1,70",-
-,Ignacio Griva,Right Midfield,"Dec 20, 1985 ",38,['Argentina'],Brazil,Córdoba,,,-
-,Martín Fabro,Right Midfield,"Apr 19, 1985 ",38,"['Argentina', 'Italy']",Brazil,José Marmol,RW,"1,70",-
-,Lucas Oviedo,Right Midfield,"Apr 19, 1985 ",38,['Argentina'],Brazil,San Juan,,"1,75",-
-,Neri Espinosa,Right Midfield,"Jul 4, 1986 ",37,['Argentina'],Brazil,San Rafael,,"1,74",-
-,Leandro Véliz,Right Midfield,"May 28, 1986 ",37,['Argentina'],Brazil,,,"1,81",-
-,Mauro Pajón,Right Midfield,"Jul 2, 1986 ",37,['Argentina'],Brazil,Merlo,,"1,76",-
-,Matias Luciano Giacopuzzi,Right Midfield,"Sep 12, 1986 ",37,['Argentina'],Brazil,Ciudad del Libertador General Don José de San Martín,,,-
-,Diego Bogado,Right Midfield,"Feb 23, 1986 ",38,"['Argentina', 'Italy']",Brazil,Buenos Aires,CM,"1,70",-
-,Mariano Aldecoa,Right Midfield,"Jul 9, 1986 ",37,['Argentina'],Brazil,Cordoba (CBA),,,-
-,Néstor Villalba,Right Midfield,"Jun 24, 1986 ",37,['Argentina'],Brazil,Corrientes,,,-
-,Andrés Aguirre,Right Midfield,"Nov 10, 1986 ",37,['Argentina'],Brazil,Villa Ramallo,,"1,64",-
-,Iani Martín Verón,Right Midfield,"Jun 21, 1986 ",37,['Argentina'],Brazil,La Plata,,"1,84",-
-,Juan Briones,Right Midfield,"Jan 16, 1986 ",38,['Argentina'],Brazil,Mar del Plata,,"1,75",-
-,Marcelo Ricci,Right Midfield,"Aug 4, 1986 ",37,['Argentina'],Brazil,Avellaneda,,"1,80",-
-,Nahuel Casalini,Right Midfield,"Jun 22, 1986 ",37,['Argentina'],Brazil,Quilmes,,"1,79",-
-,Sebastián Enrique Godoy,Right Midfield,"Nov 29, 1986 ",37,['Argentina'],Brazil,Lanús,,"1,72",-
-15,Ramón Ocampo,Right Midfield,"Jun 21, 1986 ",37,"['Argentina', 'Italy']",Brazil,Jardín América,LM   AM,"1,63",-
-,Renso Pérez,Right Midfield,"Dec 24, 1987 ",36,['Argentina'],Brazil,Bolívar,RW,"1,74",€25k
-,Juan Pablo Kresser,Right Midfield,"Aug 17, 1987 ",36,['Argentina'],Brazil,San Miguel (Buenos Aires),DM,"1,83",-
-,Cristian Leiva,Right Midfield,"Feb 26, 1987 ",37,['Argentina'],Brazil,Pilar,,"1,73",-
-,Juan Salto,Right Midfield,"Jul 29, 1987 ",36,"['Argentina', 'Italy']",Brazil,Temperley,,"1,74",-
-,Facundo Schmidt,Right Midfield,"Nov 17, 1987 ",36,"['Argentina', 'Italy']",Brazil,Bahía Blanca,,"1,70",-
-,Franco Da Dalt,Right Midfield,"Sep 10, 1987 ",36,"['Argentina', 'Italy']",Brazil,Ituzaingo,RW   LM,"1,80",-
-,Emiliano Forgione,Right Midfield,"Oct 9, 1987 ",36,['Argentina'],Brazil,Campana,RW   CM,"1,69",-
-,Marcelo Galarza,Right Midfield,"Feb 22, 1987 ",37,['Argentina'],Brazil,Buenos Aires,,,-
-,Marcos Rivadeneira,Right Midfield,"May 7, 1987 ",36,['Argentina'],Brazil,Trelew,,"1,68",-
-,Jonathan Páez,Right Midfield,"Feb 26, 1987 ",37,['Argentina'],Brazil,Fernández,,"1,80",-
-,Gustavo Gómez,Right Midfield,"Feb 23, 1987 ",37,['Argentina'],Brazil,Avellaneda,,"1,68",-
-,Lucas Moya,Right Midfield,"Feb 1, 1987 ",37,"['Argentina', 'Italy']",Brazil,San Fernando del Valle,,"1,81",-
-,Juan Manuel Olivares,Right Midfield,"Jul 14, 1988 ",35,['Argentina'],Brazil,Wilde,RW,"1,70",€100k
-,Jonathan Lastra,Right Midfield,"Nov 25, 1988 ",35,['Argentina'],Brazil,,,"1,78",-
-,Patricio Rodríguez,Right Midfield,"Feb 7, 1988 ",36,['Argentina'],Brazil,San Miguel,,,-
-,Guillermo Pereyra,Right Midfield,"Jul 25, 1988 ",35,['Argentina'],Brazil,San Juan,,"1,76",-
-,Rafael Sosa,Right Midfield,"May 7, 1988 ",35,['Argentina'],Brazil,Catamarca,SS,"1,71",-
-,Juan Navarrete,Right Midfield,"Feb 20, 1988 ",36,['Argentina'],Brazil,Sastre,,,-
-,Santiago Fernández,Right Midfield,"Mar 3, 1988 ",36,['Argentina'],Brazil,Olivos,LM,"1,73",-
-,Nahuel Sachetto,Right Midfield,"Feb 6, 1988 ",36,['Argentina'],Brazil,Los Cardales,,"1,78",-
-,Leonel López,Right Midfield,"Feb 5, 1988 ",36,['Argentina'],Brazil,Concepción del Uruguay,,"1,75",-
-,Ricardo Tapia,Right Midfield,"May 28, 1988 ",35,['Argentina'],Brazil,San Miguel,LM,"1,77",-
-,Matías Bolatti,Right Midfield,"May 9, 1988 ",35,['Argentina'],Brazil,Las Perdices,AM,"1,73",-
-,Humberto Vega,Right Midfield,"Jan 16, 1988 ",36,['Argentina'],Brazil,Comodoro Rivadavia,,"1,72",-
-,Héctor Echagüe,Right Midfield,"Jan 24, 1988 ",36,['Argentina'],Brazil,Corrientes,,"1,80",-
-,Facundo Alfonso,Right Midfield,"Apr 21, 1988 ",35,['Argentina'],Brazil,Haedo,CM   AM,"1,70",-
-,José Loncón,Right Midfield,"Jun 4, 1988 ",35,"['Argentina', 'Chile']",Brazil,Comodoro Rivadavia,,"1,70",-
-,Maximiliano Rodríguez,Right Midfield,"Jun 13, 1988 ",35,['Argentina'],Brazil,Buenos Aires,,"1,77",-
-23,Esteban Giambuzzi,Right Midfield,"May 30, 1989 ",34,"['Argentina', 'Italy']",Brazil,San Martín,RB,"1,82",€50k
-,Leandro Mansilla,Right Midfield,"Sep 18, 1989 ",34,['Argentina'],Brazil,Santa Fe,,"1,70",-
-10,Iván Etevenaux,Right Midfield,"Oct 20, 1989 ",34,"['Argentina', 'Belgium']",Brazil,Córdoba,AM,"1,73",-
-,Leandro Serapio,Right Midfield,"Nov 17, 1989 ",34,['Argentina'],Brazil,Escobar,,,-
-,Gregorio Abregú,Right Midfield,"Sep 9, 1989 ",34,['Argentina'],Brazil,Beccar,,"1,60",-
-,Andrés Romero,Right Midfield,"Dec 21, 1989 ",34,['Argentina'],Brazil,Bell Ville,LM   CM,"1,78",-
-,Abel Peralta,Right Midfield,"Sep 17, 1989 ",34,['Argentina'],Brazil,Mendoza,RB,"1,80",-
-,Gustavo Corti,Right Midfield,"Jul 7, 1989 ",34,['Argentina'],Brazil,Formosa,,"1,78",-
-,Maximiliano Ferreira,Right Midfield,"Jan 10, 1989 ",35,['Argentina'],Brazil,Olavarría,,"1,68",-
-,Emanuel Orquera,Right Midfield,"Apr 3, 1989 ",34,['Argentina'],Brazil,Córdoba,,,-
-,Nicolás Castro,Right Midfield,"Jan 12, 1989 ",35,['Argentina'],Brazil,Azul,,,-
-,Fernando Gutiérrez,Right Midfield,"Feb 4, 1989 ",35,['Argentina'],Brazil,Avellaneda,,"1,75",-
-,Aníbal Alarcón,Right Midfield,"Nov 29, 1989 ",34,['Argentina'],Brazil,Formosa,,"1,76",-
-,Lihué Prichoda,Right Midfield,"Jun 28, 1989 ",34,['Argentina'],Brazil,Buenos Aires,,"1,78",-
-,Exequiel Narese,Right Midfield,"Mar 8, 1990 ",34,"['Argentina', 'Italy']",Brazil,San Miguel de Tucumán,RB,"1,70",€10k
-,Pablo Jofré,Right Midfield,"Mar 24, 1990 ",33,['Argentina'],Brazil,San Juan,,"1,72",-
-,Cristian Fornillo,Right Midfield,"Sep 13, 1990 ",33,['Argentina'],Brazil,General Rojo,RW   AM,"1,70",-
-,Mariano Pereira,Right Midfield,"Mar 27, 1990 ",33,"['Argentina', 'Spain']",Brazil,Villa Pueyrredón,RW,"1,74",-
-,Gastón Rossi,Right Midfield,"Jan 1, 1990 ",34,"['Argentina', 'Italy']",Brazil,General Villegas,,"1,72",-
-,Santiago Soto,Right Midfield,"Jan 23, 1990 ",34,['Argentina'],Brazil,San Javier,,"1,73",-
-,Facundo Affranchino,Right Midfield,"Feb 9, 1990 ",34,"['Argentina', 'Italy']",Brazil,Paraná,CM   LM,"1,79",-
-,Alexis Pinardi,Right Midfield,"Feb 13, 1990 ",34,['Argentina'],Brazil,,,"1,79",-
-,Franco Quiroz,Right Midfield,"Nov 10, 1990 ",33,['Argentina'],Brazil,Grand Bourg,CM,"1,65",-
-,Daniel Garro,Right Midfield,"Oct 25, 1990 ",33,['Argentina'],Brazil,San Luis,LM,"1,80",-
-,Maximiliano Ardetti,Right Midfield,"Mar 16, 1990 ",34,['Argentina'],Brazil,Concepción del Uruguay,,,-
-,Juan José Martínez,Right Midfield,"Jul 5, 1990 ",33,['Argentina'],Brazil,San Miguel de Tucumán,,,-
-,Nauel de Vico,Right Midfield,"Aug 15, 1990 ",33,['Argentina'],Brazil,Buenos Aires,,,-
-,Diego Sosa,Right Midfield,"Oct 24, 1991 ",32,['Argentina'],Brazil,Tandil,RW,"1,68",€175k
-,Agustín Grippaudo,Right Midfield,"Dec 19, 1991 ",32,"['Argentina', 'Italy']",Brazil,Bahía Blanca,RW,"1,77",-
-,Fernando Pascual,Right Midfield,"Feb 23, 1991 ",33,['Argentina'],Brazil,Buenos Aires,RB,"1,77",-
-,Maximiliano Ortigoza,Right Midfield,"Jan 17, 1991 ",33,['Argentina'],Brazil,Buenos Aires,,"1,71",€75k
-,José Dujaut,Right Midfield,"Oct 30, 1991 ",32,['Argentina'],Brazil,,,,-
-,Esteban Orfano,Right Midfield,"Jan 13, 1992 ",32,['Argentina'],Brazil,San Justo,LM   RB,"1,72",€250k
-,Victor Cabral,Right Midfield,"Jan 9, 1992 ",32,['Argentina'],Brazil,,LM   LW,"1,69",-
-,Federico Presedo,Right Midfield,"Aug 28, 1992 ",31,"['Argentina', 'Italy']",Brazil,"Morón, Buenos Aires",AM,,-
-,Jorge Ferrero,Right Midfield,"Feb 28, 1992 ",32,['Argentina'],Brazil,San Juan,CM,"1,79",€25k
-,Nicolás Valerio,Right Midfield,"Aug 18, 1992 ",31,['Argentina'],Brazil,Tandil,CM   RB,"1,71",-
-16,Fabián Monserrat,Right Midfield,"Jun 25, 1992 ",31,['Argentina'],Brazil,Rosario,CM   AM,"1,69",-
-32,Ramiro Carrera,Right Midfield,"Oct 24, 1993 ",30,['Argentina'],Brazil,Tolosa,LM   CM,"1,82",€1.00m
-27,Santiago Nagüel,Right Midfield,"Jan 28, 1993 ",31,"['Argentina', 'Spain']",Brazil,Buenos Aires,CM   LM,"1,69",€50k
-,Fernando Lareu,Right Midfield,"Mar 9, 1993 ",31,['Argentina'],Brazil,Azul,,"1,81",-
-,Leandro Meis,Right Midfield,"Mar 15, 1993 ",31,['Argentina'],Brazil,Buenos Aires,LM,"1,70",-
-,Leonardo Rolheiser,Right Midfield,"May 27, 1993 ",30,['Argentina'],Brazil,J. J. Castel,,"1,78",-
-,Erwin Blattner,Right Midfield,"Apr 14, 1993 ",30,"['Switzerland', 'Argentina']",Brazil,Buenos Aires,AM,,-
-,Kevin Itabel,Right Midfield,"Aug 20, 1993 ",30,['Argentina'],Brazil,Florida,LM   AM,"1,79",-
-32,Walter Montoya,Right Midfield,"Jul 21, 1993 ",30,['Argentina'],Brazil,Machagai,RW   AM,"1,73",€350k
-,Mariano Del Col,Right Midfield,"Jan 7, 1993 ",31,"['Argentina', 'Italy']",Brazil,Buenos Aires,RB   AM,"1,75",€25k
-,Victor Rodríguez,Right Midfield,"Nov 27, 1993 ",30,['Argentina'],Brazil,,,"1,66",-
-,Juan López,Right Midfield,"Oct 13, 1993 ",30,['Argentina'],Brazil,Smith,RW,,-
-,Franco Lepe,Right Midfield,"Mar 17, 1993 ",31,"['Argentina', 'Chile']",Brazil,San Juan,RB,"1,78",-
-,Juan Careaga,Right Midfield,"Apr 23, 1993 ",30,['Argentina'],Brazil,Córdoba,,"1,77",-
-,Javier Iritier,Right Midfield,"Dec 20, 1994 ",29,['Argentina'],Brazil,Gregorio de Laferrere,AM   CM,"1,69",€225k
-,Francesco Celeste,Right Midfield,"May 3, 1994 ",29,"['Argentina', 'Italy']",Brazil,Vicente López,RW,"1,70",€200k
-,Javier Bayk,Right Midfield,"Feb 2, 1994 ",30,['Argentina'],Brazil,San Miguel de Tucumán,LM   AM,"1,71",€75k
-,Federico Pérez,Right Midfield,"Apr 1, 1994 ",29,"['Argentina', 'Spain']",Brazil,Puan (BUE),RB   DM,"1,78",-
-,Gonzalo Cañete,Right Midfield,"Sep 14, 1994 ",29,['Argentina'],Brazil,Resistencia (CHA),RW,"1,74",-
-,Pablo Panichelli,Right Midfield,"Apr 14, 1994 ",29,"['Argentina', 'Italy']",Brazil,,,,-
-,Federico Marcucci,Right Midfield,"Jan 13, 1994 ",30,['Argentina'],Brazil,,CM,,-
-,Lucas Vera Piris,Right Midfield,"Jan 2, 1994 ",30,['Argentina'],Brazil,Lanús,CM,"1,77",-
-,Hernán Da Campo,Right Midfield,"Aug 6, 1994 ",29,['Argentina'],Brazil,Rosario,LM   CM,"1,81",€200k
-16,Guillermo Pereira,Right Midfield,"Jan 16, 1994 ",30,['Argentina'],Brazil,Pergamino,LM   DM,"1,78",€100k
-,Luis Argumosa,Right Midfield,"Oct 19, 1994 ",29,['Argentina'],Brazil,Rivadavia,,"1,78",-
-,Fausto Apaza,Right Midfield,"Sep 9, 1994 ",29,['Argentina'],Brazil,,,"1,78",-
-,Pablo Ortega,Right Midfield,"Aug 29, 1994 ",29,['Argentina'],Brazil,Villa Dolores,RW,"1,70",-
-,Sebastián Menguez,Right Midfield,"Feb 15, 1994 ",30,['Argentina'],Brazil,"Haedo, Buenos Aires",,"1,72",-
-,Nahuel Menéndez,Right Midfield,"Mar 5, 1994 ",30,['Argentina'],Brazil,Buenos Aires (Argentina),RW   RB,"1,65",-
-,Ramiro Luna,Right Midfield,"Jul 21, 1995 ",28,['Argentina'],Brazil,General Rodríguez,CM,"1,78",€275k
-,Facundo Aguerre,Right Midfield,"Nov 22, 1995 ",28,['Argentina'],Brazil,Buenos Aires,RB   RW,"1,65",-
-,Nicolás Ríos,Right Midfield,"Oct 11, 1995 ",28,['Argentina'],Brazil,Laferrere (BUE),AM,"1,72",-
-,Lucas Algozino,Right Midfield,"Sep 29, 1995 ",28,['Argentina'],Brazil,Santa Fe,RW,"1,72",-
-,Javier Sequeyra,Right Midfield,"Jun 23, 1995 ",28,['Argentina'],Brazil,Berisso,,"1,73",-
-,Tomás Asprea,Right Midfield,"Feb 28, 1995 ",29,['Argentina'],Brazil,Lanús,,"1,80",€75k
-,Nicolás Straccia,Right Midfield,"Sep 4, 1995 ",28,"['Argentina', 'Italy']",Brazil,Rosario,LM   AM,"1,75",-
-,Alexis González,Right Midfield,"Apr 22, 1995 ",28,['Argentina'],Brazil,Rosario,LM,"1,71",-
-,Nahuel Losada,Right Midfield,"Feb 24, 1995 ",29,['Argentina'],Brazil,Mar del Plata,RW,,-
-18,Renzo Tesuri,Right Midfield,"Jun 7, 1996 ",27,['Argentina'],Brazil,Gualeguaychú (Entre Ríos),RW   LW,"1,65",€600k
-,Brian Guerra,Right Midfield,"Feb 8, 1996 ",28,['Argentina'],Brazil,Santa Isabel,AM   LM,"1,77",€150k
-,Franco Lebeau,Right Midfield,"Nov 26, 1996 ",27,"['Argentina', 'Italy']",Brazil,Córdoba,RW   LM,"1,72",-
-,Cristian Carrizo,Right Midfield,"May 22, 1996 ",27,['Argentina'],Brazil,Córdoba,RW   RB,,-
-,Hernán Tifner,Right Midfield,"Sep 20, 1996 ",27,['Argentina'],Brazil,Córdoba,CM,"1,75",-
-,Lucas Cuevas,Right Midfield,"Nov 9, 1996 ",27,['Argentina'],Brazil,,,"1,75",-
-,Nicolás Talpone,Right Midfield,"Apr 9, 1996 ",27,['Argentina'],Brazil,La Plata,AM   CM,"1,65",€275k
-,Lautaro Soto,Right Midfield,"Jul 30, 1996 ",27,['Argentina'],Brazil,,RW   SS,"1,84",€75k
-,Gustavo Caimer,Right Midfield,"Oct 19, 1996 ",27,['Argentina'],Brazil,,,"1,73",-
-,Gonzalo Jaque,Right Midfield,"Dec 5, 1996 ",27,['Argentina'],Brazil,José C. Paz (BUE),RB   RW,"1,72",-
-,Lucas Jofré,Right Midfield,"May 31, 1996 ",27,['Argentina'],Brazil,San Juan,,"1,73",-
-,Santiago López García,Right Midfield,"Dec 4, 1997 ",26,['Argentina'],Brazil,Mendoza,CM   RB,"1,80",€500k
-,Andrés Lioi,Right Midfield,"Mar 7, 1997 ",27,['Argentina'],Brazil,Rosario,RW,"1,75",€200k
-,Elías Contreras,Right Midfield,"Mar 7, 1997 ",27,['Argentina'],Brazil,Santa Fe,RW,"1,83",€150k
-,Nicolás Sánchez,Right Midfield,"May 27, 1997 ",26,['Argentina'],Brazil,Beccar,,"1,68",€25k
-,Gastón Ortiz,Right Midfield,"Mar 11, 1997 ",27,['Argentina'],Brazil,,LM   RW,"1,77",-
-,Luis Ramos,Right Midfield,"Sep 13, 1997 ",26,['Argentina'],Brazil,,RW,"1,80",-
-5,Marcos Rosetti,Right Midfield,"Aug 3, 1997 ",26,['Argentina'],Brazil,Buenos Aires,RW,"1,67",-
-,Axel Abad,Right Midfield,"Jul 11, 1997 ",26,['Argentina'],Brazil,,CM   LM,,-
-20,Brahian Cuello,Right Midfield,"Sep 30, 1997 ",26,['Argentina'],Brazil,Merlo,LM   CM,"1,70",€325k
-,Federico Murillo,Right Midfield,"Jan 4, 1997 ",27,['Argentina'],Brazil,Buenos Aires,LM,"1,78",€175k
-,Gastón Mansilla,Right Midfield,"May 30, 1997 ",26,['Argentina'],Brazil,Buenos Aires,,"1,87",€25k
-,Milton Gerez,Right Midfield,"Dec 26, 1997 ",26,['Argentina'],Brazil,Santiago del Estero,,"1,78",-
-,Matías Iglesias,Right Midfield,"May 8, 1997 ",26,['Argentina'],Brazil,Salta,,"1,69",-
-,Ariel Vega,Right Midfield,"Aug 5, 1997 ",26,['Argentina'],Brazil,,,"1,74",-
-,Leandro Ramírez,Right Midfield,"May 27, 1997 ",26,"['Argentina', 'Spain']",Brazil,Mar del Plata,RW   LM,"1,89",-
-,Maximiliano Meza,Right Midfield,"Jun 13, 1997 ",26,['Argentina'],Brazil,,,,-
-33,Facundo Mater,Right Midfield,"Jul 23, 1998 ",25,['Argentina'],Brazil,Haedo,RB   CM,"1,66",€1.80m
-,Mateo Montenegro,Right Midfield,"Aug 28, 1998 ",25,['Argentina'],Brazil,Santiago del Estero,RB   CM,"1,81",€150k
-,Juan Barrera,Right Midfield,"Dec 5, 1998 ",25,['Argentina'],Brazil,Córdoba,RB,"1,70",€25k
-,Sebastian Callipo,Right Midfield,"Feb 7, 1998 ",26,['Argentina'],Brazil,,RW   RB,"1,67",-
-,Joaquín Malinauskas,Right Midfield,"Aug 6, 1998 ",25,['Argentina'],Brazil,,,"1,85",-
-,Ismael Zapata,Right Midfield,"Jan 7, 1998 ",26,['Argentina'],Brazil,,,"1,74",-
-,Franco Constantino,Right Midfield,"Jun 18, 1998 ",25,"['Argentina', 'Italy']",Brazil,Buenos Aires,LM   CM,"1,72",-
-,Nicolás Giovagnoli,Right Midfield,"May 15, 1998 ",25,"['Argentina', 'Italy']",Brazil,,,,-
-8,Enzo Gaggi,Right Midfield,"Jan 14, 1998 ",26,['Argentina'],Brazil,Rafaela,RW   AM,"1,74",€275k
-,Tomás González,Right Midfield,"Nov 1, 1998 ",25,['Argentina'],Brazil,Lincoln,,"1,68",€25k
-40,Lucas López,Right Midfield,"Apr 28, 1998 ",25,['Argentina'],Brazil,Lomas del Mirador,,"1,79",€25k
-,Manuel Vargas,Right Midfield,"Feb 15, 1998 ",26,['Argentina'],Brazil,Arroyito (CBA),,"1,65",-
-,Alex Aguirre,Right Midfield,"May 11, 1998 ",25,['Argentina'],Brazil,,,"1,75",-
-,Gonzalo Gómez,Right Midfield,"Feb 23, 1998 ",26,['Argentina'],Brazil,Rosario,RB,,-
-,Braian Volpini,Right Midfield,"Jun 16, 1998 ",25,"['Argentina', 'Italy']",Brazil,Buenos Aires,DM,,-
-,Enzo Arreguín,Right Midfield,"Jun 29, 1999 ",24,['Argentina'],Brazil,Ezeiza,,"1,90",€125k
-,Julian Leonori,Right Midfield,"Jun 8, 1999 ",24,['Argentina'],Brazil,Córdoba,,"1,71",-
-,Rodrigo Pascuccio,Right Midfield,"Sep 24, 1999 ",24,['Argentina'],Brazil,,,"1,76",-
-2,Manuel Páez,Right Midfield,"Aug 29, 1999 ",24,"['Argentina', 'Italy']",Brazil,Godoy Cruz,RW,"1,71",-
-,Joaquín Cepeda,Right Midfield,"Apr 24, 1999 ",24,['Argentina'],Brazil,Florencio Varela,RW   AM,"1,70",-
-,Lucas Verón,Right Midfield,"Oct 21, 1999 ",24,['Argentina'],Brazil,,LM   CM,"1,74",-
-,Franco Bustamante,Right Midfield,"Mar 15, 1999 ",25,['Argentina'],Brazil,Garín,RW,"1,67",-
-,Alejo Dramisino,Right Midfield,"Apr 19, 2000 ",23,['Argentina'],Brazil,Buenos Aires,RB   CM,"1,73",€375k
-,Valentín Barbero,Right Midfield,"Jul 13, 2000 ",23,['Argentina'],Brazil,La Carlota,RW,"1,84",€100k
-,José María Aguirre,Right Midfield,"May 6, 2000 ",23,['Argentina'],Brazil,Rafael Castillo,CM   LM,"1,72",-
-,Elián Cáceres,Right Midfield,"Nov 18, 2000 ",23,['Argentina'],Brazil,,AM,,-
-,Tomás Alegre,Right Midfield,"Feb 25, 2000 ",24,['Argentina'],Brazil,Buenos Aires,,,-
-,Ivo Di Buo,Right Midfield,"Aug 1, 2000 ",23,"['Argentina', 'Italy']",Brazil,,LM,"1,76",-
-,Lautaro Grosso,Right Midfield,"Feb 21, 2000 ",24,['Argentina'],Brazil,Mendoza,RW,"1,70",-
-,Lucas Vallejo,Right Midfield,"Jun 28, 2000 ",23,['Argentina'],Brazil,Tandil,RB,"1,77",-
-,Facundo Fernández,Right Midfield,"Feb 14, 2000 ",24,['Argentina'],Brazil,San Justo,LM,"1,73",-
-,Ramiro Balbuena,Right Midfield,"Feb 28, 2000 ",24,['Argentina'],Brazil,Puerto Iguazú,,"1,76",€100k
-,Lauro Gamba,Right Midfield,"Feb 6, 2000 ",24,['Argentina'],Brazil,"San Fernando, Buenos Aires",RB,"1,81",-
-,Federico Carcamo,Right Midfield,"May 19, 2000 ",23,['Argentina'],Brazil,Rawson (CHU),,,-
-,Luciano Campusano,Right Midfield,"Feb 25, 2000 ",24,['Argentina'],Brazil,Buenos Aires,,"1,77",-
-,Alejandro Aquino,Right Midfield,"Apr 18, 2000 ",23,['Argentina'],Brazil,,,"1,79",-
-,Franco Sarco,Right Midfield,"Nov 20, 2000 ",23,['Argentina'],Brazil,Rosario,RW,"1,75",-
-,Julián Ford,Right Midfield,"Jan 27, 2000 ",24,['Argentina'],Brazil,Luján (BUE),,"1,74",-
-,Facundo Miguel,Right Midfield,"Mar 30, 2000 ",23,['Argentina'],Brazil,,RW,,-
-,Adrián Fernández,Right Midfield,"May 20, 2001 ",22,['Argentina'],Brazil,Avellaneda,,"1,83",€250k
-,José Escurra,Right Midfield,"May 17, 2001 ",22,['Argentina'],Brazil,Misiones,AM,"1,72",€100k
-,Tomás Adoryán,Right Midfield,"Sep 22, 2001 ",22,"['Argentina', 'Armenia']",Brazil,San Pedro,RW,"1,77",€50k
-,Iván Gorosito,Right Midfield,"Jul 4, 2001 ",22,['Argentina'],Brazil,,,,€50k
-,Matías Gutierrez,Right Midfield,"Oct 12, 2001 ",22,['Argentina'],Brazil,,RW,"1,65",-
-,Facundo Mateo,Right Midfield,"Feb 13, 2001 ",23,['Argentina'],Brazil,Salta,,"1,72",-
-,Carlos Rothermel,Right Midfield,"Jan 29, 2001 ",23,['Argentina'],Brazil,"Irazusta, Entre Ríos",CM,,-
-,Iván Tello,Right Midfield,"Aug 1, 2001 ",22,['Argentina'],Brazil,,,,-
-,Rodrigo Godoy,Right Midfield,"Feb 8, 2001 ",23,['Argentina'],Brazil,,,"1,80",-
-10,Gustavo Machado,Right Midfield,"Jun 23, 2001 ",22,['Uruguay'],Brazil,Lanús,CM   RW,"1,75",€175k
-26,Tomás Castro Ponce,Right Midfield,"Mar 3, 2001 ",23,['Argentina'],Brazil,Concarán,,"1,86",€100k
-,Tobías Fernández,Right Midfield,"Mar 15, 2001 ",23,['Argentina'],Brazil,Buenos Aires,,"1,80",€50k
-,Lucas Naranjo,Right Midfield,"Nov 21, 2001 ",22,['Argentina'],Brazil,Banda del Río Salí,RW,"1,86",€25k
-,Matías Moravec,Right Midfield,"Apr 12, 2001 ",22,['Argentina'],Brazil,Ingeniero Maschwitz,,"1,75",-
-,Alejo Ceccherini,Right Midfield,"Nov 13, 2001 ",22,['Argentina'],Brazil,Zarate,,"1,75",-
-,Jorge Olmos,Right Midfield,"Oct 5, 2001 ",22,['Argentina'],Brazil,,,,-
-,Exequiel Mendez,Right Midfield,"Jan 1, 2001 ",23,['Argentina'],Brazil,,,"1,75",-
-,Boris Magnago,Right Midfield,"Feb 5, 2001 ",23,['Argentina'],Brazil,,RB,"1,73",-
-31,Santiago Simón,Right Midfield,"Jun 13, 2002 ",21,['Argentina'],Brazil,José Carlos Paz,RW   RB,"1,81",€4.50m
-,Santiago Luján,Right Midfield,"Jan 23, 2002 ",22,['Argentina'],Brazil,Merlo,AM   CM,"1,73",€100k
-,Valentín Pereyra,Right Midfield,"Apr 18, 2002 ",21,['Argentina'],Brazil,Paraná,RW   LM,"1,67",€50k
-,Alexis Steimbach,Right Midfield,"Jul 25, 2002 ",21,"['Argentina', 'Germany']",Brazil,Coronel Suárez,RW   RB,"1,75",€250k
-,Leonardo Monje,Right Midfield,"Mar 26, 2002 ",21,['Argentina'],Brazil,Córdoba,CM,"1,75",€100k
-,Misael Sosa,Right Midfield,"Jan 28, 2002 ",22,['Argentina'],Brazil,San Luis,RW,"1,70",€25k
-28,Joaquín Gho,Right Midfield,"May 14, 2003 ",20,['Argentina'],Brazil,Lincoln,RW,"1,76",€700k
-,Santiago Magnotta,Right Midfield,"Jul 4, 2003 ",20,['Argentina'],Brazil,Lomas de Zamora,RW   LM,"1,86",-
-,Ramiro Martínez,Right Midfield,"Sep 27, 2003 ",20,['Argentina'],Brazil,Concordia,RW   AM,"1,80",-
-,Augusto Picco,Right Midfield,"Aug 27, 2003 ",20,['Argentina'],Brazil,Arroyito,,"1,75",€10k
-,Edwin Santilli,Right Midfield,"Nov 1, 2003 ",20,['Argentina'],Brazil,Trelew,,,-
-30,Román Rodríguez,Right Midfield,"Sep 15, 2003 ",20,"['Argentina', 'Italy']",Brazil,Pilar,CM   LM,"1,80",-
-37,Elías Ocampo,Right Midfield,"Feb 26, 2004 ",20,['Argentina'],Brazil,Pérez,RW   RB,"1,67",€350k
-35,Santiago Salle,Right Midfield,"Jun 4, 2004 ",19,['Argentina'],Brazil,Olavarria,RB,"1,85",€75k
-,Juan Cruz Cerrudo,Right Midfield,"Jan 20, 2004 ",20,['Argentina'],Brazil,San Genaro (SF),LM,"1,68",€100k
-,Lautaro Millán,Right Midfield,"Aug 16, 2005 ",18,['Argentina'],Brazil,Bahía Blanca,CM   AM,"1,69",-
+7,Leonardo Villa,Right Midfield,"Mar 3, 1985 ",39,"['Argentina', 'New Zealand']",Argentina,Santa Fé,CM,"1,83",€75k
+,Gastón Otreras,Right Midfield,"Aug 24, 1985 ",38,['Argentina'],Argentina,Quilmes,RW,"1,74",-
+,Emanuel Perea,Right Midfield,"Apr 8, 1985 ",38,['Argentina'],Argentina,Tierra del Fuego,,"1,81",-
+,Javier Robles,Right Midfield,"Jan 18, 1985 ",39,['Argentina'],Argentina,Buenos Aires,LM,"1,70",-
+,Ignacio Griva,Right Midfield,"Dec 20, 1985 ",38,['Argentina'],Argentina,Córdoba,,,-
+,Martín Fabro,Right Midfield,"Apr 19, 1985 ",38,"['Argentina', 'Italy']",Argentina,José Marmol,RW,"1,70",-
+,Lucas Oviedo,Right Midfield,"Apr 19, 1985 ",38,['Argentina'],Argentina,San Juan,,"1,75",-
+,Neri Espinosa,Right Midfield,"Jul 4, 1986 ",37,['Argentina'],Argentina,San Rafael,,"1,74",-
+,Leandro Véliz,Right Midfield,"May 28, 1986 ",37,['Argentina'],Argentina,,,"1,81",-
+,Mauro Pajón,Right Midfield,"Jul 2, 1986 ",37,['Argentina'],Argentina,Merlo,,"1,76",-
+,Matias Luciano Giacopuzzi,Right Midfield,"Sep 12, 1986 ",37,['Argentina'],Argentina,Ciudad del Libertador General Don José de San Martín,,,-
+,Diego Bogado,Right Midfield,"Feb 23, 1986 ",38,"['Argentina', 'Italy']",Argentina,Buenos Aires,CM,"1,70",-
+,Mariano Aldecoa,Right Midfield,"Jul 9, 1986 ",37,['Argentina'],Argentina,Cordoba (CBA),,,-
+,Néstor Villalba,Right Midfield,"Jun 24, 1986 ",37,['Argentina'],Argentina,Corrientes,,,-
+,Andrés Aguirre,Right Midfield,"Nov 10, 1986 ",37,['Argentina'],Argentina,Villa Ramallo,,"1,64",-
+,Iani Martín Verón,Right Midfield,"Jun 21, 1986 ",37,['Argentina'],Argentina,La Plata,,"1,84",-
+,Juan Briones,Right Midfield,"Jan 16, 1986 ",38,['Argentina'],Argentina,Mar del Plata,,"1,75",-
+,Marcelo Ricci,Right Midfield,"Aug 4, 1986 ",37,['Argentina'],Argentina,Avellaneda,,"1,80",-
+,Nahuel Casalini,Right Midfield,"Jun 22, 1986 ",37,['Argentina'],Argentina,Quilmes,,"1,79",-
+,Sebastián Enrique Godoy,Right Midfield,"Nov 29, 1986 ",37,['Argentina'],Argentina,Lanús,,"1,72",-
+15,Ramón Ocampo,Right Midfield,"Jun 21, 1986 ",37,"['Argentina', 'Italy']",Argentina,Jardín América,LM   AM,"1,63",-
+,Renso Pérez,Right Midfield,"Dec 24, 1987 ",36,['Argentina'],Argentina,Bolívar,RW,"1,74",€25k
+,Juan Pablo Kresser,Right Midfield,"Aug 17, 1987 ",36,['Argentina'],Argentina,San Miguel (Buenos Aires),DM,"1,83",-
+,Cristian Leiva,Right Midfield,"Feb 26, 1987 ",37,['Argentina'],Argentina,Pilar,,"1,73",-
+,Juan Salto,Right Midfield,"Jul 29, 1987 ",36,"['Argentina', 'Italy']",Argentina,Temperley,,"1,74",-
+,Facundo Schmidt,Right Midfield,"Nov 17, 1987 ",36,"['Argentina', 'Italy']",Argentina,Bahía Blanca,,"1,70",-
+,Franco Da Dalt,Right Midfield,"Sep 10, 1987 ",36,"['Argentina', 'Italy']",Argentina,Ituzaingo,RW   LM,"1,80",-
+,Emiliano Forgione,Right Midfield,"Oct 9, 1987 ",36,['Argentina'],Argentina,Campana,RW   CM,"1,69",-
+,Marcelo Galarza,Right Midfield,"Feb 22, 1987 ",37,['Argentina'],Argentina,Buenos Aires,,,-
+,Marcos Rivadeneira,Right Midfield,"May 7, 1987 ",36,['Argentina'],Argentina,Trelew,,"1,68",-
+,Jonathan Páez,Right Midfield,"Feb 26, 1987 ",37,['Argentina'],Argentina,Fernández,,"1,80",-
+,Gustavo Gómez,Right Midfield,"Feb 23, 1987 ",37,['Argentina'],Argentina,Avellaneda,,"1,68",-
+,Lucas Moya,Right Midfield,"Feb 1, 1987 ",37,"['Argentina', 'Italy']",Argentina,San Fernando del Valle,,"1,81",-
+,Juan Manuel Olivares,Right Midfield,"Jul 14, 1988 ",35,['Argentina'],Argentina,Wilde,RW,"1,70",€100k
+,Jonathan Lastra,Right Midfield,"Nov 25, 1988 ",35,['Argentina'],Argentina,,,"1,78",-
+,Patricio Rodríguez,Right Midfield,"Feb 7, 1988 ",36,['Argentina'],Argentina,San Miguel,,,-
+,Guillermo Pereyra,Right Midfield,"Jul 25, 1988 ",35,['Argentina'],Argentina,San Juan,,"1,76",-
+,Rafael Sosa,Right Midfield,"May 7, 1988 ",35,['Argentina'],Argentina,Catamarca,SS,"1,71",-
+,Juan Navarrete,Right Midfield,"Feb 20, 1988 ",36,['Argentina'],Argentina,Sastre,,,-
+,Santiago Fernández,Right Midfield,"Mar 3, 1988 ",36,['Argentina'],Argentina,Olivos,LM,"1,73",-
+,Nahuel Sachetto,Right Midfield,"Feb 6, 1988 ",36,['Argentina'],Argentina,Los Cardales,,"1,78",-
+,Leonel López,Right Midfield,"Feb 5, 1988 ",36,['Argentina'],Argentina,Concepción del Uruguay,,"1,75",-
+,Ricardo Tapia,Right Midfield,"May 28, 1988 ",35,['Argentina'],Argentina,San Miguel,LM,"1,77",-
+,Matías Bolatti,Right Midfield,"May 9, 1988 ",35,['Argentina'],Argentina,Las Perdices,AM,"1,73",-
+,Humberto Vega,Right Midfield,"Jan 16, 1988 ",36,['Argentina'],Argentina,Comodoro Rivadavia,,"1,72",-
+,Héctor Echagüe,Right Midfield,"Jan 24, 1988 ",36,['Argentina'],Argentina,Corrientes,,"1,80",-
+,Facundo Alfonso,Right Midfield,"Apr 21, 1988 ",35,['Argentina'],Argentina,Haedo,CM   AM,"1,70",-
+,José Loncón,Right Midfield,"Jun 4, 1988 ",35,"['Argentina', 'Chile']",Argentina,Comodoro Rivadavia,,"1,70",-
+,Maximiliano Rodríguez,Right Midfield,"Jun 13, 1988 ",35,['Argentina'],Argentina,Buenos Aires,,"1,77",-
+23,Esteban Giambuzzi,Right Midfield,"May 30, 1989 ",34,"['Argentina', 'Italy']",Argentina,San Martín,RB,"1,82",€50k
+,Leandro Mansilla,Right Midfield,"Sep 18, 1989 ",34,['Argentina'],Argentina,Santa Fe,,"1,70",-
+10,Iván Etevenaux,Right Midfield,"Oct 20, 1989 ",34,"['Argentina', 'Belgium']",Argentina,Córdoba,AM,"1,73",-
+,Leandro Serapio,Right Midfield,"Nov 17, 1989 ",34,['Argentina'],Argentina,Escobar,,,-
+,Gregorio Abregú,Right Midfield,"Sep 9, 1989 ",34,['Argentina'],Argentina,Beccar,,"1,60",-
+,Andrés Romero,Right Midfield,"Dec 21, 1989 ",34,['Argentina'],Argentina,Bell Ville,LM   CM,"1,78",-
+,Abel Peralta,Right Midfield,"Sep 17, 1989 ",34,['Argentina'],Argentina,Mendoza,RB,"1,80",-
+,Gustavo Corti,Right Midfield,"Jul 7, 1989 ",34,['Argentina'],Argentina,Formosa,,"1,78",-
+,Maximiliano Ferreira,Right Midfield,"Jan 10, 1989 ",35,['Argentina'],Argentina,Olavarría,,"1,68",-
+,Emanuel Orquera,Right Midfield,"Apr 3, 1989 ",34,['Argentina'],Argentina,Córdoba,,,-
+,Nicolás Castro,Right Midfield,"Jan 12, 1989 ",35,['Argentina'],Argentina,Azul,,,-
+,Fernando Gutiérrez,Right Midfield,"Feb 4, 1989 ",35,['Argentina'],Argentina,Avellaneda,,"1,75",-
+,Aníbal Alarcón,Right Midfield,"Nov 29, 1989 ",34,['Argentina'],Argentina,Formosa,,"1,76",-
+,Lihué Prichoda,Right Midfield,"Jun 28, 1989 ",34,['Argentina'],Argentina,Buenos Aires,,"1,78",-
+,Exequiel Narese,Right Midfield,"Mar 8, 1990 ",34,"['Argentina', 'Italy']",Argentina,San Miguel de Tucumán,RB,"1,70",€10k
+,Pablo Jofré,Right Midfield,"Mar 24, 1990 ",33,['Argentina'],Argentina,San Juan,,"1,72",-
+,Cristian Fornillo,Right Midfield,"Sep 13, 1990 ",33,['Argentina'],Argentina,General Rojo,RW   AM,"1,70",-
+,Mariano Pereira,Right Midfield,"Mar 27, 1990 ",33,"['Argentina', 'Spain']",Argentina,Villa Pueyrredón,RW,"1,74",-
+,Gastón Rossi,Right Midfield,"Jan 1, 1990 ",34,"['Argentina', 'Italy']",Argentina,General Villegas,,"1,72",-
+,Santiago Soto,Right Midfield,"Jan 23, 1990 ",34,['Argentina'],Argentina,San Javier,,"1,73",-
+,Facundo Affranchino,Right Midfield,"Feb 9, 1990 ",34,"['Argentina', 'Italy']",Argentina,Paraná,CM   LM,"1,79",-
+,Alexis Pinardi,Right Midfield,"Feb 13, 1990 ",34,['Argentina'],Argentina,,,"1,79",-
+,Franco Quiroz,Right Midfield,"Nov 10, 1990 ",33,['Argentina'],Argentina,Grand Bourg,CM,"1,65",-
+,Daniel Garro,Right Midfield,"Oct 25, 1990 ",33,['Argentina'],Argentina,San Luis,LM,"1,80",-
+,Maximiliano Ardetti,Right Midfield,"Mar 16, 1990 ",34,['Argentina'],Argentina,Concepción del Uruguay,,,-
+,Juan José Martínez,Right Midfield,"Jul 5, 1990 ",33,['Argentina'],Argentina,San Miguel de Tucumán,,,-
+,Nauel de Vico,Right Midfield,"Aug 15, 1990 ",33,['Argentina'],Argentina,Buenos Aires,,,-
+,Diego Sosa,Right Midfield,"Oct 24, 1991 ",32,['Argentina'],Argentina,Tandil,RW,"1,68",€175k
+,Agustín Grippaudo,Right Midfield,"Dec 19, 1991 ",32,"['Argentina', 'Italy']",Argentina,Bahía Blanca,RW,"1,77",-
+,Fernando Pascual,Right Midfield,"Feb 23, 1991 ",33,['Argentina'],Argentina,Buenos Aires,RB,"1,77",-
+,Maximiliano Ortigoza,Right Midfield,"Jan 17, 1991 ",33,['Argentina'],Argentina,Buenos Aires,,"1,71",€75k
+,José Dujaut,Right Midfield,"Oct 30, 1991 ",32,['Argentina'],Argentina,,,,-
+,Esteban Orfano,Right Midfield,"Jan 13, 1992 ",32,['Argentina'],Argentina,San Justo,LM   RB,"1,72",€250k
+,Victor Cabral,Right Midfield,"Jan 9, 1992 ",32,['Argentina'],Argentina,,LM   LW,"1,69",-
+,Federico Presedo,Right Midfield,"Aug 28, 1992 ",31,"['Argentina', 'Italy']",Argentina,"Morón, Buenos Aires",AM,,-
+,Jorge Ferrero,Right Midfield,"Feb 28, 1992 ",32,['Argentina'],Argentina,San Juan,CM,"1,79",€25k
+,Nicolás Valerio,Right Midfield,"Aug 18, 1992 ",31,['Argentina'],Argentina,Tandil,CM   RB,"1,71",-
+16,Fabián Monserrat,Right Midfield,"Jun 25, 1992 ",31,['Argentina'],Argentina,Rosario,CM   AM,"1,69",-
+32,Ramiro Carrera,Right Midfield,"Oct 24, 1993 ",30,['Argentina'],Argentina,Tolosa,LM   CM,"1,82",€1.00m
+27,Santiago Nagüel,Right Midfield,"Jan 28, 1993 ",31,"['Argentina', 'Spain']",Argentina,Buenos Aires,CM   LM,"1,69",€50k
+,Fernando Lareu,Right Midfield,"Mar 9, 1993 ",31,['Argentina'],Argentina,Azul,,"1,81",-
+,Leandro Meis,Right Midfield,"Mar 15, 1993 ",31,['Argentina'],Argentina,Buenos Aires,LM,"1,70",-
+,Leonardo Rolheiser,Right Midfield,"May 27, 1993 ",30,['Argentina'],Argentina,J. J. Castel,,"1,78",-
+,Erwin Blattner,Right Midfield,"Apr 14, 1993 ",30,"['Switzerland', 'Argentina']",Argentina,Buenos Aires,AM,,-
+,Kevin Itabel,Right Midfield,"Aug 20, 1993 ",30,['Argentina'],Argentina,Florida,LM   AM,"1,79",-
+32,Walter Montoya,Right Midfield,"Jul 21, 1993 ",30,['Argentina'],Argentina,Machagai,RW   AM,"1,73",€350k
+,Mariano Del Col,Right Midfield,"Jan 7, 1993 ",31,"['Argentina', 'Italy']",Argentina,Buenos Aires,RB   AM,"1,75",€25k
+,Victor Rodríguez,Right Midfield,"Nov 27, 1993 ",30,['Argentina'],Argentina,,,"1,66",-
+,Juan López,Right Midfield,"Oct 13, 1993 ",30,['Argentina'],Argentina,Smith,RW,,-
+,Franco Lepe,Right Midfield,"Mar 17, 1993 ",31,"['Argentina', 'Chile']",Argentina,San Juan,RB,"1,78",-
+,Juan Careaga,Right Midfield,"Apr 23, 1993 ",30,['Argentina'],Argentina,Córdoba,,"1,77",-
+,Javier Iritier,Right Midfield,"Dec 20, 1994 ",29,['Argentina'],Argentina,Gregorio de Laferrere,AM   CM,"1,69",€225k
+,Francesco Celeste,Right Midfield,"May 3, 1994 ",29,"['Argentina', 'Italy']",Argentina,Vicente López,RW,"1,70",€200k
+,Javier Bayk,Right Midfield,"Feb 2, 1994 ",30,['Argentina'],Argentina,San Miguel de Tucumán,LM   AM,"1,71",€75k
+,Federico Pérez,Right Midfield,"Apr 1, 1994 ",29,"['Argentina', 'Spain']",Argentina,Puan (BUE),RB   DM,"1,78",-
+,Gonzalo Cañete,Right Midfield,"Sep 14, 1994 ",29,['Argentina'],Argentina,Resistencia (CHA),RW,"1,74",-
+,Pablo Panichelli,Right Midfield,"Apr 14, 1994 ",29,"['Argentina', 'Italy']",Argentina,,,,-
+,Federico Marcucci,Right Midfield,"Jan 13, 1994 ",30,['Argentina'],Argentina,,CM,,-
+,Lucas Vera Piris,Right Midfield,"Jan 2, 1994 ",30,['Argentina'],Argentina,Lanús,CM,"1,77",-
+,Hernán Da Campo,Right Midfield,"Aug 6, 1994 ",29,['Argentina'],Argentina,Rosario,LM   CM,"1,81",€200k
+16,Guillermo Pereira,Right Midfield,"Jan 16, 1994 ",30,['Argentina'],Argentina,Pergamino,LM   DM,"1,78",€100k
+,Luis Argumosa,Right Midfield,"Oct 19, 1994 ",29,['Argentina'],Argentina,Rivadavia,,"1,78",-
+,Fausto Apaza,Right Midfield,"Sep 9, 1994 ",29,['Argentina'],Argentina,,,"1,78",-
+,Pablo Ortega,Right Midfield,"Aug 29, 1994 ",29,['Argentina'],Argentina,Villa Dolores,RW,"1,70",-
+,Sebastián Menguez,Right Midfield,"Feb 15, 1994 ",30,['Argentina'],Argentina,"Haedo, Buenos Aires",,"1,72",-
+,Nahuel Menéndez,Right Midfield,"Mar 5, 1994 ",30,['Argentina'],Argentina,Buenos Aires (Argentina),RW   RB,"1,65",-
+,Ramiro Luna,Right Midfield,"Jul 21, 1995 ",28,['Argentina'],Argentina,General Rodríguez,CM,"1,78",€275k
+,Facundo Aguerre,Right Midfield,"Nov 22, 1995 ",28,['Argentina'],Argentina,Buenos Aires,RB   RW,"1,65",-
+,Nicolás Ríos,Right Midfield,"Oct 11, 1995 ",28,['Argentina'],Argentina,Laferrere (BUE),AM,"1,72",-
+,Lucas Algozino,Right Midfield,"Sep 29, 1995 ",28,['Argentina'],Argentina,Santa Fe,RW,"1,72",-
+,Javier Sequeyra,Right Midfield,"Jun 23, 1995 ",28,['Argentina'],Argentina,Berisso,,"1,73",-
+,Tomás Asprea,Right Midfield,"Feb 28, 1995 ",29,['Argentina'],Argentina,Lanús,,"1,80",€75k
+,Nicolás Straccia,Right Midfield,"Sep 4, 1995 ",28,"['Argentina', 'Italy']",Argentina,Rosario,LM   AM,"1,75",-
+,Alexis González,Right Midfield,"Apr 22, 1995 ",28,['Argentina'],Argentina,Rosario,LM,"1,71",-
+,Nahuel Losada,Right Midfield,"Feb 24, 1995 ",29,['Argentina'],Argentina,Mar del Plata,RW,,-
+18,Renzo Tesuri,Right Midfield,"Jun 7, 1996 ",27,['Argentina'],Argentina,Gualeguaychú (Entre Ríos),RW   LW,"1,65",€600k
+,Brian Guerra,Right Midfield,"Feb 8, 1996 ",28,['Argentina'],Argentina,Santa Isabel,AM   LM,"1,77",€150k
+,Franco Lebeau,Right Midfield,"Nov 26, 1996 ",27,"['Argentina', 'Italy']",Argentina,Córdoba,RW   LM,"1,72",-
+,Cristian Carrizo,Right Midfield,"May 22, 1996 ",27,['Argentina'],Argentina,Córdoba,RW   RB,,-
+,Hernán Tifner,Right Midfield,"Sep 20, 1996 ",27,['Argentina'],Argentina,Córdoba,CM,"1,75",-
+,Lucas Cuevas,Right Midfield,"Nov 9, 1996 ",27,['Argentina'],Argentina,,,"1,75",-
+,Nicolás Talpone,Right Midfield,"Apr 9, 1996 ",27,['Argentina'],Argentina,La Plata,AM   CM,"1,65",€275k
+,Lautaro Soto,Right Midfield,"Jul 30, 1996 ",27,['Argentina'],Argentina,,RW   SS,"1,84",€75k
+,Gustavo Caimer,Right Midfield,"Oct 19, 1996 ",27,['Argentina'],Argentina,,,"1,73",-
+,Gonzalo Jaque,Right Midfield,"Dec 5, 1996 ",27,['Argentina'],Argentina,José C. Paz (BUE),RB   RW,"1,72",-
+,Lucas Jofré,Right Midfield,"May 31, 1996 ",27,['Argentina'],Argentina,San Juan,,"1,73",-
+,Santiago López García,Right Midfield,"Dec 4, 1997 ",26,['Argentina'],Argentina,Mendoza,CM   RB,"1,80",€500k
+,Andrés Lioi,Right Midfield,"Mar 7, 1997 ",27,['Argentina'],Argentina,Rosario,RW,"1,75",€200k
+,Elías Contreras,Right Midfield,"Mar 7, 1997 ",27,['Argentina'],Argentina,Santa Fe,RW,"1,83",€150k
+,Nicolás Sánchez,Right Midfield,"May 27, 1997 ",26,['Argentina'],Argentina,Beccar,,"1,68",€25k
+,Gastón Ortiz,Right Midfield,"Mar 11, 1997 ",27,['Argentina'],Argentina,,LM   RW,"1,77",-
+,Luis Ramos,Right Midfield,"Sep 13, 1997 ",26,['Argentina'],Argentina,,RW,"1,80",-
+5,Marcos Rosetti,Right Midfield,"Aug 3, 1997 ",26,['Argentina'],Argentina,Buenos Aires,RW,"1,67",-
+,Axel Abad,Right Midfield,"Jul 11, 1997 ",26,['Argentina'],Argentina,,CM   LM,,-
+20,Brahian Cuello,Right Midfield,"Sep 30, 1997 ",26,['Argentina'],Argentina,Merlo,LM   CM,"1,70",€325k
+,Federico Murillo,Right Midfield,"Jan 4, 1997 ",27,['Argentina'],Argentina,Buenos Aires,LM,"1,78",€175k
+,Gastón Mansilla,Right Midfield,"May 30, 1997 ",26,['Argentina'],Argentina,Buenos Aires,,"1,87",€25k
+,Milton Gerez,Right Midfield,"Dec 26, 1997 ",26,['Argentina'],Argentina,Santiago del Estero,,"1,78",-
+,Matías Iglesias,Right Midfield,"May 8, 1997 ",26,['Argentina'],Argentina,Salta,,"1,69",-
+,Ariel Vega,Right Midfield,"Aug 5, 1997 ",26,['Argentina'],Argentina,,,"1,74",-
+,Leandro Ramírez,Right Midfield,"May 27, 1997 ",26,"['Argentina', 'Spain']",Argentina,Mar del Plata,RW   LM,"1,89",-
+,Maximiliano Meza,Right Midfield,"Jun 13, 1997 ",26,['Argentina'],Argentina,,,,-
+33,Facundo Mater,Right Midfield,"Jul 23, 1998 ",25,['Argentina'],Argentina,Haedo,RB   CM,"1,66",€1.80m
+,Mateo Montenegro,Right Midfield,"Aug 28, 1998 ",25,['Argentina'],Argentina,Santiago del Estero,RB   CM,"1,81",€150k
+,Juan Barrera,Right Midfield,"Dec 5, 1998 ",25,['Argentina'],Argentina,Córdoba,RB,"1,70",€25k
+,Sebastian Callipo,Right Midfield,"Feb 7, 1998 ",26,['Argentina'],Argentina,,RW   RB,"1,67",-
+,Joaquín Malinauskas,Right Midfield,"Aug 6, 1998 ",25,['Argentina'],Argentina,,,"1,85",-
+,Ismael Zapata,Right Midfield,"Jan 7, 1998 ",26,['Argentina'],Argentina,,,"1,74",-
+,Franco Constantino,Right Midfield,"Jun 18, 1998 ",25,"['Argentina', 'Italy']",Argentina,Buenos Aires,LM   CM,"1,72",-
+,Nicolás Giovagnoli,Right Midfield,"May 15, 1998 ",25,"['Argentina', 'Italy']",Argentina,,,,-
+8,Enzo Gaggi,Right Midfield,"Jan 14, 1998 ",26,['Argentina'],Argentina,Rafaela,RW   AM,"1,74",€275k
+,Tomás González,Right Midfield,"Nov 1, 1998 ",25,['Argentina'],Argentina,Lincoln,,"1,68",€25k
+40,Lucas López,Right Midfield,"Apr 28, 1998 ",25,['Argentina'],Argentina,Lomas del Mirador,,"1,79",€25k
+,Manuel Vargas,Right Midfield,"Feb 15, 1998 ",26,['Argentina'],Argentina,Arroyito (CBA),,"1,65",-
+,Alex Aguirre,Right Midfield,"May 11, 1998 ",25,['Argentina'],Argentina,,,"1,75",-
+,Gonzalo Gómez,Right Midfield,"Feb 23, 1998 ",26,['Argentina'],Argentina,Rosario,RB,,-
+,Braian Volpini,Right Midfield,"Jun 16, 1998 ",25,"['Argentina', 'Italy']",Argentina,Buenos Aires,DM,,-
+,Enzo Arreguín,Right Midfield,"Jun 29, 1999 ",24,['Argentina'],Argentina,Ezeiza,,"1,90",€125k
+,Julian Leonori,Right Midfield,"Jun 8, 1999 ",24,['Argentina'],Argentina,Córdoba,,"1,71",-
+,Rodrigo Pascuccio,Right Midfield,"Sep 24, 1999 ",24,['Argentina'],Argentina,,,"1,76",-
+2,Manuel Páez,Right Midfield,"Aug 29, 1999 ",24,"['Argentina', 'Italy']",Argentina,Godoy Cruz,RW,"1,71",-
+,Joaquín Cepeda,Right Midfield,"Apr 24, 1999 ",24,['Argentina'],Argentina,Florencio Varela,RW   AM,"1,70",-
+,Lucas Verón,Right Midfield,"Oct 21, 1999 ",24,['Argentina'],Argentina,,LM   CM,"1,74",-
+,Franco Bustamante,Right Midfield,"Mar 15, 1999 ",25,['Argentina'],Argentina,Garín,RW,"1,67",-
+,Alejo Dramisino,Right Midfield,"Apr 19, 2000 ",23,['Argentina'],Argentina,Buenos Aires,RB   CM,"1,73",€375k
+,Valentín Barbero,Right Midfield,"Jul 13, 2000 ",23,['Argentina'],Argentina,La Carlota,RW,"1,84",€100k
+,José María Aguirre,Right Midfield,"May 6, 2000 ",23,['Argentina'],Argentina,Rafael Castillo,CM   LM,"1,72",-
+,Elián Cáceres,Right Midfield,"Nov 18, 2000 ",23,['Argentina'],Argentina,,AM,,-
+,Tomás Alegre,Right Midfield,"Feb 25, 2000 ",24,['Argentina'],Argentina,Buenos Aires,,,-
+,Ivo Di Buo,Right Midfield,"Aug 1, 2000 ",23,"['Argentina', 'Italy']",Argentina,,LM,"1,76",-
+,Lautaro Grosso,Right Midfield,"Feb 21, 2000 ",24,['Argentina'],Argentina,Mendoza,RW,"1,70",-
+,Lucas Vallejo,Right Midfield,"Jun 28, 2000 ",23,['Argentina'],Argentina,Tandil,RB,"1,77",-
+,Facundo Fernández,Right Midfield,"Feb 14, 2000 ",24,['Argentina'],Argentina,San Justo,LM,"1,73",-
+,Ramiro Balbuena,Right Midfield,"Feb 28, 2000 ",24,['Argentina'],Argentina,Puerto Iguazú,,"1,76",€100k
+,Lauro Gamba,Right Midfield,"Feb 6, 2000 ",24,['Argentina'],Argentina,"San Fernando, Buenos Aires",RB,"1,81",-
+,Federico Carcamo,Right Midfield,"May 19, 2000 ",23,['Argentina'],Argentina,Rawson (CHU),,,-
+,Luciano Campusano,Right Midfield,"Feb 25, 2000 ",24,['Argentina'],Argentina,Buenos Aires,,"1,77",-
+,Alejandro Aquino,Right Midfield,"Apr 18, 2000 ",23,['Argentina'],Argentina,,,"1,79",-
+,Franco Sarco,Right Midfield,"Nov 20, 2000 ",23,['Argentina'],Argentina,Rosario,RW,"1,75",-
+,Julián Ford,Right Midfield,"Jan 27, 2000 ",24,['Argentina'],Argentina,Luján (BUE),,"1,74",-
+,Facundo Miguel,Right Midfield,"Mar 30, 2000 ",23,['Argentina'],Argentina,,RW,,-
+,Adrián Fernández,Right Midfield,"May 20, 2001 ",22,['Argentina'],Argentina,Avellaneda,,"1,83",€250k
+,José Escurra,Right Midfield,"May 17, 2001 ",22,['Argentina'],Argentina,Misiones,AM,"1,72",€100k
+,Tomás Adoryán,Right Midfield,"Sep 22, 2001 ",22,"['Argentina', 'Armenia']",Argentina,San Pedro,RW,"1,77",€50k
+,Iván Gorosito,Right Midfield,"Jul 4, 2001 ",22,['Argentina'],Argentina,,,,€50k
+,Matías Gutierrez,Right Midfield,"Oct 12, 2001 ",22,['Argentina'],Argentina,,RW,"1,65",-
+,Facundo Mateo,Right Midfield,"Feb 13, 2001 ",23,['Argentina'],Argentina,Salta,,"1,72",-
+,Carlos Rothermel,Right Midfield,"Jan 29, 2001 ",23,['Argentina'],Argentina,"Irazusta, Entre Ríos",CM,,-
+,Iván Tello,Right Midfield,"Aug 1, 2001 ",22,['Argentina'],Argentina,,,,-
+,Rodrigo Godoy,Right Midfield,"Feb 8, 2001 ",23,['Argentina'],Argentina,,,"1,80",-
+10,Gustavo Machado,Right Midfield,"Jun 23, 2001 ",22,['Uruguay'],Argentina,Lanús,CM   RW,"1,75",€175k
+26,Tomás Castro Ponce,Right Midfield,"Mar 3, 2001 ",23,['Argentina'],Argentina,Concarán,,"1,86",€100k
+,Tobías Fernández,Right Midfield,"Mar 15, 2001 ",23,['Argentina'],Argentina,Buenos Aires,,"1,80",€50k
+,Lucas Naranjo,Right Midfield,"Nov 21, 2001 ",22,['Argentina'],Argentina,Banda del Río Salí,RW,"1,86",€25k
+,Matías Moravec,Right Midfield,"Apr 12, 2001 ",22,['Argentina'],Argentina,Ingeniero Maschwitz,,"1,75",-
+,Alejo Ceccherini,Right Midfield,"Nov 13, 2001 ",22,['Argentina'],Argentina,Zarate,,"1,75",-
+,Jorge Olmos,Right Midfield,"Oct 5, 2001 ",22,['Argentina'],Argentina,,,,-
+,Exequiel Mendez,Right Midfield,"Jan 1, 2001 ",23,['Argentina'],Argentina,,,"1,75",-
+,Boris Magnago,Right Midfield,"Feb 5, 2001 ",23,['Argentina'],Argentina,,RB,"1,73",-
+31,Santiago Simón,Right Midfield,"Jun 13, 2002 ",21,['Argentina'],Argentina,José Carlos Paz,RW   RB,"1,81",€4.50m
+,Santiago Luján,Right Midfield,"Jan 23, 2002 ",22,['Argentina'],Argentina,Merlo,AM   CM,"1,73",€100k
+,Valentín Pereyra,Right Midfield,"Apr 18, 2002 ",21,['Argentina'],Argentina,Paraná,RW   LM,"1,67",€50k
+,Alexis Steimbach,Right Midfield,"Jul 25, 2002 ",21,"['Argentina', 'Germany']",Argentina,Coronel Suárez,RW   RB,"1,75",€250k
+,Leonardo Monje,Right Midfield,"Mar 26, 2002 ",21,['Argentina'],Argentina,Córdoba,CM,"1,75",€100k
+,Misael Sosa,Right Midfield,"Jan 28, 2002 ",22,['Argentina'],Argentina,San Luis,RW,"1,70",€25k
+28,Joaquín Gho,Right Midfield,"May 14, 2003 ",20,['Argentina'],Argentina,Lincoln,RW,"1,76",€700k
+,Santiago Magnotta,Right Midfield,"Jul 4, 2003 ",20,['Argentina'],Argentina,Lomas de Zamora,RW   LM,"1,86",-
+,Ramiro Martínez,Right Midfield,"Sep 27, 2003 ",20,['Argentina'],Argentina,Concordia,RW   AM,"1,80",-
+,Augusto Picco,Right Midfield,"Aug 27, 2003 ",20,['Argentina'],Argentina,Arroyito,,"1,75",€10k
+,Edwin Santilli,Right Midfield,"Nov 1, 2003 ",20,['Argentina'],Argentina,Trelew,,,-
+30,Román Rodríguez,Right Midfield,"Sep 15, 2003 ",20,"['Argentina', 'Italy']",Argentina,Pilar,CM   LM,"1,80",-
+37,Elías Ocampo,Right Midfield,"Feb 26, 2004 ",20,['Argentina'],Argentina,Pérez,RW   RB,"1,67",€350k
+35,Santiago Salle,Right Midfield,"Jun 4, 2004 ",19,['Argentina'],Argentina,Olavarria,RB,"1,85",€75k
+,Juan Cruz Cerrudo,Right Midfield,"Jan 20, 2004 ",20,['Argentina'],Argentina,San Genaro (SF),LM,"1,68",€100k
+,Lautaro Millán,Right Midfield,"Aug 16, 2005 ",18,['Argentina'],Argentina,Bahía Blanca,CM   AM,"1,69",-
