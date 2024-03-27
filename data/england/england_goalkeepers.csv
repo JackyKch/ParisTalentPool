@@ -1,0 +1,953 @@
+Number,Name,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Height,Market Value
+33,Scott Carson,Goalkeeper,"Sep 3, 1985 ",38,['England'],England,Whitehaven,"1,88",€200k
+,Luke McShane,Goalkeeper,"Nov 6, 1985 ",38,['England'],England,Peterborough,"1,85",-
+,Jacob Giles,Goalkeeper,"Oct 12, 1985 ",38,['England'],England,Huddersfield,,-
+,Greg Smith,Goalkeeper,"May 30, 1985 ",38,['England'],England,Stoke-on-Trent,,-
+,Tim Deasy,Goalkeeper,"Oct 1, 1985 ",38,['England'],England,Salford,"1,85",-
+,Craig Summersgill,Goalkeeper,"Oct 2, 1985 ",38,['England'],England,Hexham,"1,91",-
+,James Spencer,Goalkeeper,"Apr 11, 1985 ",38,['England'],England,Stockport,"1,96",-
+1,Chris Neal,Goalkeeper,"Oct 23, 1985 ",38,['England'],England,St. Albans,,-
+21,Steven Drench,Goalkeeper,"Sep 11, 1985 ",38,['England'],England,Manchester,"1,85",-
+,Dean Brill,Goalkeeper,"Dec 2, 1985 ",38,['England'],England,Luton,"1,88",-
+,Michael Poke,Goalkeeper,"Nov 21, 1985 ",38,['England'],England,Staines-upon-Thames,"1,85",-
+,James Debbage,Goalkeeper,"Jul 27, 1985 ",38,['England'],England,Cramlington,"1,90",-
+,Lance Cronin,Goalkeeper,"Sep 11, 1985 ",38,['England'],England,Brighton,"1,80",-
+,Andy Jeffery,Goalkeeper,"Oct 15, 1985 ",38,['England'],England,,,-
+,Ashley Timms,Goalkeeper,"Nov 6, 1985 ",38,['England'],England,Manchester,,-
+,Ryan Harrison,Goalkeeper,"Dec 6, 1985 ",38,['England'],England,Northampton,"1,90",-
+,James Coates,Goalkeeper,"Feb 22, 1985 ",39,"['Wales', 'England']",England,Mansfield,,-
+,Dean Coleman,Goalkeeper,"Sep 18, 1985 ",38,['England'],England,Dudley,"1,85",-
+13,David Stockdale,Goalkeeper,"Sep 20, 1985 ",38,['England'],England,Leeds,"1,90",-
+,Andrew Hogg,Goalkeeper,"Mar 2, 1985 ",39,"['Malta', 'England']",England,Kingston upon Thames,"1,83",-
+,Dean Gerken,Goalkeeper,"May 22, 1985 ",38,['England'],England,Rochford,"1,83",-
+,Jake Cole,Goalkeeper,"Sep 11, 1985 ",38,['England'],England,London,"1,88",-
+,Ross Turnbull,Goalkeeper,"Jan 4, 1985 ",39,['England'],England,Bishop Auckland,"1,93",-
+,Scott Brown,Goalkeeper,"Apr 26, 1985 ",38,['England'],England,Wolverhampton,"1,84",-
+,Stuart Tomlinson,Goalkeeper,"May 22, 1985 ",38,['England'],England,Chester,"1,85",-
+,Adam Ogden,Goalkeeper,"Dec 30, 1985 ",38,['England'],England,Rotherham,"1,89",-
+22,Tom Heaton,Goalkeeper,"Apr 15, 1986 ",37,['England'],England,Chester,"1,88",€250k
+1,Adam Legzdins,Goalkeeper,"Nov 28, 1986 ",37,"['England', 'Latvia']",England,Penkridge,"1,90",€100k
+13,Scott Flinders,Goalkeeper,"Jun 12, 1986 ",37,['England'],England,Rotherham,"1,93",€50k
+,Tom Fawdry,Goalkeeper,"Aug 26, 1986 ",37,['England'],England,Horley,,-
+,Aaran Taylor,Goalkeeper,"Nov 20, 1986 ",37,['England'],England,Carlisle,,-
+,Dan Haystead,Goalkeeper,"Feb 13, 1986 ",38,['England'],England,Chesterfield,"1,85",-
+,Simon Overland,Goalkeeper,"Apr 7, 1986 ",37,['England'],England,Havering,"1,93",-
+,Danny Knowles,Goalkeeper,"Jan 7, 1986 ",38,['England'],England,Sidcup,"1,83",-
+,Syed Adney,Goalkeeper,"Nov 29, 1986 ",37,"['Malaysia', 'England']",England,Liverpool,"1,92",-
+,Jamie Waite,Goalkeeper,"Feb 20, 1986 ",38,"['Thailand', 'England']",England,Plymouth,"1,83",-
+,Adam Bartlett,Goalkeeper,"Feb 26, 1986 ",38,['England'],England,Newcastle upon Tyne,"1,82",-
+,Dale Roberts,Goalkeeper,"Oct 22, 1986","Oct 22, 1986",['England'],England,Horden,"1,91",-
+,Joe Anyon,Goalkeeper,"Dec 29, 1986 ",37,['England'],England,Lytham St Annes,"1,87",-
+21,John Ruddy,Goalkeeper,"Oct 24, 1986 ",37,['England'],England,St Ives,"1,92",€250k
+21,Mark Howard,Goalkeeper,"Sep 21, 1986 ",37,['England'],England,Southwark,"1,83",€75k
+,Rory Grand,Goalkeeper,"Mar 15, 1986 ",38,['England'],England,Solihull,,-
+,Scott Chalmers-Stevens,Goalkeeper,"Jun 14, 1986 ",37,['England'],England,Maidstone,,-
+,Matt Bulman,Goalkeeper,"Oct 14, 1986 ",37,['England'],England,Bristol,"1,83",-
+,Matt Jones,Goalkeeper,"May 11, 1986 ",37,['England'],England,Stoke-on-Trent,"1,90",-
+,Martin Rice,Goalkeeper,"Mar 7, 1986 ",38,['England'],England,Exeter,"1,75",-
+,Sam Ashton,Goalkeeper,"Oct 9, 1986 ",37,['England'],England,Bolton,"1,91",-
+,Phil Palethorpe,Goalkeeper,"Sep 17, 1986 ",37,['England'],England,Wallasey,"1,83",-
+,Tommy Forecast,Goalkeeper,"Oct 15, 1986 ",37,['England'],England,London,"1,98",-
+,Tommy Lee,Goalkeeper,"Jan 3, 1986 ",38,['England'],England,Keighley,"1,88",-
+,Ben Smith,Goalkeeper,"Sep 5, 1986 ",37,['England'],England,Whitley Bay,"1,86",-
+,Martin Horsell,Goalkeeper,"Dec 10, 1986 ",37,['England'],England,Paignton,"1,83",-
+,Darren Behcet,Goalkeeper,"Oct 8, 1986 ",37,['England'],England,London,"1,83",-
+,Chris Howarth,Goalkeeper,"May 23, 1986 ",37,['England'],England,Bolton,"1,86",-
+,Orkan Avci,Goalkeeper,"May 8, 1986 ",37,"['Türkiye', 'England']",England,Leicester,N/A,-
+,Carl Ikeme,Goalkeeper,"Jun 8, 1986 ",37,"['Nigeria', 'England']",England,Sutton Coldfield,"1,88",-
+1,Paul Jones,Goalkeeper,"Jun 28, 1986 ",37,['England'],England,Snodland,"1,90",-
+,Lee Robinson,Goalkeeper,"Jul 2, 1986 ",37,['England'],England,Sunderland,"1,80",-
+37,Rob Elliot,Goalkeeper,"Apr 30, 1986 ",37,"['Ireland', 'England']",England,London,"1,90",-
+,Michael Jordan,Goalkeeper,"Apr 7, 1986 ",37,['England'],England,Cheshunt,"1,88",-
+1,Chris Wright,Goalkeeper,"Sep 27, 1986 ",37,['England'],England,Colchester,"1,84",-
+25,David Martin,Goalkeeper,"Jan 22, 1986 ",38,['England'],England,London,"1,88",-
+1,Joe Hart,Goalkeeper,"Apr 19, 1987 ",36,['England'],England,Shrewsbury,"1,96",€1.00m
+26,Ben Hamer,Goalkeeper,"Nov 20, 1987 ",36,['England'],England,Taunton,"1,93",€200k
+,Marcus Garnham,Goalkeeper,"Dec 1, 1987 ",36,['England'],England,London,"1,82",-
+,Tom Nicholson,Goalkeeper,"Oct 8, 1987 ",36,['England'],England,Kingston upon Hull,"1,91",-
+,Ryan Brookfield,Goalkeeper,"May 10, 1987 ",36,['England'],England,Liverpool,,-
+,Ashlee Jones,Goalkeeper,"Aug 4, 1987 ",36,['England'],England,Rushden,"1,85",-
+,Richard Martin,Goalkeeper,"Sep 1, 1987 ",36,['England'],England,Chelmsford,"1,88",-
+,Scott Davies,Goalkeeper,"Feb 27, 1987 ",37,['England'],England,Thornton-Clevelays,"1,83",-
+,Dan Barker,Goalkeeper,"Jan 30, 1987 ",37,"['British Virgin Islands', 'England']",England,Oxford,"1,85",-
+,Clark Masters,Goalkeeper,"May 31, 1987 ",36,['England'],England,Hastings,"1,91",-
+,Lewis Edge,Goalkeeper,"Jan 12, 1987 ",37,['England'],England,Lancaster,,-
+,Mark Wilberforce,Goalkeeper,"Jan 30, 1987 ",37,['England'],England,Kingston upon Hull,"1,78",-
+1,Mark Cousins,Goalkeeper,"Jan 9, 1987 ",37,['England'],England,Chelmsford,"1,85",-
+,Joe Lewis,Goalkeeper,"Oct 6, 1987 ",36,['England'],England,Broome,"1,98",€300k
+12,Josh Lillis,Goalkeeper,"Jun 24, 1987 ",36,['England'],England,Derby,"1,83",€50k
+,Toby Spain,Goalkeeper,"Jul 5, 1987 ",36,['England'],England,Kingston Upon Thames,,-
+,Karl Wills,Goalkeeper,"Aug 31, 1987 ",36,['England'],England,Warrington,"1,88",-
+,Aaron Howe,Goalkeeper,"Oct 5, 1987 ",36,['England'],England,London,"1,82",-
+,Ian Deakin,Goalkeeper,"Feb 5, 1987 ",37,['England'],England,Birmingham,"1,83",-
+13,Michael Jones,Goalkeeper,"Dec 3, 1987 ",36,['England'],England,Liverpool,"1,93",-
+,Curtis Aspden,Goalkeeper,"Nov 16, 1987 ",36,['England'],England,Blackburn,"1,85",-
+,Chris Dunn,Goalkeeper,"Oct 23, 1987 ",36,['England'],England,Brentwood,"1,98",-
+,Will Puddy,Goalkeeper,"Oct 4, 1987 ",36,"['England', 'Netherlands']",England,Warminster,"1,86",-
+,Jack Norton,Goalkeeper,"Mar 27, 1987 ",37,['England'],England,Middlesbrough,,-
+,James Russell,Goalkeeper,"Sep 19, 1987 ",36,"['England', 'Ireland']",England,Welwyn Garden City,,-
+,David Knight,Goalkeeper,"Jan 15, 1987 ",37,['England'],England,Houghton-le-Spring,"1,85",-
+,Paul Lancaster,Goalkeeper,"Apr 29, 1987 ",36,['England'],England,Preston,,-
+,Ben Alnwick,Goalkeeper,"Jan 1, 1987 ",37,['England'],England,Prudhoe,"1,83",-
+20,Fraser Forster,Goalkeeper,"Mar 17, 1988 ",36,['England'],England,Hexham,"2,01",€1.20m
+1,Ben Hinchliffe,Goalkeeper,"Oct 9, 1988 ",35,['England'],England,Preston,"1,85",€100k
+1,Richard O'Donnell,Goalkeeper,"Sep 12, 1988 ",35,['England'],England,Sheffield,"1,88",€75k
+13,Scott Loach,Goalkeeper,"May 27, 1988 ",35,['England'],England,Nottingham,"1,85",€50k
+,Jason Alexander,Goalkeeper,"Aug 22, 1988 ",35,['England'],England,Chesterfield,"2,01",-
+,Tony Breeden,Goalkeeper,"Jan 31, 1988 ",36,['England'],England,Birmingham,"1,78",-
+,Andy Rafferty,Goalkeeper,"May 27, 1988 ",35,['England'],England,Sidcup,"1,98",-
+,Chris Lewington,Goalkeeper,"Aug 23, 1988 ",35,['England'],England,London,"1,88",-
+,Sam Mott,Goalkeeper,"Aug 1, 1988 ",35,['England'],England,Gravesend,"1,86",-
+,Nick Liversedge,Goalkeeper,"Jul 18, 1988 ",35,['England'],England,Kingston upon Hull,"1,96",-
+,Corrin Brooks-Meade,Goalkeeper,"Mar 19, 1988 ",36,"['Montserrat', 'England']",England,London,"1,88",-
+,Martin Fearon,Goalkeeper,"Oct 30, 1988 ",35,"['England', 'Northern Ireland']",England,Blackburn,"1,80",-
+,Lee Butcher,Goalkeeper,"Oct 11, 1988 ",35,['England'],England,London,"1,85",-
+34,Frank Fielding,Goalkeeper,"Apr 4, 1988 ",35,['England'],England,Blackburn,"1,85",€200k
+1,Luke Daniels,Goalkeeper,"Jan 5, 1988 ",36,['England'],England,Bolton,"1,95",€100k
+1,Sam Slocombe,Goalkeeper,"Jun 5, 1988 ",35,['England'],England,Scunthorpe,"1,83",€50k
+,Stephen Hollyoak,Goalkeeper,"Nov 1, 1988 ",35,['England'],England,Ormskirk,,-
+,Sam Beasant,Goalkeeper,"Apr 8, 1988 ",35,['England'],England,Denham,"1,96",-
+,Dan Lowson,Goalkeeper,"Feb 4, 1988 ",36,['England'],England,Whitley Bay,"1,87",-
+,Dave Roberts,Goalkeeper,"Dec 10, 1988 ",35,['England'],England,Birkenhead,"1,83",-
+,Jonathan Hedge,Goalkeeper,"Jul 19, 1988 ",35,['England'],England,Rotherham,"1,88",-
+,Cameron Belford,Goalkeeper,"Oct 16, 1988 ",35,['England'],England,Nuneaton,"1,81",-
+,Mark Cook,Goalkeeper,"Sep 7, 1988 ",35,['England'],England,North Shields,"1,78",-
+,Chris Winterton,Goalkeeper,"Nov 18, 1988 ",35,['England'],England,Eastbourne,"1,88",-
+,John Sullivan,Goalkeeper,"Mar 8, 1988 ",36,['England'],England,Sompting,"1,88",-
+,Jamie Annerson,Goalkeeper,"Jun 21, 1988 ",35,['England'],England,Sheffield,"1,88",-
+,Paddy Gamble,Goalkeeper,"Sep 1, 1988 ",35,['England'],England,Nottingham,"1,93",-
+,Zak Jones,Goalkeeper,"Nov 24, 1988 ",35,['England'],England,Darwen,"1,80",-
+,Rikki Banks,Goalkeeper,"May 13, 1988 ",35,['England'],England,Brighton,"1,93",-
+,Jonathan Lund,Goalkeeper,"Nov 1, 1988 ",35,['England'],England,Leeds,"1,85",-
+,Joe Welch,Goalkeeper,"Nov 29, 1988 ",35,['England'],England,Welwyn Garden City,"1,90",-
+1,Alex McCarthy,Goalkeeper,"Dec 3, 1989 ",34,['England'],England,Guildford,"1,93",€500k
+32,Jamie Jones,Goalkeeper,"Feb 18, 1989 ",35,['England'],England,Kirkby,"1,91",€150k
+1,Rob Lainton,Goalkeeper,"Oct 12, 1989 ",34,['England'],England,Ashton-under-Lyme,"1,85",€75k
+25,Steve Arnold,Goalkeeper,"Aug 22, 1989 ",34,['England'],England,Welham Green,"1,85",€75k
+,Ash Malhotra,Goalkeeper,"Nov 22, 1989 ",34,"['England', 'India']",England,Hillingdon,"1,94",-
+,James Beasant,Goalkeeper,"Mar 16, 1989 ",35,['England'],England,London,"1,89",-
+,Ross Kitteridge,Goalkeeper,"Dec 26, 1989 ",34,['England'],England,Bath,,-
+21,Matthew Upton,Goalkeeper,"Mar 18, 1989 ",35,"['New Zealand', 'England']",England,Basingstoke,"1,94",-
+,Shane McWeeney,Goalkeeper,"Oct 14, 1989 ",34,['England'],England,Cricklewood,"1,83",-
+1,Laurie Walker,Goalkeeper,"Oct 14, 1989 ",34,['England'],England,Bedford,,-
+,Josh Mimms,Goalkeeper,"May 5, 1989 ",34,['England'],England,Harlow,"1,88",-
+,Arron Jameson,Goalkeeper,"Nov 7, 1989 ",34,['England'],England,Sheffield,"1,90",-
+,Matt Sargeant,Goalkeeper,"Jun 21, 1989 ",34,['England'],England,Walsall,"1,94",-
+1,David Button,Goalkeeper,"Feb 27, 1989 ",35,['England'],England,Stevenage,"1,91",€175k
+1,Paul Farman,Goalkeeper,"Nov 2, 1989 ",34,['England'],England,North Tyneside,"1,96",€100k
+13,Simon Eastwood,Goalkeeper,"Jun 26, 1989 ",34,['England'],England,Luton,"1,88",€75k
+,David Blackmore,Goalkeeper,"Mar 23, 1989 ",35,['England'],England,Chelmsford,,-
+,Neill Collett,Goalkeeper,"Oct 2, 1989 ",34,['England'],England,Coventry,"1,85",-
+,Craig Vernon,Goalkeeper,"Feb 7, 1989 ",35,['England'],England,Liverpool,"1,79",-
+,Matt Armstrong-Ford,Goalkeeper,"Jul 28, 1989 ",34,['England'],England,Eastbourne,"1,98",-
+,Billy Lumley,Goalkeeper,"Dec 28, 1989 ",34,['England'],England,Loughton,"1,97",-
+,Nick Jordan,Goalkeeper,"Nov 13, 1989 ",34,['England'],England,Aldershot,,-
+,Andreas Arestidou,Goalkeeper,"Dec 6, 1989 ",34,"['England', 'Greece']",England,Morecambe,"1,88",-
+1,Ross Worner,Goalkeeper,"Oct 3, 1989 ",34,['England'],England,Hindhead,"1,85",-
+,Dave Hogan,Goalkeeper,"May 31, 1989 ",34,['England'],England,Harlow,"1,83",-
+,Callum Hawthorne,Goalkeeper,"Sep 18, 1989 ",34,['Wales'],England,Chester,,-
+,Ross Atkins,Goalkeeper,"Nov 3, 1989 ",34,['England'],England,Derby,"1,83",-
+,Carl Pentney,Goalkeeper,"Oct 29, 1989 ",34,['England'],England,Colchester,"1,83",-
+,Preston Edwards,Goalkeeper,"Sep 5, 1989 ",34,['England'],England,Cheshunt,"1,83",-
+,Jon Stewart,Goalkeeper,"Mar 13, 1989 ",35,['England'],England,London,"1,88",-
+,James McKeown,Goalkeeper,"Jul 24, 1989 ",34,"['Ireland', 'England']",England,Birmingham,"1,87",-
+,Tim Sandercombe,Goalkeeper,"Jun 17, 1989 ",34,['England'],England,London,"1,94",-
+,Mike Green,Goalkeeper,"Jul 23, 1989 ",34,['England'],England,Bristol,"1,86",-
+,Seb Brown,Goalkeeper,"Nov 24, 1989 ",34,['England'],England,London,"1,83",-
+,Andrew Plummer,Goalkeeper,"Oct 3, 1989 ",34,['England'],England,Ipswich,"1,83",-
+23,Jason Steele,Goalkeeper,"Aug 18, 1990 ",33,['England'],England,Newton Aycliffe,"1,88",€3.50m
+1,Neil Etheridge,Goalkeeper,"Feb 7, 1990 ",34,"['Philippines', 'England']",England,London,"1,88",€300k
+,Elliot Parish,Goalkeeper,"May 20, 1990 ",33,"['England', 'Wales']",England,Towcester,"1,88",€200k
+21,Joe Day,Goalkeeper,"Aug 13, 1990 ",33,['England'],England,Brighton,"1,86",€175k
+33,Gary Woods,Goalkeeper,"Oct 1, 1990 ",33,['England'],England,Kettering,"1,93",€125k
+,Jack Baker,Goalkeeper,"Apr 23, 1990 ",33,['England'],England,Liverpool,"1,91",-
+,Michael Emery,Goalkeeper,"Nov 7, 1990 ",33,['England'],England,Boston,"1,82",-
+,Aaron Chapman,Goalkeeper,"May 29, 1990 ",33,['England'],England,Rotherham,"2,03",-
+,Brentton Muhammad,Goalkeeper,"Sep 11, 1990 ",33,"['Antigua and Barbuda', 'England']",England,London,"1,85",-
+,Danny Roberts,Goalkeeper,"Mar 2, 1990 ",34,['England'],England,Stoke-on-Trent,,-
+,Paul Hunt,Goalkeeper,"Apr 6, 1990 ",33,['England'],England,Stevenage,"1,91",-
+,Thomas Flynn,Goalkeeper,"Feb 19, 1990 ",34,['England'],England,Newcastle upon Tyne,"1,85",-
+,Phil Carpenter,Goalkeeper,"Jan 15, 1990 ",34,['England'],England,Barnet,"1,80",-
+28,Karl Darlow,Goalkeeper,"Oct 8, 1990 ",33,"['England', 'Wales']",England,Northampton,"1,90",€300k
+1,Simon Moore,Goalkeeper,"May 19, 1990 ",33,['England'],England,Sandown,"1,91",€200k
+31,James Belshaw,Goalkeeper,"Oct 12, 1990 ",33,['England'],England,Nottingham,"1,91",€175k
+12,Ben Amos,Goalkeeper,"Apr 10, 1990 ",33,['England'],England,Macclesfield,"1,93",€150k
+1,Mark Oxley,Goalkeeper,"Sep 28, 1990 ",33,['England'],England,Sheffield,"1,90",€100k
+,Erbil Bozkurt,Goalkeeper,"Apr 4, 1990 ",33,"['England', 'Türkiye']",England,London,,-
+,Greg Hartley,Goalkeeper,"Mar 27, 1990 ",34,['England'],England,Failsworth,,-
+1,Elliot Justham,Goalkeeper,"Jul 18, 1990 ",33,['England'],England,London,"1,90",-
+13,Craig Ross,Goalkeeper,"Jan 29, 1990 ",34,['England'],England,Walton-on-Thames,"1,83",-
+,Jack Cudworth,Goalkeeper,"Sep 11, 1990 ",33,['England'],England,Preston,"1,83",-
+,Josh Ollerenshaw,Goalkeeper,"Oct 5, 1990 ",33,['England'],England,Manchester,"1,96",-
+1,Jas Singh,Goalkeeper,"Mar 12, 1990 ",34,"['England', 'India']",England,Birmingham,"1,88",-
+1,Mark Halstead,Goalkeeper,"Sep 17, 1990 ",33,['England'],England,Blackpool,"1,90",-
+1,Nathan Ashmore,Goalkeeper,"Feb 22, 1990 ",34,"['England', 'Jamaica']",England,Portsmouth,"1,88",-
+,Matty Edwards,Goalkeeper,"Aug 22, 1990 ",33,"['Scotland', 'England']",England,Liverpool,"1,87",-
+,Lloyd Saxton,Goalkeeper,"Apr 18, 1990 ",33,"['England', 'Sweden']",England,Alsager,"1,90",-
+,Leigh Overton,Goalkeeper,"Dec 1, 1990 ",33,['England'],England,Boston,"1,83",-
+,Conor Grant,Goalkeeper,"May 3, 1990 ",33,['England'],England,Whitehaven,"1,86",-
+,Alex Smithies,Goalkeeper,"Mar 5, 1990 ",34,['England'],England,Huddersfield,"1,89",-
+,Lloyd Anderson,Goalkeeper,"Oct 17, 1990 ",33,['England'],England,London,"1,88",-
+,Danzelle St Louis-Hamilton,Goalkeeper,"May 7, 1990 ",33,['England'],England,Stevenage,"1,90",-
+,Sam Filler,Goalkeeper,"Sep 5, 1990 ",33,['England'],England,Leeds,,-
+,Scott Pocklington,Goalkeeper,"Sep 18, 1990 ",33,['England'],England,Bishop Auckland,"1,88",-
+,Martin Hunter,Goalkeeper,"Sep 16, 1990 ",33,['England'],England,Newcastle,"1,79",-
+,Chris Martin,Goalkeeper,"Jul 21, 1990 ",33,['England'],England,Mansfield,"1,83",-
+18,Wes Foderingham,Goalkeeper,"Jan 14, 1991 ",33,['England'],England,London,"1,85",€900k
+1,James Shea,Goalkeeper,"Jun 16, 1991 ",32,"['England', 'Ireland']",England,London,,€200k
+,Jason Astbury,Goalkeeper,"Jun 4, 1991 ",32,['England'],England,Crewe,,-
+,Lamar Johnson,Goalkeeper,"Nov 4, 1991 ",32,"['St. Lucia', 'England']",England,London,"1,88",-
+,Niall Cooper,Goalkeeper,"May 22, 1991 ",32,['England'],England,Kettering,"1,81",-
+,Phil Draper,Goalkeeper,"Jul 5, 1991 ",32,"['England', 'Wales']",England,Chiswick,"1,95",-
+,Ross McMullan,Goalkeeper,"Oct 2, 1991 ",32,['Scotland'],England,Chester,,-
+,Ben Chapman,Goalkeeper,"May 3, 1991 ",32,"['British Virgin Islands', 'England']",England,Stoke-on-Trent,,-
+,Rhett Heister,Goalkeeper,"Nov 16, 1991 ",32,['England'],England,Leicester,,-
+,Max Johnson,Goalkeeper,"May 21, 1991 ",32,['England'],England,Norwich,"1,84",-
+,Ritchie Branagan,Goalkeeper,"Oct 20, 1991 ",32,"['Ireland', 'England']",England,Gravesend,"1,80",-
+,Simon Locke,Goalkeeper,"Oct 15, 1991 ",32,['England'],England,Newbury,,-
+,Lewis Graham,Goalkeeper,"May 19, 1991 ",32,['England'],England,Durham,,-
+1,Sam Walker,Goalkeeper,"Oct 2, 1991 ",32,['England'],England,Gravesend,"1,96",€200k
+,Matthew Ince,Goalkeeper,"Oct 22, 1991 ",32,['England'],England,,"1,90",-
+,Alex Street,Goalkeeper,"Jul 24, 1991 ",32,['England'],England,King's Lynn,"1,88",-
+,James Kendall,Goalkeeper,"Nov 19, 1991 ",32,['England'],England,Guildford,,-
+,Daniel Platt,Goalkeeper,"Sep 5, 1991 ",32,['England'],England,Kidderminster,"1,83",-
+,Nicholas Greaves,Goalkeeper,"Aug 20, 1991 ",32,"['Montserrat', 'England']",England,London,"1,88",-
+,Deren Ibrahim,Goalkeeper,"Mar 9, 1991 ",33,"['Gibraltar', 'England']",England,Sidcup,"1,81",-
+,Nathan McDonald,Goalkeeper,"May 16, 1991 ",32,['England'],England,Stevenage,"1,83",-
+,Hakan Duyan,Goalkeeper,"Sep 9, 1991 ",32,"['Türkiye', 'England']",England,Watford,"1,85",-
+,Jack Binks,Goalkeeper,"Sep 10, 1991 ",32,['England'],England,Darlington,,-
+,Aaron Butcher,Goalkeeper,"Mar 17, 1991 ",33,['England'],England,Whittlesey,"1,91",-
+,James Severn,Goalkeeper,"Oct 10, 1991 ",32,['England'],England,Nottingham,"1,89",-
+,Liam O'Brien,Goalkeeper,"Nov 3, 1991 ",32,['England'],England,Ruislip,"1,88",-
+,Dan Thomas,Goalkeeper,"Sep 1, 1991 ",32,['England'],England,Poole,"1,88",-
+,JJ Banasco-Zaragoza,Goalkeeper,"Sep 26, 1991 ",32,"['England', 'Spain']",England,Brighton,"1,89",-
+,Daniel Lloyd-Weston,Goalkeeper,"Aug 17, 1991 ",32,['England'],England,Manchester,"1,88",-
+,Jake Kean,Goalkeeper,"Feb 4, 1991 ",33,['England'],England,Derby,"1,93",-
+,Josh Pelling,Goalkeeper,"Apr 22, 1991 ",32,['England'],England,Greenwich,"1,82",-
+,Niki-Lee Bulmer,Goalkeeper,"Sep 6, 1991 ",32,"['England', 'Wales']",England,Chester,"1,85",-
+,Declan Rudd,Goalkeeper,"Jan 16, 1991 ",33,['England'],England,Diss,"1,91",-
+,Mark Scott,Goalkeeper,"Jan 3, 1991 ",33,['England'],England,Ash Vale,"1,91",-
+,Grant Shenton,Goalkeeper,"Jan 28, 1991 ",33,['England'],England,Manchester,"1,78",-
+,Mitch Walker,Goalkeeper,"Sep 24, 1991 ",32,['England'],England,St. Albans,"1,88",-
+13,Christopher Oldfield,Goalkeeper,"Jan 14, 1991 ",33,"['Ireland', 'Australia']",England,Liverpool,"1,88",-
+,Joe Collister,Goalkeeper,"Dec 15, 1991 ",32,['England'],England,Hoylake,"1,83",-
+,Jonathan North,Goalkeeper,"Feb 18, 1991 ",33,"['Wales', 'England']",England,Waltham Forest,"1,80",-
+30,Dean Lyness,Goalkeeper,"Jul 20, 1991 ",32,['England'],England,Birmingham,"1,91",-
+1,Alex Mitchell,Goalkeeper,"Mar 21, 1991 ",33,['England'],England,Carlisle,"1,86",-
+,Simon Williams,Goalkeeper,"Jun 28, 1991 ",32,"['Wales', 'England']",England,Aberdare,"1,88",-
+22,Nick Pope,Goalkeeper,"Apr 19, 1992 ",31,['England'],England,Soham,"1,98",€20.00m
+17,Ryan Allsop,Goalkeeper,"Jun 17, 1992 ",31,['England'],England,Birmingham,"1,89",€1.00m
+13,Ben Wilson,Goalkeeper,"Aug 9, 1992 ",31,['England'],England,Stanley,"1,86",€800k
+29,Mark Gillespie,Goalkeeper,"Mar 27, 1992 ",32,['England'],England,Newcastle upon Tyne,"1,91",€300k
+21,Adam Smith,Goalkeeper,"Nov 23, 1992 ",31,['England'],England,Sunderland,"1,93",€175k
+30,Adam Stevens,Goalkeeper,"May 20, 1992 ",31,"['England', 'Gibraltar']",England,Aldershot,"1,81",€50k
+,Simon Grant,Goalkeeper,"Nov 10, 1992 ",31,['England'],England,Reading,"1,92",-
+1,Jack Harding,Goalkeeper,"Jun 14, 1992 ",31,['England'],England,Portsmouth,"1,82",-
+,Alex Tokarczyk,Goalkeeper,"Mar 13, 1992 ",32,"['England', 'Poland']",England,London,"1,83",-
+,Ben Woodhead,Goalkeeper,"Oct 15, 1992 ",31,['England'],England,Burnley,,-
+,Rob Peet,Goalkeeper,"Oct 11, 1992 ",31,['England'],England,Melton Mowbray,"1,88",-
+,Matthew Crook,Goalkeeper,"Jun 12, 1992 ",31,['England'],England,Blyth,,-
+,Adam McHugh,Goalkeeper,"May 29, 1992 ",31,['England'],England,Bishop Auckland,"1,85",-
+13,Marcus Bettinelli,Goalkeeper,"May 24, 1992 ",31,"['England', 'Italy']",England,London,"1,93",€1.00m
+1,Lee Nicholls,Goalkeeper,"Oct 5, 1992 ",31,['England'],England,Liverpool,"1,91",€900k
+21,Jed Steer,Goalkeeper,"Sep 23, 1992 ",31,"['England', 'Scotland']",England,Norwich,"1,83",€400k
+1,Freddie Toomer,Goalkeeper,"Feb 19, 1992 ",32,['England'],England,New Forest,"1,80",€250k
+1,Deniz Mehmet,Goalkeeper,"Sep 19, 1992 ",31,"['Türkiye', 'England']",England,Enfield,"1,92",€125k
+,Lewis Gwilliams,Goalkeeper,"May 17, 1992 ",31,['England'],England,Longbridge,"1,97",-
+,Luke Cairney,Goalkeeper,"Feb 24, 1992 ",32,['England'],England,Blackburn,"1,84",-
+,Michael Ballantyne,Goalkeeper,"Sep 16, 1992 ",31,['England'],England,Carlisle,,-
+,Cameron Baker-Owers,Goalkeeper,"Aug 6, 1992 ",31,['England'],England,London,,-
+,Stuart Dixon,Goalkeeper,"May 19, 1992 ",31,['England'],England,Kendal,,-
+,Denham Hinds,Goalkeeper,"May 26, 1992 ",31,['England'],England,Hinckley,"1,90",-
+,Jack Dovey,Goalkeeper,"Oct 23, 1992 ",31,['England'],England,Totton,,-
+,Liam Mitchell,Goalkeeper,"Sep 18, 1992 ",31,['England'],England,Nottingham,"1,91",-
+,Louis Connor,Goalkeeper,"Jun 11, 1992 ",31,['England'],England,Bristol,,-
+1,Sam Johnson,Goalkeeper,"Dec 1, 1992 ",31,['England'],England,Newcastle-under-Lyme,"1,98",-
+,Chris Elliott,Goalkeeper,"Jul 17, 1992 ",31,['England'],England,Newcastle upon Tyne,,-
+,Dominic Comrie,Goalkeeper,"Dec 20, 1992 ",31,['England'],England,Bury,"1,80",-
+,Sean Cuff,Goalkeeper,"May 21, 1992 ",31,['England'],England,Middlesbrough,,-
+,Charlie Mann,Goalkeeper,"Sep 17, 1992 ",31,['England'],England,Harlow,"1,88",-
+,Deale Chamberlain,Goalkeeper,"Apr 10, 1992 ",31,['England'],England,Burton,"1,85",-
+1,Jack Turner,Goalkeeper,"Sep 17, 1992 ",31,['England'],England,Ashford,"1,88",-
+,Tim Cooney,Goalkeeper,"Apr 6, 1992 ",31,['England'],England,Birmingham,,-
+,Sam Cowler,Goalkeeper,"Oct 26, 1992 ",31,['England'],England,Colchester,"1,85",-
+,Michael Bertram,Goalkeeper,"Nov 13, 1992 ",31,['England'],England,Hexham,,-
+,Tom Coulton,Goalkeeper,"Nov 15, 1992 ",31,['England'],England,Hatfield,"1,83",-
+,Conor Winn,Goalkeeper,"Feb 26, 1992 ",32,['England'],England,Essex,"1,98",-
+,Nick Thompson,Goalkeeper,"Sep 21, 1992 ",31,['England'],England,Cramlington,,-
+,Ollie Chenoweth,Goalkeeper,"Feb 17, 1992 ",32,['England'],England,Liskeard,"1,85",-
+,Jordan Tebbutt,Goalkeeper,"Sep 16, 1992 ",31,['England'],England,London,,-
+,Ryan Jones,Goalkeeper,"Apr 2, 1992 ",31,['England'],England,Liverpool,"1,98",-
+1,Jack Giddens,Goalkeeper,"Feb 17, 1992 ",32,['England'],England,Dagenham,,-
+,Dave Parton,Goalkeeper,"Nov 22, 1992 ",31,['England'],England,Stoke-on-Trent,"1,85",-
+,Jamie Butler,Goalkeeper,"May 18, 1992 ",31,['England'],England,London,,-
+1,Sam Johnstone,Goalkeeper,"Mar 25, 1993 ",31,['England'],England,Preston,"1,93",€12.00m
+25,Daniel Bentley,Goalkeeper,"Jul 13, 1993 ",30,['England'],England,Basildon,"1,93",€2.00m
+,Jonathan Bond,Goalkeeper,"May 19, 1993 ",30,"['England', 'Wales']",England,Hemel Hempstead,"1,93",€800k
+12,George Long,Goalkeeper,"Nov 5, 1993 ",30,['England'],England,Sheffield,,€500k
+1,Will Norris,Goalkeeper,"Aug 12, 1993 ",30,['England'],England,Watford,"1,95",€400k
+13,Jay Lynch,Goalkeeper,"Mar 31, 1993 ",30,['England'],England,Salford,"1,88",€300k
+1,Connor Ripley,Goalkeeper,"Feb 13, 1993 ",31,['England'],England,Middlesbrough,"1,91",€250k
+1,Alex Cairns,Goalkeeper,"Jan 4, 1993 ",31,['England'],England,Doncaster,"1,83",€200k
+26,Jonny Maxted,Goalkeeper,"Oct 26, 1993 ",30,['England'],England,Tadcaster,"1,90",€125k
+,Jermaine Fordah,Goalkeeper,"Apr 17, 1993 ",30,['England'],England,London,"1,83",-
+,Calum Kitscha,Goalkeeper,"Apr 6, 1993 ",30,"['England', 'Poland']",England,London,"1,88",-
+,Dan Hatfield,Goalkeeper,"Oct 18, 1993 ",30,['England'],England,,"1,88",-
+,Jonathan Miles,Goalkeeper,"Mar 29, 1993 ",30,['England'],England,Colchester,"1,88",-
+1,Jack Butland,Goalkeeper,"Mar 10, 1993 ",31,['England'],England,Bristol,"1,96",€3.00m
+1,Matt Ingram,Goalkeeper,"Dec 18, 1993 ",30,['England'],England,High Wycombe,"1,91",€900k
+13,Jack Bonham,Goalkeeper,"Sep 14, 1993 ",30,"['Ireland', 'England']",England,Stevenage,"1,92",€500k
+21,Jak Alnwick,Goalkeeper,"Jun 17, 1993 ",30,['England'],England,Prudhoe,"1,87",€500k
+29,Lawrence Vigouroux,Goalkeeper,"Nov 19, 1993 ",30,"['Chile', 'England']",England,London,"1,94",€300k
+13,Jordan Archer,Goalkeeper,"Apr 12, 1993 ",30,"['Scotland', 'England']",England,London,"1,90",€250k
+30,Jamal Blackman,Goalkeeper,"Oct 27, 1993 ",30,"['England', 'Barbados']",England,London,"1,99",€250k
+1,Lee Burge,Goalkeeper,"Jan 9, 1993 ",31,['England'],England,Hereford,"1,90",€150k
+30,Andrew Mills,Goalkeeper,"Dec 12, 1993 ",30,['England'],England,Huyton,"1,95",€100k
+13,Will Fuller,Goalkeeper,"Jul 7, 1993 ",30,['England'],England,Ipswich,"1,88",-
+,Kyle Merson,Goalkeeper,"May 6, 1993 ",30,['England'],England,Kingston upon Thames,,-
+1,Louie Caunter,Goalkeeper,"Apr 24, 1993 ",30,"['England', 'New Zealand']",England,Milton Keynes,"1,87",-
+,Finian Farrelly,Goalkeeper,"Mar 1, 1993 ",31,['Ireland'],England,London,"1,88",-
+1,Joel Dixon,Goalkeeper,"Dec 9, 1993 ",30,['England'],England,Middlesbrough,"1,93",-
+,Dean Santangelo,Goalkeeper,"Sep 23, 1993 ",30,"['Switzerland', 'England']",England,London,"1,93",-
+,Jordan Nixon,Goalkeeper,"Nov 27, 1993 ",30,['England'],England,Middlesbrough,"1,81",-
+,James Wren,Goalkeeper,"Jun 26, 1993 ",30,['England'],England,Birmingham,"1,83",-
+,Lewis King,Goalkeeper,"May 8, 1993 ",30,['England'],England,Derby,,-
+13,Alastair Worby,Goalkeeper,"Feb 23, 1993 ",31,['England'],England,Reading,"1,90",-
+,Lewis Carey,Goalkeeper,"Jun 2, 1993 ",30,['England'],England,Tunbridge Wells,"1,83",-
+,Tom Halsall,Goalkeeper,"Sep 7, 1993 ",30,['England'],England,Sale,"1,80",-
+,Conor Gough,Goalkeeper,"Aug 9, 1993 ",30,['England'],England,Fyfield,"1,96",-
+,Sam Andrew,Goalkeeper,"Jan 7, 1993 ",31,['England'],England,Barnsley,"1,78",-
+,Brandon Hall,Goalkeeper,"Mar 27, 1993 ",31,['England'],England,London,"1,83",-
+,Daren Hawkes,Goalkeeper,"Jun 24, 1993 ",30,['England'],England,,,-
+,Elliott Tarney,Goalkeeper,"Nov 2, 1993 ",30,['England'],England,Preston,"1,83",-
+,Matt Gledhill,Goalkeeper,"Nov 12, 1993 ",30,['Ireland'],England,Doncaster,,-
+,Jordan Watson,Goalkeeper,"Oct 29, 1993 ",30,['England'],England,Blackburn,"1,85",-
+,Nick Draper,Goalkeeper,"Dec 10, 1993 ",30,['England'],England,Grimsby,,-
+,Matt Coton,Goalkeeper,"Sep 21, 1993 ",30,['England'],England,Sutton Coldfield,,-
+1,Ben Robinson,Goalkeeper,"Feb 28, 1993 ",31,['England'],England,Manchester,,-
+,Louis Bragg,Goalkeeper,"Nov 11, 1993 ",30,['England'],England,Carshalton,"1,93",-
+,Ed Baldy,Goalkeeper,"Jan 14, 1993 ",31,['England'],England,Bath,,-
+1,Grant Smith,Goalkeeper,"Nov 20, 1993 ",30,['England'],England,Reading,"1,85",-
+,Raajan Gill,Goalkeeper,"Aug 15, 1993 ",30,['England'],England,Birmingham,"1,85",-
+,Jamie Stephens,Goalkeeper,"Aug 24, 1993 ",30,['England'],England,Wotton-under-Edge,"1,88",-
+,Luke Hutchings,Goalkeeper,"Jun 20, 1993 ",30,['England'],England,Portsmouth,,-
+,Tom Lovelock,Goalkeeper,"May 14, 1993 ",30,['England'],England,Harlow,,-
+,Jake Turner,Goalkeeper,"Jan 19, 1993 ",31,['England'],England,Retford,"1,85",-
+,Jordan Clement,Goalkeeper,"Jun 12, 1993 ",30,['England'],England,Chertsey,,-
+,Andy Coughlin,Goalkeeper,"Jan 31, 1993 ",31,['England'],England,Bootle,"1,91",-
+,Yilmaz Aksoy,Goalkeeper,"Oct 13, 1993 ",30,"['England', 'Türkiye']",England,Hackney,"1,93",-
+,Lloyd Allinson,Goalkeeper,"Sep 7, 1993 ",30,['England'],England,Rothwell,"1,89",-
+,James Fitzgibbon,Goalkeeper,"Sep 22, 1993 ",30,['England'],England,Liverpool,,-
+,Danny Taberner,Goalkeeper,"Jun 17, 1993 ",30,['England'],England,Bolton,"1,88",-
+,Daniel East,Goalkeeper,"Mar 18, 1993 ",31,['England'],England,Northwich,,-
+1,Jordan Pickford,Goalkeeper,"Mar 7, 1994 ",30,['England'],England,Washington,"1,85",€22.00m
+13,Matt Macey,Goalkeeper,"Sep 9, 1994 ",29,['England'],England,Bath,"2,01",€350k
+21,Jonathan Mitchell,Goalkeeper,"Nov 24, 1994 ",29,['England'],England,Hartlepool,"1,80",€200k
+1,Nick Townsend,Goalkeeper,"Nov 1, 1994 ",29,"['Antigua and Barbuda', 'England']",England,Solihull,"1,81",€175k
+1,Stuart Moore,Goalkeeper,"Sep 8, 1994 ",29,['England'],England,Sandown,"1,87",€150k
+,Jordan Porter,Goalkeeper,"Dec 12, 1994 ",29,['England'],England,Huddersfield,,-
+,Ross Etheridge,Goalkeeper,"Sep 14, 1994 ",29,['England'],England,Chesterfield,"1,88",-
+,Matt Cafer,Goalkeeper,"Sep 27, 1994 ",29,"['Gibraltar', 'England']",England,Weymouth,"1,82",-
+,Charlie Horton,Goalkeeper,"Sep 14, 1994 ",29,"['United States', 'England']",England,London,"1,97",-
+,Andrew Withers,Goalkeeper,"Apr 19, 1994 ",29,"['New Zealand', 'England']",England,Liverpool,"1,88",-
+,Jonny Maddison,Goalkeeper,"Sep 4, 1994 ",29,['England'],England,Chester-le-Street,"1,83",-
+,Craig Hill,Goalkeeper,"Dec 12, 1994 ",29,['England'],England,Wantage,"1,85",-
+,James Montgomery,Goalkeeper,"Apr 20, 1994 ",29,['England'],England,Sunderland,"1,88",-
+31,Remi Matthews,Goalkeeper,"Feb 10, 1994 ",30,['England'],England,Gorleston,"1,92",€500k
+1,Liam Roberts,Goalkeeper,"Nov 21, 1994 ",29,['England'],England,Walsall,"1,95",€250k
+23,Samuel Somerville,Goalkeeper,"Aug 6, 1994 ",29,"['Malaysia', 'England']",England,Farnborough,"1,76",€175k
+12,Jordan Smith,Goalkeeper,"Dec 8, 1994 ",29,['England'],England,South Normanton,"1,83",€150k
+,Jake Jessup,Goalkeeper,"Jul 10, 1994 ",29,['England'],England,Norwich,"1,98",-
+1,Robert Barton,Goalkeeper,"Jul 17, 1994 ",29,['Finland'],England,Manchester,"1,87",-
+1,Joe McDonnell,Goalkeeper,"May 19, 1994 ",29,['England'],England,Basingstoke,"1,88",-
+,Denzel Gerrar,Goalkeeper,"Sep 19, 1994 ",29,['England'],England,Edmonton,"1,84",-
+,Ryan Boot,Goalkeeper,"Nov 9, 1994 ",29,['England'],England,Rocester,"1,85",-
+,Billy Granger,Goalkeeper,"Dec 3, 1994 ",29,['England'],England,Southampton,"1,88",-
+,Shane Bland,Goalkeeper,"Sep 28, 1994 ",29,['England'],England,Middlesbrough,,-
+,Tony Thompson,Goalkeeper,"Nov 4, 1994 ",29,['England'],England,Liverpool,"1,83",-
+,David Gregory,Goalkeeper,"Oct 1, 1994 ",29,['England'],England,Croydon,,-
+,Sam Baxter,Goalkeeper,"Oct 11, 1994 ",29,['England'],England,Essex,,-
+,Jordan Seabright,Goalkeeper,"May 1, 1994 ",29,['England'],England,Oakdale,"1,88",-
+,Steven James,Goalkeeper,"Dec 19, 1994 ",29,['England'],England,Southend,"1,88",-
+,Luke Simpson,Goalkeeper,"Sep 23, 1994 ",29,['England'],England,Heywood,"1,90",-
+1,Ross Fitzsimons,Goalkeeper,"May 28, 1994 ",29,['England'],England,London,"1,85",-
+,Liam Sharpe,Goalkeeper,"Nov 30, 1994 ",29,['England'],England,Tamworth,,-
+,Liam Maher,Goalkeeper,"Feb 1, 1994 ",30,['England'],England,Birmingham,,-
+21,Matt Gould,Goalkeeper,"Jan 7, 1994 ",30,"['New Zealand', 'Scotland']",England,Warwick,"1,87",-
+1,Joe Cracknell,Goalkeeper,"Jun 5, 1994 ",29,['England'],England,Kingston upon Hull,"1,83",-
+,Lewis Fielding,Goalkeeper,"Feb 8, 1994 ",30,['England'],England,Manchester,,-
+,Reice Charles-Cook,Goalkeeper,"Apr 8, 1994 ",29,"['Grenada', 'England']",England,London,"1,85",-
+,Ben Garratt,Goalkeeper,"Apr 25, 1994 ",29,['England'],England,Shrewsbury,"1,89",-
+1,Jonathan Henly,Goalkeeper,"Mar 15, 1994 ",30,"['Scotland', 'England']",England,Woking,"1,93",-
+,Mason Springthorpe,Goalkeeper,"Nov 1, 1994 ",29,['England'],England,Shrewsbury,"1,91",-
+21,Christian Dibble,Goalkeeper,"May 11, 1994 ",29,"['Wales', 'England']",England,Wilmslow,"1,90",-
+,Andy Dawber,Goalkeeper,"Nov 20, 1994 ",29,['England'],England,Wigan,"1,86",-
+,Jonathan Sutherland,Goalkeeper,"Sep 3, 1994 ",29,['England'],England,Chester,,-
+,Bradley Watkins,Goalkeeper,"Sep 11, 1994 ",29,['England'],England,Kent,"1,88",-
+,Jonathan Flatt,Goalkeeper,"Sep 12, 1994 ",29,['England'],England,Wolverhampton,"1,85",-
+,Dean Snedker,Goalkeeper,"Nov 17, 1994 ",29,['England'],England,Northampton,"1,83",-
+,Callum Tongue,Goalkeeper,"Feb 5, 1994 ",30,['England'],England,Manchester,"1,84",-
+,Leigh Bedwell,Goalkeeper,"Jan 8, 1994 ",30,['England'],England,Wantage,,-
+,Yusuf Mersin,Goalkeeper,"Sep 23, 1994 ",29,"['Türkiye', 'England']",England,London,"1,95",-
+,Ian Ormson,Goalkeeper,"May 16, 1994 ",29,['England'],England,Liverpool,"1,83",-
+,Calvin Hare,Goalkeeper,"Jul 21, 1994 ",29,['England'],England,Ormskirk,,-
+,Jake Larkins,Goalkeeper,"Jan 11, 1994 ",30,['England'],England,Barking,"1,88",-
+,Tyrell Belford,Goalkeeper,"May 6, 1994 ",29,['England'],England,Nuneaton,"1,84",-
+1,Christian Walton,Goalkeeper,"Nov 9, 1995 ",28,['England'],England,Truro,"1,95",€900k
+1,Joe Wildsmith,Goalkeeper,"Dec 28, 1995 ",28,['England'],England,Sheffield,"1,89",€500k
+1,Christy Pym,Goalkeeper,"Apr 24, 1995 ",28,"['England', 'Ireland']",England,Exeter,,€350k
+31,Josh Vickers,Goalkeeper,"Dec 1, 1995 ",28,['England'],England,Brentwood,"1,93",€300k
+40,Tom King,Goalkeeper,"Mar 9, 1995 ",29,"['Wales', 'England']",England,Plymouth,"1,94",€200k
+1,Jack Rose,Goalkeeper,"Jan 31, 1995 ",29,['England'],England,Solihull,"1,90",€150k
+29,Sam Hornby,Goalkeeper,"Feb 14, 1995 ",29,['England'],England,Birmingham,"1,93",€100k
+1,Curtis Pond,Goalkeeper,"Sep 26, 1995 ",28,['England'],England,Rugeley,"1,89",-
+,Harry Brooks,Goalkeeper,"Oct 13, 1995 ",28,"['England', 'Wales']",England,Margate,"1,86",-
+,Ashley Rawlins,Goalkeeper,"Nov 30, 1995 ",28,['England'],England,Telford,"1,94",-
+,Ryan Neild,Goalkeeper,"Sep 26, 1995 ",28,['England'],England,Warrington,,-
+,Harry Palmer,Goalkeeper,"Jun 20, 1995 ",28,['England'],England,Chelmsford,"1,84",-
+,Charlie Price,Goalkeeper,"Aug 16, 1995 ",28,['England'],England,Stourbridge,,-
+13,Joe Lumley,Goalkeeper,"Feb 15, 1995 ",29,['England'],England,Harlow,"1,90",€600k
+1,Cameron Dawson,Goalkeeper,"Jul 7, 1995 ",28,['England'],England,Sheffield,,€500k
+26,Dillon Phillips,Goalkeeper,"Jun 11, 1995 ",28,['England'],England,London,"1,88",€300k
+13,Joel Coleman,Goalkeeper,"Sep 26, 1995 ",28,['England'],England,Bolton,"1,98",€250k
+1,Luke McGee,Goalkeeper,"Sep 2, 1995 ",28,['England'],England,Edgware,"1,93",€200k
+23,Ben Killip,Goalkeeper,"Nov 24, 1995 ",28,['England'],England,London,"1,88",€125k
+1,Joseph Guy,Goalkeeper,"Sep 7, 1995 ",28,['England'],England,West Bromwich,"1,86",-
+,Melvin Minter,Goalkeeper,"Mar 7, 1995 ",29,['England'],England,London,"1,91",-
+28,Tom McHale,Goalkeeper,"Sep 8, 1995 ",28,['England'],England,Plymouth,"1,91",-
+,Max Huxter,Goalkeeper,"May 13, 1995 ",28,['England'],England,Southwark,,-
+1,Ben Dudzinski,Goalkeeper,"Aug 2, 1995 ",28,['England'],England,Kingston-upon-Thames,"1,89",-
+,Daniel Farrell,Goalkeeper,"Nov 8, 1995 ",28,['England'],England,Birmingham,,-
+,Joe Green,Goalkeeper,"Dec 16, 1995 ",28,['England'],England,Penistone,"1,96",-
+1,Antony Barron,Goalkeeper,N/A ,28,"['Germany', 'England']",England,Sheffield,,-
+,Conor O'Keefe,Goalkeeper,"Sep 26, 1995 ",28,"['England', 'Ireland']",England,Macclesfield,"1,83",-
+,Josh Hill,Goalkeeper,"Feb 27, 1995 ",29,['England'],England,Aylesbury,"1,87",-
+,Ross Durrant,Goalkeeper,"Nov 12, 1995 ",28,['England'],England,Nottingham,,-
+,Pablo Sánchez,Goalkeeper,"Oct 20, 1995 ",28,"['England', 'Spain']",England,London,"1,83",-
+1,Harvey Rivers,Goalkeeper,"Nov 24, 1995 ",28,['England'],England,Hereford,"1,84",-
+,Joe Fryer,Goalkeeper,"Nov 14, 1995 ",28,['England'],England,Chester-le-Street,"1,94",-
+,Aidan Grant,Goalkeeper,"Mar 27, 1995 ",29,['England'],England,South Shields,"1,98",-
+,James White,Goalkeeper,"Oct 9, 1995 ",28,['England'],England,Portsmouth,"1,88",-
+1,Dan Lincoln,Goalkeeper,"May 26, 1995 ",28,['England'],England,Frimley,"1,80",-
+,Charlie Burns,Goalkeeper,"May 27, 1995 ",28,['England'],England,Croydon,"1,88",-
+,Cain Davis,Goalkeeper,"May 22, 1995 ",28,['England'],England,London,,-
+,Mark Smith,Goalkeeper,"Dec 15, 1995 ",28,['England'],England,Isleworth,"1,88",-
+,Callum Preston,Goalkeeper,"Nov 7, 1995 ",28,"['Wales', 'England']",England,Stafford,"1,84",-
+,James Bransgrove,Goalkeeper,"May 12, 1995 ",28,"['Scotland', 'England']",England,Harlow,"1,95",-
+,Fraser Hobday,Goalkeeper,"Sep 26, 1995 ",28,['England'],England,Bedford,"1,81",-
+,Connor Wearing,Goalkeeper,"Jan 19, 1995 ",29,['England'],England,Liverpool,,-
+,Kyle Moore,Goalkeeper,"Oct 25, 1995 ",28,['England'],England,Plymouth,,-
+,Charlie Horlock,Goalkeeper,"Mar 23, 1995 ",29,['England'],England,London,"1,85",-
+1,Ben McFarlane-Barnes,Goalkeeper,"Apr 12, 1995 ",28,['England'],England,Hemel Hempstead,,-
+,Scott Dutton,Goalkeeper,"Oct 27, 1995 ",28,['England'],England,Wyken,,-
+,Alex Gott,Goalkeeper,"Sep 30, 1995 ",28,['Scotland'],England,Nuneaton,,-
+,Liam Priestley,Goalkeeper,"Sep 1, 1995 ",28,['England'],England,Rochford,,-
+,Ben Heath,Goalkeeper,"Aug 17, 1995 ",28,['England'],England,Northampton,"1,76",-
+,Luke Williams,Goalkeeper,"Nov 18, 1995 ",28,['England'],England,Maidstone,,-
+,Harry Campbell,Goalkeeper,"Nov 16, 1995 ",28,['England'],England,Blackburn,"1,85",-
+,Mitchell Beeney,Goalkeeper,"Oct 3, 1995 ",28,['England'],England,Leeds,"1,98",-
+,Michael Crowe,Goalkeeper,"Nov 13, 1995 ",28,"['Wales', 'Norway']",England,London,"1,88",-
+,Jim Atkinson,Goalkeeper,"Jan 6, 1995 ",29,['England'],England,Carlisle,,-
+,Ryan Crump,Goalkeeper,"Oct 2, 1995 ",28,"['Scotland', 'England']",England,Chester,,-
+,Will Britt,Goalkeeper,"Mar 22, 1995 ",29,"['Gibraltar', 'England']",England,Portsmouth,"1,88",-
+,Billy O'Brien,Goalkeeper,"Nov 21, 1995 ",28,"['Wales', 'England']",England,Bury,"1,85",-
+,Luke Coddington,Goalkeeper,"Jun 6, 1995 ",28,['England'],England,Middlesbrough,"1,82",-
+,Conor Cable,Goalkeeper,"Nov 26, 1995 ",28,['England'],England,Spalding,,-
+,Conor Thompson,Goalkeeper,"Feb 24, 1995 ",29,"['Northern Ireland', 'England']",England,Swindon,,-
+28,Angus Gunn,Goalkeeper,"Jan 22, 1996 ",28,"['Scotland', 'England']",England,Norwich,"1,96",€2.50m
+24,Alex Palmer,Goalkeeper,"Aug 10, 1996 ",27,['England'],England,Kidderminster,"1,91",€1.20m
+13,Joe Wollacott,Goalkeeper,"Sep 8, 1996 ",27,"['Ghana', 'England']",England,Bristol,"1,90",€300k
+25,Callum Burton,Goalkeeper,"Aug 15, 1996 ",27,['England'],England,Newport,"1,88",€250k
+20,Kieran O'Hara,Goalkeeper,"Apr 22, 1996 ",27,"['Ireland', 'England']",England,Manchester,"1,93",€150k
+12,Jake Eastwood,Goalkeeper,"Oct 3, 1996 ",27,['England'],England,Rotherham,"1,93",€100k
+13,Andy Firth,Goalkeeper,"Sep 26, 1996 ",27,['England'],England,Ripon,"1,83",€100k
+,Lloyd Thomas,Goalkeeper,"Jun 13, 1996 ",27,['England'],England,Portchester,"1,94",-
+,Sam Guthrie,Goalkeeper,"Apr 25, 1996 ",27,['England'],England,Whitley Bay,"1,96",-
+1,Jacob Marsden,Goalkeeper,"Oct 14, 1996 ",27,['England'],England,Great Yarmouth,"1,86",-
+,Luke O'Reilly,Goalkeeper,"May 27, 1996 ",27,['England'],England,London,"1,80",-
+,Conor Hudnott,Goalkeeper,"Sep 2, 1996 ",27,['England'],England,Surrey,,-
+,Peter Denton,Goalkeeper,"Dec 22, 1996 ",27,"['Ireland', 'England']",England,Stockton-on-Tees,"1,91",-
+1,Max O'Leary,Goalkeeper,"Oct 10, 1996 ",27,"['Ireland', 'England']",England,Bath,"1,85",€2.00m
+45,Bailey Peacock-Farrell,Goalkeeper,"Oct 29, 1996 ",27,"['Northern Ireland', 'England']",England,Darlington,"1,94",€1.00m
+21,Charlie Albinson,Goalkeeper,"Oct 15, 1996 ",27,['England'],England,Bolton,,€250k
+27,Connal Trueman,Goalkeeper,"Mar 26, 1996 ",28,['England'],England,Birmingham,"1,86",€150k
+13,Harry Burgoyne,Goalkeeper,"Dec 28, 1996 ",27,['England'],England,Ludlow,"1,93",€150k
+30,Shaun MacDonald,Goalkeeper,"Oct 20, 1996 ",27,['England'],England,Newcastle upon Tyne,"1,85",€100k
+,Sam Ramsbottom,Goalkeeper,"Apr 3, 1996 ",27,['England'],England,Greasby,"1,96",€25k
+,James Behan,Goalkeeper,"Dec 31, 1996 ",27,['England'],England,Birmingham,,-
+,Lee Howarth,Goalkeeper,"Jun 1, 1996 ",27,['England'],England,,"1,75",-
+1,Tom Hull,Goalkeeper,"Jul 11, 1996 ",27,['England'],England,Wigan,"1,93",-
+,Rory Crowther,Goalkeeper,"Dec 29, 1996 ",27,"['Wales', 'England']",England,,,-
+,Jonathan Brown,Goalkeeper,"Dec 20, 1996 ",27,['England'],England,Wolverhampton,,-
+,Lewis Moore,Goalkeeper,"Aug 28, 1996 ",27,['England'],England,Basildon,"1,80",-
+,George Deniz,Goalkeeper,"Aug 29, 1996 ",27,['Wales'],England,Shrewsbury,,-
+1,Paul Tyson,Goalkeeper,"Dec 27, 1996 ",27,['England'],England,Liverpool,"2,00",-
+,Dan Wilks,Goalkeeper,"Jun 8, 1996 ",27,['England'],England,Watford,"1,81",-
+,George Legg,Goalkeeper,"Apr 30, 1996 ",27,['England'],England,Reading,"1,98",-
+,Pat Weaver,Goalkeeper,"Jan 4, 1996 ",28,['England'],England,Kingston upon Hill,"1,83",-
+,Elliott Barker,Goalkeeper,"Sep 17, 1996 ",27,['England'],England,Harrogate,"1,82",-
+,Greg Moorhouse,Goalkeeper,"Sep 23, 1996 ",27,['England'],England,Huddersfield,,-
+,Charlie Bannister,Goalkeeper,"Nov 21, 1996 ",27,['England'],England,Birmingham,,-
+1,Dillon Barnes,Goalkeeper,"Apr 8, 1996 ",27,"['Jamaica', 'England']",England,London,"1,93",-
+,Ted Smith,Goalkeeper,"Jan 18, 1996 ",28,['England'],England,South Benfleet,"1,85",-
+,Charlie Grainger,Goalkeeper,"Jul 31, 1996 ",27,['England'],England,London,"1,87",-
+,Tom Stewart,Goalkeeper,"Apr 17, 1996 ",27,['England'],England,Bradford,"1,96",-
+35,Rory Watson,Goalkeeper,"Feb 5, 1996 ",28,['England'],England,York,"1,90",-
+,Myles Wright,Goalkeeper,"Sep 14, 1996 ",27,['England'],England,Bakewell,"1,88",-
+,Max Smith-Varnam,Goalkeeper,"Oct 22, 1996 ",27,['England'],England,Leicester,,-
+,Kieran Addison,Goalkeeper,"Jan 22, 1996 ",28,"['England', 'Wales']",England,Bristol,,-
+,Tom Hadler,Goalkeeper,"Jul 30, 1996 ",27,['England'],England,Canterbury,"1,88",-
+,Lewis Brass,Goalkeeper,"Aug 26, 1996 ",27,['England'],England,Newcastle upon Tyne,,-
+,Dylan Forth,Goalkeeper,"Nov 14, 1996 ",27,['England'],England,Manchester,,-
+,Dan Lavercombe,Goalkeeper,"Oct 21, 1996 ",27,['England'],England,Torquay,"1,91",-
+1,Cameron Mason,Goalkeeper,"Jan 21, 1996 ",28,['England'],England,Oldham,"1,86",-
+,Russell Griffiths,Goalkeeper,"Apr 13, 1996 ",27,['England'],England,Gravesend,"1,92",-
+1,Ryan Fulton,Goalkeeper,"May 23, 1996 ",27,"['Scotland', 'England']",England,Burnley,"1,91",-
+30,Dean Henderson,Goalkeeper,"Mar 12, 1997 ",27,['England'],England,Whitehaven,"1,88",€12.00m
+20,Matija Sarkic,Goalkeeper,"Jul 23, 1997 ",26,"['Montenegro', 'England']",England,Grimsby,,€1.50m
+1,Luke Southwood,Goalkeeper,"Dec 6, 1997 ",26,"['Northern Ireland', 'England']",England,Oxford,"1,85",€500k
+21,Harry Isted,Goalkeeper,"Mar 5, 1997 ",27,['England'],England,Chichester,"1,85",€300k
+1,Corey Addai,Goalkeeper,"Oct 10, 1997 ",26,"['Jamaica', 'England']",England,Hackney,"2,03",€125k
+13,Sam Howes,Goalkeeper,"Nov 10, 1997 ",26,['England'],England,London,"1,90",€75k
+,Reece Airey,Goalkeeper,"Dec 14, 1997 ",26,['England'],England,Liverpool,,-
+,Gerard Benfield,Goalkeeper,"Sep 28, 1997 ",26,['England'],England,Poole,,-
+,Josh Gould,Goalkeeper,"Mar 27, 1997 ",27,['England'],England,Taunton,"1,95",-
+,Leighton Smith,Goalkeeper,"Nov 19, 1997 ",26,['England'],England,Birmingham,"1,83",-
+,Matt Hill,Goalkeeper,"Nov 18, 1997 ",26,['England'],England,Birmingham,"1,82",-
+,Charlie Taylor,Goalkeeper,"Feb 15, 1997 ",27,"['Panama', 'England']",England,London,"1,80",-
+,Chandler Hallwood,Goalkeeper,"Aug 1, 1997 ",26,['England'],England,Halifax,"1,93",-
+1,Freddie Woodman,Goalkeeper,"Mar 4, 1997 ",27,['England'],England,London,"1,88",€3.50m
+40,Brad Collins,Goalkeeper,"Feb 18, 1997 ",27,['England'],England,Southampton,"1,84",€900k
+40,Harry Lewis,Goalkeeper,"Dec 20, 1997 ",26,['England'],England,Shrewsbury,"1,91",€350k
+1,Jack Stevens,Goalkeeper,"Aug 2, 1997 ",26,['England'],England,London,"1,88",€175k
+48,Lewis Ward,Goalkeeper,"Mar 5, 1997 ",27,['England'],England,,"1,94",€100k
+31,Sam Sargeant,Goalkeeper,"Sep 23, 1997 ",26,['England'],England,London,"1,87",€50k
+,Harry Hogg,Goalkeeper,"Jun 9, 1997 ",26,['England'],England,Peterborough,,-
+25,Jack Crichton,Goalkeeper,"Mar 23, 1997 ",27,['England'],England,Burton,,-
+,Jake Weaver,Goalkeeper,"May 8, 1997 ",26,['England'],England,Redditch,"1,88",-
+,Andrew McCorkell,Goalkeeper,"Oct 9, 1997 ",26,"['Northern Ireland', 'England']",England,London,"1,85",-
+,Montel Joseph,Goalkeeper,"Jan 22, 1997 ",27,"['Trinidad and Tobago', 'England']",England,,"1,91",-
+,Sam Donkin,Goalkeeper,"Aug 6, 1997 ",26,['England'],England,Stevenage,,-
+,Joe Boyd,Goalkeeper,"Oct 11, 1997 ",26,['England'],England,Nottingham,,-
+,Richard Walton,Goalkeeper,"Dec 1, 1997 ",26,['England'],England,Mansfield,"1,88",-
+,Ciaran O'Loughlin,Goalkeeper,"Sep 20, 1997 ",26,"['Ireland', 'England']",England,Birkenhead,,-
+,George Dorrington,Goalkeeper,"Jun 17, 1997 ",26,['England'],England,Bristol,,-
+,Dan Jezeph,Goalkeeper,"Dec 25, 1997 ",26,['England'],England,London,"1,83",-
+,Jake Hallett,Goalkeeper,"Oct 7, 1997 ",26,['England'],England,Birmingham,,-
+,Liam Gooch,Goalkeeper,"Nov 25, 1997 ",26,['England'],England,London,"1,83",-
+,Joshua Barnes,Goalkeeper,"Dec 1, 1997 ",26,['England'],England,Amington,"1,81",-
+,Kai McKenzie-Lyle,Goalkeeper,"Nov 30, 1997 ",26,"['Guyana', 'England']",England,London,"2,01",-
+,Rhys Bills,Goalkeeper,"Sep 23, 1997 ",26,['England'],England,Cannock,,-
+,Ben Jackson,Goalkeeper,"Dec 3, 1997 ",26,['England'],England,Bury,,-
+,Jordan Manley,Goalkeeper,"Dec 11, 1997 ",26,['England'],England,Chester,,-
+,Ben Smith,Goalkeeper,"Oct 30, 1997 ",26,['England'],England,Gateshead,"1,88",-
+,Ben Bridle-Card,Goalkeeper,"Feb 21, 1997 ",27,['England'],England,London,,-
+1,Chris Renshaw,Goalkeeper,"Sep 26, 1997 ",26,['England'],England,Salford,"1,90",-
+,Ollie Byrne,Goalkeeper,"Dec 31, 1997 ",26,['England'],England,Trafford,"1,88",-
+1,Chris Haigh,Goalkeeper,"Apr 5, 1997 ",26,['England'],England,Colchester,"1,86",-
+22,Rhys Lovett,Goalkeeper,"May 15, 1997 ",26,"['England', 'Antigua and Barbuda']",England,Birmingham,"1,88",-
+,Craig King,Goalkeeper,"Oct 22, 1997 ",26,['England'],England,Hemel Hempstead,,-
+,Max Bramley,Goalkeeper,"Nov 11, 1997 ",26,['England'],England,Leicester,"1,90",-
+,Dion Henry,Goalkeeper,"Sep 12, 1997 ",26,"['England', 'Jamaica']",England,Ipswich,"1,90",-
+13,Keighan Jones,Goalkeeper,"Apr 4, 1997 ",26,['Wales'],England,Chester,,-
+,Danny Boness,Goalkeeper,"Nov 7, 1997 ",26,['England'],England,Biggleswade,,-
+,Eddie Cavanagh,Goalkeeper,"Mar 30, 1997 ",26,['England'],England,Oxford,,-
+,Greg Purvis,Goalkeeper,"Oct 1, 1997 ",26,['England'],England,London,,-
+,Tom Dawson,Goalkeeper,"Sep 27, 1997 ",26,"['Scotland', 'England']",England,Stockton,"1,89",-
+,Brendan Pearson,Goalkeeper,"Feb 1, 1997 ",27,['England'],England,Newcastle,"1,92",-
+29,Ethan Ross,Goalkeeper,"Mar 6, 1997 ",27,['England'],England,London,"1,96",-
+,Ryan Huddart,Goalkeeper,"Mar 6, 1997 ",27,['England'],England,Margate,"1,96",-
+,Luke Pilling,Goalkeeper,"Jul 25, 1997 ",26,"['Wales', 'England']",England,Birkenhead,"1,80",-
+,Daniel Armstrong,Goalkeeper,"Mar 18, 1997 ",27,['England'],England,Blackburn,,-
+,Harry Voss,Goalkeeper,"Jan 11, 1997 ",27,['England'],England,Welwyn,"1,93",-
+19,Magnus Norman,Goalkeeper,"Jan 19, 1997 ",27,['England'],England,London,"1,93",-
+1,Aaron Ramsdale,Goalkeeper,"May 14, 1998 ",25,['England'],England,Chesterton,"1,90",€25.00m
+1,Andy Fisher,Goalkeeper,"Feb 12, 1998 ",26,['England'],England,Wigan,"1,89",€900k
+1,Nathan Baxter,Goalkeeper,"Nov 8, 1998 ",25,['England'],England,London,"1,93",€600k
+1,Jack Walton,Goalkeeper,"Apr 23, 1998 ",25,['England'],England,Bury,"1,84",€400k
+1,Shamal George,Goalkeeper,"Jan 6, 1998 ",26,['England'],England,Wirral,"1,98",€300k
+25,Will Mannion,Goalkeeper,"May 5, 1998 ",25,['England'],England,London,"1,91",€150k
+13,Aston Oxborough,Goalkeeper,"May 9, 1998 ",25,['England'],England,Gorleston,"1,96",€150k
+1,Andrew Wycherley,Goalkeeper,"May 28, 1998 ",25,['England'],England,Telford,"1,86",€50k
+,Noah Abrams,Goalkeeper,"Jan 23, 1998 ",26,['England'],England,London,"1,85",-
+,Harry Wright,Goalkeeper,"Nov 3, 1998 ",25,['England'],England,Manchester,"1,81",-
+,Nathan Charnock,Goalkeeper,"Oct 24, 1998 ",25,['England'],England,Gloucester,"1,93",-
+,Joe Slinn,Goalkeeper,"Dec 27, 1998 ",25,['England'],England,Stoke-on-Trent,"1,85",-
+,Manny Agboola,Goalkeeper,"Jul 25, 1998 ",25,"['England', 'Nigeria']",England,London,"1,89",-
+1,Aynsley Pears,Goalkeeper,"Apr 23, 1998 ",25,['England'],England,Durham,"1,85",€1.20m
+32,Daniel Grimshaw,Goalkeeper,"Jan 16, 1998 ",26,['England'],England,Manchester,"1,85",€750k
+41,Alfie Whiteman,Goalkeeper,"Oct 2, 1998 ",25,['England'],England,London,"1,88",€500k
+1,Calum Ferrie,Goalkeeper,"Jun 19, 1998 ",25,['England'],England,Shrewsbury,,€300k
+12,Alex Bass,Goalkeeper,"Apr 1, 1998 ",25,['England'],England,Huntingdon,"1,91",€275k
+12,Louis Jones,Goalkeeper,"Oct 12, 1998 ",25,['England'],England,Doncaster,"1,85",€150k
+13,Brad House,Goalkeeper,"Oct 19, 1998 ",25,['England'],England,Worthing,"1,88",€100k
+13,Jake Askew,Goalkeeper,"Feb 28, 1998 ",26,['England'],England,Rotherham,"1,90",-
+1,Kieren Proctor,Goalkeeper,"Jun 1, 1998 ",25,['England'],England,Newcastle Upon Tyne,"1,94",-
+,Max Povey,Goalkeeper,"May 21, 1998 ",25,['England'],England,Blackpool,"1,88",-
+28,Lewis Williams,Goalkeeper,"Dec 28, 1998 ",25,['England'],England,Exeter,"1,87",-
+,Josh Tibbetts,Goalkeeper,"Jul 5, 1998 ",25,['England'],England,Stourbridge,,-
+17,Harry Pickering,Goalkeeper,"Jan 7, 1998 ",26,['England'],England,Stone,"1,85",-
+,Josh Bexon,Goalkeeper,"Jun 18, 1998 ",25,['England'],England,Folkestone,"1,87",-
+,Josh Perryman,Goalkeeper,"Oct 8, 1998 ",25,['England'],England,Sheffield,"1,88",-
+,Dylan Parkin,Goalkeeper,"Oct 11, 1998 ",25,['England'],England,Sheffield,"1,85",-
+,Callum Roberts,Goalkeeper,"Sep 12, 1998 ",25,['England'],England,South Shields,,-
+,Matthew Johnson,Goalkeeper,"Sep 4, 1998 ",25,['England'],England,Rochdale,,-
+,Cameron Copland,Goalkeeper,"Sep 5, 1998 ",25,['England'],England,Carlisle,,-
+,Morgan Bacon,Goalkeeper,"Jun 1, 1998 ",25,['England'],England,Bury,"1,89",-
+,Harry Girling,Goalkeeper,"Jan 15, 1998 ",26,['England'],England,Laindon,"1,88",-
+,Owen Wheeler,Goalkeeper,"Jan 27, 1998 ",26,['England'],England,Liverpool,,-
+,Bailey Vose,Goalkeeper,"May 11, 1998 ",25,['England'],England,Sidcup,"1,93",-
+13,Mathew Hudson,Goalkeeper,"Jul 29, 1998 ",25,['England'],England,Southport,"1,93",-
+,Will Huffer,Goalkeeper,"Oct 30, 1998 ",25,['England'],England,London,"1,84",-
+,Max Johnstone,Goalkeeper,"Aug 18, 1998 ",25,['England'],England,Preston,"1,96",-
+1,Harry Beasley,Goalkeeper,"Sep 19, 1998 ",25,['England'],England,Essex,"1,93",-
+,Laurence Bilboe,Goalkeeper,"Feb 21, 1998 ",26,['England'],England,Walsall,"1,90",-
+,Will Henry,Goalkeeper,"Jul 6, 1998 ",25,['England'],England,Bristol,"1,80",-
+,Theo Roberts,Goalkeeper,"Sep 10, 1998 ",25,['England'],England,Wigan,,-
+,Ben Pierce,Goalkeeper,"Sep 28, 1998 ",25,['England'],England,Manchester,"1,93",-
+,Emmanuel Idem,Goalkeeper,"Dec 6, 1998 ",25,"['England', 'Nigeria']",England,London,"1,88",-
+,Michael Sibley,Goalkeeper,"Oct 21, 1998 ",25,"['England', 'United States']",England,London,"1,85",-
+,Cory Harvey,Goalkeeper,"Aug 1, 1998 ",25,['England'],England,Plymouth,"1,78",-
+,Nathan Stroomberg,Goalkeeper,"Jul 12, 1998 ",25,['England'],England,Brighton,,-
+1,Myles Boney,Goalkeeper,"Feb 16, 1998 ",26,['England'],England,Blackpool,"1,86",-
+,Nathan Harker,Goalkeeper,"Nov 5, 1998 ",25,['England'],England,Northampton,"1,93",-
+22,Will Jääskeläinen,Goalkeeper,"Jul 25, 1998 ",25,"['Finland', 'England']",England,Bolton,"1,83",-
+,Paul Woolston,Goalkeeper,"Aug 14, 1998 ",25,['England'],England,North Shields,"1,84",-
+1,Michael Cooper,Goalkeeper,"Oct 8, 1999 ",24,['England'],England,Exeter,"1,86",€1.00m
+40,Brandon Austin,Goalkeeper,"Jan 8, 1999 ",25,"['England', 'United States']",England,Hemel Hempstead,"1,88",€600k
+30,Nathan Bishop,Goalkeeper,"Oct 15, 1999 ",24,['England'],England,Hillingdon,"1,85",€300k
+1,Taye Ashby-Hammond,Goalkeeper,"Mar 21, 1999 ",25,['England'],England,London,"1,90",€300k
+25,Jake Turner,Goalkeeper,"Feb 25, 1999 ",25,['England'],England,Wilmslow,"1,94",€175k
+24,Ryan Sandford,Goalkeeper,"Feb 21, 1999 ",25,['England'],England,London,"1,88",€150k
+32,Nick Hayes,Goalkeeper,"Apr 10, 1999 ",24,['England'],England,Clacton-on-Sea,,€100k
+,Ollie Taylor,Goalkeeper,"May 25, 1999 ",24,"['England', 'Northern Ireland']",England,Solihull,,-
+,Finlay Shorten,Goalkeeper,"Dec 2, 1999 ",24,['England'],England,Ipswich,"1,98",-
+,Nick Buxton,Goalkeeper,"Dec 21, 1999 ",24,['England'],England,Saint Albans,,-
+,Rhys Forster,Goalkeeper,"Apr 17, 1999 ",24,['England'],England,London,"1,90",-
+,Ryan Schmid,Goalkeeper,"May 21, 1999 ",24,['England'],England,,"1,95",-
+31,Ryan Whitley,Goalkeeper,"Oct 30, 1999 ",24,['England'],England,York,"1,96",-
+1,Jamie Cumming,Goalkeeper,"Sep 4, 1999 ",24,['England'],England,Winchester,"1,85",€1.00m
+31,Ryan Schofield,Goalkeeper,"Dec 11, 1999 ",24,['England'],England,Huddersfield,"1,90",€300k
+40,Ellery Balcombe,Goalkeeper,"Oct 15, 1999 ",24,"['England', 'St. Vincent & Grenadinen']",England,Bedfordshire,"1,90",€300k
+26,Aidan Stone,Goalkeeper,"Jul 20, 1999 ",24,['England'],England,Stafford,"1,86",€200k
+,Joe Hilton,Goalkeeper,"Oct 11, 1999 ",24,['England'],England,Sale,"1,95",€150k
+18,Julian Schwarzer,Goalkeeper,"Oct 26, 1999 ",24,"['Philippines', 'Australia']",England,Harrogate,"1,81",€125k
+,Matt Wallace,Goalkeeper,"Feb 5, 1999 ",25,['England'],England,Liverpool,,-
+,Mitchell Ware,Goalkeeper,"Sep 30, 1999 ",24,['England'],England,Gillingham,,-
+,Daniel Wallis,Goalkeeper,"Apr 5, 1999 ",24,['England'],England,Harrogate,,-
+,James Aspinall,Goalkeeper,"Sep 20, 1999 ",24,['England'],England,Chorley,,-
+,Myles Bowman,Goalkeeper,"Nov 28, 1999 ",24,['England'],England,Farnborough,"1,91",-
+,Johnny Saltmer,Goalkeeper,"Jan 29, 1999 ",25,['England'],England,Hull,,-
+,Matt Funnell,Goalkeeper,"Oct 22, 1999 ",24,['England'],England,Maidstone,,-
+1,Jack Sims,Goalkeeper,"Mar 10, 1999 ",25,['England'],England,Southend,"1,83",-
+,William Appleyard,Goalkeeper,"Sep 24, 1999 ",24,['England'],England,Crewe,"1,93",-
+,Fred Burbidge,Goalkeeper,"Nov 11, 1999 ",24,['England'],England,London,,-
+,Brad Jones,Goalkeeper,"Nov 17, 1999 ",24,['England'],England,Leicester,"1,90",-
+,James Goff,Goalkeeper,"Mar 18, 1999 ",25,['England'],England,Huntingdon,"1,83",-
+,Will Counsell,Goalkeeper,"Mar 16, 1999 ",25,['England'],England,Blackburn,,-
+,Ben Williams,Goalkeeper,"Oct 17, 1999 ",24,['England'],England,Formby,,-
+,Nathan Lescott,Goalkeeper,"Aug 26, 1999 ",24,['St. Kitts & Nevis'],England,Leicester,,-
+,Ryan Catterick,Goalkeeper,"May 21, 1999 ",24,['England'],England,Middlesbrough,"1,85",-
+,Neal Osborn,Goalkeeper,"Jan 2, 1999 ",25,['England'],England,Torquay,,-
+,Adam Parkes,Goalkeeper,"Nov 30, 1999 ",24,['England'],England,Weymouth,"1,85",-
+,Brad James,Goalkeeper,"Jul 5, 1999 ",24,['England'],England,Seaham,"1,86",-
+,Sam Lomax,Goalkeeper,"Feb 10, 1999 ",25,['England'],England,Nuneaton,"2,06",-
+,Callum Hawkins,Goalkeeper,"Dec 12, 1999 ",24,['England'],England,Rotherham,"1,87",-
+38,George Sykes-Kenworthy,Goalkeeper,"Oct 1, 1999 ",24,['England'],England,Huddersfield,"1,82",-
+13,Tommy Scott,Goalkeeper,"Sep 13, 1999 ",24,"['Northern Ireland', 'England']",England,,"1,88",-
+,Iain MacLeod,Goalkeeper,"Feb 19, 1999 ",25,['England'],England,Newcastle upon Tyne,"1,90",-
+12,Daniel Atherton,Goalkeeper,"Dec 18, 1999 ",24,['England'],England,Haydock,"1,84",-
+,Brandon Ganley,Goalkeeper,"Dec 15, 1999 ",24,['England'],England,,"1,80",-
+,Kieran Boucher,Goalkeeper,"Sep 21, 1999 ",24,['England'],England,Solihull,"1,82",-
+,Adam Harrison,Goalkeeper,"Feb 19, 1999 ",25,['England'],England,,,-
+,Charlie Freeman,Goalkeeper,"Sep 28, 1999 ",24,['England'],England,London,,-
+,Niall Maher,Goalkeeper,"May 3, 1999 ",24,"['England', 'Ireland']",England,Birmingham,"1,93",-
+,Jordan Hawkins,Goalkeeper,"Feb 5, 1999 ",25,['England'],England,Brighton,,-
+,Jordan Perrin,Goalkeeper,"Sep 17, 1999 ",24,['England'],England,Kent,,-
+,Alex Crean,Goalkeeper,"Aug 22, 1999 ",24,"['Scotland', 'England']",England,Farnborough,,-
+1,Jared Thompson,Goalkeeper,"Feb 23, 1999 ",25,"['Northern Ireland', 'England']",England,Swindon,"1,87",-
+,Josh Lukwata,Goalkeeper,"Jan 19, 1999 ",25,['England'],England,London,,-
+,Kyle Trenerry,Goalkeeper,"Jul 10, 1999 ",24,['England'],England,Bradford,"1,83",-
+,Thomas Dyche,Goalkeeper,"Jan 28, 1999 ",25,['England'],England,Tamworth,,-
+,Connor King,Goalkeeper,"Apr 27, 1999 ",24,['England'],England,Blackburn,,-
+,James Leverton,Goalkeeper,"Nov 22, 1999 ",24,['England'],England,Rotherham,"1,85",-
+1,Anthony Patterson,Goalkeeper,"May 10, 2000 ",23,['England'],England,Newcastle-upon-Tyne,"1,88",€10.00m
+42,Etienne Green,Goalkeeper,"Jul 19, 2000 ",23,"['England', 'France']",England,Colchester,"1,91",€800k
+23,Ennio van der Gouw,Goalkeeper,"Feb 14, 2000 ",24,['Netherlands'],England,Bramhall,"1,95",€300k
+1,Will Dennis,Goalkeeper,"Jul 10, 2000 ",23,['England'],England,,"1,88",€175k
+25,Oliver Webber,Goalkeeper,"Jun 26, 2000 ",23,"['Northern Ireland', 'England']",England,Portsmouth,,€25k
+,Travis Wood,Goalkeeper,"Jul 8, 2000 ",23,['England'],England,Bath,,-
+,Liam Armstrong,Goalkeeper,"Mar 22, 2000 ",24,['England'],England,Bristol,"1,91",-
+,Callum Coulter,Goalkeeper,"Oct 24, 2000 ",23,['England'],England,Frimley,"1,92",-
+,Sam Booth,Goalkeeper,"Dec 6, 2000 ",23,['England'],England,Sandbach,"1,93",-
+25,Ryan Lumsden,Goalkeeper,"Jan 18, 2000 ",24,['England'],England,Gateshead,,-
+,Josh Mollison,Goalkeeper,"May 30, 2000 ",23,['England'],England,Letchworth Garden City,,-
+,Max Manson,Goalkeeper,"Jan 24, 2000 ",24,['Wales'],England,,"1,96",-
+,Sam Jackson,Goalkeeper,"Mar 24, 2000 ",24,['England'],England,London,,-
+21,Josef Bursik,Goalkeeper,"Jul 12, 2000 ",23,"['England', 'Czech Republic']",England,London,"1,90",€1.20m
+1,Zach Hemming,Goalkeeper,"Mar 7, 2000 ",24,['England'],England,Bishop Auckland,,€400k
+1,Sol Brynn,Goalkeeper,"Oct 30, 2000 ",23,['England'],England,Middlesbrough,"1,84",€275k
+1,Adam Przybek,Goalkeeper,"Apr 2, 2000 ",23,"['Wales', 'England']",England,Nuneaton,"1,88",€75k
+,Bernie White,Goalkeeper,"Apr 18, 2000 ",23,"['United States', 'England']",England,Liverpool,"1,98",-
+,Drilon Ajeti,Goalkeeper,"Jun 26, 2000 ",23,"['Kosovo', 'England']",England,London,"1,85",-
+,Harrison Davison-Hale,Goalkeeper,"Dec 17, 2000 ",23,['England'],England,Doncaster,"1,84",-
+,Joshua Render,Goalkeeper,"Sep 25, 2000 ",23,['England'],England,,"1,85",-
+,Ryan Hall,Goalkeeper,"Oct 6, 2000 ",23,['England'],England,Portsmouth,"1,88",-
+1,Bradley Wade,Goalkeeper,"Jul 3, 2000 ",23,['England'],England,Gloucester,"1,88",-
+,Henry Kendrick,Goalkeeper,"Dec 3, 2000 ",23,['England'],England,Barnsley,,-
+,Bayleigh Passant,Goalkeeper,"Nov 29, 2000 ",23,['England'],England,Liverpool,"1,83",-
+,Alfie Jones,Goalkeeper,"Oct 2, 2000 ",23,"['England', 'Canada']",England,Watford,"1,82",-
+43,Billy Crellin,Goalkeeper,"Jun 30, 2000 ",23,['England'],England,Blackpool,"1,85",-
+,Dan Langley,Goalkeeper,"Dec 28, 2000 ",23,['England'],England,Newcastle upon Tyne,"2,01",-
+,Michael Watson,Goalkeeper,"Jun 5, 2000 ",23,['England'],England,Carlisle,,-
+,James Thompson,Goalkeeper,"Sep 19, 2000 ",23,['England'],England,Warrington,,-
+,Bobbie Biddle,Goalkeeper,"Jul 15, 2000 ",23,['England'],England,,,-
+,Joe Fryatt,Goalkeeper,"Jan 18, 2000 ",24,['England'],England,Burton upon Trent,"1,83",-
+,Edward Ogbebor-Onaiwu,Goalkeeper,"Sep 1, 2000 ",23,"['Nigeria', 'England']",England,,"1,94",-
+,James Cottam,Goalkeeper,"Sep 7, 2000 ",23,['England'],England,Preston,,-
+,George McMahon,Goalkeeper,"Jun 16, 2000 ",23,"['Ireland', 'England']",England,Manchester,,-
+,Josh Strizovic,Goalkeeper,"Apr 12, 2000 ",23,['England'],England,Harold Wood,"1,91",-
+,Alex Cull,Goalkeeper,"Jun 2, 2000 ",23,['England'],England,Bournemouth,"1,75",-
+1,Harrison Male,Goalkeeper,"Sep 13, 2000 ",23,['England'],England,Bridlington,"1,88",-
+,Lewis Landers,Goalkeeper,"Nov 15, 2000 ",23,['England'],England,Nuneaton,,-
+1,Cameron Gregory,Goalkeeper,"Jan 20, 2000 ",24,"['England', 'India']",England,Sutton Coldfield,"1,92",-
+,Charlie Andrew,Goalkeeper,"Jan 6, 2000 ",24,['England'],England,Kingston upon Hull,,-
+,Sam Mason,Goalkeeper,"Jun 13, 2000 ",23,['England'],England,,,-
+,Keaton Marrs,Goalkeeper,"Oct 11, 2000 ",23,['England'],England,Sunderland,"1,83",-
+,Paddy Wharton,Goalkeeper,"May 27, 2000 ",23,['England'],England,Liverpool,"1,85",-
+,Arthur Janata,Goalkeeper,"May 22, 2000 ",23,['England'],England,London,"1,89",-
+31,Tom Scott,Goalkeeper,"Oct 28, 2000 ",23,['England'],England,Leeds,"1,90",-
+,Felix Norman,Goalkeeper,"Jan 26, 2000 ",24,['England'],England,London,"1,78",-
+,Mitchell Allen,Goalkeeper,"Jan 14, 2000 ",24,['England'],England,Stoke-on-Trent,"1,85",-
+,Finley Iron,Goalkeeper,"Mar 7, 2000 ",24,['England'],England,Cambridge,"1,85",-
+,Curtis Anderson,Goalkeeper,"Sep 27, 2000 ",23,['England'],England,Barrow-in-Furness,"1,85",-
+22,Carl Rushworth,Goalkeeper,"Jul 2, 2001 ",22,['England'],England,Halifax,"1,91",€3.00m
+33,Josh Griffiths,Goalkeeper,"Sep 5, 2001 ",22,['England'],England,Hereford,"1,85",€1.00m
+1,Toby Savin,Goalkeeper,"May 4, 2001 ",22,['England'],England,Southport,"1,94",€200k
+22,Jackson Smith,Goalkeeper,"Oct 14, 2001 ",22,['England'],England,Telford,"1,87",€150k
+41,Giosue Bellagambi,Goalkeeper,"Nov 8, 2001 ",22,"['Uganda', 'England']",England,London,"1,89",€75k
+13,James Holden,Goalkeeper,"Sep 4, 2001 ",22,['England'],England,Milton Keynes,,€75k
+,Christian Dimitriou,Goalkeeper,"Dec 6, 2001 ",22,"['Cyprus', 'England']",England,Birmingham,"1,85",-
+,James Askew,Goalkeeper,"Oct 23, 2001 ",22,['England'],England,Chelmsford,"1,83",-
+,Lewis Patching,Goalkeeper,"Sep 20, 2001 ",22,['England'],England,Northampton,"1,86",-
+,Luke Christie,Goalkeeper,"Jan 6, 2001 ",23,['England'],England,Blackpool,"1,93",-
+,Ben Tinkley,Goalkeeper,"Sep 24, 2001 ",22,['England'],England,Warrington,"1,85",-
+,Tyler Coombes,Goalkeeper,"Dec 1, 2001 ",22,['England'],England,Ivybridge,,-
+21,Oliver Kelly,Goalkeeper,"Jun 6, 2001 ",22,['Scotland'],England,Bridgwater,"1,92",-
+33,Arthur Okonkwo,Goalkeeper,"Sep 9, 2001 ",22,"['England', 'Nigeria']",England,London,"1,98",€1.80m
+1,Joshua Oluwayemi,Goalkeeper,"Mar 13, 2001 ",23,"['Nigeria', 'England']",England,London,"1,85",€450k
+31,Luca Ashby-Hammond,Goalkeeper,"Mar 25, 2001 ",23,['England'],England,London,"1,91",€200k
+40,George Wickens,Goalkeeper,"Nov 8, 2001 ",22,['England'],England,Petersfield,"1,98",€150k
+,Archie Matthews,Goalkeeper,"Aug 2, 2001 ",22,['England'],England,Bath,,€75k
+13,Jacob Carney,Goalkeeper,"Apr 21, 2001 ",22,['England'],England,Rotherham,"1,88",€50k
+,George Rose,Goalkeeper,"Sep 29, 2001 ",22,['England'],England,Milton Keynes,"1,93",-
+,Alex Avenell,Goalkeeper,"Oct 10, 2001 ",22,"['England', 'Morocco']",England,Swindon,,-
+38,Murphy Mahoney,Goalkeeper,"Dec 27, 2001 ",22,['England'],England,Reading,,-
+,Taylor Seymour,Goalkeeper,"Sep 17, 2001 ",22,['England'],England,Worthing,"1,90",-
+1,Felix Davies,Goalkeeper,"Jan 28, 2001 ",23,['England'],England,London,"1,90",-
+,Dominic Rogerson,Goalkeeper,"Oct 11, 2001 ",22,['England'],England,Birmingham,,-
+23,Tommy Dixon-Hodge,Goalkeeper,"Apr 20, 2001 ",22,['England'],England,Chelmsford,"1,82",-
+1,Tyla Dickinson,Goalkeeper,"Apr 3, 2001 ",22,['England'],England,London,"1,85",-
+,Christian Mbeta,Goalkeeper,"Feb 10, 2001 ",23,['England'],England,London,"1,84",-
+,Nykah Liburd-Hines,Goalkeeper,"Sep 13, 2001 ",22,['England'],England,Nottingham,"1,82",-
+,Joe Osaghae,Goalkeeper,"Feb 20, 2001 ",23,['England'],England,London,"1,91",-
+,Ollie Battersby,Goalkeeper,"Jul 23, 2001 ",22,['England'],England,Grimsby,"1,88",-
+,Freddie Lapworth,Goalkeeper,"Nov 10, 2001 ",22,['England'],England,Oxford,"1,84",-
+1,Harry Tyrer,Goalkeeper,"Dec 6, 2001 ",22,['England'],England,Crosby,"1,94",-
+,Joe Williams,Goalkeeper,"Apr 10, 2001 ",22,['England'],England,Reading,"1,91",-
+,Toby Larsen,Goalkeeper,"Aug 17, 2001 ",22,['England'],England,Haywards Heath,,-
+40,Myles Roberts,Goalkeeper,"Dec 9, 2001 ",22,['England'],England,Reading,,-
+,Ben Winterbottom,Goalkeeper,"Jul 16, 2001 ",22,['England'],England,Preston,,-
+54,James Hillson,Goalkeeper,"Jan 14, 2001 ",23,['England'],England,Bedford,,-
+,Zach Jeacock,Goalkeeper,"May 8, 2001 ",22,['England'],England,Birmingham,"1,91",-
+13,Harrison Foulkes,Goalkeeper,"Apr 3, 2001 ",22,['England'],England,Eastbourne,,-
+,Jake Alley,Goalkeeper,"Sep 10, 2001 ",22,['England'],England,Aylesbury,"1,99",-
+,Leon Pitman,Goalkeeper,"Jan 1, 2001 ",23,['England'],England,Isle of Wight,,-
+,Tarek Najia,Goalkeeper,"Jul 23, 2001 ",22,"['Lebanon', 'England']",England,Huddersfield,,-
+,Eric Merner,Goalkeeper,"Sep 17, 2001 ",22,['England'],England,Crewe,,-
+,Max Culverwell,Goalkeeper,"Apr 11, 2001 ",22,"['England', 'Wales']",England,Nottingham,"1,93",-
+31,Marcus Dewhurst,Goalkeeper,"Mar 20, 2001 ",23,['England'],England,Kingston upon Hull,"1,90",-
+,Scott Moloney,Goalkeeper,"Feb 5, 2001 ",23,['England'],England,Ashton-under-Lyne,"1,89",-
+,Declan Ogley,Goalkeeper,"Mar 12, 2001 ",23,['England'],England,Doncaster,,-
+1,Roco Rees,Goalkeeper,"Oct 3, 2001 ",22,['England'],England,Chichester,"1,89",-
+,Adam Desbois,Goalkeeper,"Jan 5, 2001 ",23,['England'],England,Reading,"1,89",-
+,Tiernan Parker,Goalkeeper,"Aug 4, 2001 ",22,['Northern Ireland'],England,Hatfield,"1,85",-
+,Kacper Kurylowicz,Goalkeeper,"Sep 2, 2001 ",22,"['England', 'Poland']",England,Luton,,-
+,Harry Seaden,Goalkeeper,"Apr 23, 2001 ",22,['England'],England,Southend-on-Sea,"1,85",-
+1,James Trafford,Goalkeeper,"Oct 10, 2002 ",21,['England'],England,Greysouthen,"1,92",€18.00m
+33,Marvin Keller,Goalkeeper,"Jul 3, 2002 ",21,['Switzerland'],England,London,"1,89",€1.20m
+13,Cieran Slicker,Goalkeeper,"Sep 15, 2002 ",21,"['Scotland', 'England']",England,Oldham,,€300k
+45,Dermot Mee,Goalkeeper,"Nov 20, 2002 ",21,"['Northern Ireland', 'England']",England,Birmingham,"1,83",€200k
+,Harvey Wiles-Richards,Goalkeeper,"May 27, 2002 ",21,['England'],England,Bath,,€150k
+13,Liam Isherwood,Goalkeeper,"Jul 13, 2002 ",21,['England'],England,Clitheroe,"1,83",€100k
+13,Lewis Thomas,Goalkeeper,"Feb 8, 2002 ",22,['England'],England,Leicester,,€100k
+,David Robson,Goalkeeper,"Jan 22, 2002 ",22,"['Wales', 'England']",England,Northallerton,"1,92",€100k
+1,Tiernan Brooks,Goalkeeper,"Jun 17, 2002 ",21,"['Ireland', 'England']",England,Sheffield,"1,91",€75k
+61,Jack McIntyre,Goalkeeper,"Oct 18, 2002 ",21,"['England', 'Scotland']",England,Manchester,"1,90",€75k
+32,Ben Bottomley,Goalkeeper,"Oct 22, 2002 ",21,['England'],England,Pontefract,,€50k
+44,Max Little,Goalkeeper,"Jun 29, 2002 ",21,['England'],England,London,"1,95",€25k
+1,James Hilton,Goalkeeper,"Sep 16, 2002 ",21,"['England', 'Ireland']",England,"Manchester, UK","1,89",-
+1,Oliver Dovin,Goalkeeper,"Jul 11, 2002 ",21,"['Sweden', 'England']",England,London,"1,88",€1.20m
+1,Sam Tickle,Goalkeeper,"Mar 31, 2002 ",21,['England'],England,Warrington,"1,88",€500k
+1,Harvey Cartwright,Goalkeeper,"May 9, 2002 ",21,['England'],England,Grimsby,"1,92",€200k
+31,Louie Moulden,Goalkeeper,"Jan 6, 2002 ",22,['England'],England,Bolton,"1,90",€200k
+13,Jack Newman,Goalkeeper,"Feb 12, 2002 ",22,"['Scotland', 'England']",England,Hexham,"1,88",€150k
+32,Joe Walsh,Goalkeeper,"Apr 1, 2002 ",21,['England'],England,Medway,"1,93",€100k
+29,Nathan Broome,Goalkeeper,"Jan 3, 2002 ",22,['England'],England,Manchester,,€100k
+,Rhys Byrne,Goalkeeper,"Aug 24, 2002 ",21,['England'],England,London,"1,89",€75k
+1,Sam Long,Goalkeeper,"Nov 12, 2002 ",21,"['Scotland', 'England']",England,London,,€75k
+25,Fynn Talley,Goalkeeper,"Sep 14, 2002 ",21,['England'],England,London,,€75k
+40,Luke Hutchinson,Goalkeeper,"Sep 1, 2002 ",21,['England'],England,,"1,87",€50k
+13,Dylan Taylor,Goalkeeper,"Nov 28, 2002 ",21,"['England', 'Gibraltar']",England,Peterborough,"1,83",€10k
+,Jack Halton,Goalkeeper,"Oct 23, 2002 ",21,['England'],England,Durham,"1,82",-
+,Harry Fisk,Goalkeeper,"Oct 28, 2002 ",21,['England'],England,Cottingham,,-
+,Michael Edegbe,Goalkeeper,"Mar 22, 2002 ",22,['England'],England,Slough,"1,86",-
+13,Harrison Bruton,Goalkeeper,"Aug 12, 2002 ",21,['England'],England,Dorchester,,-
+,Patrick Boyes,Goalkeeper,"Sep 25, 2002 ",21,['England'],England,Womersley,"1,84",-
+,Harry Kircher,Goalkeeper,"Dec 4, 2002 ",21,"['Sweden', 'England']",England,Brighton,"1,90",-
+,Louis Owens,Goalkeeper,"Jan 21, 2002 ",22,"['England', 'Scotland']",England,Basingstoke,"1,83",-
+,Timmy Smith,Goalkeeper,"Nov 29, 2002 ",21,['England'],England,Stevenage,"1,91",-
+,Callum Taylor,Goalkeeper,"Jan 15, 2002 ",22,"['Northern Ireland', 'England']",England,Basildon,"1,93",-
+31,Joel Torrance,Goalkeeper,"Apr 2, 2002 ",21,['England'],England,Bolton,,-
+,Matthew Alexander,Goalkeeper,"May 7, 2002 ",21,['England'],England,Newcastle upon Tyne,"1,84",-
+,Jamie Emery,Goalkeeper,"Aug 12, 2002 ",21,['England'],England,,"1,86",-
+,Nathan Harvey,Goalkeeper,"Jul 8, 2002 ",21,['England'],England,London,"1,86",-
+,David Saunders,Goalkeeper,"Dec 10, 2002 ",21,['England'],England,Stoke Mandeville,"1,89",-
+,Alfie Burnett,Goalkeeper,"Nov 12, 2002 ",21,['England'],England,Scarborough,"1,96",-
+,Luis Shamshoum,Goalkeeper,"Oct 11, 2002 ",21,"['Palestine', 'England']",England,Southend-On-Sea,"1,85",-
+,Keelan Fallows,Goalkeeper,"Oct 1, 2002 ",21,['England'],England,Bedworth,"1,85",-
+,Kai Storr,Goalkeeper,"Sep 8, 2002 ",21,['England'],England,Salisbury,"1,89",-
+,Josh Chapman,Goalkeeper,"Sep 28, 2002 ",21,['England'],England,Worksop,,-
+,Colin Bell,Goalkeeper,"Oct 18, 2002 ",21,['England'],England,Carlisle,"1,83",-
+,Tom Collins,Goalkeeper,"Aug 4, 2002 ",21,['England'],England,Scunthorpe,"1,80",-
+31,Alex Hare,Goalkeeper,"Oct 4, 2002 ",21,"['England', 'Scotland']",England,Derby,"1,91",-
+61,Brad Young,Goalkeeper,"May 5, 2002 ",21,['England'],England,Sunderland,"1,91",-
+,Andrew Walklate,Goalkeeper,"Feb 4, 2002 ",22,['England'],England,Forsbrook,,-
+13,Aidan Dowling,Goalkeeper,"Aug 10, 2002 ",21,"['England', 'Wales']",England,Manchester,"1,96",-
+1,Michael Statham,Goalkeeper,"Aug 8, 2002 ",21,['England'],England,Manchester,"1,93",-
+21,Thomas Poole,Goalkeeper,"Nov 17, 2002 ",21,"['New Zealand', 'England']",England,High Wycombe,,-
+,Harry Flatters,Goalkeeper,"Jan 2, 2002 ",22,['England'],England,Huntingdon,"1,90",-
+,Mac Chisholm,Goalkeeper,"Sep 3, 2002 ",21,['England'],England,London,"1,89",-
+,Sam Blair,Goalkeeper,"Dec 27, 2002 ",21,"['Ireland', 'England']",England,Aylsham,"1,91",-
+,Jake Askew,Goalkeeper,"Feb 8, 2002 ",22,['England'],England,London,,-
+35,Will Brown,Goalkeeper,"Jan 10, 2002 ",22,['England'],England,North Shields,,-
+,Sam Agius,Goalkeeper,"Mar 9, 2002 ",22,"['England', 'Malta']",England,Walsall,"1,86",-
+,Oliver Wright,Goalkeeper,"Oct 25, 2002 ",21,['England'],England,Bath,,-
+16,Joe Young,Goalkeeper,"Sep 22, 2002 ",21,['England'],England,Telford,"1,86",-
+1,Dante Baptiste,Goalkeeper,"Feb 7, 2002 ",22,['England'],England,London,,-
+44,Cian Tyler,Goalkeeper,"Mar 22, 2002 ",22,"['Wales', 'England']",England,Leamington Spa,"1,88",-
+,Oscar Kelly,Goalkeeper,"Nov 22, 2002 ",21,['England'],England,Liverpool,"1,75",-
+33,Filip Marschall,Goalkeeper,"Apr 24, 2003 ",20,"['Poland', 'England']",England,Cambridge,"1,95",€800k
+1,Harvey Davies,Goalkeeper,"Sep 3, 2003 ",20,['England'],England,Liverpool,"1,90",€500k
+1,Eddie Beach,Goalkeeper,"Oct 9, 2003 ",20,"['Wales', 'England']",England,Lymington,"1,96",€250k
+,Kees Sims,Goalkeeper,"Mar 27, 2003 ",21,"['New Zealand', 'Netherlands']",England,,"1,94",€100k
+97,Tobi Oluwayemi,Goalkeeper,"May 8, 2003 ",20,"['England', 'Nigeria']",England,London,"1,88",€75k
+,Xander Parke,Goalkeeper,"Nov 17, 2003 ",20,"['St. Kitts & Nevis', 'England']",England,Telford,"1,93",€50k
+13,Aleksandar Petrovic,Goalkeeper,"Jun 28, 2003 ",20,"['England', 'Canada']",England,,"1,83",-
+12,Bradley Kelly,Goalkeeper,"Oct 24, 2003 ",20,['England'],England,,,-
+,Alfie Marigliani,Goalkeeper,"Mar 19, 2003 ",21,"['England', 'Italy']",England,London,"1,88",-
+,Tom Carter,Goalkeeper,"Feb 8, 2003 ",21,['England'],England,Redditch,"1,88",-
+,Alex Akers,Goalkeeper,"Oct 21, 2003 ",20,['England'],England,,"1,88",-
+62,Will Brook,Goalkeeper,"Nov 9, 2003 ",20,['England'],England,Pontefract,"1,90",-
+13,Maison Campbell,Goalkeeper,"Jul 16, 2003 ",20,['England'],England,Nottingham,"1,90",-
+1,Owen Goodman,Goalkeeper,"Nov 27, 2003 ",20,"['England', 'Canada']",England,London,"1,93",€500k
+,Teddy Sharman-Lowe,Goalkeeper,"Mar 30, 2003 ",20,['England'],England,Leicester,"1,89",€300k
+31,Coniah Boyce-Clarke,Goalkeeper,"Mar 1, 2003 ",21,"['Jamaica', 'England']",England,Reading,"1,83",€150k
+48,Ovie Ejeheri,Goalkeeper,"Apr 23, 2003 ",20,"['England', 'Nigeria']",England,Greenwich,"1,95",€100k
+29,Conor Robson,Goalkeeper,"Sep 21, 2003 ",20,['England'],England,Liverpool,,€50k
+35,Matt Hall,Goalkeeper,"Apr 24, 2003 ",20,['England'],England,Southampton,"1,95",€50k
+,Harry Clark,Goalkeeper,"Jul 27, 2003 ",20,['England'],England,,,-
+44,Ted Collins,Goalkeeper,"Jan 28, 2003 ",21,['England'],England,Colchester,,-
+,Jayden St. Paul,Goalkeeper,"Nov 18, 2003 ",20,['England'],England,London,"1,91",-
+,Charlie Emery,Goalkeeper,"Jun 11, 2003 ",20,"['Australia', 'England']",England,Birmingham,"1,90",-
+,Dylan Berry,Goalkeeper,"May 14, 2003 ",20,"['Northern Ireland', 'England']",England,,,-
+55,Harry Christy,Goalkeeper,"Oct 31, 2003 ",20,['England'],England,Harrogate,,-
+1,Billy Terrell,Goalkeeper,"Aug 31, 2003 ",20,['England'],England,Southampton,,-
+,Jack Berman,Goalkeeper,"Feb 7, 2003 ",21,['England'],England,London,"1,80",-
+,Sam Waller,Goalkeeper,"Sep 9, 2003 ",20,['England'],England,Stockport,"1,87",-
+,Josh Lane,Goalkeeper,"Sep 11, 2003 ",20,['England'],England,Leicester,"1,88",-
+,Tom Chakraverty,Goalkeeper,"Apr 25, 2003 ",20,"['Gibraltar', 'England']",England,,,-
+,Toby Bull,Goalkeeper,"Aug 27, 2003 ",20,"['Ireland', 'England']",England,Worthing,"1,83",-
+,Alec McLachlan,Goalkeeper,"Sep 12, 2003 ",20,"['Scotland', 'England']",England,Stockport,,-
+13,Harrison Bond,Goalkeeper,"Dec 4, 2003 ",20,['England'],England,Chester-le-Street,"1,85",-
+,Prince Adegoke,Goalkeeper,"Nov 3, 2003 ",20,"['England', 'Nigeria']",England,Farnborough,,-
+,Oliver Lombard,Goalkeeper,"Mar 6, 2003 ",21,['England'],England,Chorley,"1,91",-
+,Joe Besant,Goalkeeper,"May 13, 2003 ",20,['England'],England,Romsey,"1,92",-
+,Josh McNamara,Goalkeeper,"Dec 12, 2003 ",20,['England'],England,Watford,,-
+,Joe O'Shaughnessy,Goalkeeper,"Jan 5, 2003 ",21,"['Ireland', 'England']",England,Warrington,"1,99",-
+12,Harley Earle,Goalkeeper,"Sep 13, 2003 ",20,['England'],England,Maidstone,,-
+,Oliver Marshall,Goalkeeper,"Apr 28, 2003 ",20,['England'],England,Newcastle,"1,82",-
+,Oliver Swan,Goalkeeper,"Aug 5, 2003 ",20,['England'],England,Middlesbrough,"1,80",-
+,Kelechi Chibueze,Goalkeeper,"Dec 14, 2003 ",20,"['England', 'Nigeria']",England,London,,-
+,Daniel Rose,Goalkeeper,"Dec 11, 2003 ",20,"['Ireland', 'England']",England,Wilmslow,"1,93",-
+26,James Beadle,Goalkeeper,"Jul 16, 2004 ",19,['England'],England,London,"2,01",€3.00m
+33,Nathaniel Ford,Goalkeeper,"Jul 8, 2004 ",19,['England'],England,Rotherham,,€100k
+27,Adam Hayton,Goalkeeper,"Apr 28, 2004 ",19,['England'],England,Luton,,€75k
+38,Josh Clarke,Goalkeeper,"Jul 28, 2004 ",19,"['Northern Ireland', 'Sweden']",England,London,"1,88",€75k
+1,Ilyas Baig,Goalkeeper,"Jun 12, 2004 ",19,"['Cyprus', 'England']",England,Lambeth,"1,93",-
+13,Adam Messaoudi,Goalkeeper,"Jun 15, 2004 ",19,"['England', 'Algeria']",England,London,,-
+,Mac Boyd,Goalkeeper,"Sep 18, 2004 ",19,['England'],England,Exeter,,-
+,Ellis Craven,Goalkeeper,"Oct 8, 2004 ",19,['England'],England,Salford,,-
+,Tom MacAuley,Goalkeeper,"Jun 21, 2004 ",19,['England'],England,Crewe,,-
+,Lewis Moyle,Goalkeeper,"Feb 1, 2004 ",20,['England'],England,Truro,"1,88",-
+,Rhys Westcarr,Goalkeeper,"Feb 4, 2004 ",20,['England'],England,Leeds,"1,91",-
+,Beau Hudd,Goalkeeper,"Oct 9, 2004 ",19,['England'],England,London,"1,85",-
+,Charlie Woods,Goalkeeper,"May 24, 2004 ",19,['England'],England,Coventry,,-
+,Max Thompson,Goalkeeper,"Aug 1, 2004 ",19,['England'],England,Newcastle upon Tyne,"1,88",€200k
+13,Tom Booth,Goalkeeper,"Aug 2, 2004 ",19,['England'],England,Crewe,"1,90",€100k
+13,Laurence Shala,Goalkeeper,"Sep 11, 2004 ",19,"['Kosovo', 'England']",England,London,"1,90",€75k
+,Marley Tavaziva,Goalkeeper,"Dec 17, 2004 ",19,"['Zimbabwe', 'England']",England,,"1,85",-
+16,Josh Mazfari,Goalkeeper,"Aug 17, 2004 ",19,['England'],England,Middlesbrough,,-
+,Louis Parr,Goalkeeper,"May 3, 2004 ",19,['England'],England,Birkenhead,,-
+31,Freddie Martin,Goalkeeper,"Oct 5, 2004 ",19,"['England', 'New Zealand']",England,,"1,93",-
+,Jaime Tedaldi,Goalkeeper,"Sep 21, 2004 ",19,['England'],England,Leigh-on-Sea,"1,83",-
+29,Ben Voase,Goalkeeper,"Oct 29, 2004 ",19,['England'],England,Scarborough,,-
+,Luke Southerington,Goalkeeper,"Sep 20, 2004 ",19,"['England', 'Wales']",England,Oldham,,-
+,David Aziaya,Goalkeeper,"Aug 3, 2004 ",19,"['England', 'Nigeria']",England,London,"1,97",-
+,Harry Moss,Goalkeeper,"Jun 26, 2004 ",19,['England'],England,Durham,"1,96",-
+,Mason Terry,Goalkeeper,"Sep 20, 2004 ",19,['England'],England,Canvey,,-
+,Kymani Nelson,Goalkeeper,"Mar 4, 2004 ",20,"['Montserrat', 'England']",England,London,"1,81",-
+,Aaron Jones,Goalkeeper,"Jan 24, 2004 ",20,['England'],England,London,"1,84",-
+46,Jack Hall,Goalkeeper,"Oct 10, 2004 ",19,['England'],England,Worksop,,-
+29,Matt Boylan,Goalkeeper,"Jul 4, 2004 ",19,"['Ireland', 'England']",England,,,-
+,James Storer,Goalkeeper,"Oct 4, 2004 ",19,"['Ireland', 'England']",England,Buxton,"1,96",-
+,Eddie Brearey,Goalkeeper,"Jun 9, 2004 ",19,['England'],England,Chipping Norton,"1,86",-
+,Jak Stewart,Goalkeeper,"May 6, 2004 ",19,['England'],England,Manchester,,-
+58,Alfie McNally,Goalkeeper,"Dec 22, 2004 ",19,['England'],England,London,,-
+83,George Murray-Jones,Goalkeeper,"Oct 27, 2004 ",19,['England'],England,London,,-
+61,Aaron Maguire,Goalkeeper,"Jul 25, 2004 ",19,"['Ireland', 'England']",England,London,,-
+36,Luke Chadwick,Goalkeeper,"May 7, 2004 ",19,['England'],England,,"1,95",-
+,William Butler,Goalkeeper,"Jun 4, 2004 ",19,"['British Virgin Islands', 'England']",England,Henley-on-Thames,,-
+,Daniel Moore,Goalkeeper,"Mar 31, 2004 ",19,['England'],England,Bedworth,"1,85",-
+63,Aaron Bott,Goalkeeper,"Sep 6, 2004 ",19,['England'],England,,"1,88",-
+,Ryan Hammond,Goalkeeper,"Apr 4, 2004 ",19,['England'],England,,,-
+,Jake Balme,Goalkeeper,"Jan 19, 2004 ",20,['England'],England,Sheffield,,-
+,James Callan,Goalkeeper,"Jun 6, 2004 ",19,['England'],England,Oxford,"1,86",-
+,Alfie Marriott,Goalkeeper,"Mar 26, 2004 ",20,['England'],England,Watford,,-
+,Luke Hewitson,Goalkeeper,"Oct 15, 2004 ",19,['England'],England,Newcastle,,-
+,Ronnie Hollingshead,Goalkeeper,"Sep 9, 2004 ",19,"['Wales', 'England']",England,Hereford,"1,88",-
+,Hayden Griffiths,Goalkeeper,"Jan 19, 2004 ",20,['England'],England,Birmingham,"1,83",-
+88,True Grant,Goalkeeper,"Nov 2, 2005 ",18,"['England', 'Jamaica']",England,Manchester,,€500k
+60,Max Merrick,Goalkeeper,"Nov 10, 2005 ",18,['England'],England,High Wycombe,,€100k
+,Michael Hogan,Goalkeeper,"Jul 27, 2005 ",18,['England'],England,Newcastle upon Tyne,"1,90",-
+74,Tom Myles,Goalkeeper,"Nov 17, 2005 ",18,['England'],England,Preston,,-
+,Billy Eastwood,Goalkeeper,"Sep 28, 2005 ",18,['England'],England,,,-
+,Keehan Willows,Goalkeeper,"Oct 1, 2005 ",18,['England'],England,Nottingham,,-
+51,Shea Connor,Goalkeeper,"Oct 30, 2005 ",18,['England'],England,Stockton-on-Tees,,-
+70,Luke Campbell,Goalkeeper,"Nov 27, 2005 ",18,['England'],England,Slough,,-
+,Harry Griffiths,Goalkeeper,"May 4, 2005 ",18,['England'],England,Pembury,"1,85",-
+46,Luca Gunter,Goalkeeper,"Mar 23, 2005 ",19,['England'],England,London,,-
+,Harry French,Goalkeeper,"Sep 28, 2005 ",18,['England'],England,Mansfield,"1,90",-
+,Nathan Fisher,Goalkeeper,"Jan 26, 2005 ",19,['England'],England,Newcastle-upon-Tyne,"1,90",-
+91,Alexei Rojas,Goalkeeper,"Sep 28, 2005 ",18,"['Colombia', 'Russia']",England,Basildon,"1,86",€100k
+47,Pierce Charles,Goalkeeper,"Jul 21, 2005 ",18,"['Northern Ireland', 'England']",England,Manchester,,€75k
+,Rylee Mitchell,Goalkeeper,"Dec 14, 2005 ",18,"['England', 'Scotland']",England,,"1,96",-
+,Josh Jeffries,Goalkeeper,"Aug 10, 2005 ",18,['England'],England,Southampton,"1,91",-
+,Nathan Morana,Goalkeeper,"Nov 14, 2005 ",18,['England'],England,Crewe,,-
+,Rogan Ravenhill,Goalkeeper,"Oct 25, 2005 ",18,['England'],England,Barnsley,"1,79",-
+,Owen Foster,Goalkeeper,"Jan 7, 2005 ",19,['England'],England,Hull,,-
+,Elliot Krasniqi,Goalkeeper,"Oct 26, 2005 ",18,"['Albania', 'England']",England,London,,-
+,Darryl Ombang,Goalkeeper,"Jul 11, 2005 ",18,['England'],England,Leeds,"1,89",-
+,Oliver Camis,Goalkeeper,"Feb 17, 2005 ",19,"['Wales', 'England']",England,,,-
+,Tom Wooster,Goalkeeper,"Mar 30, 2005 ",18,['England'],England,Sheffield,,-
+62,Tommy Reid,Goalkeeper,"Jan 18, 2005 ",19,['England'],England,Hastings,,-
