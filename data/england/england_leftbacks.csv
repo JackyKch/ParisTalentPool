@@ -1,0 +1,715 @@
+Number,Name,Main Position,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+18,Ashley Young,Defender,Left-Back,"Jul 9, 1985 ",38,"['England', 'Jamaica']",England,Stevenage,RB   LM,"1,75",€600k
+,Ryan Brown,Defender,Left-Back,"Mar 15, 1985 ",39,['England'],England,Stoke-on-Trent,,"1,77",-
+,Chris Williams,Defender,Left-Back,"Feb 2, 1985 ",39,['England'],England,Manchester,,,-
+,Rob Taylor,Defender,Left-Back,"Jan 16, 1985 ",39,['England'],England,Shrewsbury,LM,"1,83",-
+,Adam Smith,Defender,Left-Back,"Sep 11, 1985 ",38,['England'],England,Lingwood,LM   CM,"1,70",-
+,Matty Robson,Defender,Left-Back,"Jan 23, 1985 ",39,['England'],England,Durham,LM   CM,"1,75",-
+,Tom Kennedy,Defender,Left-Back,"Jun 24, 1985 ",38,['England'],England,Bury,RB   CB,"1,80",-
+,Sam Tillen,Defender,Left-Back,"Apr 16, 1985 ",38,['England'],England,Reading,LM,"1,75",-
+,Adam Eckersley,Defender,Left-Back,"Sep 7, 1985 ",38,['England'],England,Worsley,,"1,80",-
+,Neil Ashton,Defender,Left-Back,"Jan 15, 1985 ",39,['England'],England,Liverpool,CB,,-
+,Gary Borrowdale,Defender,Left-Back,"Jul 16, 1985 ",38,['England'],England,London,CB,"1,83",-
+3,Danny Boys,Defender,Left-Back,"Aug 2, 1985 ",38,['England'],England,Darlington,,"1,80",€25k
+,Chris Bourne,Defender,Left-Back,"Jun 9, 1985 ",38,"['Guyana', 'England']",England,Basildon,LM,"1,76",-
+,Erkan Okay,Defender,Left-Back,"Jan 29, 1985 ",39,['England'],England,Cambridge,,"1,70",-
+,Marc Tierney,Defender,Left-Back,"Aug 23, 1985 ",38,"['England', 'Ireland']",England,Prestwich,,"1,83",-
+,John Brackstone,Defender,Left-Back,"Feb 9, 1985 ",39,['England'],England,Hartlepool,,"1,80",-
+,Scott Griffiths,Defender,Left-Back,"Nov 27, 1985 ",38,['England'],England,London,,"1,75",-
+,Carl Tremarco,Defender,Left-Back,"Oct 11, 1985 ",38,['England'],England,Liverpool,,"1,80",-
+,Stephen Reed,Defender,Left-Back,"Jun 18, 1985 ",38,['England'],England,Barnstaple,,"1,73",-
+,Scott Barron,Defender,Left-Back,"Sep 2, 1985 ",38,['England'],England,Preston,LM,"1,75",-
+,Jason Talbot,Defender,Left-Back,"Sep 30, 1985 ",38,['England'],England,Irlam,,"1,73",-
+,Steve Lalley,Defender,Left-Back,"Oct 5, 1986 ",37,['England'],England,Shrewsbury,,,-
+,Lee Dames,Defender,Left-Back,"Jan 21, 1986 ",38,['England'],England,Liverpool,,,-
+,Laurence Wilson,Defender,Left-Back,"Oct 10, 1986 ",37,['England'],England,Liverpool,LM,"1,78",-
+,Mark Branch,Defender,Left-Back,"May 16, 1986 ",37,['England'],England,Sutton Coldfield,,"1,82",-
+,Evan Horwood,Defender,Left-Back,"Mar 10, 1986 ",38,['England'],England,Hartlepool,,"1,83",-
+,Marcus Williams,Defender,Left-Back,"Apr 8, 1986 ",37,['England'],England,Doncaster,LM,"1,73",-
+,Danny Grainger,Defender,Left-Back,"Jul 28, 1986 ",37,['England'],England,Penrith,CB,"1,78",-
+,Daniel Smith,Defender,Left-Back,"Oct 5, 1986 ",37,['England'],England,Sunderland,,"1,75",-
+,Andy Taylor,Defender,Left-Back,"Mar 14, 1986 ",38,['England'],England,Blackburn,CB,"1,83",-
+,Marcos Painter,Defender,Left-Back,"Aug 17, 1986 ",37,"['Ireland', 'England']",England,Birmingham,CB,"1,83",-
+,Andrew Taylor,Defender,Left-Back,"Aug 1, 1986 ",37,['England'],England,Hartlepool,LM,"1,78",-
+,Ryan Dickson,Defender,Left-Back,"Dec 14, 1986 ",37,['England'],England,Saltash,LM,"1,78",-
+,Peter Monks,Defender,Left-Back,"Oct 3, 1986 ",37,"['British Virgin Islands', 'England']",England,Truro,LM,,-
+,Sam Wood,Defender,Left-Back,"Aug 9, 1986 ",37,['England'],England,London,LM   CM,"1,83",-
+21,Dean Moxey,Defender,Left-Back,"Jan 14, 1986 ",38,['England'],England,Exeter,CB,"1,80",-
+,Charlie Daniels,Defender,Left-Back,"Sep 7, 1986 ",37,['England'],England,Harlow,,"1,78",-
+,David Buchanan,Defender,Left-Back,"May 6, 1986 ",37,"['Northern Ireland', 'England']",England,Rochdale,,"1,73",-
+,Sean McDaid,Defender,Left-Back,"Mar 6, 1986 ",38,['England'],England,Harrogate,,"1,68",-
+,Stuart Giddings,Defender,Left-Back,"Mar 27, 1986 ",38,['England'],England,Coventry,,"1,83",-
+,Dan Jones,Defender,Left-Back,"Dec 23, 1986 ",37,['England'],England,Wordsley,,"1,88",-
+,Liam Davis,Defender,Left-Back,"Nov 23, 1986 ",37,['England'],England,Wandsworth,LM,"1,75",-
+,Danny Fox,Defender,Left-Back,"May 29, 1986 ",37,"['Scotland', 'England']",England,Winsford,CB,"1,83",-
+,Daniel Martin,Defender,Left-Back,"Sep 24, 1986 ",37,"['Wales', 'England']",England,Derby,,"1,85",-
+24,Rob Milsom,Defender,Left-Back,"Jan 2, 1987 ",37,['England'],England,Redhill,CM   LM,"1,80",€75k
+,Anthony Higgins,Defender,Left-Back,"Jul 24, 1987 ",36,['England'],England,Liverpool,,"1,85",-
+,Tyrone Sterling,Defender,Left-Back,"Oct 8, 1987 ",36,"['Grenada', 'England']",England,Bromley,LM   CB,"1,80",-
+,Connor Franklin,Defender,Left-Back,"Sep 1, 1987 ",36,['England'],England,Leicester,LM,"1,76",-
+,Nathan Smith,Defender,Left-Back,"Jan 11, 1987 ",37,"['Jamaica', 'England']",England,London,CB,"1,86",-
+,Kasali Yinka Casal,Defender,Left-Back,"Oct 21, 1987 ",36,"['Nigeria', 'England']",England,London,LW,"1,88",-
+,James Jennings,Defender,Left-Back,"Sep 2, 1987 ",36,['England'],England,Manchester,LM,"1,77",-
+,Sam Rents,Defender,Left-Back,"Jun 22, 1987 ",36,['England'],England,Brighton,,"1,80",-
+,Aiden Palmer,Defender,Left-Back,"Jan 2, 1987 ",37,['England'],England,Enfield,,"1,73",-
+,James Krause,Defender,Left-Back,"Jan 9, 1987 ",37,['England'],England,Bury St Edmunds,,"1,80",-
+,Matthew Hislop,Defender,Left-Back,"Jan 31, 1987 ",37,['England'],England,Wolverhampton,,"1,80",-
+,Nathan Ashton,Defender,Left-Back,"Jan 30, 1987 ",37,['England'],England,"Plaistow, London",LW   CM,"1,75",-
+,Martin Vickerton,Defender,Left-Back,"Jun 24, 1987 ",36,['England'],England,Nottingham,,,-
+,Mark Wright,Defender,Left-Back,"Jan 20, 1987 ",37,['England'],England,Buckhurst Hill,,"1,78",-
+,Stephan Morley,Defender,Left-Back,"May 26, 1987 ",36,['England'],England,Northampton,,"1,78",-
+,James Moore,Defender,Left-Back,"Dec 20, 1987 ",36,['England'],England,Manchester,,"1,83",-
+,George Friend,Defender,Left-Back,"Oct 19, 1987 ",36,['England'],England,Barnstaple,CB,"1,88",-
+,Darren Campion,Defender,Left-Back,"Oct 17, 1987 ",36,['England'],England,Birmingham,,"1,80",-
+,Michael Lea,Defender,Left-Back,"Nov 4, 1987 ",36,['England'],England,Salford,CB,"1,78",-
+,Chris Lever,Defender,Left-Back,"Feb 13, 1987 ",37,['England'],England,Oldham,CB,"1,80",-
+,Paul Hinshelwood,Defender,Left-Back,"Oct 11, 1987 ",36,['England'],England,Chatham,,"1,80",-
+,Rhoys Wiggins,Defender,Left-Back,"Nov 4, 1987 ",36,"['Wales', 'England']",England,Uxbridge,,"1,73",-
+,Tommy Spurr,Defender,Left-Back,"Sep 30, 1987 ",36,['England'],England,Leeds,CB,"1,86",-
+,Carl Dickinson,Defender,Left-Back,"Mar 31, 1987 ",37,['England'],England,Swadlincote,CB,"1,85",-
+,Ben Parker,Defender,Left-Back,"Nov 8, 1987 ",36,['England'],England,Pontefract,LM,"1,80",-
+15,Antony Moulds,Defender,Left-Back,"Feb 4, 1988 ",36,"['Gibraltar', 'England']",England,Dunstable,CB   RB,"1,80",€10k
+,George Jermy,Defender,Left-Back,"Jan 12, 1988 ",36,"['England', 'Spain']",England,Bristol,CM,"1,74",-
+,Sam Gore,Defender,Left-Back,"Nov 29, 1988 ",35,['England'],England,Dover,,,-
+,Ben Collins,Defender,Left-Back,"Jun 13, 1988 ",35,"['Wales', 'England']",England,Chester,CB   LM,"1,89",-
+,Ryan Watts,Defender,Left-Back,"May 18, 1988 ",35,['England'],England,Greenford,LM,"1,75",-
+,Lee Neville,Defender,Left-Back,"Apr 6, 1988 ",35,['England'],England,Rochdale,CB   LM,"1,86",-
+,Korede Aiyegbusi,Defender,Left-Back,"Jul 15, 1988 ",35,"['England', 'Nigeria']",England,London,LM   RB,"1,65",-
+,Jordan Collins,Defender,Left-Back,"Dec 7, 1988 ",35,['England'],England,Chelmsford,,"1,78",-
+,Craig Braham-Barrett,Defender,Left-Back,"Jun 28, 1988 ",35,"['Montserrat', 'England']",England,London,LM,"1,75",-
+,Rhys Meynell,Defender,Left-Back,"Aug 17, 1988 ",35,['England'],England,Barnsley,RB   CB,"1,80",-
+,Sean Newton,Defender,Left-Back,"Sep 23, 1988 ",35,['England'],England,Liverpool,LM,"1,88",-
+,Luke O'Brien,Defender,Left-Back,"Sep 11, 1988 ",35,['England'],England,Halifax,,"1,73",-
+3,Joe Martin,Defender,Left-Back,"Nov 29, 1988 ",35,['England'],England,London,,"1,83",-
+,Jey Siva,Defender,Left-Back,"Mar 23, 1988 ",36,"['Denmark', 'India']",England,London,,"1,78",-
+,Tom Bird,Defender,Left-Back,"Dec 8, 1988 ",35,['England'],England,Basingstoke,LM,,-
+,Jake Smeeton,Defender,Left-Back,"Aug 9, 1988 ",35,['England'],England,Yeovil,CB   DM,"1,76",-
+,Tom James,Defender,Left-Back,"Nov 19, 1988 ",35,['England'],England,Leamington Spa,,"1,80",-
+,Phil Doran,Defender,Left-Back,"Nov 30, 1988 ",35,['England'],England,Liverpool,LM,"1,78",-
+,Martin John,Defender,Left-Back,"Aug 1, 1988 ",35,['England'],England,London,LW   CB,"1,86",-
+,Aaron James,Defender,Left-Back,"Sep 16, 1988 ",35,['Scotland'],England,Northampton,LM   CB,,-
+,Anthony Straker,Defender,Left-Back,"Sep 23, 1988 ",35,"['Grenada', 'England']",England,Ealing,LM,"1,75",-
+,Colin Daniel,Defender,Left-Back,"Feb 15, 1988 ",36,['England'],England,Nottingham,LM   LW,"1,80",-
+,Jack Obersteller,Defender,Left-Back,"Oct 10, 1988 ",35,['England'],England,Newham,LM,"1,88",-
+,Danny Blanchett,Defender,Left-Back,"Mar 12, 1988 ",36,['England'],England,Harrow,,"1,83",-
+,Joe Heath,Defender,Left-Back,"Oct 4, 1988 ",35,['England'],England,Birkenhead,LM,"1,80",-
+,Grant Basey,Defender,Left-Back,"Nov 30, 1988 ",35,"['Wales', 'England']",England,Bromley,LM   CB,"1,83",-
+,Robbie Threlfall,Defender,Left-Back,"Nov 28, 1988 ",35,['England'],England,Liverpool,,"1,83",-
+23,Scott Laird,Defender,Left-Back,"May 15, 1988 ",35,"['England', 'Scotland']",England,Taunton,LM,"1,75",-
+,Junior Osborne,Defender,Left-Back,"Feb 12, 1988 ",36,['England'],England,Watford,CB,"1,80",-
+,Jamie Price,Defender,Left-Back,"Jul 22, 1988 ",35,['Wales'],England,Normanton,LW,"1,85",-
+,Sonny Cobbs,Defender,Left-Back,"Dec 1, 1988 ",35,['England'],England,Brighton,LM,,-
+,Luke Boden,Defender,Left-Back,"Nov 26, 1988 ",35,"['England', 'United States']",England,Sheffield,RB   LM,"1,85",-
+,Scott Golbourne,Defender,Left-Back,"Feb 29, 1988 ",36,['England'],England,Bristol,LM,"1,74",-
+,Mark Coulson,Defender,Left-Back,"Feb 11, 1988 ",36,['England'],England,Huntingdon,,"1,73",-
+3,Aaron Cresswell,Defender,Left-Back,"Dec 15, 1989 ",34,['England'],England,Liverpool,LM   CB,"1,70",€900k
+3,Chris Marriott,Defender,Left-Back,"Sep 24, 1989 ",34,['England'],England,Wirral,CB,"1,76",€50k
+,Mike Green,Defender,Left-Back,"May 12, 1989 ",34,['England'],England,Southampton,,"1,83",-
+,Declan Woodgate,Defender,Left-Back,"Jan 21, 1989 ",35,"['England', 'Ireland']",England,Oxford,CB,"1,83",-
+,David Cyrus,Defender,Left-Back,"Mar 8, 1989 ",35,['Grenada'],England,Huddersfield,,"1,88",-
+,Andy McWilliams,Defender,Left-Back,"Nov 5, 1989 ",34,['England'],England,Stockton-on-Tees,LM,"1,75",-
+,Lee Baker,Defender,Left-Back,"Jan 20, 1989 ",35,['England'],England,Redditch,,"1,78",-
+,Joseph Mills,Defender,Left-Back,"Oct 30, 1989 ",34,['England'],England,Swindon,LM,"1,75",-
+,Neil Martin,Defender,Left-Back,"Apr 5, 1989 ",34,['England'],England,Yeovil,LM   LW,,-
+,Ben Algar,Defender,Left-Back,"Dec 3, 1989 ",34,['England'],England,Dronfield,LM,"1,68",-
+,Junior Brown,Defender,Left-Back,"May 7, 1989 ",34,['England'],England,Crewe,LM   RM,"1,75",-
+12,Callum Kennedy,Defender,Left-Back,"Nov 9, 1989 ",34,['England'],England,Chertsey,LM,"1,85",-
+,Joe Anderson,Defender,Left-Back,"Oct 13, 1989 ",34,['England'],England,London,,"1,83",-
+,Ryan Bertrand,Defender,Left-Back,"Aug 5, 1989 ",34,['England'],England,London,LM,"1,79",€300k
+,Jack Harris,Defender,Left-Back,"Jun 7, 1989 ",34,['England'],England,Bristol,LM,,-
+,Curtis Haynes-Brown,Defender,Left-Back,"Apr 15, 1989 ",34,['England'],England,Ipswich,CB,"1,88",-
+,Chris Hussey,Defender,Left-Back,"Jan 2, 1989 ",35,['England'],England,London,LM,"1,78",-
+,James Burgin,Defender,Left-Back,"Sep 6, 1989 ",34,['England'],England,Derby,,"1,80",-
+,Aswad Thomas,Defender,Left-Back,"Aug 9, 1989 ",34,"['England', 'Grenada']",England,London,,"1,75",-
+,James Tyrell,Defender,Left-Back,"Apr 26, 1989 ",34,['England'],England,Oxford,CB,"1,88",-
+,Kurt Robinson,Defender,Left-Back,"Oct 21, 1989 ",34,['England'],England,Basildon,,"1,73",-
+,Paul Jarvis,Defender,Left-Back,"Jul 16, 1989 ",34,['England'],England,Lancaster,LM   CM,"1,81",-
+,Jamie Green,Defender,Left-Back,"Aug 18, 1989 ",34,['England'],England,Rossington,,"1,70",-
+,Johnny Herd,Defender,Left-Back,"Oct 3, 1989 ",34,['England'],England,Huntingdon,,"1,75",-
+,Darren Lough,Defender,Left-Back,"Sep 23, 1989 ",34,['England'],England,Ashington,,"1,82",-
+3,Michael Liddle,Defender,Left-Back,"Dec 25, 1989 ",34,['Ireland'],England,London,CB,"1,73",-
+,Gavin Donoghue,Defender,Left-Back,"Mar 3, 1989 ",35,['Ireland'],England,,,"1,80",-
+,Joe Skarz,Defender,Left-Back,"Jul 13, 1989 ",34,['England'],England,Huddersfield,CB,"1,83",-
+,Andrew Howell,Defender,Left-Back,"Mar 18, 1989 ",35,['England'],England,Great Yarmouth,,"1,78",-
+,Joe Widdowson,Defender,Left-Back,"Mar 28, 1989 ",35,['England'],England,London,,"1,83",-
+,Luke Potter,Defender,Left-Back,"Jul 17, 1989 ",34,['England'],England,Barnsley,CB,"1,92",-
+,Kieran Gibbs,Defender,Left-Back,"Sep 26, 1989 ",34,['England'],England,London,LM,"1,81",-
+12,Joe Bennett,Defender,Left-Back,"Mar 28, 1990 ",34,['England'],England,Rochdale,LM,"1,78",€175k
+3,Danny Andrew,Defender,Left-Back,"Dec 23, 1990 ",33,['England'],England,Boston,CB,"1,80",€100k
+3,Joe Mattock,Defender,Left-Back,"May 15, 1990 ",33,['England'],England,Leicester,,"1,81",€75k
+,Jordan Gough,Defender,Left-Back,"Jun 12, 1990 ",33,['England'],England,Burton-on-Trent,CB,"1,82",-
+,David Fitzpatrick,Defender,Left-Back,"Feb 28, 1990 ",34,['England'],England,Manchester,,"1,79",-
+,Jack Ashton,Defender,Left-Back,"Mar 25, 1990 ",34,['England'],England,Northampton,LM,,-
+2,Stelios Dimitriou,Defender,Left-Back,"Oct 4, 1990 ",33,"['Cyprus', 'England']",England,London,LM   RB,"1,82",-
+,Rory Coleman,Defender,Left-Back,"Dec 22, 1990 ",33,['England'],England,Rotherham,CB,"1,83",-
+,Chris Chantler,Defender,Left-Back,"Dec 16, 1990 ",33,['England'],England,Cheadle Hulme,LM   CM,"1,80",-
+,Andre Blackman,Defender,Left-Back,"Nov 10, 1990 ",33,"['England', 'Jamaica']",England,London,LM,"1,83",-
+,Tom Wynter,Defender,Left-Back,"Jun 20, 1990 ",33,"['England', 'Jamaica']",England,London,,"1,70",-
+,Chris Arthur,Defender,Left-Back,"Jan 25, 1990 ",34,"['England', 'Ghana']",England,London,LM,"1,80",-
+,Lee Hills,Defender,Left-Back,"Apr 3, 1990 ",33,['England'],England,London,,"1,79",-
+11,Harrison Dunk,Defender,Left-Back,"Oct 25, 1990 ",33,['England'],England,London,LM   LW,"1,84",€100k
+3,Lee Brown,Defender,Left-Back,"Aug 10, 1990 ",33,['England'],England,Farnborough,,"1,83",€75k
+14,Chris Lindsay,Defender,Left-Back,"Feb 8, 1990 ",34,['England'],England,,CB,"1,87",-
+,Calvin Crooks,Defender,Left-Back,"Apr 17, 1990 ",33,"['England', 'United States']",England,London,,"1,80",-
+,Aaron Griffiths,Defender,Left-Back,"Feb 5, 1990 ",34,['England'],England,Birmingham,,"1,70",-
+,Johnny Hunt,Defender,Left-Back,"Aug 23, 1990 ",33,"['England', 'Wales']",England,Liverpool,LM   DM,"1,80",-
+,Ashley Corker,Defender,Left-Back,"Sep 18, 1990 ",33,['England'],England,Cleveland,,,-
+,Jordan Tabor,Defender,Left-Back,"Sep 9, 1990","Sep 9, 1990",['England'],England,Wallingford,CB   DM,"1,78",-
+,Ryan Brett,Defender,Left-Back,"Nov 4, 1990 ",33,"['England', 'Ireland']",England,Plympton,,"1,88",-
+,Joe Cobb,Defender,Left-Back,"Oct 21, 1990 ",33,['England'],England,Leicester,,,-
+,Joe Dudgeon,Defender,Left-Back,"Nov 26, 1990 ",33,"['Northern Ireland', 'England']",England,Leeds,LM,"1,78",-
+,Mark Dudley,Defender,Left-Back,"Jan 29, 1990 ",34,['England'],England,Doncaster,,"1,78",-
+,Paul Black,Defender,Left-Back,"Jan 18, 1990 ",34,['England'],England,Rochdale,CB,"1,83",-
+,Rene Steer,Defender,Left-Back,"Jan 31, 1990 ",34,['England'],England,Luton,,"1,73",-
+,Danny Rose,Defender,Left-Back,"Jul 2, 1990 ",33,"['England', 'Jamaica']",England,Doncaster,LM,"1,73",-
+22,La'Vere Corbin-Ong,Defender,Left-Back,"Apr 22, 1991 ",32,"['Malaysia', 'Canada']",England,London,CB,"1,84",€300k
+3,Liam Ridehalgh,Defender,Left-Back,"Apr 20, 1991 ",32,['England'],England,Halifax,CB,"1,78",€100k
+19,Sam Hart,Defender,Left-Back,"Nov 29, 1991 ",32,"['Wales', 'England']",England,Chester,CB   LM,,€50k
+,Josh Bickerstaff,Defender,Left-Back,"Jan 31, 1991 ",33,['England'],England,Stevenage,LM   CB,"1,83",-
+,David Thompson,Defender,Left-Back,"Feb 27, 1991 ",33,['England'],England,Liverpool,LM,"1,89",-
+,Eddy Nisevic,Defender,Left-Back,"May 19, 1991 ",32,"['England', 'Serbia']",England,Nuneaton,,"1,83",-
+,Calum Flanagan,Defender,Left-Back,"Dec 30, 1991 ",32,['England'],England,Birmingham,CB,,-
+,Hakeem Adelakun,Defender,Left-Back,"Jan 8, 1991 ",33,"['England', 'Nigeria']",England,,CB   DM,"1,83",-
+,Matt Parsons,Defender,Left-Back,"Dec 25, 1991 ",32,['England'],England,London,LM,"1,78",-
+3,Femi Ilesanmi,Defender,Left-Back,"Apr 18, 1991 ",32,"['England', 'Nigeria']",England,London,CB,"1,85",-
+3,Josh Casey,Defender,Left-Back,"Oct 19, 1991 ",32,['England'],England,Ascot,LM,,-
+16,Adam Blakeman,Defender,Left-Back,"Dec 3, 1991 ",32,['England'],England,Widnes,LM   CM,"1,75",-
+,Ben Turner,Defender,Left-Back,"Jul 9, 1991 ",32,['England'],England,Worksop,,"1,86",-
+13,Scott Malone,Defender,Left-Back,"Mar 25, 1991 ",33,['England'],England,Rowley Regis,LM,"1,89",€250k
+23,Adam Chicksen,Defender,Left-Back,"Sep 27, 1991 ",32,"['Zimbabwe', 'England']",England,Milton Keynes,RB   CB,"1,73",€75k
+,Jack Wilson,Defender,Left-Back,"Sep 5, 1991 ",32,['England'],England,Birmingham,,,-
+3,Ray Forrester,Defender,Left-Back,"Mar 5, 1991 ",33,['England'],England,Manchester,LM   CM,"1,80",-
+,Leon Redwood,Defender,Left-Back,"Sep 23, 1991 ",32,['England'],England,London,LM,"1,83",-
+,Oscar Brooks,Defender,Left-Back,"Sep 6, 1991 ",32,"['Australia', 'England']",England,London,RB   LW,"1,79",-
+,Paul Weldon,Defender,Left-Back,"Nov 27, 1991 ",32,['England'],England,Sunderland,CB,,-
+,Ryan Granger,Defender,Left-Back,"May 19, 1991 ",32,['England'],England,Nottingham,,,-
+,Dan Ball,Defender,Left-Back,"Nov 21, 1991 ",32,['England'],England,Bristol,CB,,-
+,Louis Barnes,Defender,Left-Back,"Jan 16, 1991 ",33,['England'],England,Liverpool,CB   LM,,-
+,Luke Rowe,Defender,Left-Back,"Sep 16, 1991 ",32,"['New Zealand', 'England']",England,Leamington Spa,LM   LW,"1,77",-
+,Ben Gordon,Defender,Left-Back,"Mar 2, 1991 ",33,['England'],England,Bradford,,"1,81",-
+,Darryl Coakley,Defender,Left-Back,"Feb 9, 1991 ",33,['England'],England,Bury St. Edmonds,,,-
+,Joel Edwards,Defender,Left-Back,"Aug 18, 1991 ",32,['England'],England,Hereford,LM   CB,,-
+,Ryan Batley,Defender,Left-Back,"Nov 17, 1991 ",32,"['Wales', 'England']",England,Portsmouth,CB,,-
+,Rimmel Daniel,Defender,Left-Back,"Jan 28, 1991 ",33,"['Grenada', 'England']",England,London,CB   LM,"1,83",-
+,Aidy White,Defender,Left-Back,"Oct 10, 1991 ",32,"['Ireland', 'England']",England,Leeds,LM,"1,75",-
+,Thomas Cruise,Defender,Left-Back,"Mar 9, 1991 ",33,['England'],England,London,CB,"1,83",-
+,Phil Roe,Defender,Left-Back,"Oct 7, 1991 ",32,['England'],England,Chelmsford,LM,"1,78",-
+3,Blair Adams,Defender,Left-Back,"Sep 8, 1991 ",32,['England'],England,South Shields,LM,"1,78",-
+,Ellis Martin,Defender,Left-Back,"Oct 18, 1991 ",32,['England'],England,Portsmouth,,"1,84",-
+,Curtis Wynter,Defender,Left-Back,"Jun 24, 1991 ",32,['England'],England,Birmingham,,"1,91",-
+,Jordan Brown,Defender,Left-Back,"Oct 11, 1991 ",32,['England'],England,Benfleet,,"1,75",-
+14,Jordan Mustoe,Defender,Left-Back,"Jan 28, 1991 ",33,['England'],England,Birkenhead,,"1,79",-
+33,Dan Burn,Defender,Left-Back,"May 9, 1992 ",31,['England'],England,Blyth,CB,"2,01",€10.00m
+,Zeki Fryers,Defender,Left-Back,"Sep 9, 1992 ",31,['England'],England,Manchester,CB,"1,85",€100k
+3,Connor Hampson,Defender,Left-Back,"Aug 23, 1992 ",31,['England'],England,Ashton-under-Lyne,CB,"1,78",-
+,Liam Franco,Defender,Left-Back,"Mar 31, 1992 ",32,"['Gibraltar', 'England']",England,Nottingham,DM,"1,75",-
+,Moses Makinde,Defender,Left-Back,"Nov 15, 1992 ",31,"['England', 'United States']",England,London,CB,"1,87",-
+,Lee McArdle,Defender,Left-Back,"Jan 20, 1992 ",32,"['England', 'Wales']",England,Liverpool,,,-
+,Connor Gudger,Defender,Left-Back,"Sep 23, 1992 ",31,['England'],England,Nuneaton,CB,"1,73",-
+3,Andy White,Defender,Left-Back,"Oct 8, 1992 ",31,['England'],England,Chester,CB,"1,70",-
+,Jordan Trott,Defender,Left-Back,"Feb 17, 1992 ",32,['England'],England,Plymouth,CB,"1,78",-
+,Ben Sampayo,Defender,Left-Back,"Dec 10, 1992 ",31,['England'],England,London,RB,"1,76",-
+3,Jamie Reckord,Defender,Left-Back,"Mar 9, 1992 ",32,['England'],England,Wolverhampton,,"1,73",-
+,George Brislen-Hall,Defender,Left-Back,"Dec 24, 1992 ",31,['England'],England,Harlow,,"1,70",-
+,Seb Dunbar,Defender,Left-Back,"May 21, 1992 ",31,['England'],England,Ipswich,,"1,73",-
+5,Daniel Ting,Defender,Left-Back,"Jan 12, 1992 ",32,"['Malaysia', 'England']",England,Chester,CB,"1,72",€175k
+5,Richard Ofosu,Defender,Left-Back,N/A ,31,"['England', 'Ghana']",England,,CB   DM,,-
+,Dan Wishart,Defender,Left-Back,"May 28, 1992 ",31,['England'],England,London,LM,"1,82",-
+,Otis Earle,Defender,Left-Back,"Jan 17, 1992 ",32,"['England', 'Jamaica']",England,London,,"1,85",-
+,Nathan Green,Defender,Left-Back,"Jun 8, 1992 ",31,['England'],England,London,LM,"1,86",-
+20,Sam Mitchinson,Defender,Left-Back,"Sep 26, 1992 ",31,['Australia'],England,Walsall,CB   CM,"1,80",-
+,Josh Evans,Defender,Left-Back,"Aug 24, 1992 ",31,"['Wales', 'England']",England,,,,-
+,Oscar Radford,Defender,Left-Back,"Sep 15, 1992 ",31,['England'],England,Rotherham,CB,,-
+,Nathan Fox,Defender,Left-Back,"Nov 14, 1992 ",31,['England'],England,Leicester,LM,"1,78",-
+,Danny Fitzsimons,Defender,Left-Back,"May 5, 1992 ",31,"['Ireland', 'England']",England,London,CB,"1,85",-
+,Jernade Meade,Defender,Left-Back,"Oct 25, 1992 ",31,"['Montserrat', 'England']",England,Luton,LM,"1,65",-
+,Jake McEneaney,Defender,Left-Back,N/A ,32,['Wales'],England,Skipton,,,-
+28,Sam Habergham,Defender,Left-Back,"Feb 20, 1992 ",32,['England'],England,Rotherham,,"1,83",-
+3,Charlie Taylor,Defender,Left-Back,"Sep 18, 1993 ",30,['England'],England,York,CB,"1,83",€3.00m
+21,Jake Bidwell,Defender,Left-Back,"Mar 21, 1993 ",31,['England'],England,Southport,LM,"1,83",€1.80m
+25,Sam Byram,Defender,Left-Back,"Sep 16, 1993 ",30,['England'],England,Thurrock,RB   RM,"1,83",€1.00m
+3,Josh Ruffels,Defender,Left-Back,"Oct 23, 1993 ",30,['England'],England,Oxford,DM   CM,"1,78",€400k
+33,Reece James,Defender,Left-Back,"Nov 7, 1993 ",30,['England'],England,Bacup,LM   DM,"1,82",€300k
+29,Luke Garbutt,Defender,Left-Back,"May 21, 1993 ",30,['England'],England,Harrogate,LM,"1,80",€200k
+3,Mal Benning,Defender,Left-Back,"Nov 2, 1993 ",30,"['England', 'India']",England,Sandwell,,"1,78",€175k
+,Jack Parter,Defender,Left-Back,"Nov 21, 1993 ",30,['England'],England,Faversham,RB,"1,77",-
+,Matty Devine,Defender,Left-Back,"Nov 16, 1993 ",30,['England'],England,Liverpool,,,-
+,Ellis Storey,Defender,Left-Back,"Nov 27, 1993 ",30,['England'],England,Nottingham,CB,,-
+,Ryan Wilson,Defender,Left-Back,"Mar 4, 1993 ",31,"['Northern Ireland', 'England']",England,Derby,,"1,83",-
+,Joe Bunney,Defender,Left-Back,"Sep 26, 1993 ",30,['England'],England,Manchester,LM   LW,"1,88",-
+,Lewis Sirrell,Defender,Left-Back,"Oct 31, 1993 ",30,['England'],England,Thornaby,CB   LM,,-
+3,Conor Townsend,Defender,Left-Back,"Mar 4, 1993 ",31,['England'],England,Hessle,LM,"1,83",€1.80m
+15,Joe Bryan,Defender,Left-Back,"Sep 17, 1993 ",30,['England'],England,Bristol,LM,"1,70",€1.50m
+15,Morgan Fox,Defender,Left-Back,"Sep 21, 1993 ",30,"['Wales', 'England']",England,Chelmsford,CB,"1,85",€600k
+21,Jordan Obita,Defender,Left-Back,"Dec 8, 1993 ",30,"['England', 'Uganda']",England,Oxford,LM,"1,81",€350k
+21,Connor Ruane,Defender,Left-Back,"Nov 15, 1993 ",30,['England'],England,Manchester,LW,"1,78",€200k
+6,Andrew Fox,Defender,Left-Back,"Jan 15, 1993 ",31,['England'],England,Huntingdon,CB,"1,80",€175k
+6,Jordan Knott,Defender,Left-Back,"Sep 13, 1993 ",30,['Wales'],England,Newport,CB,,€25k
+4,Jack Horrocks,Defender,Left-Back,"May 26, 1993 ",30,['England'],England,Liverpool,LM,"1,83",-
+,Sam Beale,Defender,Left-Back,"Nov 15, 1993 ",30,['England'],England,Rochester,LM,,-
+,Luke Graham Beastall,Defender,Left-Back,"Oct 3, 1993 ",30,['England'],England,,LM,"1,70",-
+,Lewis Galpin,Defender,Left-Back,"Nov 18, 1993 ",30,['England'],England,Hebburn,CB,,-
+,Aaron Tumwa,Defender,Left-Back,"Sep 27, 1993 ",30,"['Antigua and Barbuda', 'England']",England,London,CB,"1,79",-
+,Iain Edmunds,Defender,Left-Back,"Jan 12, 1993 ",31,"['Wales', 'England']",England,Shrewsbury,LW,,-
+,Chris Sessegnon,Defender,Left-Back,"Aug 10, 1993 ",30,"['England', 'Benin']",England,London,RB   LM,"1,78",-
+,Jordan Cranston,Defender,Left-Back,"Nov 11, 1993 ",30,"['Wales', 'England']",England,Wolverhampton,LM   DM,"1,80",-
+,Max Penk,Defender,Left-Back,"Feb 17, 1993 ",31,"['Wales', 'England']",England,Chester,CB,,-
+21,Zaine Francis-Angol,Defender,Left-Back,"Jun 30, 1993 ",30,"['Antigua and Barbuda', 'England']",England,London,LM   CB,"1,73",-
+3,Alex Whittle,Defender,Left-Back,"Mar 15, 1993 ",31,['England'],England,Liverpool,LM,"1,75",-
+,James Brighton,Defender,Left-Back,"Jun 21, 1993 ",30,['England'],England,Redditch,,"1,73",-
+,Adam Dodd,Defender,Left-Back,"May 14, 1993 ",30,['England'],England,Kirkham,LM   RM,"1,87",-
+,Marc Lancaster,Defender,Left-Back,"May 4, 1993 ",30,['England'],England,Newcastle,LM,,-
+,Luke Giverin,Defender,Left-Back,"Feb 4, 1993 ",31,['England'],England,Salford,LM   CM,,-
+,Liam Willis,Defender,Left-Back,"May 21, 1993 ",30,['England'],England,Liverpool,LM,"1,83",-
+11,Luke Fairlamb,Defender,Left-Back,"Sep 5, 1993 ",30,['England'],England,Northampton,LM   LW,"1,76",-
+,Johnny Lynch,Defender,Left-Back,"Nov 2, 1993 ",30,['England'],England,Wigan,LM,"1,80",-
+,Kynan Isaac,Defender,Left-Back,"Jan 1, 1993 ",31,['England'],England,Oxford,LM   LW,"1,83",-
+18,Michael Allan,Defender,Left-Back,"Mar 10, 1993 ",31,['England'],England,Berwick-upon-Tweed,CB   RB,,-
+,Michael Hoganson,Defender,Left-Back,"Oct 3, 1993 ",30,['England'],England,Newcastle,,"1,80",-
+,Jake Wholey,Defender,Left-Back,"Dec 1, 1993 ",30,['England'],England,Nottingham,,,-
+,Andy Kellett,Defender,Left-Back,"Nov 10, 1993 ",30,['England'],England,Bolton,LM   CM,"1,71",-
+3,Nathan Ralph,Defender,Left-Back,"Feb 14, 1993 ",31,"['England', 'Jamaica']",England,London,LM   CB,"1,75",-
+,James Campbell,Defender,Left-Back,"Nov 1, 1993 ",30,['Scotland'],England,Welwyn Garden City,CB   CM,,-
+,Jack Harrison,Defender,Left-Back,"Jan 25, 1993 ",31,['England'],England,Stoke-on-Trent,LM,,-
+,Gez Mulholland,Defender,Left-Back,"Feb 21, 1993 ",31,['England'],England,Birmingham,,,-
+26,Mitch Hancox,Defender,Left-Back,"Nov 9, 1993 ",30,['England'],England,Solihull,LM   DM,"1,78",-
+29,Amari'i Bell,Defender,Left-Back,"May 5, 1994 ",29,"['Jamaica', 'England']",England,Burton upon Trent,LM   CB,"1,80",€2.50m
+3,Scott Tanser,Defender,Left-Back,"Oct 23, 1994 ",29,['England'],England,Blackpool,LM,"1,82",€500k
+6,Tyler Blackett,Defender,Left-Back,"Apr 2, 1994 ",29,"['England', 'Barbados']",England,Manchester,CB,"1,83",€500k
+25,Ayman Ben Mohamed,Defender,Left-Back,"Dec 8, 1994 ",29,"['Tunisia', 'Ireland']",England,London,LM,"1,76",€400k
+3,Dan Jones,Defender,Left-Back,"Dec 14, 1994 ",29,['England'],England,Bishop Auckland,CB,"1,83",€175k
+,Fuad Adeniyi,Defender,Left-Back,"Nov 15, 1994 ",29,"['England', 'Nigeria']",England,London,CB,"1,83",-
+,Chinua Cole,Defender,Left-Back,"Apr 22, 1994 ",29,"['England', 'Nigeria']",England,Brent,,,-
+,James Joyce,Defender,Left-Back,"Nov 3, 1994 ",29,"['Wales', 'England']",England,Liverpool,,"1,77",-
+,Kyle Connolly,Defender,Left-Back,"Jul 18, 1994 ",29,['England'],England,Watford,,"1,88",-
+,Sean Smith,Defender,Left-Back,"Dec 12, 1994 ",29,['England'],England,Liverpool,,"1,60",-
+,Jerome Jibodu,Defender,Left-Back,"Mar 3, 1994 ",30,"['England', 'Ghana']",England,Bedford,RB,,-
+,Jack Connors,Defender,Left-Back,"Oct 24, 1994 ",29,"['Ireland', 'England']",England,London,,"1,73",-
+,Lewis Morgan,Defender,Left-Back,"Nov 26, 1994 ",29,['England'],England,Somerset,LM,,-
+3,Dan Potts,Defender,Left-Back,"Apr 13, 1994 ",29,['England'],England,London,CB,"1,73",€900k
+3,James Husband,Defender,Left-Back,"Jan 3, 1994 ",30,['England'],England,Leeds,CB,"1,79",€500k
+3,Dan Butler,Defender,Left-Back,"Aug 26, 1994 ",29,['England'],England,Cowes,LM,"1,75",€450k
+22,Greg Leigh,Defender,Left-Back,"Sep 30, 1994 ",29,"['Jamaica', 'England']",England,Manchester,LM,"1,81",€225k
+3,Callum McFadzean,Defender,Left-Back,"Jan 16, 1994 ",30,"['Scotland', 'England']",England,Waterthorpe,LM,"1,81",€100k
+,Tom Carlse,Defender,Left-Back,"May 7, 1994 ",29,['England'],England,Gravesend,LM,"1,68",-
+,Kristian Campbell,Defender,Left-Back,"May 2, 1994 ",29,['England'],England,London,,"1,83",-
+,Joe Leesley,Defender,Left-Back,"Mar 29, 1994 ",30,['England'],England,Sheffield,LM,"1,82",-
+,Ryan Sellers,Defender,Left-Back,"Oct 13, 1994 ",29,['England'],England,Mill Hill,LM,"1,80",-
+,Jake Green,Defender,Left-Back,"Mar 12, 1994 ",30,['England'],England,Bristol,LM,"1,74",-
+,Rhys Sharpe,Defender,Left-Back,"Oct 17, 1994 ",29,"['Northern Ireland', 'England']",England,Nottingham,CB,"1,80",-
+,Lewis Aird,Defender,Left-Back,"Sep 24, 1994 ",29,['England'],England,Newcastle,,"1,81",-
+,Ben Jefford,Defender,Left-Back,"Sep 4, 1994 ",29,['England'],England,Southampton,CB,"1,83",-
+,Ryan Thompson,Defender,Left-Back,"Nov 3, 1994 ",29,['England'],England,Blackburn,CB,,-
+,Newman Carney,Defender,Left-Back,"Mar 23, 1994 ",30,['England'],England,Luton,CB,"1,78",-
+,Joe Kay,Defender,Left-Back,"Oct 9, 1994 ",29,['England'],England,Brighton,LM,"1,80",-
+26,Lewis Kinsella,Defender,Left-Back,"Sep 2, 1994 ",29,['England'],England,Watford,LM,"1,75",-
+,Tom Richards,Defender,Left-Back,"Oct 16, 1994 ",29,['England'],England,Guildford,LM,"1,71",-
+,Haris Hodzic,Defender,Left-Back,"Jun 28, 1994 ",29,"['England', 'Bosnia-Herzegovina']",England,London,LM   LW,"1,80",-
+,Raheem Hanley,Defender,Left-Back,"Feb 24, 1994 ",30,"['St. Kitts & Nevis', 'England']",England,Blackburn,LM   CM,"1,75",-
+,Glenn Matthews,Defender,Left-Back,"Nov 9, 1994 ",29,['England'],England,Bolton,,,-
+,Frazer Shaw,Defender,Left-Back,"Dec 23, 1994 ",29,['England'],England,London,,"1,75",-
+,Anthony Callaghan,Defender,Left-Back,"May 2, 1994 ",29,['England'],England,Sunderland,,"1,79",-
+3,David Ferguson,Defender,Left-Back,"Jun 7, 1994 ",29,['England'],England,Sunderland,LM   CB,"1,80",-
+,Michael Riley,Defender,Left-Back,"Mar 5, 1994 ",30,['England'],England,Newcastle,,,-
+,Joe Whight,Defender,Left-Back,"Jan 6, 1994 ",30,['England'],England,Ipswich,CB,"1,78",-
+,Brad Garmston,Defender,Left-Back,"Jan 18, 1994 ",30,"['Ireland', 'England']",England,Chorley,LM,"1,77",-
+3,Elliot Johnson,Defender,Left-Back,"Aug 17, 1994 ",29,['England'],England,London,CB,"1,78",-
+23,Luke Shaw,Defender,Left-Back,"Jul 12, 1995 ",28,['England'],England,London,LM   CB,"1,78",€35.00m
+15,Harry Toffolo,Defender,Left-Back,"Aug 19, 1995 ",28,['England'],England,Welwyn Garden City,LM,"1,83",€5.00m
+33,Brandon Ormonde-Ottewill,Defender,Left-Back,"Dec 21, 1995 ",28,['England'],England,Sutton,LM   RB,"1,72",€500k
+24,Ryan Haynes,Defender,Left-Back,"Sep 27, 1995 ",28,['England'],England,Northampton,,"1,85",€150k
+,Nathan Mavila,Defender,Left-Back,"Oct 15, 1995 ",28,"['England', 'DR Congo']",England,London,LM,"1,77",€100k
+,Finnlay Wyatt,Defender,Left-Back,"Jan 18, 1995 ",29,['England'],England,Sheffield,,"1,80",-
+3,Danny Greenslade,Defender,Left-Back,"Sep 28, 1995 ",28,['England'],England,Belper,,"1,80",-
+,Kane Farrell,Defender,Left-Back,"Nov 17, 1995 ",28,['England'],England,London,LM   RB,"1,82",-
+,Ross McNab,Defender,Left-Back,"Sep 6, 1995 ",28,['England'],England,Sunderland,CB,,-
+,Ben Barber,Defender,Left-Back,"Sep 8, 1995 ",28,['England'],England,Stockport,,,-
+,Matthew Jones,Defender,Left-Back,"Nov 30, 1995 ",28,['England'],England,Swindon,,,-
+,Sam Muggleton,Defender,Left-Back,"Nov 17, 1995 ",28,['England'],England,Melton Mowbray,LM,"1,80",-
+,Tom Smart,Defender,Left-Back,"Dec 5, 1995 ",28,['Northern Ireland'],England,Rowley Regis,RB,"1,75",-
+13,Matt Targett,Defender,Left-Back,"Sep 18, 1995 ",28,"['England', 'Scotland']",England,Eastleigh,LM,"1,83",€10.00m
+3,Sam Adekugbe,Defender,Left-Back,"Jan 16, 1995 ",29,"['Canada', 'Nigeria']",England,London,,"1,76",€1.50m
+3,Tommy Robson,Defender,Left-Back,"Sep 11, 1995 ",28,['England'],England,Stanley,LM   DM,"1,78",€250k
+,Kevin Wright,Defender,Left-Back,"Dec 28, 1995 ",28,"['Sierra Leone', 'England']",England,Ilford,LM,"1,69",€150k
+23,Alfie Rogers,Defender,Left-Back,"Feb 6, 1995 ",29,"['New Zealand', 'England']",England,Lancaster,,"1,87",€10k
+33,Tyler Denton,Defender,Left-Back,"Sep 6, 1995 ",28,['England'],England,Dewsbury,LM,"1,76",-
+,Connor Smythe,Defender,Left-Back,"Nov 30, 1995 ",28,['England'],England,Penistone,LM,,-
+,Will Summerfield,Defender,Left-Back,"Nov 8, 1995 ",28,['England'],England,Bedford,LM   CM,"1,72",-
+26,Mark Kitching,Defender,Left-Back,"Sep 4, 1995 ",28,['England'],England,Guisborough,CB   DM,"1,88",-
+,Jack Truelove,Defender,Left-Back,"Dec 27, 1995 ",28,['England'],England,Burnley,CB,"1,80",-
+,Tareiq Holmes-Dennis,Defender,Left-Back,"Oct 31, 1995 ",28,"['England', 'Jamaica']",England,Farnborough,,"1,75",-
+,Ambrose Gnahore,Defender,Left-Back,"Dec 11, 1995 ",28,"['England', ""Cote d'Ivoire""]",England,London,LM,"1,81",-
+,Jerome Binnom-Williams,Defender,Left-Back,"Mar 7, 1995 ",29,['England'],England,London,CB   LM,"1,87",-
+,David Lynn,Defender,Left-Back,"Jan 31, 1995 ",29,['England'],England,Aylesbury,,"1,80",-
+,Sam McQueen,Defender,Left-Back,"Feb 6, 1995 ",29,['England'],England,Southampton,LM   LW,"1,81",-
+,Jasper Johns,Defender,Left-Back,"Feb 6, 1995 ",29,"['England', 'Jamaica']",England,Stafford,LM,,-
+,Arinse Uade,Defender,Left-Back,"Dec 26, 1995 ",28,"['England', 'Nigeria']",England,London,LM,"1,83",-
+,Louis Rowley,Defender,Left-Back,"Apr 21, 1995 ",28,['England'],England,Nuneaton,DM   LM,,-
+,Kyle Brownhill,Defender,Left-Back,"Mar 29, 1995 ",29,['England'],England,Manchester,,"1,78",-
+6,Kieran Wallace,Defender,Left-Back,"Jan 26, 1995 ",29,['England'],England,Nottingham,CB   DM,"1,86",-
+21,Ben Chilwell,Defender,Left-Back,"Dec 21, 1996 ",27,"['England', 'New Zealand']",England,Milton Keynes,LM,"1,80",€30.00m
+2,Ben Purrington,Defender,Left-Back,"May 20, 1996 ",27,['England'],England,Exeter,,"1,84",€450k
+6,Connor Ogilvie,Defender,Left-Back,"Feb 14, 1996 ",28,['England'],England,Waltham Abbey,CB,"1,84",€300k
+25,Nathan McGinley,Defender,Left-Back,"Sep 15, 1996 ",27,['England'],England,Middlesbrough,CB,"1,91",€200k
+20,Brandon Haunstrup,Defender,Left-Back,"Oct 26, 1996 ",27,['England'],England,Waterlooville,,"1,72",€175k
+42,Sam Hart,Defender,Left-Back,"Sep 10, 1996 ",27,['England'],England,Bolton,LM   CB,"1,83",€150k
+3,Regan Donelon,Defender,Left-Back,"Apr 17, 1996 ",27,"['Ireland', 'England']",England,Manchester,LM   LW,"1,71",€50k
+3,Sam Brown,Defender,Left-Back,"Feb 10, 1996 ",28,['England'],England,Northampton,,,-
+3,Harry Singh,Defender,Left-Back,"Feb 4, 1996 ",28,"['England', 'India']",England,London,DM   CB,"1,83",-
+,Ahmed Abdirizak,Defender,Left-Back,"May 12, 1996 ",27,"['Somalia', 'Netherlands']",England,London,AM   LM,"1,79",-
+,Matty Templeton,Defender,Left-Back,"Oct 28, 1996 ",27,['England'],England,Bassetlaw,,,-
+,Freddie Grant,Defender,Left-Back,"Dec 9, 1996 ",27,['England'],England,Tilehurst,,"1,80",-
+,Luke Higham,Defender,Left-Back,"Oct 21, 1996 ",27,['England'],England,Blackpool,,,-
+3,Cohen Bramall,Defender,Left-Back,"Apr 2, 1996 ",27,['England'],England,Crewe,,"1,78",€500k
+20,Sam Gleadle,Defender,Left-Back,"Mar 20, 1996 ",28,['England'],England,Chichester,LM   CM,"1,78",€300k
+33,Patrick Brough,Defender,Left-Back,"Feb 20, 1996 ",28,['England'],England,Carlisle,CB,"1,91",€275k
+3,Max Clark,Defender,Left-Back,"Jan 19, 1996 ",28,['England'],England,Kingston upon Hull,DM   LM,"1,79",€200k
+27,Connor Wood,Defender,Left-Back,"Jul 17, 1996 ",27,['England'],England,Harlow,LM,"1,77",€150k
+26,Jordan Marshall,Defender,Left-Back,"Oct 27, 1996 ",27,['England'],England,Newcastle upon Tyne,LM,"1,81",€75k
+27,Tyler Garratt,Defender,Left-Back,"Oct 26, 1996 ",27,['England'],England,Lincoln,CB   LM,"1,82",€25k
+,Joe Guinchard,Defender,Left-Back,"Feb 3, 1996 ",28,['England'],England,London,,"1,73",-
+,Michael Kedman,Defender,Left-Back,"Dec 16, 1996 ",27,"['Trinidad and Tobago', 'England']",England,London,LM,"1,76",-
+,Christian Scales,Defender,Left-Back,"Dec 3, 1996 ",27,['England'],England,Amwell,,"1,78",-
+36,Myles Kenlock,Defender,Left-Back,"Nov 26, 1996 ",27,['England'],England,London,,"1,85",-
+,Kyran Wiltshire,Defender,Left-Back,"Jun 30, 1996 ",27,['England'],England,Luton,LM,"1,78",-
+,Adam Laidler,Defender,Left-Back,"Nov 14, 1996 ",27,['England'],England,South Shields,LM,,-
+,Sam Warburton,Defender,Left-Back,"Oct 10, 1996 ",27,['England'],England,Northampton,,"1,78",-
+,Connor Riley-Lowe,Defender,Left-Back,"Jan 10, 1996 ",28,['England'],England,Paignton,,,-
+,Cieron Keane,Defender,Left-Back,"Aug 14, 1996 ",27,"['Ireland', 'England']",England,Nottingham,DM,"1,78",-
+3,Hammed Lawal,Defender,Left-Back,"Sep 3, 1996 ",27,"['England', 'Nigeria']",England,,LM   LW,,-
+,Michael O'Donoghue,Defender,Left-Back,"Jan 18, 1996 ",28,['Ireland'],England,London,CB   DM,"1,80",-
+,Courtney Wildin,Defender,Left-Back,"Mar 30, 1996 ",28,"['Antigua and Barbuda', 'England']",England,Crewe,CB,,-
+,Joe Maguire,Defender,Left-Back,"Jan 18, 1996 ",28,['England'],England,Manchester,CB   RB,"1,79",-
+,Peter Smith,Defender,Left-Back,"Mar 31, 1996 ",28,"['Wales', 'England']",England,Kidderminster,LM,"1,82",-
+,Ben Wyatt,Defender,Left-Back,"Feb 4, 1996 ",28,['England'],England,Norwich,,"1,73",-
+3,Riccardo Calder,Defender,Left-Back,"Jan 26, 1996 ",28,"['England', 'Jamaica']",England,Birmingham,LM   DM,"1,83",-
+,Ashley Smith-Brown,Defender,Left-Back,"Mar 31, 1996 ",28,['England'],England,Manchester,RB   CB,"1,77",-
+,George Smith,Defender,Left-Back,"Aug 14, 1996 ",27,['England'],England,Barnsley,LM,"1,83",-
+,Oliver Luto,Defender,Left-Back,"Feb 13, 1996 ",28,['England'],England,Boston,,,-
+33,Kaleem Simon,Defender,Left-Back,"Jul 8, 1996 ",27,"['Montserrat', 'Ireland']",England,London,,,-
+,James Bowen,Defender,Left-Back,"Feb 4, 1996 ",28,['England'],England,Worcester,LM,"1,81",-
+,Caine Winfarrah,Defender,Left-Back,"Feb 1, 1996 ",28,['England'],England,Grimsby,LM,,-
+3,Ryan Lane,Defender,Left-Back,"Oct 30, 1996 ",27,['England'],England,Looe,LM,"1,78",-
+,Bobby Moseley,Defender,Left-Back,"Mar 7, 1996 ",28,"['Ireland', 'England']",England,Birmingham,,"1,78",-
+3,Joel Taylor,Defender,Left-Back,"Mar 24, 1996 ",28,"['England', 'Jamaica']",England,West Bromwich,LM,"1,80",-
+19,Sam Tattum,Defender,Left-Back,"Sep 3, 1996 ",27,"['Wales', 'England']",England,Salford,DM   RB,"1,84",-
+,Ben O'Hanlon,Defender,Left-Back,"Feb 22, 1996 ",28,['England'],England,Telford,,"1,74",-
+15,Lewis Page,Defender,Left-Back,"May 20, 1996 ",27,['England'],England,London,,"1,78",-
+3,Eliot Putman,Defender,Left-Back,"Apr 2, 1996 ",27,['England'],England,Leicester,,"1,83",-
+3,Rico Henry,Defender,Left-Back,"Jul 8, 1997 ",26,"['England', 'Jamaica']",England,Birmingham,LM,"1,70",€25.00m
+3,Max Lowe,Defender,Left-Back,"May 11, 1997 ",26,['England'],England,South Normanton,LM,"1,75",€2.50m
+3,Steve Seddon,Defender,Left-Back,"Dec 25, 1997 ",26,['England'],England,Reading,,,€250k
+11,Calum MacDonald,Defender,Left-Back,"Dec 18, 1997 ",26,"['Scotland', 'England']",England,Nottingham,,"1,80",€175k
+3,Ellis Iandolo,Defender,Left-Back,"Aug 22, 1997 ",26,['England'],England,Chatham,LM   CM,"1,86",€125k
+12,Tom Field,Defender,Left-Back,"Mar 14, 1997 ",27,"['Ireland', 'England']",England,London,LM,"1,77",€75k
+20,Oscar Borg,Defender,Left-Back,"Sep 5, 1997 ",26,"['England', 'Malta']",England,Sutton,LM   CB,"1,79",€50k
+,Bradley Fangas,Defender,Left-Back,"Jun 28, 1997 ",26,"['England', 'DR Congo']",England,London,CB   DM,"1,86",-
+,Shaquille Taylor Alcide,Defender,Left-Back,N/A ,27,"['England', 'St. Lucia']",England,,LM   RM,"1,80",-
+,Rhys Mason,Defender,Left-Back,"Sep 3, 1997 ",26,"['England', 'Barbados']",England,Birmingham,LW,"1,73",-
+,Jack Williams,Defender,Left-Back,"Sep 11, 1997 ",26,"['England', 'Ireland']",England,London,DM,"1,74",-
+,Callum Pritchatt,Defender,Left-Back,"Oct 7, 1997 ",26,['England'],England,Birmingham,,"1,93",-
+,Noah Chesmain,Defender,Left-Back,"Dec 16, 1997 ",26,['England'],England,London,,"1,75",-
+33,Antonee Robinson,Defender,Left-Back,"Aug 8, 1997 ",26,"['United States', 'England']",England,Milton Keynes,LM,"1,83",€20.00m
+16,Marc Bola,Defender,Left-Back,"Dec 9, 1997 ",26,"['England', 'DR Congo']",England,London,LM   CB,"1,85",€1.10m
+3,Cameron Borthwick-Jackson,Defender,Left-Back,"Feb 2, 1997 ",27,['England'],England,Manchester,CB,"1,90",€250k
+39,Ben Tilney,Defender,Left-Back,"Feb 28, 1997 ",27,['England'],England,Luton,LM,"1,78",€150k
+23,Jack Senior,Defender,Left-Back,"Jan 13, 1997 ",27,['England'],England,Halifax,,"1,73",€100k
+3,Reed Wilson,Defender,Left-Back,"Jul 30, 1997 ",26,"['England', 'Gibraltar']",England,Gravesend,LM,"1,70",€50k
+,Nathan Millis,Defender,Left-Back,"Dec 26, 1997 ",26,['England'],England,,,,-
+17,Matthew Livingstone,Defender,Left-Back,"Nov 13, 1997 ",26,['England'],England,Preston,DM   CM,"1,75",-
+,Jaydon Thorbourne,Defender,Left-Back,"Nov 28, 1997 ",26,['England'],England,,,"1,83",-
+,Jamie Mascoll,Defender,Left-Back,"Mar 15, 1997 ",27,['England'],England,London,LM,"1,89",-
+32,Brandon Mason,Defender,Left-Back,"Sep 30, 1997 ",26,['England'],England,London,LM,"1,73",-
+3,Adam Crookes,Defender,Left-Back,"Nov 18, 1997 ",26,['England'],England,Lincoln,CB,"1,83",-
+,Harry Cain,Defender,Left-Back,"Jun 21, 1997 ",26,['England'],England,,LM   LW,,-
+,Spencer Myers,Defender,Left-Back,"Sep 5, 1997 ",26,['England'],England,Torquay,LM,,-
+,Jordan Williams,Defender,Left-Back,"Jul 28, 1997 ",26,"['Malta', 'England']",England,Bristol,CB,"1,82",-
+,Conor Green,Defender,Left-Back,"May 17, 1997 ",26,['England'],England,,LW,,-
+,Danny Reynolds,Defender,Left-Back,"Jun 27, 1997 ",26,"['England', 'United States']",England,Reading,,"1,75",-
+,Ben Harrison,Defender,Left-Back,"Mar 2, 1997 ",27,['England'],England,London,,,-
+,Archie Edwards,Defender,Left-Back,"Jul 10, 1997 ",26,['England'],England,London,,,-
+,Josh Stachini,Defender,Left-Back,"Dec 19, 1997 ",26,"['Northern Ireland', 'England']",England,Manchester,,,-
+,Matthew Long,Defender,Left-Back,"Jan 31, 1997 ",27,['England'],England,Bath,LM,,-
+,Adam Page,Defender,Left-Back,"May 30, 1997 ",26,['England'],England,Worcester,LM,"1,77",-
+,Liam Hailey,Defender,Left-Back,"Sep 29, 1997 ",26,['England'],England,Wolverhampton,,,-
+,Tyrell Robinson,Defender,Left-Back,"Sep 16, 1997 ",26,['England'],England,Basildon,LM,"1,73",-
+,David Roberts,Defender,Left-Back,"Feb 7, 1997 ",27,['England'],England,Liverpool,,,-
+3,Harry Pickering,Defender,Left-Back,"Dec 29, 1998 ",25,['England'],England,Chester,LM   CM,"1,73",€4.50m
+27,Omar Richards,Defender,Left-Back,"Feb 15, 1998 ",26,"['England', 'Jamaica']",England,London,LM,"1,74",€2.50m
+3,Jay Dasilva,Defender,Left-Back,"Apr 22, 1998 ",25,"['Wales', 'England']",England,Luton,LM,"1,70",€2.00m
+43,Josh Earl,Defender,Left-Back,"Oct 24, 1998 ",25,['England'],England,Southport,CB,"1,95",€750k
+17,Tayo Edun,Defender,Left-Back,"May 14, 1998 ",25,['England'],England,London,DM   LM,"1,72",€400k
+3,Tom Pearce,Defender,Left-Back,"Apr 12, 1998 ",25,['England'],England,Ormskirk,,"1,85",€250k
+,Matt Penney,Defender,Left-Back,"Feb 11, 1998 ",26,['England'],England,Chesterfield,LM,"1,72",€175k
+23,Max Melbourne,Defender,Left-Back,"Oct 24, 1998 ",25,"['England', 'Wales']",England,,CB,"1,78",€125k
+3,Callum Roberts,Defender,Left-Back,"Oct 16, 1998 ",25,"['Wales', 'England']",England,Shrewsbury,LM   CB,"1,73",€50k
+17,Eddie Clarke,Defender,Left-Back,"Dec 29, 1998 ",25,['England'],England,Liverpool,,,€25k
+,Reece Mitchell,Defender,Left-Back,"Jun 14, 1998 ",25,['England'],England,Solihull,LM,"1,70",-
+,Mark Amaning-Ampong,Defender,Left-Back,"Sep 4, 1998 ",25,['England'],England,London,AM   LW,,-
+11,Gaétan Stieger,Defender,Left-Back,"Jun 24, 1998 ",25,"['Switzerland', 'Cameroon']",England,London,LM,,-
+6,Jamal Lewis,Defender,Left-Back,"Jan 25, 1998 ",26,"['Northern Ireland', 'England']",England,Luton,LM,"1,78",€3.50m
+3,Cameron Pring,Defender,Left-Back,"Jan 22, 1998 ",26,['England'],England,Bristol,CB,"1,85",€2.20m
+5,George Cox,Defender,Left-Back,"Jan 14, 1998 ",26,['England'],England,Worthing,LM,"1,71",€800k
+3,Ciaron Brown,Defender,Left-Back,"Jan 14, 1998 ",26,"['Northern Ireland', 'England']",England,London,CB,"1,85",€500k
+15,Hayden Coulson,Defender,Left-Back,"Jun 17, 1998 ",25,['England'],England,Gateshead,LM,"1,72",€400k
+23,Matty Foulds,Defender,Left-Back,"Feb 1, 1998 ",26,['England'],England,Bradford,CB,"1,78",€200k
+33,Denver Hume,Defender,Left-Back,"Aug 11, 1998 ",25,['England'],England,Northumberland,LM,,€150k
+46,Akeem Hinds,Defender,Left-Back,"Nov 26, 1998 ",25,['England'],England,Sheffield,CB   DM,"1,84",€50k
+,Kris Owens,Defender,Left-Back,"Dec 7, 1998 ",25,['England'],England,Liverpool,CB,,€50k
+3,Lewis Hudson,Defender,Left-Back,"Aug 2, 1998 ",25,['England'],England,Coventry,,"1,84",-
+3,Jamil Roberts,Defender,Left-Back,"Jun 14, 1998 ",25,['England'],England,Langport,LM   RM,"1,76",-
+21,Alex Brown,Defender,Left-Back,"Sep 21, 1998 ",25,['England'],England,,,"1,76",-
+,Karn Miller-Neave,Defender,Left-Back,"Mar 28, 1998 ",26,['England'],England,Sutton,,,-
+,Matthew Hall,Defender,Left-Back,"Mar 3, 1998 ",26,"['Antigua and Barbuda', 'England']",England,London,,,-
+3,Ollie Harfield,Defender,Left-Back,"Jan 9, 1998 ",26,['England'],England,Southampton,LM,"1,78",-
+,Matty Waters,Defender,Left-Back,"Jan 7, 1998 ",26,['England'],England,Southend-on-Sea,LM   RM,"1,78",-
+,James Martin,Defender,Left-Back,"Jun 23, 1998 ",25,['England'],England,Newcastle upon Tyne,,"1,76",-
+,Adam Osbourne,Defender,Left-Back,"Oct 17, 1998 ",25,['England'],England,Featherstone,,,-
+,Daniel McKenna,Defender,Left-Back,"Jan 4, 1998 ",26,['England'],England,Liverpool,LM,,-
+,Benjamin Cull,Defender,Left-Back,"Oct 21, 1998","Oct 21, 1998",['England'],England,Bournemouth,CB,"1,83",-
+,Charlie Walford,Defender,Left-Back,"Oct 1, 1998 ",25,['England'],England,Sandwell,LM,,-
+3,Ramarni Medford-Smith,Defender,Left-Back,"Oct 21, 1998 ",25,['England'],England,Reading,,"1,77",-
+,Lewis Butroid,Defender,Left-Back,"Sep 17, 1998 ",25,['England'],England,Gainsborough,CB,"1,75",-
+,Jason Akiotu,Defender,Left-Back,"Mar 11, 1998 ",26,"['England', 'Nigeria']",England,London,LM,,-
+,Josh Askew,Defender,Left-Back,"Feb 20, 1998 ",26,['England'],England,Manchester,,"1,77",-
+,Michael Carberry,Defender,Left-Back,"Mar 5, 1998 ",26,['England'],England,Liverpool,LM,"1,78",-
+,Toby Wells,Defender,Left-Back,"Jan 2, 1998 ",26,['England'],England,Loughborough,CB,"1,83",-
+,Alex Taylor,Defender,Left-Back,"Dec 20, 1998 ",25,['England'],England,,,"1,74",-
+3,Tyrick Mitchell,Defender,Left-Back,"Sep 1, 1999 ",24,"['England', 'Jamaica']",England,London,LM,"1,75",€22.00m
+3,Leif Davis,Defender,Left-Back,"Dec 31, 1999 ",24,['England'],England,Newcastle,LM,"1,82",€6.00m
+5,Derry Murkin,Defender,Left-Back,"Jul 27, 1999 ",24,"['England', 'Netherlands']",England,Colchester,LW   LM,"1,83",€1.50m
+3,Ben Williams,Defender,Left-Back,"Mar 31, 1999 ",25,"['Wales', 'England']",England,Preston,,"1,78",€300k
+21,Brandon Fleming,Defender,Left-Back,"Dec 3, 1999 ",24,['England'],England,Dewsbury,LM,"1,74",€250k
+3,Adam Lewis,Defender,Left-Back,"Nov 8, 1999 ",24,['England'],England,Liverpool,LM   CM,"1,75",€250k
+3,Liam Gordon,Defender,Left-Back,"May 15, 1999 ",24,"['Guyana', 'England']",England,London,LM,"1,83",€225k
+21,Jaden Brown,Defender,Left-Back,"Jan 24, 1999 ",25,"['England', 'Jamaica']",England,London,LM,"1,75",€200k
+23,Tolaji Bola,Defender,Left-Back,"Jan 4, 1999 ",25,"['England', 'Nigeria']",England,London,CB   RB,"1,81",€150k
+,Kyle McDowell,Defender,Left-Back,"Feb 13, 1999 ",25,"['Northern Ireland', 'Scotland']",England,Kingston upon Thames,,"1,77",€75k
+,Kane Bartholomew,Defender,Left-Back,"Oct 27, 1999 ",24,['England'],England,Wakefield,,"1,82",-
+,Reece Kendall,Defender,Left-Back,"Aug 18, 1999 ",24,['England'],England,Halifax,,"1,86",-
+,Cody Fisher,Defender,Left-Back,"Sep 23, 1999","Sep 23, 1999",['England'],England,Redditch,CB,,-
+33,Jordan Zemura,Defender,Left-Back,"Nov 14, 1999 ",24,"['Zimbabwe', 'England']",England,London,LM,"1,73",€6.00m
+14,Josh Tymon,Defender,Left-Back,"May 22, 1999 ",24,['England'],England,Hull,LM,"1,80",€2.80m
+11,Keanan Bennetts,Defender,Left-Back,"Mar 9, 1999 ",25,"['Germany', 'England']",England,London,LM   LW,"1,81",€500k
+22,Nesta Guinness-Walker,Defender,Left-Back,"Sep 14, 1999 ",24,"['England', 'Barbados']",England,London,LM,"1,80",€250k
+3,Paddy Reading,Defender,Left-Back,"May 29, 1999 ",24,"['Scotland', 'England']",England,Newcastle,CB,,€250k
+25,Nick Tsaroulla,Defender,Left-Back,"Mar 29, 1999 ",25,"['Cyprus', 'England']",England,Bristol,LM,"1,78",€225k
+3,Anthony Driscoll-Glennon,Defender,Left-Back,"Nov 26, 1999 ",24,['England'],England,Bootle,CB,"1,81",€200k
+14,Ali Koiki,Defender,Left-Back,"Aug 22, 1999 ",24,"['England', 'Nigeria']",England,London,LM,"1,87",€175k
+24,Danny Amos,Defender,Left-Back,"Dec 22, 1999 ",24,"['Northern Ireland', 'England']",England,Sheffield,,"1,80",€100k
+,Thomas Evans,Defender,Left-Back,"Oct 10, 1999 ",24,"['Wales', 'England']",England,,,,-
+55,Sam Pollard,Defender,Left-Back,"Feb 21, 1999 ",25,"['England', 'Australia']",England,Blackburn,LM,"1,83",-
+3,Necati Gench,Defender,Left-Back,"Nov 21, 1999 ",24,"['Cyprus', 'England']",England,London,LW,"1,73",-
+,Loic Hernandez,Defender,Left-Back,"Nov 7, 1999 ",24,['England'],England,Croydon,,"1,80",-
+3,Tom Clifford,Defender,Left-Back,"Sep 2, 1999 ",24,['England'],England,Swanscombe,,"1,72",-
+3,Ryan Clampin,Defender,Left-Back,"Jan 29, 1999 ",25,['England'],England,Colchester,,"1,80",-
+,Henri Wilder,Defender,Left-Back,"Nov 21, 1999 ",24,['England'],England,Eastbourne,CB,"1,85",-
+,Yonis Farah,Defender,Left-Back,"Sep 4, 1999 ",24,"['Somalia', 'England']",England,London,LM   CM,"1,75",-
+,Joe Stanley,Defender,Left-Back,"Nov 1, 1999 ",24,['England'],England,Bradford,,,-
+,Matty Downing,Defender,Left-Back,"Jul 19, 1999 ",24,['England'],England,Leeds,,"1,85",-
+,Joel Whittingham,Defender,Left-Back,"Nov 9, 1999 ",24,['England'],England,Dudley,,"1,81",-
+,Leroy Graham,Defender,Left-Back,"Dec 7, 1999 ",24,"['Antigua and Barbuda', 'England']",England,Birmingham,LB,,-
+3,Daniel Martin,Defender,Left-Back,"Sep 10, 1999 ",24,['England'],England,Maidstone,LM,"1,73",-
+,Taylor Morrison,Defender,Left-Back,"Dec 7, 1999 ",24,['England'],England,Birmingham,LM,,-
+3,Callum Cockerill-Mollett,Defender,Left-Back,"Jan 15, 1999 ",25,"['Ireland', 'England']",England,Leicester,,"1,78",-
+,Jake Kenyon,Defender,Left-Back,"Jan 2, 1999 ",25,['England'],England,Salford,,,-
+,Briggs Ojemen,Defender,Left-Back,"Oct 8, 1999 ",24,['England'],England,Camden,LM,,-
+,Dom McHugh,Defender,Left-Back,"Nov 27, 1999 ",24,['England'],England,Chester,LM,,-
+,Toby Stevenson,Defender,Left-Back,"Nov 22, 1999 ",24,['England'],England,Colchester,CB   DM,"1,85",-
+,Jordan Barnett,Defender,Left-Back,"Oct 20, 1999 ",24,['England'],England,Penistone,LM,"1,78",-
+,Ryan Law,Defender,Left-Back,"Sep 8, 1999 ",24,['England'],England,Torquay,LM,"1,77",-
+,Jay Sheridan,Defender,Left-Back,"Dec 25, 1999 ",24,['England'],England,Wakefield,,"1,82",-
+,Renedi Masampu,Defender,Left-Back,"Sep 17, 1999 ",24,"['England', 'DR Congo']",England,London,CB,"1,77",-
+,Jordan Mills,Defender,Left-Back,"Nov 7, 1999 ",24,['England'],England,,,"1,69",-
+,Louis Hall,Defender,Left-Back,"May 23, 1999 ",24,['England'],England,West Bromwich,,,-
+,Joe Payne,Defender,Left-Back,"Apr 2, 1999 ",24,['England'],England,London,CB,"1,85",-
+23,Jaydn Mundle-Smith,Defender,Left-Back,"Dec 17, 1999 ",24,['England'],England,London,CB,"1,83",-
+,Patrick Webber,Defender,Left-Back,"May 14, 1999 ",24,['England'],England,Worthing,CB,"1,81",-
+,Harvey Dailly,Defender,Left-Back,"May 2, 1999 ",24,['Scotland'],England,Ingatestone,CB,,-
+,Vashon Neufville,Defender,Left-Back,"Jul 18, 1999 ",24,['England'],England,London,,"1,72",-
+3,Ryan Giles,Defender,Left-Back,"Jan 26, 2000 ",24,['England'],England,Telford,LM   LW,"1,79",€4.50m
+15,Sam McCallum,Defender,Left-Back,"Sep 2, 2000 ",23,['England'],England,Canterbury,LM,"1,77",€1.20m
+16,Dominic Thompson,Defender,Left-Back,"Jul 26, 2000 ",23,"['England', 'Jamaica']",England,London,LM,"1,83",€1.00m
+21,Jack Sparkes,Defender,Left-Back,"Sep 29, 2000 ",23,['England'],England,Exmouth,LM,"1,77",€450k
+3,Rio Adebisi,Defender,Left-Back,"Sep 27, 2000 ",23,"['England', 'Nigeria']",England,London,RB,"1,75",€250k
+21,Taylor Allen,Defender,Left-Back,"Jun 16, 2000 ",23,['England'],England,Walsall,LM   CB,"1,85",€125k
+,Charley O'Keefe,Defender,Left-Back,"Apr 17, 2000 ",23,['England'],England,Luton,,,-
+,Jamie Bremner,Defender,Left-Back,"Sep 17, 2000 ",23,['England'],England,,,,-
+,Jordan Wells,Defender,Left-Back,"Mar 15, 2000 ",24,['England'],England,,CB,,-
+15,Noah Smerdon,Defender,Left-Back,"Oct 9, 2000 ",23,['England'],England,Hereford,CM   LM,,-
+,Tyreece Kennedy-Williams,Defender,Left-Back,"Jan 8, 2000 ",24,['England'],England,Nottingham,,"1,68",-
+,Charlie Exley,Defender,Left-Back,"Jul 21, 2000 ",23,['England'],England,Newcastle-upon-Tyne,CB,"1,69",-
+,Joe Romanski,Defender,Left-Back,"Feb 3, 2000 ",24,"['England', 'Poland']",England,Reading,CB,"1,90",-
+18,Brandon Williams,Defender,Left-Back,"Sep 3, 2000 ",23,['England'],England,Crumpsall,RB,"1,80",€2.50m
+19,Alex Cochrane,Defender,Left-Back,"Apr 21, 2000 ",23,['England'],England,Brighton,LM   CM,"1,73",€1.20m
+2,Niall Huggins,Defender,Left-Back,"Dec 18, 2000 ",23,"['Wales', 'England']",England,York,RB,"1,73",€800k
+16,George Harmon,Defender,Left-Back,"Dec 8, 2000 ",23,['England'],England,Birmingham,LM,"1,63",€325k
+3,Reece Hutchinson,Defender,Left-Back,"Apr 14, 2000 ",23,['England'],England,Birmingham,,"1,77",€250k
+12,Niall Short,Defender,Left-Back,"Feb 9, 2000 ",24,['England'],England,Spennymoor,,,-
+,Sam Mvemba,Defender,Left-Back,"Nov 7, 2000 ",23,['England'],England,London,,,-
+16,Franklin Domi,Defender,Left-Back,"Sep 19, 2000 ",23,"['Albania', 'England']",England,London,LM,"1,83",-
+37,Paul Osew,Defender,Left-Back,"Nov 25, 2000 ",23,"['England', 'Ghana']",England,London,LM,"1,68",-
+,Tom Hanfrey,Defender,Left-Back,"Oct 30, 2000 ",23,['England'],England,London,LM,"1,91",-
+,Bailey Clements,Defender,Left-Back,"Nov 15, 2000 ",23,['England'],England,Ipswich,,"1,88",-
+3,Branden Horton,Defender,Left-Back,"Sep 9, 2000 ",23,['England'],England,Doncaster,,"1,78",-
+,Oliver Walters,Defender,Left-Back,"May 16, 2000 ",23,['England'],England,Newcastle upon Tyne,CB,"1,87",-
+,Matt Bozier,Defender,Left-Back,"Jan 25, 2000 ",24,['England'],England,,LM,,-
+12,Jack Evans,Defender,Left-Back,"Aug 10, 2000 ",23,['England'],England,Warrington,LM   DM,"1,77",-
+,Reece Hannam,Defender,Left-Back,"Sep 11, 2000 ",23,['England'],England,London,,"1,86",-
+,Will Evans,Defender,Left-Back,"Aug 11, 2000 ",23,['England'],England,Shrewsbury,,,-
+,Ollie Saunders,Defender,Left-Back,"Dec 22, 2000 ",23,['England'],England,Norwich,LM,,-
+,Ryan Corrigan,Defender,Left-Back,"Sep 19, 2000 ",23,"['Ireland', 'England']",England,Liverpool,RB,"1,80",-
+,Jaydan Thorne,Defender,Left-Back,"Jan 7, 2000 ",24,['England'],England,,,"1,71",-
+,Tom Warren,Defender,Left-Back,"Sep 15, 2000 ",23,['England'],England,Nottingham,LM,"1,71",-
+,Harry Spratt,Defender,Left-Back,"Jan 28, 2000 ",24,"['England', 'Ireland']",England,Leeds,CB   DM,"1,84",-
+,Jake Vokins,Defender,Left-Back,"Mar 17, 2000 ",24,['England'],England,Oxford,LM,"1,80",-
+33,Luke Thomas,Defender,Left-Back,"Jun 10, 2001 ",22,['England'],England,Syston,LM,"1,81",€8.00m
+29,Matthew Sorinola,Defender,Left-Back,"Feb 19, 2001 ",23,"['England', 'Nigeria']",England,London,RB   LM,"1,73",€750k
+15,Jaheim Headley,Defender,Left-Back,"Sep 24, 2001 ",22,"['England', 'Jamaica']",England,London,LM   LW,"1,75",€500k
+33,Joel Bagan,Defender,Left-Back,"Sep 3, 2001 ",22,"['Ireland', 'England']",England,Basingstoke,LM,"1,88",€400k
+17,Nathanael Ogbeta,Defender,Left-Back,"Apr 28, 2001 ",22,"['England', 'Nigeria']",England,Salford,CB,"1,79",€350k
+3,James Maxwell,Defender,Left-Back,"Dec 9, 2001 ",22,"['Scotland', 'England']",England,Crewe,LM,"1,79",€275k
+38,Liam McCarron,Defender,Left-Back,"Mar 7, 2001 ",23,"['Scotland', 'England']",England,Preston,LM,"1,75",€250k
+19,Luke Robinson,Defender,Left-Back,"Nov 20, 2001 ",22,['Scotland'],England,Birkenhead,,"1,76",€200k
+29,Matty Jacob,Defender,Left-Back,"Jun 3, 2001 ",22,['England'],England,Barnsley,,"1,80",€100k
+12,Liam Brockbank,Defender,Left-Back,"Mar 2, 2001 ",23,['England'],England,Barrow-in-Furnes,CB,,-
+,Angus Youngson,Defender,Left-Back,"Sep 13, 2001 ",22,['England'],England,Fleet,,,-
+,Josh Bailey,Defender,Left-Back,"Dec 10, 2001 ",22,"['England', 'Wales']",England,Telford,CB,"1,87",-
+3,Sam Beckwith,Defender,Left-Back,"Dec 11, 2001 ",22,['England'],England,Bedford,,"1,78",-
+3,Lee Buchanan,Defender,Left-Back,"Mar 7, 2001 ",23,['England'],England,Mansfield,CB   LM,"1,79",€2.00m
+3,Jack Armer,Defender,Left-Back,"Apr 16, 2001 ",22,"['Scotland', 'England']",England,Preston,LM   CB,"1,85",€700k
+23,Ethan Bristow,Defender,Left-Back,"Nov 27, 2001 ",22,"['St. Kitts & Nevis', 'England']",England,Maidenhead,,"1,88",€450k
+30,Ben Jackson,Defender,Left-Back,"Feb 22, 2001 ",23,"['England', 'Scotland']",England,Stockport,LM   LW,"1,82",€350k
+3,Harry Boyes,Defender,Left-Back,"Nov 2, 2001 ",22,['England'],England,Barnsley,LM,"1,80",€325k
+2,Clinton Mola,Defender,Left-Back,"Mar 15, 2001 ",23,"['England', 'DR Congo']",England,London,RB   CB,"1,84",€275k
+3,Lewis Gordon,Defender,Left-Back,"Feb 12, 2001 ",23,"['Scotland', 'England']",England,London,LM,"1,72",€250k
+18,Reece Devine,Defender,Left-Back,"Dec 18, 2001 ",22,['England'],England,Stourbridge,CB,"1,84",€125k
+,Peter Ojemen,Defender,Left-Back,"Jul 3, 2001 ",22,"['England', 'Nigeria']",England,London,CB,"1,68",-
+,George Macready,Defender,Left-Back,"Dec 19, 2001 ",22,['England'],England,Chester,CB,,-
+23,Nathan Newall,Defender,Left-Back,"Oct 11, 2001 ",22,['England'],England,Bradford,CB   LM,"1,82",-
+,Bradley Webb,Defender,Left-Back,"Jun 9, 2001 ",22,['England'],England,Hemel Hempstead,CB,"1,83",-
+,Enrico Greco,Defender,Left-Back,"May 14, 2001 ",22,['England'],England,Aylesbury,LM,"1,76",-
+,Cadell Fraser-Robinson,Defender,Left-Back,"Dec 30, 2001 ",22,['England'],England,,,"1,75",-
+,Michael Elechi,Defender,Left-Back,"Oct 10, 2001 ",22,['England'],England,London,,,-
+3,Chi Ezennolim,Defender,Left-Back,"Sep 9, 2001 ",22,['England'],England,London,,,-
+,Sam Oliver,Defender,Left-Back,"Sep 7, 2001 ",22,['England'],England,Irlam,CB,,-
+,Myles Edmondson,Defender,Left-Back,"Oct 15, 2001 ",22,['England'],England,Bolton,LM,"1,75",-
+,Ryan Campbell-Gordon,Defender,Left-Back,"May 2, 2001 ",22,['England'],England,Nottingham,CB   RB,"1,78",-
+22,Luke Strachan,Defender,Left-Back,"Mar 22, 2001 ",23,"['Scotland', 'England']",England,Coventry,LW,"1,67",-
+3,Ryan Galvin,Defender,Left-Back,"Jan 31, 2001 ",23,['England'],England,Kingston upon Thames,,"1,82",-
+,Charlie Birch,Defender,Left-Back,"Oct 23, 2001 ",22,['England'],England,Carlisle,CB,"1,86",-
+,Matty Rain,Defender,Left-Back,"Oct 11, 2001 ",22,['England'],England,Chester,,,-
+,Harrison Devine,Defender,Left-Back,"Apr 11, 2001 ",22,['England'],England,Newcastle-upon-Tyne,LM   CB,"1,83",-
+3,Dion Miftari,Defender,Left-Back,"Aug 9, 2001 ",22,"['Albania', 'England']",England,London,CM,"1,80",-
+23,Besart Topalloj,Defender,Left-Back,"May 16, 2001 ",22,"['Kosovo', 'England']",England,London,CB   DM,,-
+,Kasim Aidoo,Defender,Left-Back,"Nov 3, 2001 ",22,"['England', 'Ghana']",England,Grays,LW   LM,"1,87",-
+,Jacob Ballinger,Defender,Left-Back,"Sep 3, 2001 ",22,['England'],England,,LM,"1,89",-
+,Kian Sketchley,Defender,Left-Back,"Nov 15, 2001 ",22,['England'],England,,,"1,83",-
+,Mason O'Malley,Defender,Left-Back,"Jun 8, 2001 ",22,"['Ireland', 'England']",England,Leeds,,"1,70",-
+,Lucas Powell,Defender,Left-Back,"Sep 1, 2001 ",22,['England'],England,Birmingham,LM,,-
+2,Nathan Woodthorpe,Defender,Left-Back,"Dec 6, 2001 ",22,['England'],England,Northwich,,"1,88",-
+,Kian Taylor,Defender,Left-Back,"Jan 10, 2001 ",23,['England'],England,Coalville,LM,"1,77",-
+,Jeremie Milambo,Defender,Left-Back,"Feb 28, 2001 ",23,"['England', 'DR Congo']",England,London,LM,"1,72",-
+,Aaron Smith,Defender,Left-Back,"Aug 31, 2001 ",22,['England'],England,,CM   DM,"1,90",-
+,Joe Hancott,Defender,Left-Back,"Mar 8, 2001 ",23,['England'],England,Isle of Wight,CB,"1,85",-
+3,Archie Brown,Defender,Left-Back,"May 28, 2002 ",21,"['England', 'Jamaica']",England,Birmingham,LM   CB,"1,90",€5.00m
+3,Harrison Burrows,Defender,Left-Back,"Jan 12, 2002 ",22,['England'],England,Peterborough,LM   CM,"1,80",€3.00m
+26,Zac Ashworth,Defender,Left-Back,"Sep 6, 2002 ",21,"['Wales', 'England']",England,King's Lynn,CB   DM,"1,76",€250k
+47,Matty Carson,Defender,Left-Back,"Oct 17, 2002 ",21,['England'],England,Chester,CB,,€125k
+15,Julian Jansen,Defender,Left-Back,"Nov 12, 2002 ",21,['Netherlands'],England,Guildford,LM,"1,79",-
+,Harry Critchley,Defender,Left-Back,"Apr 25, 2002 ",21,['England'],England,,,"1,76",-
+,Leo Hamblin,Defender,Left-Back,"Oct 24, 2002 ",21,['England'],England,Ashford,CB,,-
+,Miles Vare,Defender,Left-Back,"Feb 15, 2002 ",22,['England'],England,Stockport,LM   CB,"1,91",-
+,Joshua Adams,Defender,Left-Back,"Sep 20, 2002 ",21,['England'],England,Kettering,,"1,74",-
+,Sam Heal,Defender,Left-Back,"Nov 5, 2002 ",21,['England'],England,,LM,"1,77",-
+,Luis Adlard,Defender,Left-Back,"Oct 13, 2002 ",21,['England'],England,Grimsby,RB,,-
+,Joey Hope,Defender,Left-Back,"Jun 28, 2002 ",21,['England'],England,Teeside,,"1,78",-
+,Joe White,Defender,Left-Back,"Jan 18, 2002 ",22,['England'],England,Liverpool,,,-
+30,Josh Wilson-Esbrand,Defender,Left-Back,"Dec 26, 2002 ",21,"['England', 'Jamaica']",England,London,LM,"1,76",€4.00m
+24,Haydon Roberts,Defender,Left-Back,"May 10, 2002 ",21,['England'],England,Brighton,CB   DM,"1,84",€700k
+33,Matthew Bondswell,Defender,Left-Back,"Apr 18, 2002 ",21,['England'],England,Nottingham,,,€200k
+,Gideon Mensah,Defender,Left-Back,"Feb 22, 2002 ",22,"['England', 'Ghana']",England,West Middlesex,,"1,70",-
+,Harrison Webster,Defender,Left-Back,"Apr 5, 2002 ",21,['England'],England,Durham,CB,,-
+,Jiah Medrano,Defender,Left-Back,"Sep 29, 2002 ",21,"['England', 'Spain']",England,Leicester,DM   CM,"1,86",-
+,Phil Perry,Defender,Left-Back,"Sep 23, 2002 ",21,['England'],England,Warrington,,"1,82",-
+,Jack Lynch,Defender,Left-Back,"Nov 7, 2002 ",21,['England'],England,,,"1,83",-
+,Bryan Mankumbani,Defender,Left-Back,"Apr 4, 2002 ",21,"['England', 'Congo']",England,,,"1,85",-
+,Daniel Francis,Defender,Left-Back,"Jul 10, 2002 ",21,"['Sierra Leone', 'Germany']",England,Bradford,RB   RM,"1,74",-
+,Sam Sharrock-Peplow,Defender,Left-Back,"Jul 14, 2002 ",21,['England'],England,Leigh,,"1,79",-
+,Joe Rabbetts,Defender,Left-Back,"Jul 17, 2002 ",21,['England'],England,Westcott,LM,"1,80",-
+24,Joshua Scott,Defender,Left-Back,"Sep 13, 2002 ",21,['England'],England,Gateshead,LM,"1,84",-
+,Isaac Pitblado,Defender,Left-Back,"Jan 3, 2002 ",22,"['Scotland', 'England']",England,Hemel Hempstead,,"1,69",-
+,Joshveer Shergill,Defender,Left-Back,"Jan 1, 2002 ",22,['England'],England,Walsall,,"1,79",-
+,Tristan Cover,Defender,Left-Back,"Jan 9, 2002 ",22,['England'],England,London,,,-
+33,Leo Fuhr Hjelde,Defender,Left-Back,"Aug 26, 2003 ",20,"['Norway', 'England']",England,Nottingham,CB,"1,90",€1.50m
+,Jili Buyabu,Defender,Left-Back,"Aug 9, 2003 ",20,['England'],England,,LM,"1,82",€200k
+4,Max Kilsby,Defender,Left-Back,"Oct 4, 2003 ",20,['England'],England,Newcastle upon Tyne,CB,,€150k
+3,Georgie Gent,Defender,Left-Back,"Sep 23, 2003 ",20,['England'],England,Manchester,CB,,€100k
+23,Bailey Sloane,Defender,Left-Back,"Feb 6, 2003 ",21,['England'],England,Bury,CB,"1,91",€50k
+,Sean Lawton,Defender,Left-Back,"Sep 12, 2003 ",20,['England'],England,Crewe,,"1,83",-
+,Guy Norton,Defender,Left-Back,"Jan 5, 2003 ",21,['England'],England,Wickford,LM,"1,86",-
+,Tom Angell,Defender,Left-Back,"Dec 14, 2003 ",20,['England'],England,Rotherham,,"1,67",-
+42,Josh Shaw,Defender,Left-Back,"Oct 5, 2003 ",20,['England'],England,Manchester,,"1,83",-
+,Lion Bello,Defender,Left-Back,"Feb 10, 2003 ",21,['England'],England,London,,"1,78",-
+21,Max Conway,Defender,Left-Back,"Sep 5, 2003 ",20,['England'],England,Manchester,LM,"1,82",-
+,Fuad Sesay,Defender,Left-Back,"Sep 7, 2003 ",20,"['England', 'Sierra Leone']",England,London,,"1,78",-
+,Jeremy Kyezu,Defender,Left-Back,"Aug 19, 2003 ",20,"['England', 'Canada']",England,London,CB,,-
+3,Owen Dodgson,Defender,Left-Back,"Mar 19, 2003 ",21,['England'],England,Lancaster,LM,"1,78",€300k
+51,Dylan Williams,Defender,Left-Back,"Sep 13, 2003 ",20,['England'],England,Telford,LM   CM,"1,77",€200k
+26,James Norris,Defender,Left-Back,"Apr 4, 2003 ",20,['England'],England,Liverpool,LM   CM,"1,72",€150k
+3,Jake Leake,Defender,Left-Back,"Feb 20, 2003 ",21,['England'],England,Hull,,,€75k
+23,Josh Hallard,Defender,Left-Back,"Oct 31, 2003 ",20,['England'],England,Crawley,CB,,€50k
+,Jacob Roddy,Defender,Left-Back,"Apr 10, 2003 ",20,['England'],England,Trowbridge,,,-
+,Brad Bood,Defender,Left-Back,"Aug 24, 2003 ",20,['England'],England,Wolverhampton,LM,,-
+,Callum Wood,Defender,Left-Back,"Feb 28, 2003 ",21,"['Wales', 'England']",England,Hereford,CB,,-
+,Harvey Hughes,Defender,Left-Back,"Dec 20, 2003 ",20,['England'],England,Lyndhurst,CB,"1,83",-
+,Tom Armitage,Defender,Left-Back,"Jun 21, 2003 ",20,['England'],England,Tamworth,,"1,71",-
+23,Finlay Armstrong,Defender,Left-Back,"Mar 5, 2003 ",21,['England'],England,Liverpool,RB,"1,83",-
+56,Henry Jeffcott,Defender,Left-Back,"Nov 15, 2003 ",20,"['Northern Ireland', 'England']",England,London,CB,"1,77",-
+,Daniel Lowey,Defender,Left-Back,"Jun 8, 2003 ",20,['England'],England,Liverpool,,,-
+,Leo Watson,Defender,Left-Back,"May 20, 2003 ",20,['Scotland'],England,Chatham,LW,"1,71",-
+,Ben Greenwood,Defender,Left-Back,"Feb 20, 2003 ",21,"['Ireland', 'England']",England,Frimley,,,-
+,Logan Pye,Defender,Left-Back,"Oct 26, 2003 ",20,['England'],England,Sunderland,,"1,78",-
+,Joel Green,Defender,Left-Back,"Dec 29, 2003 ",20,['Wales'],England,North Shields,,,-
+,Lewis Coulton,Defender,Left-Back,"Mar 3, 2003 ",21,"['Scotland', 'England']",England,Leyland,,,-
+,Jamie Melbourne,Defender,Left-Back,"Feb 25, 2003 ",21,"['England', 'Wales']",England,Solihull,,"1,63",-
+,Noah Roka,Defender,Left-Back,"Nov 28, 2003 ",20,"['Trinidad and Tobago', 'Austria']",England,London,LW   RW,"1,75",-
+20,Lewis Hall,Defender,Left-Back,"Sep 8, 2004 ",19,['England'],England,Slough,LM   CM,"1,79",€18.00m
+45,Ben Chrisene,Defender,Left-Back,"Jan 12, 2004 ",20,['England'],England,Exeter,LM,"1,83",€600k
+42,Jack Endacott,Defender,Left-Back,"Oct 11, 2004 ",19,['England'],England,Ivybridge,LM   LW,"1,77",€100k
+,Mikey Davies,Defender,Left-Back,"Sep 23, 2004 ",19,['England'],England,Birkenhead,,"1,77",-
+,Ayo Lekuti,Defender,Left-Back,"Sep 5, 2004 ",19,['England'],England,Birmingham,LM,"1,63",-
+,Keegan Green,Defender,Left-Back,"Sep 28, 2004 ",19,['England'],England,Kingston upon Hull,LM   RM,"1,73",-
+2,Thayne Myrie,Defender,Left-Back,"Oct 20, 2004 ",19,"['England', 'Malta']",England,London,LM   RB,"1,70",-
+56,Charlie Sayers,Defender,Left-Back,"Mar 29, 2004 ",20,['England'],England,Southend,CB,"1,83",-
+,Jahziah Linton,Defender,Left-Back,"Nov 30, 2004 ",19,['England'],England,London,,,-
+,Cian Flannery,Defender,Left-Back,"Dec 10, 2004 ",19,"['England', 'Ireland']",England,Manchester,CB,,-
+,Oliver Lobley,Defender,Left-Back,"Mar 21, 2004 ",20,['England'],England,Walesby,CB   LM,"1,78",-
+71,Kyle McAdam,Defender,Left-Back,"Dec 24, 2004 ",19,['England'],England,,LM   CM,"1,84",-
+53,Jordan Hackett,Defender,Left-Back,"Feb 20, 2004 ",20,['England'],England,London,,"1,80",-
+26,Thierry Small,Defender,Left-Back,"Aug 1, 2004 ",19,"['England', 'Panama']",England,Solihull,LM,"1,77",€900k
+,Zak Sturge,Defender,Left-Back,"Jun 15, 2004 ",19,"['England', 'Guyana']",England,London,CB,,€250k
+34,Billy Kirkman,Defender,Left-Back,"Feb 26, 2004 ",20,['England'],England,Blackburn,LM,,€50k
+,Darien Wauchope,Defender,Left-Back,"Dec 8, 2004 ",19,['England'],England,,CB,,-
+,Casey Shann,Defender,Left-Back,"Jan 2, 2004 ",20,"['Slovakia', 'England']",England,London,,,-
+,Henry Curtis,Defender,Left-Back,"Jan 24, 2004 ",20,['England'],England,Scunthorpe,,"1,70",-
+,Courtney Lashley,Defender,Left-Back,"Jan 3, 2004 ",20,['England'],England,Hinckley,,"1,80",-
+43,Connor Pye,Defender,Left-Back,"Feb 14, 2004 ",20,['England'],England,Liverpool,RB,"1,66",-
+,Jordan Addo-Antoine,Defender,Left-Back,"Apr 20, 2004 ",19,"['England', 'Ghana']",England,Loughborough,,"1,83",-
+,Sam Tinubu,Defender,Left-Back,"Sep 28, 2004 ",19,['England'],England,London,DM   LM,"1,82",-
+,Alex Kpakpé,Defender,Left-Back,"Feb 22, 2004 ",20,"['England', ""Cote d'Ivoire""]",England,London,CB,"1,86",-
+,Lucas Howe,Defender,Left-Back,"Jan 13, 2004 ",20,['England'],England,Sunderland,,,-
+,Stefan Parkes,Defender,Left-Back,"Mar 28, 2004 ",20,['England'],England,London,CB,,-
+48,Calum Scanlon,Defender,Left-Back,"Feb 14, 2005 ",19,['England'],England,Birmingham,,,€700k
+57,Oliver Scarles,Defender,Left-Back,"Dec 12, 2005 ",18,['England'],England,Bromley,CB   DM,,€400k
+,Maeson King,Defender,Left-Back,"Sep 9, 2005 ",18,['England'],England,Basildon,,,-
+,Marley Sweenie-Rowe,Defender,Left-Back,"May 7, 2005 ",18,"['England', 'Jamaica']",England,London,CB   LM,,-
+,Nathan Giblin,Defender,Left-Back,"Dec 31, 2005 ",18,['England'],England,Ormskirk,,,-
+68,Elián Quesada,Defender,Left-Back,"Feb 19, 2005 ",19,"['Costa Rica', 'England']",England,London,,"1,78",-
+,Oliver Bainbridge,Defender,Left-Back,"Jun 13, 2005 ",18,['England'],England,,CB,"1,90",-
+74,Tomas Galvez,Defender,Left-Back,"Jan 28, 2005 ",19,"['Finland', 'England']",England,London,,,€600k
+3,Codey Phoenix,Defender,Left-Back,"Feb 3, 2005 ",19,"['Wales', 'New Zealand']",England,Chester,LM   LW,,€125k
+,Seb Naylor,Defender,Left-Back,"Sep 10, 2005 ",18,['England'],England,Manchester,,,-
+,Joe Keeping,Defender,Left-Back,"Jan 12, 2005 ",19,['England'],England,,RB   LW,"1,79",-
+,Ibrahim Bangura,Defender,Left-Back,"Jan 13, 2005 ",19,['England'],England,London,CM,"1,75",-
+52,Joe Ryder,Defender,Left-Back,"Jun 1, 2005 ",18,['England'],England,Sunderland,LW,"1,77",-
