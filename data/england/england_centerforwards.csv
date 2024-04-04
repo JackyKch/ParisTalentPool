@@ -1,0 +1,1622 @@
+Number,Name,Main Position,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+9,Chris Venables,Striker,Centre-Forward,"Jul 23, 1985 ",38,"['Wales', 'England']",England,Shrewsbury,AM   CM,"1,88",€75k
+,Lev Yalcin,Striker,Centre-Forward,"Mar 22, 1985 ",39,"['Türkiye', 'England']",England,Middlesbrough,AM,"1,83",-
+,Elliot Sandy,Striker,Centre-Forward,"May 3, 1985 ",38,['England'],England,Northampton,AM   SS,"1,86",-
+,Euan Purcell,Striker,Centre-Forward,"Aug 14, 1985 ",38,['England'],England,Bolton,LW   RW,"1,86",-
+,Sean Marks,Striker,Centre-Forward,"Nov 25, 1985 ",38,['England'],England,Essex,,,-
+,Tyrone Barnett,Striker,Centre-Forward,"Oct 28, 1985 ",38,['England'],England,Birmingham,,"1,90",-
+,Jake Speight,Striker,Centre-Forward,"Sep 28, 1985 ",38,['England'],England,Sheffield,,"1,70",-
+,Liam Hearn,Striker,Centre-Forward,"Aug 27, 1985 ",38,['England'],England,Nottingham,RW,"1,80",-
+,Nathan Crabb,Striker,Centre-Forward,"Jun 26, 1985 ",38,['England'],England,Eastbourne,SS   RW,,-
+,Michael Rankine,Striker,Centre-Forward,"Jan 15, 1985 ",39,['England'],England,Doncaster,,"1,91",-
+,Matthew Judge,Striker,Centre-Forward,"Jan 18, 1985 ",39,"['Ireland', 'England']",England,London,,"1,85",-
+,Liam Dickinson,Striker,Centre-Forward,"Oct 4, 1985 ",38,['England'],England,Salford,,"1,93",-
+,Josh Scott,Striker,Centre-Forward,"May 10, 1985 ",38,['England'],England,London,,"1,88",-
+,Ashley Ruane,Striker,Centre-Forward,"Jun 25, 1985 ",38,['England'],England,Liverpool,,"1,74",-
+,Kain Bond,Striker,Centre-Forward,"Jun 19, 1985 ",38,['England'],England,Torquay,,"1,73",-
+,Neville Thompson,Striker,Centre-Forward,"Mar 2, 1985 ",39,['England'],England,Stoke-on-Trent,,,-
+,Stewart Yetton,Striker,Centre-Forward,"Jul 27, 1985 ",38,['England'],England,Plymouth,,,-
+,Craig Reid,Striker,Centre-Forward,"Dec 17, 1985 ",38,['England'],England,Coventry,,"1,78",-
+,Ben Watson,Striker,Centre-Forward,"Dec 6, 1985 ",38,['England'],England,Shoreham-by-Sea,,"1,78",-
+,Charlie Taylor,Striker,Centre-Forward,"Dec 1, 1985 ",38,['England'],England,London,,"1,88",-
+,Michael Malcolm,Striker,Centre-Forward,"Oct 13, 1985 ",38,['England'],England,London,,"1,78",-
+,Kyle Wilson,Striker,Centre-Forward,"Nov 14, 1985 ",38,['England'],England,Wirral,,"1,78",-
+,Dale Johnson,Striker,Centre-Forward,"May 3, 1985 ",38,['England'],England,Ashton-under-Lyne,,"1,83",-
+,Oliver Ryan,Striker,Centre-Forward,"Sep 26, 1985 ",38,['England'],England,Boston,,"1,75",-
+,James Dean,Striker,Centre-Forward,"May 19, 1985","May 19, 1985",['England'],England,Blackburn,AM   CM,"1,91",-
+,Robbie Simpson,Striker,Centre-Forward,"Mar 15, 1985 ",39,['England'],England,Poole,SS   LW,"1,85",-
+,Tom Pope,Striker,Centre-Forward,"Aug 27, 1985 ",38,['England'],England,Stoke-on-Trent,,"1,91",-
+,Ashley Vincent,Striker,Centre-Forward,"May 26, 1985 ",38,['England'],England,Birmingham,RW,"1,83",-
+,Spencer Weir-Daley,Striker,Centre-Forward,"Sep 5, 1985 ",38,"['Montserrat', 'England']",England,Leicester,,"1,75",-
+,James Keene,Striker,Centre-Forward,"Dec 26, 1985 ",38,['England'],England,Wells,SS   RW,"1,79",-
+,David Nugent,Striker,Centre-Forward,"May 2, 1985 ",38,"['England', 'Ireland']",England,Huyton,,"1,80",-
+,Bradley Wright-Phillips,Striker,Centre-Forward,"Mar 12, 1985 ",39,"['England', 'Grenada']",England,London,SS   LW,"1,73",-
+,Greg Pearson,Striker,Centre-Forward,"Apr 3, 1985 ",39,['England'],England,Birmingham,,"1,83",-
+,Jamie Mackie,Striker,Centre-Forward,"Sep 22, 1985 ",38,"['Scotland', 'England']",England,Dorking,RW   LW,"1,82",-
+,Craig Westcarr,Striker,Centre-Forward,"Jan 29, 1985 ",39,['England'],England,Nottingham,RW   LW,"1,82",-
+,Nathan Joynes,Striker,Centre-Forward,"Aug 7, 1985 ",38,['England'],England,Barnsley,,"1,88",-
+,Matt Blinkhorn,Striker,Centre-Forward,"Mar 2, 1985 ",39,['England'],England,Blackpool,,"1,83",-
+,Steven Gillespie,Striker,Centre-Forward,"Jun 4, 1985 ",38,['England'],England,Liverpool,,"1,75",-
+,Guy Bates,Striker,Centre-Forward,"Oct 31, 1985 ",38,['England'],England,Newcastle upon Tyne,,"1,82",-
+,Leon Clarke,Striker,Centre-Forward,"Feb 10, 1985 ",39,['England'],England,Wolverhampton,,"1,88",-
+,Danny Graham,Striker,Centre-Forward,"Aug 12, 1985 ",38,['England'],England,Gateshead,LW,"1,83",-
+,Lewis Guy,Striker,Centre-Forward,"Aug 22, 1985 ",38,['England'],England,Penrith,RW   LW,"1,75",-
+,Taiwo Atieno,Striker,Centre-Forward,"Aug 6, 1985 ",38,"['Kenya', 'England']",England,Brixton,,"1,88",-
+40,Ian Henderson,Striker,Centre-Forward,"Jan 24, 1985 ",39,"['England', 'Scotland']",England,Thetford,LW   RW,"1,75",-
+,Wayne Rooney,Striker,Centre-Forward,"Oct 24, 1985 ",38,['England'],England,Liverpool,SS   AM,"1,76",-
+19,Adam Le Fondre,Striker,Centre-Forward,"Dec 2, 1986 ",37,"['England', 'France']",England,Stockport,SS   AM,"1,80",€300k
+,Colin Kazım-Richards,Striker,Centre-Forward,"Aug 26, 1986 ",37,"['Türkiye', 'England']",England,London,RW   LW,"1,87",€175k
+27,Matt Derbyshire,Striker,Centre-Forward,"Apr 14, 1986 ",37,['England'],England,Blackburn,,"1,80",€75k
+,Adam Hobson,Striker,Centre-Forward,"Jan 12, 1986 ",38,['England'],England,Blackpool,,,-
+,Richard Maton,Striker,Centre-Forward,"Mar 9, 1986 ",38,['England'],England,London,,"1,82",-
+,Lee Healey,Striker,Centre-Forward,"Nov 13, 1986 ",37,['England'],England,Prescot,,,-
+,Mark Jackson,Striker,Centre-Forward,"Feb 3, 1986 ",38,['England'],England,Preston,,"1,80",-
+,Ryan Moss,Striker,Centre-Forward,"Nov 14, 1986 ",37,['England'],England,Dorchester,,"1,81",-
+,Michael Bakare,Striker,Centre-Forward,"Dec 1, 1986 ",37,"['England', 'Nigeria']",England,London,LW   SS,"1,81",-
+,Hardy Pinto,Striker,Centre-Forward,"Jan 19, 1986 ",38,"['Portugal', 'Guinea-Bissau']",England,London,RW   LW,"1,88",-
+,Ashan Holgate,Striker,Centre-Forward,"Nov 9, 1986 ",37,['England'],England,Swindon,SS   RW,"1,88",-
+,Chib Chilaka,Striker,Centre-Forward,"Oct 21, 1986 ",37,"['England', 'Nigeria']",England,Leicester,,"1,76",-
+9,Adam Dickinson,Striker,Centre-Forward,"Nov 5, 1986 ",37,"['England', 'New Zealand']",England,Liverpool,LW   RW,"1,79",-
+12,Billy Sharp,Striker,Centre-Forward,"Feb 5, 1986 ",38,['England'],England,Sheffield,SS,"1,75",€200k
+35,Cameron Jerome,Striker,Centre-Forward,"Aug 14, 1986 ",37,"['Grenada', 'England']",England,Huddersfield,LW   RW,"1,85",€75k
+,Richard Evans,Striker,Centre-Forward,"Nov 11, 1986 ",37,['England'],England,Oswestry,,,-
+10,Danny Andrews,Striker,Centre-Forward,"Oct 14, 1986 ",37,['England'],England,Chester,LW   RW,,-
+,Gavin Allott,Striker,Centre-Forward,"Nov 25, 1986 ",37,['England'],England,London,,"1,88",-
+,Mykel Beckley,Striker,Centre-Forward,"Jun 2, 1986 ",37,['England'],England,Birmingham,RM,,-
+,Leon Mettam,Striker,Centre-Forward,"Dec 9, 1986 ",37,['England'],England,Lincoln,SS,,-
+,Sean Sonner,Striker,Centre-Forward,"Sep 9, 1986 ",37,['England'],England,London,,,-
+,Bradley Woods-Garness,Striker,Centre-Forward,"Jun 27, 1986 ",37,"['Montserrat', 'England']",England,London,,"1,75",-
+,Warren McBean,Striker,Centre-Forward,"Feb 13, 1986 ",38,['England'],England,London,,,-
+,Ben Mackey,Striker,Centre-Forward,"Oct 27, 1986 ",37,['England'],England,Leamington Spa,,"1,78",-
+,Adam New,Striker,Centre-Forward,"Feb 3, 1986 ",38,['England'],England,Crawley,,"1,90",-
+,Shaun Kerr,Striker,Centre-Forward,"Apr 23, 1986 ",37,['Scotland'],England,Birkenhead,,"1,81",-
+,Steven Richardson,Striker,Centre-Forward,"Jul 3, 1986 ",37,['England'],England,Gateshead,,,-
+,Andy Brown,Striker,Centre-Forward,"Mar 1, 1986 ",38,['England'],England,Lincoln,,"1,80",-
+,Chris Sharp,Striker,Centre-Forward,"Jun 19, 1986 ",37,"['Scotland', 'England']",England,Liverpool,,"1,80",-
+,Michael Symons,Striker,Centre-Forward,"Jul 22, 1986 ",37,['England'],England,Bideford,LW   RW,"1,92",-
+,Craig Watkins,Striker,Centre-Forward,"May 4, 1986 ",37,['England'],England,London,RW,,-
+,Matthew Barnes-Homer,Striker,Centre-Forward,"Jan 25, 1986 ",38,['England'],England,Dudley,,"1,80",-
+,Chris Holroyd,Striker,Centre-Forward,"Oct 24, 1986 ",37,['England'],England,Nantwich,,"1,80",-
+,Kyle Perry,Striker,Centre-Forward,"Mar 5, 1986 ",38,['England'],England,Birmingham,,"1,94",-
+,Phil Marsh,Striker,Centre-Forward,"Nov 15, 1986 ",37,['England'],England,St. Helens,,"1,78",-
+,Carl Finnigan,Striker,Centre-Forward,"Oct 1, 1986 ",37,['England'],England,Jarrow,SS   RW,"1,78",-
+,Jamie Jackson,Striker,Centre-Forward,"Nov 1, 1986 ",37,['England'],England,Sheffield,,"1,70",-
+10,Andy Williams,Striker,Centre-Forward,"Aug 14, 1986 ",37,['England'],England,Hereford,,"1,88",-
+,Aaron Farrell,Striker,Centre-Forward,"Apr 24, 1986 ",37,['England'],England,Birmingham,,"1,83",-
+,Ross Hannah,Striker,Centre-Forward,"May 14, 1986 ",37,['England'],England,Sheffield,SS,"1,75",-
+,Gareth Arnison,Striker,Centre-Forward,"Sep 18, 1986 ",37,['England'],England,Whitehaven,,,-
+,Cody McDonald,Striker,Centre-Forward,"May 30, 1986 ",37,['England'],England,Witham,,"1,82",-
+,Karl Noon,Striker,Centre-Forward,"Sep 15, 1986 ",37,['England'],England,Liverpool,,"1,78",-
+,Jermaine Gumbs,Striker,Centre-Forward,"May 5, 1986 ",37,"['Anguilla', 'England']",England,Slough,,"1,90",-
+,Kirk Hudson,Striker,Centre-Forward,"Dec 12, 1986 ",37,['England'],England,Rochford,,"1,73",-
+,Chris Dagnall,Striker,Centre-Forward,"Apr 15, 1986 ",37,['England'],England,Liverpool,SS,"1,73",-
+,Scott Rendell,Striker,Centre-Forward,"Oct 21, 1986 ",37,['England'],England,Ashford,SS,"1,85",-
+,Rene Howe,Striker,Centre-Forward,"Oct 22, 1986 ",37,['England'],England,Bedford,,"1,83",-
+,Chris Hall,Striker,Centre-Forward,"Nov 27, 1986 ",37,['England'],England,Manchester,,"1,88",-
+,Ollie Allen,Striker,Centre-Forward,"Sep 7, 1986 ",37,['England'],England,Brentford,,"1,80",-
+,Tom Cahill,Striker,Centre-Forward,"Nov 21, 1986 ",37,['England'],England,Euxton,,"1,79",-
+,Tom Craddock,Striker,Centre-Forward,"Oct 14, 1986 ",37,['England'],England,Darlington,LW   RW,"1,78",-
+,Jonathan Forte,Striker,Centre-Forward,"Jul 25, 1986 ",37,"['Barbados', 'England']",England,Sheffield,LW,"1,83",-
+,Gabriel Agbonlahor,Striker,Centre-Forward,"Oct 13, 1986 ",37,"['England', 'Nigeria']",England,Birmingham,SS   LW,"1,83",-
+,Dave Hibbert,Striker,Centre-Forward,"Jan 28, 1986 ",38,['England'],England,Stafford,,"1,88",-
+,Calvin Andrew,Striker,Centre-Forward,"Dec 19, 1986 ",37,['England'],England,Luton,RW   LW,"1,88",-
+,Dexter Blackstock,Striker,Centre-Forward,"May 20, 1986 ",37,"['Antigua and Barbuda', 'England']",England,Oxford,,"1,87",-
+,Sylvan Ebanks-Blake,Striker,Centre-Forward,"Mar 29, 1986 ",38,"['England', 'Jamaica']",England,Cambridge,SS   RW,"1,73",-
+,Andy Mangan,Striker,Centre-Forward,"Aug 30, 1986 ",37,['England'],England,Liverpool,RW   LW,"1,83",-
+,Will Hoskins,Striker,Centre-Forward,"May 6, 1986 ",37,['England'],England,Nottingham,LW   RW,"1,78",-
+,Luke Moore,Striker,Centre-Forward,"Feb 13, 1986 ",38,"['England', 'Jamaica']",England,Birmingham,RW,"1,80",-
+,Nathan Jarman,Striker,Centre-Forward,"Sep 19, 1986 ",37,['England'],England,Scunthorpe,RW,"1,80",-
+,Nicky Maynard,Striker,Centre-Forward,"Dec 11, 1986 ",37,['England'],England,Winsford,LW   RW,"1,80",-
+,Craig Davies,Striker,Centre-Forward,"Jan 9, 1986 ",38,"['Wales', 'England']",England,Burton upon Trent,,"1,88",-
+,Chris Zebroski,Striker,Centre-Forward,"Oct 29, 1986 ",37,"['England', 'Poland']",England,Swindon,LW   RW,"1,85",-
+,Rob Elvins,Striker,Centre-Forward,"Sep 17, 1986 ",37,['England'],England,Alvechurch,CM   CB,"1,85",-
+9,Jake Robinson,Striker,Centre-Forward,"Oct 23, 1986 ",37,['England'],England,Brighton,RW   LW,"1,70",-
+,Leon Best,Striker,Centre-Forward,"Sep 19, 1986 ",37,"['Ireland', 'England']",England,Nottingham,SS,"1,87",-
+,Danny Crow,Striker,Centre-Forward,"Jan 26, 1986 ",38,['England'],England,Great Yarmouth,,"1,76",-
+,Chris O'Grady,Striker,Centre-Forward,"Jan 25, 1986 ",38,['England'],England,Nottingham,,"1,91",-
+,Matty Fryatt,Striker,Centre-Forward,"Mar 5, 1986 ",38,['England'],England,Nuneaton,RW,"1,78",-
+9,Jamie Vardy,Striker,Centre-Forward,"Jan 11, 1987 ",37,['England'],England,Sheffield,,"1,79",€1.00m
+17,David McGoldrick,Striker,Centre-Forward,"Nov 29, 1987 ",36,"['Ireland', 'England']",England,Nottingham,SS,"1,84",€100k
+,James Francis,Striker,Centre-Forward,"Mar 16, 1987 ",37,['England'],England,Solihull,,,-
+,Mark Griffiths,Striker,Centre-Forward,"Aug 4, 1987 ",36,"['Wales', 'England']",England,Shrewsbury,,"1,78",-
+,Niall Cummins,Striker,Centre-Forward,"Mar 19, 1987 ",37,['England'],England,Manchester,,"1,88",-
+,John Sands,Striker,Centre-Forward,"Jan 1, 1987 ",37,['England'],England,Mildenhall,,"1,90",-
+,Ashley Robinson,Striker,Centre-Forward,"Aug 2, 1987 ",36,['England'],England,Birmingham,,,-
+,Ross Lafayette,Striker,Centre-Forward,"Apr 11, 1987 ",36,['England'],England,Watford,,"1,89",-
+,Mitchell Page,Striker,Centre-Forward,"Dec 8, 1987 ",36,['England'],England,Bristol,,,-
+9,Ben Everson,Striker,Centre-Forward,"Apr 15, 1987 ",36,"['England', 'Australia']",England,Middlesbrough,,"1,80",-
+,David Pratt,Striker,Centre-Forward,"Aug 1, 1987 ",36,['England'],England,Swindon,,,-
+,Adam Cunnington,Striker,Centre-Forward,"Oct 7, 1987 ",36,['England'],England,Leighton Buzzard,LW,"1,90",-
+,Rob Edmans,Striker,Centre-Forward,"Jan 25, 1987 ",37,['England'],England,Greenwich,,"2,00",-
+26,Steven Fletcher,Striker,Centre-Forward,"Mar 26, 1987 ",37,"['Scotland', 'England']",England,Shrewsbury,,"1,85",€125k
+,Dan Hamer,Striker,Centre-Forward,"Jan 28, 1987 ",37,['England'],England,Shrewsbury,,,-
+,Will Thomas,Striker,Centre-Forward,"Apr 23, 1987 ",36,"['Wales', 'England']",England,Shrewsbury,,"1,70",-
+,Tom Orrock,Striker,Centre-Forward,"Aug 15, 1987 ",36,['England'],England,Worcester,LW   LB,"1,86",-
+,Miles Jones,Striker,Centre-Forward,"Dec 17, 1987 ",36,"['Barbados', 'England']",England,Kingston-upon-Thames,RW,"1,70",-
+,Sam Reed,Striker,Centre-Forward,"Sep 6, 1987 ",36,['England'],England,London,,"1,82",-
+,Steve Lewis,Striker,Centre-Forward,"Nov 10, 1987 ",36,"['Wales', 'England']",England,Liverpool,,,-
+,Ryan Bird,Striker,Centre-Forward,"Nov 15, 1987 ",36,['England'],England,Slough,CB,"1,93",-
+,Gary O'Toole,Striker,Centre-Forward,"Jan 29, 1987 ",37,['England'],England,Birkenhead,,,-
+,Craig Parker,Striker,Centre-Forward,"May 22, 1987 ",36,['England'],England,Norwich,,"1,82",-
+,Jaimes McKee,Striker,Centre-Forward,"Apr 14, 1987 ",36,"['Hongkong', 'England']",England,Birmingham,RW   LW,"1,81",-
+,Mustafa Tiryaki,Striker,Centre-Forward,"Mar 2, 1987 ",37,"['Türkiye', 'England']",England,London,,"1,89",-
+,Anthony Wilson,Striker,Centre-Forward,"Aug 25, 1987 ",36,['England'],England,Sheffield,,"1,85",-
+,Mike Hayes,Striker,Centre-Forward,"Nov 21, 1987 ",36,['England'],England,Chester,LW   RW,"1,82",-
+,Alex Thomas,Striker,Centre-Forward,"May 7, 1987 ",36,"['Wales', 'England']",England,,,,-
+,Michael McGinlay,Striker,Centre-Forward,"Dec 10, 1987 ",36,['Scotland'],England,Yeovil,RW   AM,,-
+,Paul Taylor,Striker,Centre-Forward,"Oct 4, 1987 ",36,['England'],England,Liverpool,SS   RW,"1,79",-
+,Liam Enver-Marum,Striker,Centre-Forward,"Nov 17, 1987 ",36,['England'],England,London,LW,"1,91",-
+,James Hanson,Striker,Centre-Forward,"Nov 9, 1987 ",36,['England'],England,Bradford,,"1,93",-
+,Nick Wright,Striker,Centre-Forward,"Nov 25, 1987 ",36,['England'],England,Birmingham,LW,"1,91",-
+,Richard Brodie,Striker,Centre-Forward,"Jul 8, 1987 ",36,['England'],England,Gateshead,,"1,91",-
+,Jamie Reed,Striker,Centre-Forward,"Aug 13, 1987 ",36,"['Wales', 'England']",England,Chester,RW   LW,"1,83",-
+,Oli Johnson,Striker,Centre-Forward,"Nov 6, 1987 ",36,['England'],England,London,LW,"1,83",-
+,Sam Malson,Striker,Centre-Forward,"Nov 10, 1987 ",36,['England'],England,Teignmouth,SS   RW,"1,76",-
+,Joel Ledgister,Striker,Centre-Forward,"Sep 29, 1987 ",36,['England'],England,London,RW   LW,"1,83",-
+,Brett Williams,Striker,Centre-Forward,"Dec 1, 1987 ",36,['England'],England,Southampton,RW,"1,88",-
+,Byron Harrison,Striker,Centre-Forward,"Jun 15, 1987 ",36,['England'],England,London,,"1,91",-
+,Steve Diggin,Striker,Centre-Forward,"Nov 2, 1987 ",36,['England'],England,Northampton,,,-
+,Alan Bull,Striker,Centre-Forward,"Nov 25, 1987 ",36,"['England', 'Wales']",England,Birkenhead,,"1,79",-
+,Joseph Yoffe,Striker,Centre-Forward,"May 26, 1987 ",36,['England'],England,Manchester,AM,"1,78",-
+,Jake Reid,Striker,Centre-Forward,"Jun 22, 1987 ",36,['England'],England,Bristol,SS,"1,86",-
+,Aiden Savory,Striker,Centre-Forward,"Aug 4, 1987 ",36,['England'],England,,CB,,-
+,Adam Warlow,Striker,Centre-Forward,"Feb 3, 1987 ",37,['England'],England,Southport,,"1,88",-
+,Daniel Heffernan,Striker,Centre-Forward,"May 25, 1987 ",36,['England'],England,Manchester,,"1,88",-
+,Wes Thomas,Striker,Centre-Forward,"Jan 23, 1987 ",37,['England'],England,London,,"1,80",-
+,Shaun Batt,Striker,Centre-Forward,"Feb 22, 1987 ",37,['England'],England,London,RW,"1,87",-
+,Danny North,Striker,Centre-Forward,"Sep 7, 1987 ",36,['England'],England,Grimsby,,"1,75",-
+,James Brown,Striker,Centre-Forward,"Jan 3, 1987 ",37,['England'],England,Cramlington,RW   LW,"1,80",-
+,Emile Sinclair,Striker,Centre-Forward,"Dec 29, 1987 ",36,['England'],England,Leeds,RW   LW,"1,83",-
+,Matthew Wolfenden,Striker,Centre-Forward,"Jul 23, 1987 ",36,['England'],England,Oldham,SS,"1,75",-
+,Shaun Miller,Striker,Centre-Forward,"Sep 25, 1987 ",36,['England'],England,Alsager,,"1,72",-
+,Alex Nicholls,Striker,Centre-Forward,"Dec 9, 1987 ",36,['England'],England,Stourbridge,RW   LW,"1,78",-
+25,Matt Green,Striker,Centre-Forward,"Jan 2, 1987 ",37,"['England', 'Wales']",England,Bath,RW   LW,"1,83",-
+,Sam Williams,Striker,Centre-Forward,"Jun 9, 1987 ",36,['England'],England,London,,"1,88",-
+,Fraizer Campbell,Striker,Centre-Forward,"Sep 13, 1987 ",36,"['England', 'Jamaica']",England,Huddersfield,SS   RW,"1,72",-
+,Phil Younghusband,Striker,Centre-Forward,"Aug 4, 1987 ",36,"['Philippines', 'England']",England,"Ashford, Middlesex",SS   AM,"1,80",-
+,James Walker,Striker,Centre-Forward,"Nov 25, 1987 ",36,"['Antigua and Barbuda', 'England']",England,London,,"1,80",-
+,Ishmael Miller,Striker,Centre-Forward,"Mar 5, 1987 ",37,['England'],England,Manchester,,"1,92",-
+,Joe Gatting,Striker,Centre-Forward,"Nov 25, 1987 ",36,['England'],England,Brighton,,"1,80",-
+,Marvin Williams,Striker,Centre-Forward,"Aug 12, 1987 ",36,['England'],England,Sydenham,,"1,80",-
+,Danny Smith,Striker,Centre-Forward,"Oct 6, 1987 ",36,['England'],England,Wolverhampton,,"1,78",-
+,Steve Davies,Striker,Centre-Forward,"Dec 29, 1987 ",36,['England'],England,Liverpool,LW   RW,"1,85",-
+,Francis Collin,Striker,Centre-Forward,"Apr 20, 1987 ",36,['England'],England,Chatham,,"1,81",-
+,Patrick McGuire,Striker,Centre-Forward,"Jul 29, 1987 ",36,['England'],England,Bradford,,"1,78",-
+,Elliot Benyon,Striker,Centre-Forward,"Aug 29, 1987 ",36,['England'],England,High Wycombe,SS,"1,75",-
+,Nathan Elder,Striker,Centre-Forward,"Aug 1, 1987 ",36,"['England', 'Barbados']",England,London,,"1,91",-
+,Matthew Berkeley,Striker,Centre-Forward,"Aug 3, 1987 ",36,"['St. Kitts & Nevis', 'England']",England,Manchester,,"1,78",-
+,Jamie Guy,Striker,Centre-Forward,"Aug 1, 1987 ",36,['England'],England,London,,"1,85",-
+9,Jack Watkins,Striker,Centre-Forward,"Sep 2, 1987 ",36,['England'],England,London,,,-
+,Tony Stokes,Striker,Centre-Forward,"Jan 7, 1987 ",37,['England'],England,London,AM   CM,"1,86",-
+,Ben Hutchinson,Striker,Centre-Forward,"Nov 27, 1987 ",36,"['England', 'Jamaica']",England,Nottingham,SS,"1,80",-
+,Simon Cox,Striker,Centre-Forward,"Apr 28, 1987 ",36,"['Ireland', 'England']",England,Tilehurst,LW   RW,"1,80",-
+,Marc Newsham,Striker,Centre-Forward,"Mar 24, 1987 ",37,['England'],England,Rotherham,,"1,78",-
+,Tyrone Berry,Striker,Centre-Forward,"Mar 11, 1987 ",37,['England'],England,Brixton,,"1,73",-
+,Martin Paterson,Striker,Centre-Forward,"May 10, 1987 ",36,"['Northern Ireland', 'England']",England,Tunstall,SS   RW,"1,78",-
+9,Billy McKay,Striker,Centre-Forward,"Oct 22, 1988 ",35,"['Northern Ireland', 'England']",England,Corby,SS,"1,75",€250k
+,Troy Deeney,Striker,Centre-Forward,"Jun 29, 1988 ",35,"['England', 'Jamaica']",England,Birmingham,SS,"1,84",€150k
+,Lewis Grabban,Striker,Centre-Forward,"Jan 12, 1988 ",36,"['Jamaica', 'England']",England,London,RW   LW,"1,83",€100k
+,Rob Ablewhite,Striker,Centre-Forward,"Jan 28, 1988 ",36,['England'],England,Liverpool,,,-
+,Matt Williams,Striker,Centre-Forward,"Jun 21, 1988 ",35,['England'],England,Bury,,,-
+16,Ricky Johnson,Striker,Centre-Forward,"Dec 5, 1988 ",35,['England'],England,Banbury,,"1,94",-
+,Dave Tarpey,Striker,Centre-Forward,"Nov 14, 1988 ",35,['England'],England,Henley-on-Thames,SS   RW,"1,83",-
+,Michael Taylor,Striker,Centre-Forward,"Mar 4, 1988 ",36,['England'],England,Birmingham,,"1,83",-
+,Charlie Strutton,Striker,Centre-Forward,"Nov 30, 1988","Nov 30, 1988",['England'],England,London,,"1,82",-
+,Harvey Headley,Striker,Centre-Forward,"Oct 5, 1988 ",35,['England'],England,Coventry,,"1,80",-
+,Ryan Rowe,Striker,Centre-Forward,"Jun 11, 1988 ",35,['England'],England,Kidderminster,,"1,82",-
+,Jordan Smith,Striker,Centre-Forward,"Apr 9, 1988 ",35,"['Antigua and Barbuda', 'England']",England,Leicester,,,-
+,John Campbell,Striker,Centre-Forward,"Nov 23, 1988 ",35,['England'],England,Newcastle,SS,,-
+9,Lee Gregory,Striker,Centre-Forward,"Aug 26, 1988 ",35,['England'],England,Sheffield,,"1,88",€150k
+18,Chris Martin,Striker,Centre-Forward,"Nov 4, 1988 ",35,"['Scotland', 'England']",England,Beccles,,"1,84",€100k
+,Luke Barlone,Striker,Centre-Forward,"May 27, 1988 ",35,['England'],England,Stratford-upon-Avon,,"1,82",-
+,Nathan Prodger,Striker,Centre-Forward,"Oct 20, 1988 ",35,"['Wales', 'England']",England,Shrewsbury,,,-
+,Emini Adegbenro,Striker,Centre-Forward,"Oct 4, 1988 ",35,"['England', 'Nigeria']",England,Liverpool,LW   RW,"1,83",-
+,Melford Simpson,Striker,Centre-Forward,"Oct 16, 1988 ",35,['England'],England,London,,"1,99",-
+,Ryan Robbins,Striker,Centre-Forward,"Apr 7, 1988 ",35,"['St. Kitts & Nevis', 'England']",England,Leicester,,"1,90",-
+,Tom Knighton,Striker,Centre-Forward,"Feb 14, 1988 ",36,['England'],England,Bristol,,,-
+,Billy Bricknell,Striker,Centre-Forward,"Jul 24, 1988 ",35,['England'],England,London,,"1,80",-
+9,Jason Prior,Striker,Centre-Forward,"Dec 20, 1988 ",35,['England'],England,Portsmouth,,"1,86",-
+,Ben Billingham,Striker,Centre-Forward,"Jul 11, 1988 ",35,['England'],England,Stourbridge,AM   CM,,-
+,Craig Sutherland,Striker,Centre-Forward,"Dec 17, 1988 ",35,['Scotland'],England,London,,"1,83",-
+,Anthony Woodward,Striker,Centre-Forward,"Sep 21, 1988 ",35,['England'],England,,,,-
+,Christian Jolley,Striker,Centre-Forward,"May 12, 1988 ",35,['England'],England,Fleet,RW   LW,"1,83",-
+,Chris Mulhall,Striker,Centre-Forward,"Feb 9, 1988 ",36,"['Ireland', 'England']",England,Birmingham,RM   LM,"1,80",-
+,Courtney Herbert,Striker,Centre-Forward,"Oct 25, 1988 ",35,['England'],England,Northampton,,"1,88",-
+,Ben Wright,Striker,Centre-Forward,"Aug 20, 1988 ",35,['England'],England,Basingstoke,,"1,88",-
+,George Donnelly,Striker,Centre-Forward,"May 28, 1988 ",35,['England'],England,Kirkby,,"1,87",-
+,Louis Briscoe,Striker,Centre-Forward,"Apr 2, 1988 ",36,['England'],England,Burton-on-Trent,LW   RW,"1,83",-
+,Charlie Moone,Striker,Centre-Forward,"Nov 14, 1988 ",35,['England'],England,Reading,,,-
+,Jamie Clarke,Striker,Centre-Forward,"Sep 11, 1988 ",35,['England'],England,London,,"1,78",-
+,Harry Harris,Striker,Centre-Forward,"Dec 9, 1988 ",35,['England'],England,Sutton Coldfield,,"1,82",-
+,Matt Groves,Striker,Centre-Forward,"Dec 11, 1988 ",35,['England'],England,Bristol,,"1,73",-
+,Luis Cumbers,Striker,Centre-Forward,"Sep 6, 1988 ",35,['England'],England,Chelmsford,RW   LW,"1,83",-
+,Ben Williamson,Striker,Centre-Forward,"Dec 25, 1988 ",35,['England'],England,London,SS   RW,"1,80",-
+,Alex Waugh,Striker,Centre-Forward,"Feb 9, 1988 ",36,['England'],England,,,,-
+,Jamie Darvill,Striker,Centre-Forward,"Jan 5, 1988 ",36,['England'],England,London,,"1,78",-
+,Tommy Amphlett,Striker,Centre-Forward,"Sep 14, 1988 ",35,"['Australia', 'England']",England,Stoke-on-Trent,RW,"1,73",-
+,Craig Hobson,Striker,Centre-Forward,"Feb 25, 1988 ",36,['England'],England,Bolton,,"1,91",-
+,Lee Novak,Striker,Centre-Forward,"Sep 28, 1988 ",35,['England'],England,Newcastle upon Tyne,LW   RW,"1,83",-
+,James McPike,Striker,Centre-Forward,"Oct 4, 1988 ",35,"['England', 'Australia']",England,,,"1,78",-
+,Pierre Joseph-Dubois,Striker,Centre-Forward,"Feb 12, 1988 ",36,['England'],England,London,,,-
+,Giuseppe Sole,Striker,Centre-Forward,"Jan 8, 1988 ",36,"['England', 'Italy']",England,Woking,LW   RW,,-
+,George Purcell,Striker,Centre-Forward,"Apr 2, 1988 ",36,['England'],England,Gravesend,,"1,80",-
+,Rory Boulding,Striker,Centre-Forward,"Jul 21, 1988 ",35,['England'],England,Sheffield,,"1,85",-
+,Simon Church,Striker,Centre-Forward,"Dec 10, 1988 ",35,"['Wales', 'England']",England,High Wycombe,,"1,83",-
+,Donovan Simmonds,Striker,Centre-Forward,"Oct 12, 1988 ",35,['England'],England,London,,"1,80",-
+15,Tomi Ameobi,Striker,Centre-Forward,"Aug 16, 1988 ",35,"['England', 'Nigeria']",England,Newcastle upon Tyne,,"1,85",-
+10,Jonny Smith,Striker,Centre-Forward,"Oct 31, 1988 ",35,['England'],England,Wigan,,"1,80",-
+,Damon Gray,Striker,Centre-Forward,"Jul 11, 1988 ",35,['England'],England,South Shields,SS   AM,"1,75",-
+,Anthony Mason,Striker,Centre-Forward,"Oct 21, 1988 ",35,"['Ireland', 'England']",England,Plymouth,,,-
+,Deane Smalley,Striker,Centre-Forward,"Sep 5, 1988 ",35,['England'],England,Manchester,RW   LW,"1,83",-
+,Joe Garner,Striker,Centre-Forward,"Apr 12, 1988 ",35,['England'],England,Clitheroe,SS,"1,78",-
+,David McDermott,Striker,Centre-Forward,"Feb 6, 1988 ",36,['England'],England,Stourbridge,,"1,65",-
+19,Charlie Sheringham,Striker,Centre-Forward,"Apr 17, 1988 ",35,['England'],England,Chingford,,"1,87",-
+,Reuben Reid,Striker,Centre-Forward,"Jul 26, 1988 ",35,"['England', 'Jamaica']",England,Bristol,,"1,83",-
+,Giles Barnes,Striker,Centre-Forward,"Aug 5, 1988 ",35,"['Jamaica', 'England']",England,Barking,AM   LM,"1,83",-
+,Danny Haynes,Striker,Centre-Forward,"Jan 19, 1988 ",36,"['England', 'Jamaica']",England,London,RW   LW,"1,78",-
+,James Vaughan,Striker,Centre-Forward,"Jul 14, 1988 ",35,"['England', 'Jamaica']",England,Birmingham,,"1,81",-
+,David Dowson,Striker,Centre-Forward,"Sep 12, 1988 ",35,['England'],England,Bishop Auckland,,"1,78",-
+,Marcus Palmer,Striker,Centre-Forward,"Jan 6, 1988 ",36,['England'],England,Gloucester,,"1,83",-
+,Charles Ademeno,Striker,Centre-Forward,"Dec 12, 1988 ",35,"['England', 'Nigeria']",England,Milton Keynes,,"1,78",-
+29,Ryan Taylor,Striker,Centre-Forward,"May 4, 1988 ",35,['England'],England,Rotherham,,"1,88",-
+,Ross Montague,Striker,Centre-Forward,"Nov 1, 1988 ",35,['England'],England,London,,"1,85",-
+,Jay Simpson,Striker,Centre-Forward,"Dec 1, 1988 ",35,"['England', 'Grenada']",England,London,RW   LW,"1,78",-
+88,Gary Hooper,Striker,Centre-Forward,"Jan 26, 1988 ",36,['England'],England,Loughton,SS,"1,77",-
+,Michael Coulson,Striker,Centre-Forward,"Apr 4, 1988 ",36,['England'],England,Scarborough,RW   LW,"1,78",-
+,Ray Jones,Striker,Centre-Forward,"Aug 28, 1988","Aug 28, 1988",['England'],England,London,,"1,93",-
+,Jamie Mole,Striker,Centre-Forward,"Jun 1, 1988 ",35,['England'],England,"Gosforth, Newcastle upon Tyne",RW,"1,78",-
+,Jordan Robertson,Striker,Centre-Forward,"Feb 12, 1988 ",36,['England'],England,Sheffield,,"1,91",-
+9,Jay Rodríguez,Striker,Centre-Forward,"Jul 29, 1989 ",34,"['England', 'Spain']",England,Burnley,SS   LW,"1,85",€1.00m
+25,Dwight Gayle,Striker,Centre-Forward,"Oct 17, 1989 ",34,"['England', 'Jamaica']",England,London,LW   RW,"1,74",€300k
+10,Lukas Jutkiewicz,Striker,Centre-Forward,"Mar 28, 1989 ",35,['England'],England,Southampton,,"1,85",€300k
+9,Sam Vokes,Striker,Centre-Forward,"Oct 21, 1989 ",34,"['Wales', 'England']",England,Southampton,,"1,86",€175k
+17,Matt Smith,Striker,Centre-Forward,"Jun 7, 1989 ",34,"['England', 'Scotland']",England,Birmingham,,"1,98",€100k
+10,Danny Hylton,Striker,Centre-Forward,"Feb 25, 1989 ",35,['England'],England,London,,"1,83",€75k
+7,Lucas Akins,Striker,Centre-Forward,"Feb 25, 1989 ",35,"['Grenada', 'England']",England,Huddersfield,RW   RB,"1,80",€75k
+,John Corrigan,Striker,Centre-Forward,"Feb 22, 1989 ",35,['England'],England,Birkenhead,LW,,-
+,Luke Hopper,Striker,Centre-Forward,"Mar 16, 1989 ",35,['England'],England,Devizes,,,-
+,Tom Adam Clarke,Striker,Centre-Forward,"Mar 6, 1989 ",35,['England'],England,,SS   RW,"1,76",-
+,Luke Callander,Striker,Centre-Forward,"Nov 18, 1989 ",34,['England'],England,Chelmsford,,"1,88",-
+,Anthony Carney,Striker,Centre-Forward,"May 27, 1989 ",34,['England'],England,Coalville,AM,"1,82",-
+,Kyle King,Striker,Centre-Forward,"Aug 2, 1989 ",34,"['England', 'Australia']",England,Coventry,SS   RW,"1,83",-
+10,Ashley Barnes,Striker,Centre-Forward,"Oct 30, 1989 ",34,['England'],England,Dunkerton,SS   LW,"1,85",€600k
+99,Andy Carroll,Striker,Centre-Forward,"Jan 6, 1989 ",35,['England'],England,Gateshead,,"1,93",€300k
+10,David Ball,Striker,Centre-Forward,"Dec 14, 1989 ",34,['England'],England,Manchester,RW   LW,"1,83",€250k
+32,Charlie Austin,Striker,Centre-Forward,"Jul 5, 1989 ",34,['England'],England,Hungerford,,"1,88",€150k
+18,Jack Muldoon,Striker,Centre-Forward,"May 19, 1989 ",34,['England'],England,Scunthorpe,RW   LW,"1,78",€75k
+24,John Akinde,Striker,Centre-Forward,"Jul 8, 1989 ",34,"['England', 'Nigeria']",England,Gravesend,,"1,88",€75k
+,Kieran Agard,Striker,Centre-Forward,"Oct 10, 1989 ",34,"['England', 'Jamaica']",England,London,SS   RW,"1,78",€50k
+,Nathan Cartman,Striker,Centre-Forward,"Nov 4, 1989 ",34,['England'],England,Halifax,,"1,66",-
+,Jimmy Hayns,Striker,Centre-Forward,"Dec 1, 1989 ",34,['England'],England,Oswestry,,,-
+,Joel Thompson,Striker,Centre-Forward,"Jul 18, 1989 ",34,['England'],England,London,LW   SS,"1,93",-
+,Michael Hampshire,Striker,Centre-Forward,"Jun 21, 1989 ",34,"['England', 'Hongkong']",England,London,,"1,83",-
+,Michael Clarke,Striker,Centre-Forward,"Aug 13, 1989 ",34,['England'],England,Stockport,CB,,-
+,Gavin James,Striker,Centre-Forward,"Feb 21, 1989 ",35,"['St. Vincent & Grenadinen', 'England']",England,High Wycombe,,"1,79",-
+,Chris Flood,Striker,Centre-Forward,"Nov 28, 1989 ",34,['England'],England,London,RW   LW,,-
+,Duncan Culley,Striker,Centre-Forward,"Aug 29, 1989 ",34,"['England', 'Wales']",England,Bristol,,"1,90",-
+,Kristian Ramsey-Dickson,Striker,Centre-Forward,"Aug 23, 1989 ",34,['England'],England,Birmingham,,,-
+,Adam Tse,Striker,Centre-Forward,"Jun 22, 1989 ",34,"['Ireland', 'Hongkong']",England,Salford,,"1,80",-
+,Zeph Thomas,Striker,Centre-Forward,"Nov 14, 1989 ",34,"['St. Kitts & Nevis', 'England']",England,Bradford,LW,"1,78",-
+9,Mark Jones,Striker,Centre-Forward,"Sep 6, 1989 ",34,['England'],England,Slough,,"1,91",-
+,Sam Higgins,Striker,Centre-Forward,"Aug 21, 1989 ",34,['England'],England,London,,"1,73",-
+,Ben Mills,Striker,Centre-Forward,"Mar 23, 1989 ",35,['England'],England,Stoke-on-Trent,,"1,88",-
+,Bradley Barraclough,Striker,Centre-Forward,"May 26, 1989 ",34,['England'],England,Nuneaton,,"1,65",-
+,Elliott Buchanan,Striker,Centre-Forward,"Jul 17, 1989 ",34,['England'],England,London,,"1,81",-
+,Reece Styche,Striker,Centre-Forward,"May 3, 1989 ",34,"['Gibraltar', 'England']",England,Sutton Coldfield,SS,"1,85",-
+,Jordan Connerton,Striker,Centre-Forward,"Oct 2, 1989 ",34,['England'],England,Lancaster,,"1,80",-
+,Liam Caddick,Striker,Centre-Forward,"Jun 1, 1989 ",34,['England'],England,Liverpool,,,-
+,Sahr Kabba,Striker,Centre-Forward,"Apr 13, 1989 ",34,['England'],England,Bristol,RW,"1,63",-
+,Tom Lorraine,Striker,Centre-Forward,"Jan 5, 1989 ",35,['England'],England,,,,-
+,Richard Gregory,Striker,Centre-Forward,"May 9, 1989 ",34,['England'],England,Birmingham,,,-
+,Jacob Cox,Striker,Centre-Forward,"Apr 11, 1989 ",34,['England'],England,Bristol,,,-
+,Paul Wyatt,Striker,Centre-Forward,"Dec 29, 1989 ",34,['England'],England,Modbury,AM,"1,83",-
+,Reis Stanislaus,Striker,Centre-Forward,"Mar 17, 1989 ",35,['England'],England,Leyton,,,-
+,Stefan Brown,Striker,Centre-Forward,"Dec 22, 1989 ",34,['England'],England,London,,"1,75",-
+,Keke Orth,Striker,Centre-Forward,N/A ,34,[],England,London,LW   RW,N/A,-
+,Danny Rowe,Striker,Centre-Forward,"Jan 29, 1989 ",35,['England'],England,Blackpool,SS,"1,86",-
+,Ian Sheridan,Striker,Centre-Forward,"Mar 12, 1989 ",35,['England'],England,Birkenhead,LW   RW,"1,75",-
+,Stuart Hendrie,Striker,Centre-Forward,"Nov 1, 1989 ",34,['England'],England,Solihull,,"1,75",-
+,Craig Hammond,Striker,Centre-Forward,"Apr 15, 1989 ",34,['England'],England,Cambridge,,"1,90",-
+,Julian Owusu,Striker,Centre-Forward,"May 10, 1989 ",34,"['Ghana', 'England']",England,London,,"1,85",-
+,Ben Tomlinson,Striker,Centre-Forward,"Oct 31, 1989 ",34,['England'],England,Dinnington,LW   RW,"1,80",-
+,Jarred Stevens,Striker,Centre-Forward,"Oct 25, 1989 ",34,['England'],England,Cannock,,,-
+,James Lindie,Striker,Centre-Forward,"Nov 19, 1989 ",34,['England'],England,London,,"1,89",-
+,Ben Fairclough,Striker,Centre-Forward,"Apr 18, 1989 ",34,['England'],England,Nottingham,,"1,68",-
+,Danny Mitchley,Striker,Centre-Forward,"Oct 7, 1989 ",34,['England'],England,Liverpool,,"1,83",-
+,Jamie White,Striker,Centre-Forward,"Nov 17, 1989 ",34,['England'],England,Southampton,SS,"1,73",-
+,Liam Henderson,Striker,Centre-Forward,"Dec 28, 1989 ",34,['England'],England,Newcastle upon Tyne,,"1,85",-
+,Waide Fairhurst,Striker,Centre-Forward,"May 7, 1989 ",34,['England'],England,Sheffield,LW   RW,"1,78",-
+,Aaron Moses-Garvey,Striker,Centre-Forward,"Sep 6, 1989 ",34,"['St. Kitts & Nevis', 'England']",England,Birmingham,,"1,73",-
+,Nathan Fisher,Striker,Centre-Forward,"Jul 6, 1989 ",34,"['England', 'Scotland']",England,Northallerton,,"1,78",-
+14,Lenell John-Lewis,Striker,Centre-Forward,"May 17, 1989 ",34,['England'],England,London,LW   RW,"1,80",-
+,Jacob Erskine,Striker,Centre-Forward,"Jan 13, 1989 ",35,['England'],England,London,,"1,85",-
+,David Brown,Striker,Centre-Forward,"May 29, 1989 ",34,['England'],England,York,,"1,68",-
+,Ricky Miller,Striker,Centre-Forward,"Mar 13, 1989 ",35,['England'],England,Hatfield,LW   RW,"1,88",-
+,Delano Sam-Yorke,Striker,Centre-Forward,"Jan 20, 1989 ",35,['England'],England,London,RW   LW,"1,86",-
+,Tom Denton,Striker,Centre-Forward,"Jul 24, 1989 ",34,['England'],England,Shepley,,"2,01",-
+,Marcus Marshall,Striker,Centre-Forward,"Oct 7, 1989 ",34,['England'],England,London,LW   RW,"1,78",-
+,Craig Whitfield,Striker,Centre-Forward,"Aug 16, 1989 ",34,['England'],England,Oswestry,RW,,-
+,Adam Newbold,Striker,Centre-Forward,"Nov 16, 1989 ",34,['England'],England,,,"1,85",-
+9,Amari Morgan-Smith,Striker,Centre-Forward,"Apr 3, 1989 ",35,['England'],England,Wolverhampton,LW   RW,"1,83",-
+,Loick Pires,Striker,Centre-Forward,"Nov 20, 1989 ",34,"['England', 'Portugal']",England,Hampsted,,"1,94",-
+,Scott Boden,Striker,Centre-Forward,"Nov 23, 1989 ",34,['England'],England,Sheffield,,"1,80",-
+,Andy Owens,Striker,Centre-Forward,"Oct 15, 1989 ",34,['England'],England,Liverpool,CB,"1,91",-
+,Nick Blackman,Striker,Centre-Forward,"Nov 11, 1989 ",34,"['Barbados', 'England']",England,Bury,RW   LW,"1,88",-
+,Sam Baldock,Striker,Centre-Forward,"Mar 15, 1989 ",35,['England'],England,Buckingham,SS,"1,70",-
+,Josh McQuoid,Striker,Centre-Forward,"Dec 15, 1989 ",34,"['Northern Ireland', 'England']",England,Southampton,RW   LW,"1,77",-
+,Ryan Charles,Striker,Centre-Forward,"Aug 30, 1989 ",34,['England'],England,London,,"1,83",-
+,Hal Robson-Kanu,Striker,Centre-Forward,"May 21, 1989 ",34,"['Wales', 'England']",England,London,LW   RW,"1,83",-
+,Jason Bradley,Striker,Centre-Forward,"Mar 16, 1989 ",35,['England'],England,Nottingham,,"1,90",-
+,Greg Draper,Striker,Centre-Forward,"Aug 13, 1989 ",34,"['New Zealand', 'England']",England,Chard,,"1,87",-
+,Kieron St Aimie,Striker,Centre-Forward,"May 4, 1989 ",34,['England'],England,London,CM,"1,85",-
+,Craig Curran,Striker,Centre-Forward,"Aug 23, 1989 ",34,['England'],England,Liverpool,SS   RW,"1,75",-
+,Andy Pugh,Striker,Centre-Forward,"Jan 28, 1989 ",35,['England'],England,Gravesend,RW   LW,"1,75",-
+18,Theo Robinson,Striker,Centre-Forward,"Jan 22, 1989 ",35,"['Jamaica', 'England']",England,Birmingham,SS   RW,"1,75",-
+,Shaun Reay,Striker,Centre-Forward,"May 20, 1989 ",34,['England'],England,Boldon Colliery,,"1,85",-
+,Luke Medley,Striker,Centre-Forward,"Jun 21, 1989 ",34,['England'],England,London,RW   LW,"1,85",-
+,Josh Klein-Davies,Striker,Centre-Forward,"Jul 6, 1989 ",34,['Wales'],England,Bristol,,"1,87",-
+,Terry Gornell,Striker,Centre-Forward,"Dec 16, 1989 ",34,['England'],England,Liverpool,SS,"1,85",-
+17,Tope Obadeyi,Striker,Centre-Forward,"Oct 29, 1989 ",34,"['England', 'Nigeria']",England,Birmingham,LW   RW,"1,82",-
+,Ben Kudjodji,Striker,Centre-Forward,"Apr 23, 1989 ",34,"['England', 'The Gambia']",England,Trewlany,,"1,83",-
+,Stephen Connor,Striker,Centre-Forward,"Jan 27, 1989 ",35,['England'],England,Wirral,LW,,-
+,Andrew Smith,Striker,Centre-Forward,"Dec 22, 1989 ",34,['England'],England,Burnley,,"1,78",-
+,Danny Glover,Striker,Centre-Forward,"Oct 24, 1989 ",34,['England'],England,Crewe,,"1,80",-
+,Daniel Sturridge,Striker,Centre-Forward,"Sep 1, 1989 ",34,['England'],England,Birmingham,RW   SS,"1,82",-
+,Sam Gargan,Striker,Centre-Forward,"Jan 24, 1989 ",35,['England'],England,Brighton,,"1,90",-
+9,Michail Antonio,Striker,Centre-Forward,"Mar 28, 1990 ",34,"['Jamaica', 'England']",England,London,RM   LM,"1,80",€6.00m
+25,Danny Ward,Striker,Centre-Forward,"Dec 9, 1990 ",33,['England'],England,Bradford,LW   RW,"1,80",€350k
+28,Darren Lok,Striker,Centre-Forward,"Dec 14, 1990 ",33,"['Malaysia', 'England']",England,Hailsham,,"1,74",€200k
+9,Andy Cook,Striker,Centre-Forward,"Oct 18, 1990 ",33,['England'],England,Bishop Auckland,,"1,85",€150k
+9,Jonathan Obika,Striker,Centre-Forward,"Sep 12, 1990 ",33,"['England', 'Nigeria']",England,London,,"1,82",€150k
+9,Matty Taylor,Striker,Centre-Forward,"Mar 30, 1990 ",34,['England'],England,Oxford,SS   LW,"1,76",€125k
+,Gary Madine,Striker,Centre-Forward,"Aug 24, 1990 ",33,['England'],England,Gateshead,,"1,91",€100k
+10,Gary Martin,Striker,Centre-Forward,"Oct 10, 1990 ",33,"['England', 'Iceland']",England,Darlington,SS,"1,80",€50k
+,Mike Cronshaw,Striker,Centre-Forward,"Sep 4, 1990 ",33,['England'],England,Chester,,,-
+,Cyrus Vanterpool,Striker,Centre-Forward,"Dec 30, 1990 ",33,"['Anguilla', 'England']",England,,,,-
+,John Mills,Striker,Centre-Forward,"Mar 20, 1990 ",34,['England'],England,Oxford,,"1,80",-
+,Jordan Hulme,Striker,Centre-Forward,"Nov 23, 1990 ",33,['England'],England,Ramsbottom,,"1,83",-
+,Louis Clark,Striker,Centre-Forward,"Jun 10, 1990 ",33,['England'],England,Brighton,LW   RW,"1,78",-
+18,Danny Welbeck,Striker,Centre-Forward,"Nov 26, 1990 ",33,"['England', 'Ghana']",England,Manchester,LW   RW,"1,85",€6.00m
+16,Jordan Rhodes,Striker,Centre-Forward,"Feb 5, 1990 ",34,"['Scotland', 'England']",England,Oldham,,"1,85",€275k
+9,James Collins,Striker,Centre-Forward,"Dec 1, 1990 ",33,"['Ireland', 'England']",England,Coventry,,"1,88",€175k
+,Dom Dwyer,Striker,Centre-Forward,"Jul 30, 1990 ",33,"['United States', 'England']",England,Cuckfield,SS,"1,76",€150k
+18,Lyle Taylor,Striker,Centre-Forward,"Mar 29, 1990 ",34,"['Montserrat', 'England']",England,London,RW   LW,"1,88",€125k
+14,Kristian Dennis,Striker,Centre-Forward,"Mar 12, 1990 ",34,['England'],England,Manchester,,"1,80",€100k
+10,Martyn Waghorn,Striker,Centre-Forward,"Jan 23, 1990 ",34,['England'],England,South Shields,LW   RW,"1,77",€100k
+,Warren Bentley,Striker,Centre-Forward,"May 25, 1990 ",33,['England'],England,Winchester,,"1,73",-
+,Moussa Cissé,Striker,Centre-Forward,"Nov 29, 1990 ",33,"[""Cote d'Ivoire"", 'England']",England,Chaddesden,LW   RW,"1,83",-
+,Matthew Myhill,Striker,Centre-Forward,"Dec 12, 1990 ",33,['England'],England,Norwich,,,-
+,Gregg Smith,Striker,Centre-Forward,"Jan 24, 1990 ",34,['England'],England,Grantham,,"1,88",-
+,Ben Harris,Striker,Centre-Forward,"Jan 1, 1990 ",34,['England'],England,London,SS,"1,81",-
+,Scott Fenwick,Striker,Centre-Forward,"Apr 9, 1990 ",33,['England'],England,Gateshead,,"1,83",-
+,Liam Hardy,Striker,Centre-Forward,"Aug 2, 1990 ",33,['England'],England,Doncaster,,,-
+,Dan Holman,Striker,Centre-Forward,"Jun 5, 1990 ",33,['England'],England,Northampton,,"1,81",-
+9,Alex Wall,Striker,Centre-Forward,"Sep 22, 1990 ",33,['England'],England,Thatcham,,"1,91",-
+9,Glen Taylor,Striker,Centre-Forward,"May 11, 1990 ",33,['England'],England,Ashington,,"1,91",-
+,Chris Mason,Striker,Centre-Forward,"Nov 28, 1990 ",33,['Wales'],England,Blackburn,,"1,75",-
+,Russell Malton,Striker,Centre-Forward,"Nov 14, 1990 ",33,['England'],England,Colchester,,,-
+,Billy Kee,Striker,Centre-Forward,"Dec 1, 1990 ",33,"['Northern Ireland', 'England']",England,Leicester,SS,"1,75",-
+,Mitchell Bryant,Striker,Centre-Forward,"Dec 22, 1990 ",33,['England'],England,Swindon,,"1,85",-
+,Jack Redshaw,Striker,Centre-Forward,"Nov 20, 1990 ",33,['England'],England,Salford,RW   LW,"1,68",-
+,Hakeem Araba,Striker,Centre-Forward,"Feb 12, 1990 ",34,"['England', 'Nigeria']",England,London,,"1,90",-
+9,Jake Hyde,Striker,Centre-Forward,"Jul 1, 1990 ",33,['England'],England,Maidenhead,,"1,85",-
+,AJ Leitch-Smith,Striker,Centre-Forward,"Mar 6, 1990 ",34,['England'],England,Crewe,SS   RW,"1,73",-
+,Taylor Morgan,Striker,Centre-Forward,"Oct 21, 1990 ",33,['England'],England,Southampton,,"1,92",-
+,Ben Godfrey,Striker,Centre-Forward,"Oct 5, 1990 ",33,['England'],England,Crawley,,,-
+,Nathan Blissett,Striker,Centre-Forward,"Jun 29, 1990 ",33,['England'],England,West Bromwich,LW   RW,"1,96",-
+,Simon Everall,Striker,Centre-Forward,"Jul 23, 1990 ",33,['England'],England,Crewe,,,-
+,Troy Hewitt,Striker,Centre-Forward,"Feb 10, 1990 ",34,['England'],England,London,,"1,83",-
+14,Josh Parker,Striker,Centre-Forward,"Dec 1, 1990 ",33,"['Antigua and Barbuda', 'England']",England,Slough,RW   LW,"1,81",-
+,Lee Bennett,Striker,Centre-Forward,"Sep 19, 1990 ",33,['England'],England,Barnsley,,,-
+30,James Norwood,Striker,Centre-Forward,"Sep 5, 1990 ",33,['England'],England,Eastbourne,RW   LW,"1,78",-
+,Marlon Jackson,Striker,Centre-Forward,"Dec 6, 1990 ",33,"['England', 'Jamaica']",England,Bristol,LW   RW,"1,88",-
+21,Kwesi Appiah,Striker,Centre-Forward,"Aug 12, 1990 ",33,"['Ghana', 'England']",England,London,SS,"1,80",-
+,Daniel Charge,Striker,Centre-Forward,"Jan 1, 1990 ",34,['England'],England,,,"1,80",-
+,Danny Kelly,Striker,Centre-Forward,"Oct 18, 1990 ",33,['Ireland'],England,Huntingdon,,"1,85",-
+,Ryan Brooke,Striker,Centre-Forward,"Oct 4, 1990 ",33,['England'],England,Holmes Chapel,,"1,85",-
+,Adam Boyes,Striker,Centre-Forward,"Nov 1, 1990 ",33,['England'],England,Lingdale,LW,"1,88",-
+,Paul Ennis,Striker,Centre-Forward,"Feb 1, 1990 ",34,['England'],England,Stockport,,,-
+,Joe Benjamin,Striker,Centre-Forward,"Oct 8, 1990 ",33,"['England', 'Grenada']",England,Dagenham,,"1,80",-
+,Steve Hutchings,Striker,Centre-Forward,"Dec 13, 1990 ",33,['England'],England,Portsmouth,,"1,83",-
+,Chris Turner,Striker,Centre-Forward,"Aug 26, 1990 ",33,['England'],England,Burnley,,"1,83",-
+,Aaron Taylor,Striker,Centre-Forward,"Mar 9, 1990 ",34,['England'],England,Morecambe,,"1,73",-
+,Stefan Morrison,Striker,Centre-Forward,"Feb 14, 1990 ",34,['England'],England,Aldridge,,"1,75",-
+,Bradley Gray,Striker,Centre-Forward,"Jul 5, 1990 ",33,['England'],England,Swindon,RW   LW,"1,80",-
+,Ben Wharton,Striker,Centre-Forward,"Jun 17, 1990 ",33,['England'],England,Stockport,,"1,88",-
+,Ben Joyce,Striker,Centre-Forward,"Mar 8, 1990 ",34,['England'],England,Plymouth,,"1,68",-
+,Terry Dixon,Striker,Centre-Forward,"Jan 15, 1990 ",34,"['Ireland', 'England']",England,London,SS,"1,85",-
+11,Jordan Cook,Striker,Centre-Forward,"Mar 20, 1990 ",34,['England'],England,Sunderland,LW   RW,"1,74",-
+,Sam Smith,Striker,Centre-Forward,"May 20, 1990 ",33,['England'],England,Derby,LW,"1,88",-
+,Nathaniel Pinney,Striker,Centre-Forward,"Nov 16, 1990 ",33,['England'],England,London,,"1,83",-
+,Matty Tymon,Striker,Centre-Forward,"Apr 15, 1990 ",33,['England'],England,Middlesbrough,,,-
+,Elliott Charles,Striker,Centre-Forward,"Dec 23, 1990 ",33,"['Grenada', 'England']",England,London,,"1,88",-
+,Nicholas Bignall,Striker,Centre-Forward,"Jul 11, 1990 ",33,['England'],England,Reading,LW,"1,77",-
+,Ben Hunt,Striker,Centre-Forward,"Jan 23, 1990 ",34,['England'],England,"Southwark, London",,"1,85",-
+,Nathan Eccleston,Striker,Centre-Forward,"Dec 30, 1990 ",33,['England'],England,Manchester,RW   LW,"1,78",-
+,Gary King,Striker,Centre-Forward,"Jan 27, 1990 ",34,['England'],England,Grimsby,,"1,82",-
+,Nathan Taylor,Striker,Centre-Forward,"Apr 2, 1990 ",34,['England'],England,Rochdale,,,-
+,Alex Fisher,Striker,Centre-Forward,"Jun 30, 1990 ",33,['England'],England,London,,"1,90",-
+,Gary Noël,Striker,Centre-Forward,"Mar 7, 1990 ",34,"['Mauritius', 'England']",England,London,SS   AM,"1,80",-
+,Paris Simmons,Striker,Centre-Forward,"Jan 2, 1990 ",34,['England'],England,Lewisham,,,-
+,Lewis Codling,Striker,Centre-Forward,"Nov 1, 1990 ",33,['England'],England,Liverpool,,"1,76",-
+,Tom Elliott,Striker,Centre-Forward,"Nov 9, 1990 ",33,"['England', 'St. Kitts & Nevis']",England,Leeds,,"1,99",-
+10,Ashley Chambers,Striker,Centre-Forward,"Mar 1, 1990 ",34,['England'],England,Leicester,RW   LW,"1,78",-
+39,Rhys Murphy,Striker,Centre-Forward,"Nov 6, 1990 ",33,"['Ireland', 'England']",England,Shoreham,,"1,85",-
+9,Andre Gray,Striker,Centre-Forward,"Jun 26, 1991 ",32,"['Jamaica', 'England']",England,Wolverhampton,LW,"1,78",€1.50m
+24,Michael Smith,Striker,Centre-Forward,"Oct 17, 1991 ",32,['England'],England,Wallsend,,"1,91",€300k
+9,Ryan Bowman,Striker,Centre-Forward,"Nov 30, 1991 ",32,['England'],England,Carlisle,,"1,88",€150k
+18,Connor Jennings,Striker,Centre-Forward,"Oct 29, 1991 ",32,['England'],England,Manchester,LW   RW,"1,83",€100k
+33,Vadaine Oliver,Striker,Centre-Forward,"Oct 21, 1991 ",32,"['England', 'Neukaledonien']",England,Sheffield,SS,"1,90",€75k
+23,Aaron Martin,Striker,Centre-Forward,"Jul 5, 1991 ",32,['England'],England,Sheffield,,"1,83",-
+,Ralston Gabriel,Striker,Centre-Forward,"Jun 24, 1991 ",32,['England'],England,Bradford,,"1,83",-
+,Lance Smith,Striker,Centre-Forward,"Jul 28, 1991 ",32,['England'],England,Evesham,RW   LW,"1,90",-
+,David Pitt,Striker,Centre-Forward,"Sep 2, 1991 ",32,"['St. Vincent & Grenadinen', 'England']",England,London,,"1,84",-
+26,Richie Bennett,Striker,Centre-Forward,"Mar 3, 1991 ",33,['England'],England,Oldham,,"1,94",-
+,Tyler Blackwood,Striker,Centre-Forward,"Jul 24, 1991 ",32,['England'],England,London,LW   RW,"1,88",-
+,Gaz Singh,Striker,Centre-Forward,"Feb 9, 1991 ",33,"['England', 'India']",England,Wolverhampton,,"1,90",-
+,Lee Wort,Striker,Centre-Forward,"Aug 18, 1991 ",32,['England'],England,Southampton,,"1,86",-
+24,Matt Godden,Striker,Centre-Forward,"Jul 29, 1991 ",32,['England'],England,Canterbury,,"1,85",€400k
+14,Sam Mason-Smith,Striker,Centre-Forward,"Oct 25, 1991 ",32,['England'],England,Kings Lynn,,"1,92",€250k
+9,Jordan Bowery,Striker,Centre-Forward,"Jul 2, 1991 ",32,['England'],England,Nottingham,RB   RW,"1,85",€125k
+,Joe Mason,Striker,Centre-Forward,"May 13, 1991 ",32,"['Ireland', 'England']",England,Plymouth,SS   LW,"1,78",€100k
+,Joe Taylor,Striker,Centre-Forward,"Apr 28, 1991 ",32,['England'],England,Margate,,,-
+10,Russell West,Striker,Centre-Forward,N/A ,32,['England'],England,London,SS,"1,85",-
+,Fran Davies,Striker,Centre-Forward,"Feb 1, 1991 ",33,['England'],England,Liverpool,RW,"1,75",-
+,Ryan Blake,Striker,Centre-Forward,"Jun 21, 1991 ",32,['England'],England,Aylesbury,,,-
+,Tom Meechan,Striker,Centre-Forward,"Jan 26, 1991 ",33,['England'],England,Cambridge,RW   LW,"1,81",-
+,Shaun Tuton,Striker,Centre-Forward,"Dec 3, 1991 ",32,['England'],England,Sheffield,RW   LW,"1,78",-
+9,Michael Cheek,Striker,Centre-Forward,"Aug 23, 1991 ",32,['England'],England,Nuneaton,,,-
+,Jeff Duah-Kessie,Striker,Centre-Forward,"Sep 3, 1991 ",32,"['Ghana', 'England']",England,London,,"1,85",-
+,Lewis Toomey,Striker,Centre-Forward,"Dec 28, 1991 ",32,['England'],England,Watford,,"1,82",-
+,Luke Blewden,Striker,Centre-Forward,"Apr 5, 1991 ",32,['England'],England,Tonbridge,,,-
+,Louie Theophanous,Striker,Centre-Forward,"Nov 5, 1991 ",32,"['England', 'Cyprus']",England,London,,"1,90",-
+,Matthew Hearsey,Striker,Centre-Forward,"Feb 25, 1991 ",33,['England'],England,Walsall,,,-
+,Ross Farran,Striker,Centre-Forward,"Jan 8, 1991 ",33,['England'],England,Macclesfield,,,-
+9,Danny Newton,Striker,Centre-Forward,"Mar 18, 1991 ",33,['England'],England,Liverpool,,"1,78",-
+,Sam Argent,Striker,Centre-Forward,"Oct 9, 1991 ",32,['England'],England,Basingstoke,,"1,76",-
+,Paul Smith,Striker,Centre-Forward,"Nov 17, 1991 ",32,['England'],England,Liverpool,AM,"1,75",-
+7,Danny Lloyd,Striker,Centre-Forward,"Dec 3, 1991 ",32,['England'],England,Liverpool,RW   LW,"1,73",-
+,Tony Garrod,Striker,Centre-Forward,"Sep 14, 1991 ",32,['England'],England,Crawley,LW,"1,88",-
+,Jake Argent,Striker,Centre-Forward,"Dec 9, 1991 ",32,['England'],England,Enfield,,,-
+,Charlie Collins,Striker,Centre-Forward,"Nov 22, 1991 ",32,"['Ireland', 'England']",England,London,,"1,83",-
+,Sam Winnall,Striker,Centre-Forward,"Jan 19, 1991 ",33,['England'],England,Wolverhampton,SS,"1,75",-
+,Massiah McDonald,Striker,Centre-Forward,"Aug 20, 1991 ",32,"['Montserrat', 'England']",England,Nottingham,,"1,88",-
+,Luke Benbow,Striker,Centre-Forward,"Aug 21, 1991 ",32,['England'],England,Birmingham,,,-
+,Tom Murphy,Striker,Centre-Forward,"Dec 19, 1991 ",32,['England'],England,London,RW   LW,"1,80",-
+,Steve Cawley,Striker,Centre-Forward,"Jul 24, 1991 ",32,['England'],England,London,AM,"1,76",-
+9,Inih Effiong,Striker,Centre-Forward,"Mar 2, 1991 ",33,"['England', 'Nigeria']",England,Brent,,"1,93",-
+,George Barker,Striker,Centre-Forward,"Sep 26, 1991 ",32,['England'],England,Portsmouth,RW   LW,"1,72",-
+,Jake Reed,Striker,Centre-Forward,"May 13, 1991 ",32,['England'],England,Great Yarmouth,,"1,75",-
+,Josh Macauley,Striker,Centre-Forward,"Mar 2, 1991 ",33,['England'],England,Liverpool,,"1,83",-
+,Matt McClure,Striker,Centre-Forward,"Nov 17, 1991 ",32,"['Northern Ireland', 'England']",England,Slough,,"1,78",-
+,Nialle Rodney,Striker,Centre-Forward,"Feb 28, 1991 ",33,['England'],England,Nottingham,RW   LW,"1,85",-
+,George Bowerman,Striker,Centre-Forward,"Nov 6, 1991 ",32,['England'],England,Sedgley,LW,"1,78",-
+,Steven Bennett,Striker,Centre-Forward,"Nov 21, 1991 ",32,['England'],England,Barnsley,,"1,80",-
+,Warwick Alexander,Striker,Centre-Forward,"Nov 8, 1991 ",32,['England'],England,Rugby,,,-
+,Tom Jackson,Striker,Centre-Forward,"Feb 14, 1991 ",33,"['New Zealand', 'England']",England,Chester,,"1,82",-
+,Dan Fitchett,Striker,Centre-Forward,"Mar 28, 1991 ",33,['England'],England,Stevenage,,"1,83",-
+,Matthew Wright,Striker,Centre-Forward,"Apr 13, 1991 ",32,['England'],England,Plymouth,,"1,93",-
+9,Jimmy Spencer,Striker,Centre-Forward,"Dec 13, 1991 ",32,['England'],England,Leeds,,"1,86",-
+,Stefan Payne,Striker,Centre-Forward,"Aug 10, 1991 ",32,['England'],England,London,RW   LW,"1,78",-
+,Billy Greulich,Striker,Centre-Forward,"Apr 24, 1991 ",32,['England'],England,London,,"1,91",-
+,Adam Marriott,Striker,Centre-Forward,"Apr 14, 1991 ",32,['England'],England,Brandon,,"1,75",-
+,Michael Whitwell,Striker,Centre-Forward,"Nov 21, 1991 ",32,['England'],England,York,RW,,-
+9,Danny Mills,Striker,Centre-Forward,"Jun 2, 1991 ",32,['England'],England,London,,"1,93",-
+30,Frank Nouble,Striker,Centre-Forward,"Sep 24, 1991 ",32,"['England', ""Cote d'Ivoire""]",England,London,LW   RW,"1,90",-
+,Wes Fletcher,Striker,Centre-Forward,"Feb 28, 1991 ",33,['England'],England,Ormskirk,,"1,80",-
+,Antonio German,Striker,Centre-Forward,"Dec 26, 1991 ",32,"['Grenada', 'England']",England,London,RW   LW,"1,87",-
+,Anthony Malbon,Striker,Centre-Forward,"Oct 14, 1991 ",32,['England'],England,Stoke-on-Trent,LW,"1,78",-
+,Harry Crawford,Striker,Centre-Forward,"Dec 10, 1991 ",32,"['Ireland', 'England']",England,Watford,AM,"1,85",-
+,Craig Calver,Striker,Centre-Forward,"Jan 20, 1991 ",33,['England'],England,Cambridge,,"1,78",-
+,Kyle Asante,Striker,Centre-Forward,"Apr 9, 1991 ",32,"['England', 'Ghana']",England,Chelmsford,,"1,75",-
+,Nicky Ajose,Striker,Centre-Forward,"Oct 7, 1991 ",32,"['England', 'Nigeria']",England,Bury,SS   RW,"1,80",-
+,Kiernan Hughes-Mason,Striker,Centre-Forward,"Oct 22, 1991 ",32,"['England', 'Antigua and Barbuda']",England,London,RW   LW,"1,75",-
+9,Grant Ryan,Striker,Centre-Forward,"Feb 5, 1991 ",33,['England'],England,Nottingham,,"1,80",-
+,Lloyd Ellams,Striker,Centre-Forward,"Jan 11, 1991 ",33,['England'],England,Chester,,"1,78",-
+,Ryan Noble,Striker,Centre-Forward,"Jun 11, 1991 ",32,['England'],England,Sunderland,,"1,82",-
+,Marvin Sordell,Striker,Centre-Forward,"Feb 17, 1991 ",33,['England'],England,London,RW,"1,79",-
+,Tamer Tuna,Striker,Centre-Forward,"Oct 19, 1991 ",32,['Türkiye'],England,Bexley,,"1,75",-
+9,Will Grigg,Striker,Centre-Forward,"Jul 3, 1991 ",32,"['Northern Ireland', 'England']",England,Solihull,,"1,80",-
+,Nathan Modest,Striker,Centre-Forward,"Sep 29, 1991 ",32,['England'],England,Sheffield,,"1,75",-
+,Josh Craddock,Striker,Centre-Forward,"Mar 5, 1991 ",33,['England'],England,Wolverhampton,,"1,80",-
+,Nathan Delfouneso,Striker,Centre-Forward,"Feb 2, 1991 ",33,"['England', 'Nigeria']",England,Birmingham,RW   LW,"1,86",-
+,Nile Ranger,Striker,Centre-Forward,"Apr 11, 1991 ",32,"['England', 'Jamaica']",England,London,,"1,88",-
+,Jamil Adam,Striker,Centre-Forward,"Jun 5, 1991 ",32,"['Ireland', 'Nigeria']",England,Bolton,,"1,78",-
+,Phil Airey,Striker,Centre-Forward,"Jan 19, 1991 ",33,['England'],England,Amble,RB,"1,81",-
+9,Callum Wilson,Striker,Centre-Forward,"Feb 27, 1992 ",32,['England'],England,Coventry,,"1,80",€13.00m
+24,Kieffer Moore,Striker,Centre-Forward,"Aug 8, 1992 ",31,"['Wales', 'England']",England,Torquay,CB,"1,96",€2.20m
+9,Scott Hogan,Striker,Centre-Forward,"Apr 13, 1992 ",31,"['Ireland', 'England']",England,Salford,LW,"1,80",€600k
+8,Curtis Main,Striker,Centre-Forward,"Jun 20, 1992 ",31,['England'],England,South Shields,,"1,78",€400k
+9,Tom Eaves,Striker,Centre-Forward,"Jan 14, 1992 ",32,['England'],England,Liverpool,,"1,91",€300k
+17,Cameron Lancaster,Striker,Centre-Forward,"Nov 5, 1992 ",31,['England'],England,London,,"1,83",€250k
+14,Charlie Wyke,Striker,Centre-Forward,"Dec 6, 1992 ",31,['England'],England,Middlesbrough,SS,"1,88",€150k
+9,Ollie Palmer,Striker,Centre-Forward,"Jan 21, 1992 ",32,['England'],England,London,,"1,96",€125k
+29,Kane Hemmings,Striker,Centre-Forward,"Apr 8, 1992 ",31,"['England', 'Jamaica']",England,Burton upon Trent,LW   RW,"1,85",€125k
+14,Jordan Slew,Striker,Centre-Forward,"Sep 7, 1992 ",31,"['England', 'Jamaica']",England,Sheffield,LW   SS,"1,78",€100k
+9,Jason Oswell,Striker,Centre-Forward,"Oct 7, 1992 ",31,['England'],England,Northwich,,"1,84",€75k
+,Ashley Woods,Striker,Centre-Forward,"Dec 12, 1992 ",31,['England'],England,Manchester,,,-
+,Pa Sulay Njie,Striker,Centre-Forward,"Aug 2, 1992 ",31,['The Gambia'],England,Slough,,"1,85",-
+18,Danny Ings,Striker,Centre-Forward,"Jul 23, 1992 ",31,['England'],England,Winchester,SS,"1,77",€9.00m
+9,Tom Bradshaw,Striker,Centre-Forward,"Jul 27, 1992 ",31,"['Wales', 'England']",England,Shrewsbury,,"1,78",€600k
+10,Jordan Hugill,Striker,Centre-Forward,"Jun 4, 1992 ",31,['England'],England,Middlesbrough,,"1,83",€400k
+14,Conor Washington,Striker,Centre-Forward,"May 18, 1992 ",31,"['Northern Ireland', 'England']",England,Chatham,LW   RW,"1,78",€300k
+,Stephen Hoyle,Striker,Centre-Forward,"Nov 6, 1992 ",31,['England'],England,Barnsley,,"1,87",€250k
+9,John Marquis,Striker,Centre-Forward,"May 16, 1992 ",31,['England'],England,London,,"1,85",€250k
+9,Louis Moult,Striker,Centre-Forward,"May 14, 1992 ",31,['England'],England,Stoke-on-Trent,,"1,83",€150k
+18,Conor McAleny,Striker,Centre-Forward,"Aug 12, 1992 ",31,['England'],England,Whiston,SS   LW,"1,78",€125k
+12,Oliver Hawkins,Striker,Centre-Forward,"Apr 8, 1992 ",31,['England'],England,London,CB,"1,95",€100k
+9,Jamie Proctor,Striker,Centre-Forward,"Mar 25, 1992 ",32,['England'],England,Preston,,"1,88",€100k
+11,Tom Fisher,Striker,Centre-Forward,"Jun 28, 1992 ",31,['England'],England,Wythenshawe,,"1,78",€10k
+9,Jake Day,Striker,Centre-Forward,"Jun 9, 1992 ",31,['England'],England,Bridlington,,"1,91",-
+,Kurt Sherlock,Striker,Centre-Forward,"Dec 1, 1992 ",31,['England'],England,Liverpool,,,-
+,Rhys Hoenes,Striker,Centre-Forward,"Jan 17, 1992 ",32,['England'],England,Stevenage,,"1,73",-
+,Tyree Clarke,Striker,Centre-Forward,"Jan 3, 1992 ",32,['England'],England,Birmingham,,"1,77",-
+,Rowan Liburd,Striker,Centre-Forward,"Aug 28, 1992 ",31,"['St. Kitts & Nevis', 'England']",England,London,,"1,97",-
+,Sadik Balarabe,Striker,Centre-Forward,"Jun 26, 1992 ",31,"['England', 'Nigeria']",England,London,LW   RW,"1,80",-
+,Blair Anderson,Striker,Centre-Forward,"Jul 1, 1992 ",31,['England'],England,Nottingham,RM   LM,"1,81",-
+,Tristan Dunkley,Striker,Centre-Forward,"Oct 4, 1992 ",31,"['England', 'Jamaica']",England,Wolverhampton,RM   RW,"1,81",-
+,Alex Johnson,Striker,Centre-Forward,"Jan 25, 1992 ",32,['England'],England,Blackburn,,,-
+,Josh Moreman,Striker,Centre-Forward,"Sep 23, 1992 ",31,['England'],England,Rotherham,LW   LM,"1,78",-
+11,Louis Dennis,Striker,Centre-Forward,"Oct 9, 1992 ",31,['England'],England,London,LW   RW,"1,85",-
+,Joseph MacDonald,Striker,Centre-Forward,"Dec 2, 1992 ",31,['England'],England,Blackpool,LW,"1,85",-
+,Jordan Burrow,Striker,Centre-Forward,"Sep 12, 1992 ",31,['England'],England,Sheffield,SS,"1,75",-
+9,Jordan MacQuarrie,Striker,Centre-Forward,"Jul 6, 1992 ",31,['England'],England,Blackburn,SS,,-
+14,Romaric Logon,Striker,Centre-Forward,"Jun 6, 1992 ",31,['England'],England,St. Albans,RW   LW,,-
+,George Landais,Striker,Centre-Forward,"Sep 18, 1992 ",31,"['Ireland', 'England']",England,London,RW,"1,75",-
+,Jamie Insall,Striker,Centre-Forward,"Mar 1, 1992 ",32,['England'],England,Worcester,AM   SS,"1,73",-
+,Allan Ottey,Striker,Centre-Forward,"Dec 18, 1992 ",31,"['Jamaica', 'England']",England,London,RW   LW,"1,78",-
+,Elliott Romain,Striker,Centre-Forward,"Jan 1, 1992 ",32,['England'],England,Horsham,,"1,83",-
+19,Duane Ofori-Acheampong,Striker,Centre-Forward,"Dec 1, 1992 ",31,"['England', 'Ghana']",England,London,,"1,93",-
+,Matty Hughes,Striker,Centre-Forward,"Jul 17, 1992 ",31,['England'],England,Billinge,LW,,-
+,Jacob Blyth,Striker,Centre-Forward,"Aug 14, 1992 ",31,['England'],England,Nuneaton,,"1,91",-
+,Steven Tames,Striker,Centre-Forward,"Jan 19, 1992 ",32,['England'],England,Whiston,,,-
+20,Scott Quigley,Striker,Centre-Forward,"Sep 2, 1992 ",31,['England'],England,Shrewsbury,,"1,94",-
+,James Ha,Striker,Centre-Forward,"Dec 26, 1992 ",31,"['Hongkong', 'England']",England,Middlesborough,RW,"1,80",-
+,Tom Collins,Striker,Centre-Forward,"Aug 24, 1992 ",31,['England'],England,London,RW   LW,"1,84",-
+,Connor Taylor,Striker,Centre-Forward,"Sep 5, 1992 ",31,['England'],England,Coventry,RW   LW,"1,80",-
+,Robert Thompson-Brown,Striker,Centre-Forward,"Aug 7, 1992 ",31,['England'],England,Kings Norton,,"1,90",-
+,Danny Hudson,Striker,Centre-Forward,"Sep 12, 1992 ",31,['England'],England,Manchester,,"1,77",-
+7,Jordan Thewlis,Striker,Centre-Forward,"Oct 24, 1992 ",31,['England'],England,Scunthorpe,,"1,75",-
+,Jordie Atkinson,Striker,Centre-Forward,"May 19, 1992 ",31,['England'],England,Barnsley,,,-
+,Troy Wallen,Striker,Centre-Forward,"Nov 18, 1992 ",31,['England'],England,Birmingham,,"1,71",-
+,Jonathan Wright,Striker,Centre-Forward,"Feb 3, 1992 ",32,['England'],England,Newcastle,,,-
+,Edward Adjei-Kyem,Striker,Centre-Forward,"Jul 5, 1992 ",31,"['England', 'Ghana']",England,,LW   LB,,-
+,George Porter,Striker,Centre-Forward,"Jun 27, 1992 ",31,['England'],England,London,RW   LW,"1,78",-
+,Kofi Lockhart-Adams,Striker,Centre-Forward,"Oct 9, 1992 ",31,['England'],England,London,,"1,85",-
+,Aaron Woodley,Striker,Centre-Forward,"Oct 13, 1992 ",31,['England'],England,Oxford,,"1,90",-
+,Mark Cullen,Striker,Centre-Forward,"Apr 21, 1992 ",31,['England'],England,Ashington,SS   LW,"1,76",-
+,Thomas Amos,Striker,Centre-Forward,"Jan 2, 1992 ",32,"['Ireland', 'England']",England,Liverpool,,,-
+,Alex Parsons,Striker,Centre-Forward,"Sep 7, 1992 ",31,['England'],England,Worthing,,"1,80",-
+,Ray Spear,Striker,Centre-Forward,"Sep 19, 1992 ",31,['England'],England,Plymouth,,"1,78",-
+,Aron Wint,Striker,Centre-Forward,"Dec 20, 1992 ",31,['England'],England,Coventry,LW   CF,"1,86",-
+,Jordan Pavett,Striker,Centre-Forward,"Dec 16, 1992 ",31,['England'],England,London,,"1,85",-
+,Michael Ngoo,Striker,Centre-Forward,"Oct 23, 1992 ",31,"['England', 'Nigeria']",England,London,,"1,98",-
+,James Ellison,Striker,Centre-Forward,"Oct 25, 1992 ",31,['England'],England,Liverpool,,"1,75",-
+,James Gray,Striker,Centre-Forward,"Jun 26, 1992 ",31,"['Northern Ireland', 'England']",England,Yarm,SS   LW,"1,78",-
+,Robert Ogleby,Striker,Centre-Forward,"Jan 5, 1992 ",32,"['Wales', 'England']",England,Coventry,RW   LW,"1,92",-
+,Tom Mullen,Striker,Centre-Forward,"Feb 21, 1992 ",32,['Scotland'],England,Worksop,,"1,84",-
+,Callum Ball,Striker,Centre-Forward,"Oct 8, 1992 ",31,['England'],England,Leicester,,"1,85",-
+,Shane Birtles,Striker,Centre-Forward,"Oct 27, 1992 ",31,['England'],England,Bury,,"1,80",-
+,Michael Jukes,Striker,Centre-Forward,"Jul 11, 1992 ",31,['Wales'],England,Warrington,,"1,88",-
+,Dominic Knowles,Striker,Centre-Forward,"Feb 13, 1992 ",32,['England'],England,Oswaldtwistle,,"1,78",-
+,James Spray,Striker,Centre-Forward,"Dec 2, 1992 ",31,['England'],England,Birmingham,,"1,83",-
+9,Shaun Jeffers,Striker,Centre-Forward,"Apr 14, 1992 ",31,['England'],England,Bedford,LW   RW,"1,85",-
+,Andy Hutchinson,Striker,Centre-Forward,"Mar 10, 1992 ",32,['England'],England,Lincoln,,"1,71",-
+,Vinny Mukendi,Striker,Centre-Forward,"Mar 12, 1992 ",32,"['DR Congo', 'England']",England,Manchester,,"2,00",-
+,Nabil Shariff,Striker,Centre-Forward,"Apr 19, 1992 ",31,"['England', 'Nigeria']",England,Milton Keynes,,"1,86",-
+,Reece Connolly,Striker,Centre-Forward,"Jan 22, 1992 ",32,['England'],England,Frimley,,"1,83",-
+,Louis Almond,Striker,Centre-Forward,"Jan 5, 1992 ",32,['England'],England,Blackburn,LW,"1,80",-
+,Tom Hitchcock,Striker,Centre-Forward,"Oct 1, 1992 ",31,['England'],England,Hemel Hempstead,SS   RW,"1,78",-
+,Jacob Walcott,Striker,Centre-Forward,"Jun 29, 1992 ",31,['England'],England,Abingdon,SS,,-
+,Ashley Yeoman,Striker,Centre-Forward,"Feb 25, 1992 ",32,['England'],England,Kingsbridge,,"1,78",-
+,Charlie Stimson,Striker,Centre-Forward,"Mar 1, 1992 ",32,['England'],England,Newcastle upon Tyne,,"1,80",-
+9,Harry Kane,Striker,Centre-Forward,"Jul 28, 1993 ",30,['England'],England,London,SS,"1,88",€110.00m
+25,Kemar Roofe,Striker,Centre-Forward,"Jan 6, 1993 ",31,"['Jamaica', 'England']",England,Walsall,RW   LW,"1,78",€2.00m
+7,Benik Afobe,Striker,Centre-Forward,"Feb 12, 1993 ",31,"['DR Congo', 'England']",England,London,LW   AM,"1,83",€900k
+14,Freddie Ladapo,Striker,Centre-Forward,"Feb 1, 1993 ",31,"['England', 'Nigeria']",England,Romford,,"1,83",€500k
+13,Connor Wickham,Striker,Centre-Forward,"Mar 31, 1993 ",31,"['England', 'Northern Ireland']",England,Hereford,LW,"1,89",€400k
+9,Alfie May,Striker,Centre-Forward,"Jul 2, 1993 ",30,['England'],England,Gravesend,LW   RW,"1,76",€350k
+9,Omar Bogle,Striker,Centre-Forward,"Jul 26, 1993 ",30,"['England', 'Ghana']",England,Birmingham,,"1,87",€300k
+22,Chuks Aneke,Striker,Centre-Forward,"Jul 3, 1993 ",30,"['England', 'Nigeria']",England,London,AM   CM,"1,91",€250k
+32,Danny Rose,Striker,Centre-Forward,"Dec 10, 1993 ",30,['England'],England,Barnsley,SS   RW,"1,73",€175k
+9,Luke Norris,Striker,Centre-Forward,"Jun 3, 1993 ",30,['England'],England,Stevenage,,"1,82",€150k
+14,Aaron Williams,Striker,Centre-Forward,"Oct 21, 1993 ",30,['England'],England,Sandwell,,"1,78",€125k
+12,Nicolas Niagorian,Striker,Centre-Forward,"Sep 5, 1993 ",30,"['England', 'Australia']",England,London,,"1,95",-
+,Jamie McDonald,Striker,Centre-Forward,"Jan 24, 1993 ",31,['England'],England,Liverpool,,,-
+9,Patrick Bamford,Striker,Centre-Forward,"Sep 5, 1993 ",30,"['England', 'Ireland']",England,Grantham,LW   RW,"1,85",€5.00m
+7,Will Keane,Striker,Centre-Forward,"Jan 11, 1993 ",31,"['Ireland', 'England']",England,Stockport,SS,"1,88",€1.00m
+9,Jayden Stockley,Striker,Centre-Forward,"Sep 15, 1993 ",30,['England'],England,Poole,,"1,88",€600k
+9,Ashley Coffey,Striker,Centre-Forward,"Dec 1, 1993 ",30,['England'],England,Leeds,,"1,91",€450k
+9,Kyle Vassell,Striker,Centre-Forward,"Feb 7, 1993 ",31,"['Northern Ireland', 'England']",England,Milton Keynes,LW   RW,"1,83",€375k
+9,Joe Pigott,Striker,Centre-Forward,"Nov 24, 1993 ",30,['England'],England,Maidstone,,"1,87",€300k
+20,Joe Ironside,Striker,Centre-Forward,"Oct 16, 1993 ",30,['England'],England,Middlesbrough,,"1,80",€275k
+20,Tom Nichols,Striker,Centre-Forward,"Aug 28, 1993 ",30,['England'],England,Taunton,LW,"1,78",€200k
+14,Tom Hopper,Striker,Centre-Forward,"Dec 14, 1993 ",30,['England'],England,Boston,,"1,86",€175k
+39,Danny Johnson,Striker,Centre-Forward,"Feb 28, 1993 ",31,['England'],England,Middlesbrough,,"1,78",€125k
+,Larry Atumuto,Striker,Centre-Forward,"May 30, 1993 ",30,"['England', 'Nigeria']",England,London,RW,"1,8",-
+,Connor Bird,Striker,Centre-Forward,"Aug 12, 1993 ",30,['England'],England,Hereford,,,-
+,Thomas James,Striker,Centre-Forward,"Jun 14, 1993 ",30,['England'],England,London,LW   RW,"1,80",-
+,Kieran Wells,Striker,Centre-Forward,"Jun 3, 1993 ",30,['England'],England,Nottingham,SS,"1,91",-
+9,Jordan Archer,Striker,Centre-Forward,"Nov 11, 1993 ",30,['England'],England,Bedworth,LW   RW,"1,90",-
+,Alex Addai,Striker,Centre-Forward,"Dec 20, 1993 ",30,"['England', 'Ghana']",England,London,RW   SS,"1,78",-
+17,Scott Wilson,Striker,Centre-Forward,"Jan 11, 1993 ",31,['England'],England,Bristol,,"1,82",-
+,Chris Lait,Striker,Centre-Forward,"Jun 18, 1993 ",30,['England'],England,Solihull,LW   RW,"1,83",-
+,Reece Thompson,Striker,Centre-Forward,"Nov 11, 1993 ",30,['England'],England,Worksop,,"1,74",-
+33,Jonathon Margetts,Striker,Centre-Forward,"Sep 28, 1993 ",30,['England'],England,Edenthorpe,SS,"1,75",-
+,Jermaine Hylton,Striker,Centre-Forward,"Jun 28, 1993 ",30,['England'],England,Birmingham,LW   RW,"1,76",-
+,Dan Maguire,Striker,Centre-Forward,"Jan 8, 1993 ",31,['England'],England,Newcastle-upon-Tyne,SS,,-
+,Benny Igiehon,Striker,Centre-Forward,"Nov 3, 1993 ",30,['England'],England,Leeds,,"1,93",-
+,Adam Francis,Striker,Centre-Forward,"May 1, 1993 ",30,['England'],England,London,,,-
+,Sam Akinde,Striker,Centre-Forward,"Apr 14, 1993 ",30,"['England', 'Nigeria']",England,Greenwich,,,-
+,Jack Hindle,Striker,Centre-Forward,"Oct 29, 1993 ",30,['England'],England,Warrington,RW   LW,"1,83",-
+9,Cody Cooke,Striker,Centre-Forward,"Mar 2, 1993 ",31,['England'],England,Truro,,"1,85",-
+9,Nicke Kabamba,Striker,Centre-Forward,"Feb 1, 1993 ",31,"['DR Congo', 'England']",England,Brent,,"1,91",-
+,Dumebi Dumaka,Striker,Centre-Forward,"Oct 25, 1993 ",30,"['England', 'Nigeria']",England,London,,,-
+,Dominic Brennan,Striker,Centre-Forward,"Nov 26, 1993 ",30,['England'],England,Leicester,,"1,78",-
+,Brandon Barnes,Striker,Centre-Forward,"Feb 20, 1993 ",31,['England'],England,London,LW,,-
+,Jordan Rideout,Striker,Centre-Forward,"Feb 26, 1993 ",31,['England'],England,Southport,,"1,80",-
+,Jamie Matthews,Striker,Centre-Forward,"Jun 17, 1993 ",30,['England'],England,Manchester,,,-
+,Shamir Mullings,Striker,Centre-Forward,"Oct 30, 1993 ",30,['England'],England,London,,"1,96",-
+,Connor Calcutt,Striker,Centre-Forward,"Oct 10, 1993 ",30,['England'],England,Watford,,"1,88",-
+,Jack Laird,Striker,Centre-Forward,"Nov 11, 1993 ",30,['England'],England,Liverpool,,,-
+,Marcel Henry-Francis,Striker,Centre-Forward,"Jan 25, 1993 ",31,['England'],England,London,,"1,85",-
+,Harry Clayton,Striker,Centre-Forward,"Feb 15, 1993 ",31,['England'],England,Crewe,SS   RW,"1,80",-
+,Daniel Annoh,Striker,Centre-Forward,"Jun 22, 1993 ",30,"['England', 'Ghana']",England,London,SS   LW,,-
+14,Dominic Poleon,Striker,Centre-Forward,"Sep 7, 1993 ",30,"['St. Lucia', 'England']",England,London,LW   RW,"1,90",-
+,Theo Kidd,Striker,Centre-Forward,"Sep 15, 1993 ",30,['England'],England,Manchester,SS   RW,"1,85",-
+,Ashley Harris,Striker,Centre-Forward,"Dec 9, 1993 ",30,['England'],England,Waterlooville,LW   RW,"1,73",-
+9,Paul McCallum,Striker,Centre-Forward,"Jul 28, 1993 ",30,['England'],England,London,,"1,91",-
+,Dan Thompson,Striker,Centre-Forward,"Nov 25, 1993 ",30,['England'],England,London,,"1,88",-
+,Aaron Lloyd,Striker,Centre-Forward,"Jul 16, 1993 ",30,['England'],England,,,"1,86",-
+,Bradley Goldberg,Striker,Centre-Forward,"Oct 20, 1993 ",30,['England'],England,Bromley,SS,"1,71",-
+10,Marcus Carver,Striker,Centre-Forward,"Oct 22, 1993 ",30,['England'],England,Blackburn,,"1,80",-
+9,JJ Hooper,Striker,Centre-Forward,"Oct 9, 1993 ",30,['England'],England,London,LW,"1,85",-
+,Dayle Southwell,Striker,Centre-Forward,"Oct 20, 1993 ",30,['England'],England,Grimsby,LW   RW,"1,80",-
+,Dan Taylor,Striker,Centre-Forward,"Mar 17, 1993 ",31,['England'],England,Newcastle,,,-
+,Luke Carr,Striker,Centre-Forward,"Sep 7, 1993 ",30,['England'],England,Newcastle,CM,,-
+14,Kaine Sheppard,Striker,Centre-Forward,"Nov 26, 1993 ",30,"['England', 'Australia']",England,Wellingborough,RW   SS,"1,90",-
+,Jordan Ivey-Ward,Striker,Centre-Forward,"Oct 20, 1993 ",30,['England'],England,Milton Keynes,,,-
+,Jake Woolley,Striker,Centre-Forward,"Sep 11, 1993 ",30,['England'],England,Leicester,,"1,82",-
+9,Rakish Bingham,Striker,Centre-Forward,"Oct 25, 1993 ",30,['England'],England,London,LW   RW,"1,80",-
+,Jay Colbeck,Striker,Centre-Forward,"Aug 5, 1993 ",30,['England'],England,Liverpool,,"1,78",-
+10,Conor McDonagh,Striker,Centre-Forward,"Jan 1, 1993 ",31,['England'],England,Oxford,RM   LM,,-
+,Jake Cass,Striker,Centre-Forward,"Jul 4, 1993 ",30,['England'],England,Islington,,"1,85",-
+,Ryan Brunt,Striker,Centre-Forward,"May 26, 1993 ",30,['England'],England,Birmingham,,"1,85",-
+9,Mohamed Bettamer,Striker,Centre-Forward,"Apr 1, 1993 ",31,"['Libya', 'England']",England,London,LW   AM,"1,85",-
+,Billy Lobjoit,Striker,Centre-Forward,"Sep 3, 1993 ",30,['England'],England,Edgware,RW,"1,77",-
+,Patrick Drmola,Striker,Centre-Forward,"Mar 17, 1993 ",31,['England'],England,London,,"1,85",-
+,David Goldsmith,Striker,Centre-Forward,"Sep 20, 1993 ",30,"['Wales', 'England']",England,Bristol,RW,"1,75",-
+,Callum Hassan,Striker,Centre-Forward,"Jan 23, 1993 ",31,['England'],England,London,,"1,93",-
+,Aaron Spear,Striker,Centre-Forward,"Apr 29, 1993 ",30,"['England', 'Scotland']",England,Plymouth,,,-
+,Sam Mulready,Striker,Centre-Forward,"May 6, 1993 ",30,['England'],England,Kings Lynn,,,-
+,Joey Butlin,Striker,Centre-Forward,"Mar 17, 1993 ",31,['England'],England,Birmingham,,"1,80",-
+,Kudus Oyenuga,Striker,Centre-Forward,"Mar 18, 1993 ",31,"['England', 'Nigeria']",England,London,SS   LW,"1,76",-
+,Greg Daniels,Striker,Centre-Forward,"Jan 21, 1993 ",31,['England'],England,Manchester,,,-
+12,Liam McAlinden,Striker,Centre-Forward,"Sep 26, 1993 ",30,"['Ireland', 'Northern Ireland']",England,Cannock,RW   LW,"1,85",-
+,Lloyd Matthews,Striker,Centre-Forward,"Sep 25, 1993 ",30,['England'],England,Frome,,,-
+,Jordan Marshall,Striker,Centre-Forward,"May 10, 1993 ",30,['England'],England,Gateshead,,"1,80",-
+,Andre Landell,Striker,Centre-Forward,"Aug 6, 1993 ",30,['England'],England,Birmingham,SS,"1,85",-
+9,Richard Peniket,Striker,Centre-Forward,"Mar 4, 1993 ",31,['Wales'],England,Stourbridge,RW   LW,"1,91",-
+,Joe Jackson,Striker,Centre-Forward,"Feb 3, 1993 ",31,['England'],England,Barrow,,"1,86",-
+,Isaac Vassell,Striker,Centre-Forward,"Sep 9, 1993 ",30,['England'],England,Newquay,SS,"1,78",-
+,Jared Sims,Striker,Centre-Forward,"Oct 16, 1993 ",30,['England'],England,Truro,,"1,76",-
+,Gozie Ugwu,Striker,Centre-Forward,"Apr 22, 1993 ",30,"['England', 'Nigeria']",England,Oxford,RW,"1,88",-
+,Connor Deards,Striker,Centre-Forward,"Jan 19, 1993 ",31,"['Ireland', 'England']",England,Birmingham,,"1,83",-
+,Olly Taylor,Striker,Centre-Forward,"Dec 13, 1993 ",30,['England'],England,Oxford,,"1,83",-
+,Matt Rickard,Striker,Centre-Forward,"Jan 29, 1993 ",31,['England'],England,Exeter,,,-
+,Matt Ball,Striker,Centre-Forward,"Mar 26, 1993 ",31,"['Northern Ireland', 'England']",England,Welwyn Garden City,,"1,78",-
+,Nigel Neita,Striker,Centre-Forward,"Dec 23, 1993 ",30,"['Jamaica', 'England']",England,London,LW   RW,,-
+,Brad Grayson,Striker,Centre-Forward,"Jan 2, 1993 ",31,['England'],England,Doncaster,,,-
+9,Jack Sampson,Striker,Centre-Forward,"Apr 14, 1993 ",30,['England'],England,Wigan,LW,"1,88",-
+,Alex Troke,Striker,Centre-Forward,"Jul 19, 1993 ",30,['England'],England,Nottingham,AM   CM,"1,88",-
+,Rob Clowes,Striker,Centre-Forward,"Feb 24, 1993 ",31,['England'],England,London,,,-
+,Jake Fowler,Striker,Centre-Forward,"Sep 22, 1993 ",30,['England'],England,Sunderland,LW   RW,,-
+,Jack Werndly,Striker,Centre-Forward,"Feb 25, 1993 ",31,['England'],England,Bushmead,SS   LW,,-
+,Micah Evans,Striker,Centre-Forward,"Mar 3, 1993 ",31,['England'],England,Manchester,RW,"1,83",-
+10,Jamal Lowe,Striker,Centre-Forward,"Jul 21, 1994 ",29,"['Jamaica', 'England']",England,London,LW   RW,"1,83",€1.50m
+10,Cauley Woodrow,Striker,Centre-Forward,"Dec 2, 1994 ",29,['England'],England,Hemel Hempstead,SS,"1,84",€1.00m
+13,Callum Paterson,Striker,Centre-Forward,"Oct 13, 1994 ",29,"['Scotland', 'England']",England,London,RW   RB,"1,83",€800k
+20,Blair Turgott,Striker,Centre-Forward,"May 22, 1994 ",29,"['Jamaica', 'England']",England,London,,"1,83",€600k
+24,Sean Maguire,Striker,Centre-Forward,"May 1, 1994 ",29,"['Ireland', 'England']",England,Luton,LW   RW,"1,75",€375k
+23,Cole Stockton,Striker,Centre-Forward,"Mar 13, 1994 ",30,['England'],England,Knowsley,,"1,86",€275k
+10,Ashley Nadesan,Striker,Centre-Forward,"Sep 9, 1994 ",29,['England'],England,Redhill,,"1,88",€225k
+18,Josh Gordon,Striker,Centre-Forward,"Oct 10, 1994 ",29,['England'],England,Stoke-on-Trent,RW   LW,"1,78",€175k
+18,Rhys Oates,Striker,Centre-Forward,"Dec 4, 1994 ",29,['England'],England,Pontefract,LW   RW,"1,83",€150k
+9,Scott Bakkor,Striker,Centre-Forward,"Jun 7, 1994 ",29,['England'],England,Warrington,RW   LW,"1,79",-
+,Liam Ferdinand,Striker,Centre-Forward,"Dec 4, 1994 ",29,['England'],England,Reading,,"1,77",-
+,Tré Mitford,Striker,Centre-Forward,"Dec 27, 1994 ",29,"['Guyana', 'England']",England,Dover,,"1,86",-
+,Hasan Nalbant,Striker,Centre-Forward,"Aug 16, 1994 ",29,"['Türkiye', 'Cyprus']",England,London,RW   LW,"1,88",-
+44,Rhys Healey,Striker,Centre-Forward,"Dec 6, 1994 ",29,['England'],England,Manchester,LW,"1,80",€1.50m
+9,Jonson Clarke-Harris,Striker,Centre-Forward,"Jul 21, 1994 ",29,"['Jamaica', 'England']",England,Leicester,,"1,83",€900k
+11,Jack Marriott,Striker,Centre-Forward,"Sep 9, 1994 ",29,['England'],England,Beverley,SS,"1,73",€700k
+10,Paul Mullin,Striker,Centre-Forward,"Nov 6, 1994 ",29,"['England', 'Wales']",England,Liverpool,SS   RW,"1,78",€500k
+19,Kayden Jackson,Striker,Centre-Forward,"Feb 22, 1994 ",30,['England'],England,Bradford,LW   RW,"1,81",€300k
+39,Jordy Hiwula,Striker,Centre-Forward,"Sep 21, 1994 ",29,"['England', 'Angola']",England,Manchester,LW   RW,"1,78",€250k
+19,Jamie Reid,Striker,Centre-Forward,"Jul 15, 1994 ",29,"['Northern Ireland', 'England']",England,Torquay,LW   RW,"1,81",€225k
+40,Junior Ogedi-Uzokwe,Striker,Centre-Forward,"Mar 3, 1994 ",30,"['England', 'Nigeria']",England,London,LW   RW,"1,85",€150k
+15,Lee Angol,Striker,Centre-Forward,"Aug 4, 1994 ",29,['England'],England,London,SS,"1,87",€125k
+,Jamie Molyneux,Striker,Centre-Forward,"Oct 7, 1994 ",29,['England'],England,Solihull,RW,"1,86",-
+,Josh Oyinsan,Striker,Centre-Forward,"Oct 2, 1994 ",29,"['Nigeria', 'England']",England,London,,"1,96",-
+,Matty Stenson,Striker,Centre-Forward,"Mar 16, 1994 ",30,['England'],England,Coventry,LM   LW,"1,88",-
+,Chinedu McKenzie,Striker,Centre-Forward,"Jul 22, 1994 ",29,['England'],England,London,SS,"1,81",-
+,Shomari Barnwell,Striker,Centre-Forward,"Jan 29, 1994 ",30,['England'],England,London,,"1,98",-
+,Brandon Goodship,Striker,Centre-Forward,"Sep 22, 1994 ",29,['England'],England,Poole,RW,"1,90",-
+,Harry White,Striker,Centre-Forward,"Dec 18, 1994 ",29,['England'],England,Birmingham,,"1,85",-
+,Alex Hughes,Striker,Centre-Forward,"Mar 25, 1994 ",30,['England'],England,,,,-
+,Shamir Fenelon,Striker,Centre-Forward,"Aug 3, 1994 ",29,"['Ireland', 'England']",England,Brighton,RW   LW,"1,85",-
+,Olu Akinsanya,Striker,Centre-Forward,"Nov 11, 1994 ",29,"['England', 'Nigeria']",England,London,,"1,90",-
+,Bernard Mensah,Striker,Centre-Forward,"Dec 29, 1994 ",29,"['England', 'Ghana']",England,Hounslow,RW   LW,"1,73",-
+14,Nathan Austin,Striker,Centre-Forward,"Feb 15, 1994 ",30,['Scotland'],England,Stevenage,RW   LW,"1,86",-
+,Charlie Penny,Striker,Centre-Forward,"Oct 20, 1994 ",29,['England'],England,London,SS,"1,83",-
+,Dominic St Louis,Striker,Centre-Forward,"Sep 17, 1994 ",29,['England'],England,London,RW   RM,,-
+,Danny Carr,Striker,Centre-Forward,"May 29, 1994 ",29,"['Trinidad and Tobago', 'England']",England,London,,"1,80",-
+,Jamie Wootton,Striker,Centre-Forward,"Oct 2, 1994 ",29,['England'],England,Rotherham,,,-
+,Liam MacDevitt,Striker,Centre-Forward,"Oct 26, 1994 ",29,"['England', 'Ireland']",England,Reading,RW   RB,"1,77",-
+,Lloyd Dawes,Striker,Centre-Forward,"Jul 18, 1994 ",29,['England'],England,Brighton,SS   RW,"1,71",-
+,Michael Gamble,Striker,Centre-Forward,"Jan 5, 1994 ",30,"['United States', 'England']",England,Bedford,AM,"1,70",-
+7,Greg Luer,Striker,Centre-Forward,"Dec 6, 1994 ",29,['England'],England,Brighton,,"1,80",-
+,Jason Gilchrist,Striker,Centre-Forward,"Dec 17, 1994 ",29,['England'],England,St Helens,,"1,78",-
+,Evan Key,Striker,Centre-Forward,"Apr 18, 1994 ",29,['England'],England,,,,-
+14,Dior Angus,Striker,Centre-Forward,"Jan 18, 1994 ",30,['England'],England,Coventry,LW,"1,83",-
+,Alex Peterson,Striker,Centre-Forward,"Oct 17, 1994 ",29,['England'],England,Doncaster,,"1,83",-
+,Chris Dickinson,Striker,Centre-Forward,"Nov 4, 1994 ",29,['England'],England,Stockton-on-Tees,,"1,85",-
+9,Alex Salmon,Striker,Centre-Forward,"Jul 9, 1994 ",29,"['England', 'Australia']",England,Birkenhead,,"1,81",-
+,Mark Francis,Striker,Centre-Forward,"Dec 12, 1994 ",29,['England'],England,Dorchester,,,-
+,Kane Richards,Striker,Centre-Forward,"Jun 16, 1994 ",29,['England'],England,Derby,RW,"1,76",-
+10,Shaq Coulthirst,Striker,Centre-Forward,"Nov 2, 1994 ",29,['England'],England,London,SS   LW,"1,80",-
+,Ryan Jones,Striker,Centre-Forward,"May 17, 1994 ",29,['Wales'],England,Malpas,,,-
+,Adebayo Azeez,Striker,Centre-Forward,"Jan 8, 1994 ",30,"['England', 'Nigeria']",England,Sidcup,RW   LW,"1,83",-
+,Danny Sullivan,Striker,Centre-Forward,"Sep 1, 1994 ",29,['England'],England,Plymouth,,"1,77",-
+,George Sykes,Striker,Centre-Forward,"Sep 14, 1994 ",29,"['Scotland', 'England']",England,Buckhurst Hill,,"1,93",-
+,Mitch Harding,Striker,Centre-Forward,"Jan 27, 1994 ",30,['England'],England,Weston-super-Mare,,"1,72",-
+,Afolabi Obafemi,Striker,Centre-Forward,"Nov 25, 1994 ",29,"['England', 'Nigeria']",England,London,RW   LW,"1,88",-
+,Tyrell Waite,Striker,Centre-Forward,"Jul 1, 1994 ",29,['England'],England,Derby,RW   LW,"1,80",-
+9,Mark Beck,Striker,Centre-Forward,"Feb 2, 1994 ",30,"['Scotland', 'England']",England,Sunderland,,"1,96",-
+,Carl Lawson,Striker,Centre-Forward,"Oct 1, 1994 ",29,['England'],England,Sunderland,LW   RW,"1,82",-
+14,Jacob Hazel,Striker,Centre-Forward,"Apr 15, 1994 ",29,"['St. Kitts & Nevis', 'England']",England,Bradford,LW,"1,81",-
+,Jacob Joyce,Striker,Centre-Forward,"Aug 18, 1994 ",29,['England'],England,Peterborough,,"1,88",-
+,Dominic Samuel,Striker,Centre-Forward,"Apr 1, 1994 ",30,"['England', 'Antigua and Barbuda']",England,London,,"1,88",-
+,Dominic Dell,Striker,Centre-Forward,"Jan 1, 1994 ",30,['England'],England,Wolverhampton,,"1,79",-
+,Tom Youngs,Striker,Centre-Forward,"Sep 6, 1994 ",29,['England'],England,London,RW,,-
+12,George Waring,Striker,Centre-Forward,"Dec 2, 1994 ",29,['England'],England,Chester,,"1,96",-
+,Jordan Chiedozie,Striker,Centre-Forward,"Aug 1, 1994 ",29,"['England', 'Nigeria']",England,Bournemouth,,"1,84",-
+,Max Leonard,Striker,Centre-Forward,"Jul 4, 1994 ",29,['England'],England,Longwood,,"1,78",-
+,Alec Denton,Striker,Centre-Forward,"Jul 30, 1994 ",29,['England'],England,Sheffield,,,-
+,Saul Williams,Striker,Centre-Forward,"May 26, 1994 ",29,"['England', 'St. Vincent & Grenadinen']",England,Luton,,"1,69",-
+,Greg Rutherford,Striker,Centre-Forward,"May 17, 1994 ",29,['England'],England,Whitley Bay,,"1,93",-
+,James Alabi,Striker,Centre-Forward,"Nov 8, 1994 ",29,"['England', 'Ghana']",England,London,LW   RW,"1,85",-
+,Jordan Agbaje,Striker,Centre-Forward,"Jan 9, 1994 ",30,"['England', 'Nigeria']",England,London,,,-
+,Luke James,Striker,Centre-Forward,"Nov 4, 1994 ",29,['England'],England,Amble,RW   LW,"1,83",-
+,Evan Garnett,Striker,Centre-Forward,"Aug 14, 1994 ",29,['England'],England,Derby,,"1,85",-
+9,Alex Jones,Striker,Centre-Forward,"Sep 28, 1994 ",29,['England'],England,Sutton Coldfield,RW   SS,"1,85",-
+25,Allan Smith,Striker,Centre-Forward,"Jan 25, 1994 ",30,['Scotland'],England,Berwick upon Tweed,RW   LW,"1,78",-
+,Matt Lecointe,Striker,Centre-Forward,"Oct 28, 1994 ",29,['England'],England,Plymouth,,"1,78",-
+10,Miles Storey,Striker,Centre-Forward,"Jan 4, 1994 ",30,['England'],England,Sandwell,LW   RW,"1,80",-
+,James Murphy,Striker,Centre-Forward,"May 23, 1994 ",29,['Ireland'],England,Oxford,,"1,78",-
+,Adam Morgan,Striker,Centre-Forward,"Apr 21, 1994 ",29,['England'],England,Liverpool,RW,"1,79",-
+,Jonathan Letford,Striker,Centre-Forward,"Mar 19, 1994 ",30,['England'],England,Walsall,,,-
+,Anton Forrester,Striker,Centre-Forward,"Feb 11, 1994 ",30,['England'],England,Liverpool,,"1,83",-
+,Zak Ansah,Striker,Centre-Forward,"May 4, 1994 ",29,"['Ghana', 'England']",England,London,SS   RW,"1,79",-
+23,Dan Creaney,Striker,Centre-Forward,"Jul 27, 1994 ",29,['England'],England,Nuneaton,,"1,88",-
+,Curtis Haley,Striker,Centre-Forward,"Nov 10, 1994 ",29,['England'],England,Preston,,,-
+,Hatib Cham,Striker,Centre-Forward,"Feb 14, 1994 ",30,"['The Gambia', 'England']",England,Pontefract,,"1,85",-
+,Jack Serrant-Green,Striker,Centre-Forward,"Feb 2, 1994 ",30,"['England', 'Dominica']",England,Nottingham,SS,"1,92",-
+,Wilson Kneeshaw,Striker,Centre-Forward,"May 20, 1994 ",29,['England'],England,Darlington,RW   LW,"1,91",-
+,Ashley Miller,Striker,Centre-Forward,"Sep 8, 1994 ",29,['England'],England,Dover,RW   LW,"1,75",-
+,Philip Roberts,Striker,Centre-Forward,"Apr 7, 1994 ",29,"['Ireland', 'England']",England,London,RW   LW,"1,80",-
+11,Hallam Hope,Striker,Centre-Forward,"Mar 17, 1994 ",30,"['Barbados', 'England']",England,Manchester,LW   RW,"1,79",-
+11,Ollie Watkins,Striker,Centre-Forward,"Dec 30, 1995 ",28,['England'],England,Torquay,RW   LW,"1,80",€65.00m
+10,Chuba Akpom,Striker,Centre-Forward,"Oct 9, 1995 ",28,"['England', 'Nigeria']",England,London,AM   SS,"1,86",€12.00m
+9,Sam Gallagher,Striker,Centre-Forward,"Sep 15, 1995 ",28,"['England', 'Scotland']",England,Crediton,RW   LW,"1,93",€2.00m
+10,Dion Charles,Striker,Centre-Forward,"Oct 7, 1995 ",28,"['Northern Ireland', 'England']",England,Preston,,"1,78",€800k
+27,Ashley Fletcher,Striker,Centre-Forward,"Oct 2, 1995 ",28,['England'],England,Keighley,SS   LW,"1,85",€600k
+27,Macauley Bonne,Striker,Centre-Forward,"Oct 26, 1995 ",28,"['Zimbabwe', 'England']",England,Ipswich,,"1,80",€350k
+9,Courtney Baker-Richardson,Striker,Centre-Forward,"Dec 5, 1995 ",28,['England'],England,Coventry,,"1,85",€275k
+29,James Wilson,Striker,Centre-Forward,"Dec 1, 1995 ",28,['England'],England,Biddulph,SS   RW,"1,83",€225k
+20,Sam Ashford,Striker,Centre-Forward,"Dec 21, 1995 ",28,['England'],England,Chelmsford,RW   LW,"1,85",€125k
+,Ben Ward-Cochrane,Striker,Centre-Forward,"Feb 10, 1995 ",29,['England'],England,London,LW   RW,"1,84",-
+22,John Haist,Striker,Centre-Forward,"Dec 5, 1995 ",28,['England'],England,Wantage,,"1,88",-
+,Matt Bateman,Striker,Centre-Forward,"Jun 9, 1995 ",28,['England'],England,Hemel Hempstead,,"1,82",-
+,Calvin Morgan,Striker,Centre-Forward,"May 18, 1995 ",28,"['Anguilla', 'England']",England,Slough,,"1,88",-
+9,Carlton Morris,Striker,Centre-Forward,"Dec 16, 1995 ",28,['England'],England,Cambridge,RW   LW,"1,85",€13.00m
+47,Callum Robinson,Striker,Centre-Forward,"Feb 2, 1995 ",29,"['Ireland', 'England']",England,Northampton,LW   RW,"1,78",€2.20m
+9,Harry Cornick,Striker,Centre-Forward,"Apr 9, 1995 ",28,['England'],England,Poole,RW   LW,"1,80",€1.20m
+44,Devante Cole,Striker,Centre-Forward,"May 10, 1995 ",28,"['Jamaica', 'England']",England,Alderley Edge,LW   RW,"1,84",€750k
+12,Uche Ikpeazu,Striker,Centre-Forward,"Feb 28, 1995 ",29,"['Uganda', 'England']",England,London,,"1,90",€375k
+22,George Oakley,Striker,Centre-Forward,"Nov 18, 1995 ",28,['England'],England,Wandsworth,,"1,87",€275k
+7,Chris Long,Striker,Centre-Forward,"Feb 25, 1995 ",29,['England'],England,Huyton,SS   LW,"1,79",€250k
+9,Harry Smith,Striker,Centre-Forward,"May 18, 1995 ",28,['England'],England,Chatham,,"1,96",€175k
+36,Courtney Duffus,Striker,Centre-Forward,"Oct 24, 1995 ",28,"['Ireland', 'England']",England,Cheltenham,RW   LW,"1,88",€100k
+,Chris Harris,Striker,Centre-Forward,"Aug 14, 1995 ",28,['England'],England,Braintree,,"1,82",-
+10,Ollie Pearce,Striker,Centre-Forward,"Aug 8, 1995 ",28,['England'],England,Brighton,LW   AM,"1,74",-
+,Danny Bassett,Striker,Centre-Forward,"Aug 30, 1995 ",28,['England'],England,London,LW,,-
+9,Jason Cowley,Striker,Centre-Forward,"Oct 9, 1995 ",28,['England'],England,Birmingham,,"1,83",-
+,Jye Nicholas-French,Striker,Centre-Forward,"Oct 9, 1995 ",28,['England'],England,Derby,SS,,-
+16,Reece Grant,Striker,Centre-Forward,"Jan 26, 1995 ",29,['England'],England,Greenwich,LW   RW,"1,80",-
+10,Lamar Reynolds,Striker,Centre-Forward,"Aug 16, 1995 ",28,"['England', 'Jamaica']",England,London,LW   RW,"1,77",-
+,Sam Shaban,Striker,Centre-Forward,"Nov 4, 1995 ",28,"['England', 'Iran']",England,London,LW   RW,"1,85",-
+,Jamie Calvin,Striker,Centre-Forward,"Oct 8, 1995 ",28,['England'],England,,,,-
+,Jonathan Hippolyte,Striker,Centre-Forward,"Jan 25, 1995 ",29,"['St. Lucia', 'England']",England,London,,,-
+,Alex Akrofi,Striker,Centre-Forward,"Apr 16, 1995 ",28,"['England', 'Ghana']",England,London,LW,"1,70",-
+,Andrew Lewis,Striker,Centre-Forward,"Apr 9, 1995 ",28,['England'],England,Liverpool,,"1,89",-
+,Andre Brown,Striker,Centre-Forward,"Nov 18, 1995 ",28,['England'],England,Birmingham,,"1,82",-
+,Matthew Hamilton,Striker,Centre-Forward,"Nov 20, 1995 ",28,"['Ireland', 'England']",England,Ormskirk,LM   LW,"1,83",-
+7,Jimmy Muitt,Striker,Centre-Forward,"Oct 7, 1995 ",28,['England'],England,Brighton,RW   LW,"1,80",-
+,Curtis Bateson,Striker,Centre-Forward,"Sep 17, 1995 ",28,['England'],England,Scunthorpe,LW,"1,80",-
+,Cameron Saul,Striker,Centre-Forward,"Jun 28, 1995 ",28,"['England', 'Guyana']",England,London,RW   LW,"1,78",-
+9,Danny Elliott,Striker,Centre-Forward,"Sep 29, 1995 ",28,['England'],England,Nottingham,,"1,83",-
+,Andre Johnson,Striker,Centre-Forward,"Sep 26, 1995 ",28,['England'],England,Derby,,,-
+,Shaun Okojie,Striker,Centre-Forward,"Nov 8, 1995 ",28,"['England', 'Nigeria']",England,Luton,,"1,90",-
+25,Alex Reid,Striker,Centre-Forward,"Sep 6, 1995 ",28,['England'],England,Birmingham,,"1,92",-
+,Bobby Vaughan,Striker,Centre-Forward,"Nov 21, 1995 ",28,['England'],England,London,RW   LW,"1,82",-
+,Jordan Austin,Striker,Centre-Forward,"Oct 3, 1995 ",28,['Scotland'],England,Stevenage,,,-
+,Darius Osei,Striker,Centre-Forward,"Jun 2, 1995 ",28,"['England', 'Ghana']",England,Manchester,,"1,80",-
+,Alex Laing,Striker,Centre-Forward,"Sep 27, 1995 ",28,['England'],England,Brighton,RW,,-
+,Connor McCarthy,Striker,Centre-Forward,"Apr 6, 1995 ",28,['England'],England,Liverpool,,,-
+,Dominic Smith,Striker,Centre-Forward,"Sep 22, 1995 ",28,['England'],England,Crewe,,,-
+,Robin Deen,Striker,Centre-Forward,"Oct 16, 1995 ",28,['England'],England,Brighton,RW,,-
+,Charlie Dawes,Striker,Centre-Forward,"Sep 13, 1995 ",28,['England'],England,Chesterfield,LW,,-
+49,Danny Whitehall,Striker,Centre-Forward,"Oct 8, 1995 ",28,['England'],England,Warrington,,"1,90",-
+,Ola Adeyemo,Striker,Centre-Forward,"Jan 15, 1995 ",29,"['Nigeria', 'England']",England,London,RW,"1,83",-
+9,Daniel Akindayini,Striker,Centre-Forward,"Oct 25, 1995 ",28,"['England', 'Nigeria']",England,London,,"1,80",-
+,Rhys Turner,Striker,Centre-Forward,"Jul 22, 1995 ",28,['England'],England,Preston,RW   LW,"1,87",-
+,De'Jaune Taylor-Crossdale,Striker,Centre-Forward,"Dec 10, 1995 ",28,['England'],England,London,,,-
+7,Tom Peers,Striker,Centre-Forward,"Oct 23, 1995 ",28,['England'],England,Warrington,,"1,78",-
+19,Charlie Anagho-Ntamark,Striker,Centre-Forward,"Jan 24, 1995 ",29,['England'],England,Walsall,SS   AM,"1,76",-
+,Reece Beckles,Striker,Centre-Forward,"Jul 19, 1995 ",28,"['Antigua and Barbuda', 'England']",England,London,RW   LW,"1,81",-
+,Jason Williams,Striker,Centre-Forward,"Nov 1, 1995 ",28,['England'],England,London,,"1,82",-
+,Bobbie Dale,Striker,Centre-Forward,"Nov 25, 1995 ",28,['England'],England,Worcester,,"1,83",-
+,Deqwon Ebanks,Striker,Centre-Forward,"Mar 6, 1995 ",29,['England'],England,Birmingham,,,-
+11,Darren McQueen,Striker,Centre-Forward,"May 8, 1995 ",28,"['England', 'Grenada']",England,London,,"1,74",-
+,Tom Derry,Striker,Centre-Forward,"Jan 27, 1995 ",29,['England'],England,Camberwell,,"1,86",-
+,Carlos Lyon,Striker,Centre-Forward,"May 16, 1995 ",28,"['England', 'Uganda']",England,London,,"1,75",-
+,Aaron Millbank,Striker,Centre-Forward,"Feb 4, 1995 ",29,['England'],England,Ramsgate,,"1,83",-
+,Johan Ter Horst,Striker,Centre-Forward,"Apr 6, 1995 ",28,['England'],England,Ashford,,,-
+,Fisayo Adarabioyo,Striker,Centre-Forward,"Feb 1, 1995 ",29,"['England', 'Nigeria']",England,London,,"1,90",-
+29,Alfie Pavey,Striker,Centre-Forward,"Oct 2, 1995 ",28,['England'],England,London,,"1,86",-
+,Jordan Bove,Striker,Centre-Forward,"Dec 12, 1995 ",28,['England'],England,Manchester,,,-
+,Joe Parker,Striker,Centre-Forward,"Mar 11, 1995 ",29,['England'],England,Gloucester,,"1,71",-
+,Bradley Fortnam-Tomlinson,Striker,Centre-Forward,"Jan 4, 1995 ",29,"['Northern Ireland', 'England']",England,Narborough,,"1,85",-
+10,Jake Eyre,Striker,Centre-Forward,"Nov 2, 1995 ",28,['England'],England,Chester,RW,,-
+14,Taylor Hendry,Striker,Centre-Forward,"Dec 20, 1995 ",28,['Scotland'],England,London,LW   SS,"1,80",-
+20,Emmanuel Dieseruvwe,Striker,Centre-Forward,"Feb 20, 1995 ",29,"['England', 'Nigeria']",England,Leeds,,"1,95",-
+,Tom Strain,Striker,Centre-Forward,"Sep 27, 1995 ",28,"['Australia', 'England']",England,Coventry,,"1,83",-
+14,Tobi Sho-Silva,Striker,Centre-Forward,"Mar 27, 1995 ",29,"['England', 'Nigeria']",England,Thamesmead,SS,"1,86",-
+,Shaquille McDonald,Striker,Centre-Forward,"Jul 19, 1995 ",28,['England'],England,Birmingham,RW   LW,"1,73",-
+,Chike Kandi,Striker,Centre-Forward,"Oct 6, 1995 ",28,"['Wales', 'Nigeria']",England,London,RW   LW,"1,80",-
+9,Diego De Girolamo,Striker,Centre-Forward,"Oct 5, 1995 ",28,"['Italy', 'England']",England,Chesterfield,SS   AM,"1,78",-
+,Joel Logan,Striker,Centre-Forward,"Jan 25, 1995 ",29,['England'],England,Manchester,,"1,80",-
+,Tom Pratt,Striker,Centre-Forward,"Jul 3, 1995 ",28,['England'],England,Manchester,LW,"1,78",-
+,Walter Figueira,Striker,Centre-Forward,"Mar 17, 1995 ",29,"['England', 'Angola']",England,London,LW,"1,82",-
+,Jaanai Gordon,Striker,Centre-Forward,"Dec 7, 1995 ",28,"['England', 'Jamaica']",England,Northampton,RW   LW,"1,78",-
+,Brandon Zibaka,Striker,Centre-Forward,"May 20, 1995 ",28,['England'],England,London,,,-
+,Austin Lipman,Striker,Centre-Forward,"Sep 20, 1995 ",28,['England'],England,Leytonstone,RW   LW,,-
+,Connor Waldon,Striker,Centre-Forward,"Feb 13, 1995 ",29,['England'],England,Swindon,,"1,80",-
+24,Liam Boswell,Striker,Centre-Forward,"Jan 25, 1995 ",29,['England'],England,Bury,,"1,70",-
+,Tom Heardman,Striker,Centre-Forward,"Sep 12, 1995 ",28,['England'],England,Gosforth,,"1,93",-
+,Reece Hales,Striker,Centre-Forward,"Feb 12, 1995 ",29,['England'],England,Birmingham,,,-
+,Jonathyn Quinn,Striker,Centre-Forward,"Sep 17, 1995 ",28,['England'],England,Ashington,,,-
+,Marcel Barrington,Striker,Centre-Forward,"Aug 28, 1995 ",28,"['Guyana', 'England']",England,London,LW,,-
+,Romello Nangle,Striker,Centre-Forward,"Jan 8, 1995 ",29,['England'],England,Nottingham,,,-
+,Leon Lobjoit,Striker,Centre-Forward,"Jan 4, 1995 ",29,['England'],England,Hatfield,,"1,88",-
+,Jordan Thomas,Striker,Centre-Forward,"Jun 23, 1995 ",28,['England'],England,Grantham,,"1,76",-
+39,Kwame Thomas,Striker,Centre-Forward,"Sep 28, 1995 ",28,"['St. Kitts & Nevis', 'England']",England,Nottingham,RW   LW,"1,90",-
+,Dave Moli,Striker,Centre-Forward,"Jan 8, 1995 ",29,"['England', 'DR Congo']",England,Manchester,,"1,86",-
+17,Ivan Toney,Striker,Centre-Forward,"Mar 16, 1996 ",28,"['England', 'Jamaica']",England,Northampton,,"1,85",€50.00m
+9,Oli McBurnie,Striker,Centre-Forward,"Jun 4, 1996 ",27,"['Scotland', 'England']",England,Leeds,,"1,88",€4.50m
+9,Colby Bishop,Striker,Centre-Forward,"Nov 4, 1996 ",27,['England'],England,Nottingham,,"1,80",€700k
+19,Joel Nouble,Striker,Centre-Forward,"Jan 19, 1996 ",28,"['England', ""Cote d'Ivoire""]",England,London,LW   RW,"1,93",€450k
+35,Luke Armstrong,Striker,Centre-Forward,"Jul 2, 1996 ",27,['England'],England,Durham,,"1,85",€300k
+19,Kyle Wootton,Striker,Centre-Forward,"Oct 11, 1996 ",27,['England'],England,Kidderminster,LW   RW,"1,88",€275k
+18,Jake Beesley,Striker,Centre-Forward,"Dec 2, 1996 ",27,['England'],England,Sheffield,,"1,85",€250k
+9,Fejiri Okenabirhie,Striker,Centre-Forward,"Feb 25, 1996 ",28,"['Nigeria', 'England']",England,London,LW   RW,"1,78",€200k
+9,Danilo Orsi,Striker,Centre-Forward,"Apr 19, 1996 ",27,"['England', 'Italy']",England,London,,"1,88",€175k
+9,Matt Lowe,Striker,Centre-Forward,"Mar 11, 1996 ",28,['England'],England,Warwick,RB   RM,"1,79",€150k
+9,Adam Davies,Striker,Centre-Forward,"Oct 13, 1996 ",27,"['Wales', 'England']",England,Shrewsbury,,"1,95",€75k
+17,Nick Keyamo,Striker,Centre-Forward,"Feb 16, 1996 ",28,['England'],England,London,RW   LW,"1,86",€25k
+,Sam Moore,Striker,Centre-Forward,"May 28, 1996 ",27,['England'],England,Leicester,AM,"1,82",-
+10,Ché Adams,Striker,Centre-Forward,"Jul 13, 1996 ",27,"['Scotland', 'England']",England,Leicester,LW   RW,"1,79",€15.00m
+9,Jerry Yates,Striker,Centre-Forward,"Nov 10, 1996 ",27,['England'],England,Doncaster,RW   LW,"1,75",€3.50m
+9,Sam Cosgrove,Striker,Centre-Forward,"Dec 2, 1996 ",27,['England'],England,Beverley,,"1,94",€450k
+19,Dom Telford,Striker,Centre-Forward,"Dec 5, 1996 ",27,['England'],England,Burnley,SS   LW,"1,75",€375k
+17,Nathan Oduwa,Striker,Centre-Forward,"Mar 5, 1996 ",28,"['England', 'Nigeria']",England,London,LW   AM,"1,91",€300k
+19,Tyler Walker,Striker,Centre-Forward,"Oct 17, 1996 ",27,['England'],England,Nottingham,RW,"1,79",€250k
+99,Tomi Adeloye,Striker,Centre-Forward,"Feb 17, 1996 ",28,"['England', 'Nigeria']",England,Sidcup,LW   RW,"1,87",€200k
+20,Elliott Nevitt,Striker,Centre-Forward,"Oct 30, 1996 ",27,['England'],England,Liverpool,,,€175k
+14,Alex Jakubiak,Striker,Centre-Forward,"Aug 27, 1996 ",27,"['Scotland', 'England']",England,Westminster,RW   LW,"1,77",€175k
+11,Conor Gaul,Striker,Centre-Forward,"May 20, 1996 ",27,['England'],England,Blackpool,RW,"1,85",€125k
+11,James Akintunde,Striker,Centre-Forward,"Mar 29, 1996 ",28,"['England', 'Nigeria']",England,London,LW   RW,"1,75",€75k
+9,Marcel Izuchi Howard,Striker,Centre-Forward,"Sep 29, 1996 ",27,"['England', 'Nigeria']",England,Londres,,,-
+,Nick Hyden,Striker,Centre-Forward,"Mar 3, 1996 ",28,['England'],England,Bristol,,,-
+,Rackeem Reid,Striker,Centre-Forward,"Jun 21, 1996 ",27,['England'],England,Birmingham,RW,"1,84",-
+,Joe Kerridge,Striker,Centre-Forward,"Sep 29, 1996 ",27,['England'],England,Newcastle upon Tyne,CM,,-
+,Calvin Ekpiteta,Striker,Centre-Forward,"May 23, 1996 ",27,"['England', 'Nigeria']",England,London,LW   RW,"1,73",-
+,Saam de Castro,Striker,Centre-Forward,"Feb 11, 1996 ",28,['England'],England,London,,"1,74",-
+,Luke Brown,Striker,Centre-Forward,"Dec 6, 1996 ",27,['England'],England,Cambridge,,"1,80",-
+22,Jack Barham,Striker,Centre-Forward,"Feb 9, 1996 ",28,['England'],England,Southend-on-Sea,AM,"1,77",-
+,Kalim Amokachi,Striker,Centre-Forward,"Jun 22, 1996 ",27,"['Nigeria', 'Tunisia']",England,Liverpool,LW   RW,"1,80",-
+,Dan Cockerline,Striker,Centre-Forward,"Nov 15, 1996 ",27,['England'],England,Warrington,,"1,91",-
+,Elliot Rokka,Striker,Centre-Forward,"Mar 16, 1996 ",28,['England'],England,Stockport,RW   LW,"1,78",-
+,Ibrahim Meite,Striker,Centre-Forward,"Jul 29, 1996 ",27,"['England', ""Cote d'Ivoire""]",England,Roehampton,,"1,88",-
+7,Jake Wright,Striker,Centre-Forward,"Sep 11, 1996 ",27,['England'],England,Sheffield,,"1,76",-
+11,Callum Powell,Striker,Centre-Forward,"Jan 28, 1996 ",28,['England'],England,Coventry,LW   RW,"1,66",-
+10,Danny Waldron,Striker,Centre-Forward,"May 11, 1996 ",27,['England'],England,Birmingham,,"1,83",-
+,Dernell Wynter,Striker,Centre-Forward,"Aug 28, 1996 ",27,['England'],England,London,RW   LW,,-
+,Elijah Simpson,Striker,Centre-Forward,"Aug 18, 1996 ",27,['England'],England,London,,"1,85",-
+,Marios Avraam,Striker,Centre-Forward,"Aug 27, 1996 ",27,"['England', 'Cyprus']",England,London,,,-
+,Mark Forrest,Striker,Centre-Forward,"Dec 3, 1996 ",27,['England'],England,London,SS,"1,91",-
+,Simeon Cobourne,Striker,Centre-Forward,"Oct 1, 1996 ",27,['England'],England,Birmingham,,,-
+,Kyle McFarlane,Striker,Centre-Forward,"Dec 28, 1996 ",27,['England'],England,Birmingham,,"1,82",-
+,Danny de Abela-Borg,Striker,Centre-Forward,"Feb 8, 1996 ",28,"['England', 'Malta']",England,Chertsey,CM   CB,"1,83",-
+,Liam Nash,Striker,Centre-Forward,"Jan 19, 1996 ",28,['England'],England,Southend-on-Sea,,"1,76",-
+,Tommy Wright,Striker,Centre-Forward,"Nov 17, 1996 ",27,['England'],England,Southampton,LW   RW,"1,68",-
+,Ollie Brown-Hill,Striker,Centre-Forward,"Feb 29, 1996 ",28,"['England', 'Scotland']",England,Leicester,,,-
+,Jordan Harper,Striker,Centre-Forward,"Sep 7, 1996 ",27,"['England', 'Ireland']",England,Manchester,SS   RW,"1,93",-
+,Luke Saggers,Striker,Centre-Forward,"Sep 18, 1996 ",27,['England'],England,London,,"1,82",-
+,Ben Pattie,Striker,Centre-Forward,"Aug 14, 1996 ",27,['England'],England,Hemel Hempstead,,"1,83",-
+,Ntumba Massanka,Striker,Centre-Forward,"Nov 30, 1996 ",27,"['England', 'DR Congo']",England,Tottenham,LW   SS,"1,91",-
+,Moses Duckrell,Striker,Centre-Forward,"Aug 13, 1996 ",27,"['England', 'Nigeria']",England,London,LW   RW,"1,79",-
+,Jamie Philpot,Striker,Centre-Forward,"Oct 2, 1996 ",27,['England'],England,Pembury,,"1,81",-
+,Liam Monelle,Striker,Centre-Forward,"Jun 16, 1996 ",27,['England'],England,Bristol,,,-
+,Louis Rooney,Striker,Centre-Forward,"Sep 28, 1996 ",27,"['Northern Ireland', 'England']",England,Plymouth,,"1,80",-
+,Marcus Barnes,Striker,Centre-Forward,"Dec 1, 1996 ",27,"['England', 'Jamaica']",England,Reading,RW   LW,"1,85",-
+,Noyan Tajbakhsh,Striker,Centre-Forward,"Sep 18, 1996 ",27,"['Türkiye', 'England']",England,London,SS,"1,77",-
+,Alex Gonzales,Striker,Centre-Forward,"Jan 2, 1996 ",28,"['Gibraltar', 'England']",England,London,,,-
+,Joe Maybanks,Striker,Centre-Forward,"Jan 1, 1996 ",28,['England'],England,,,"1,78",-
+,Fraser Murdoch,Striker,Centre-Forward,"Sep 17, 1996 ",27,"['Scotland', 'England']",England,Manchester,RW   LW,,-
+,Anthony Dudley,Striker,Centre-Forward,"Jan 3, 1996 ",28,['England'],England,Manchester,RW   LW,"1,78",-
+,Connor Bell,Striker,Centre-Forward,"Jul 15, 1996 ",27,['England'],England,Newcastle upon Tyne,SS   LW,"1,76",-
+27,Joe Quigley,Striker,Centre-Forward,"Dec 10, 1996 ",27,"['Ireland', 'England']",England,London,,"1,91",-
+,Manucho Kayila,Striker,Centre-Forward,"Jan 5, 1996 ",28,"['England', 'Angola']",England,London,SS   AM,"1,77",-
+,Anthony Dwyer,Striker,Centre-Forward,"Dec 13, 1996 ",27,"['Jamaica', 'England']",England,Nottingham,,"1,90",-
+,James Thorne,Striker,Centre-Forward,"Jan 3, 1996 ",28,['England'],England,Manchester,RW   LW,,-
+11,Bradley Ash,Striker,Centre-Forward,"Apr 5, 1996 ",27,['England'],England,Weston-super-Mare,SS,"1,74",-
+,Jack Ryan,Striker,Centre-Forward,"Apr 5, 1996 ",27,['England'],England,Barrow-in-Furness,,"1,83",-
+,Mason Bloomfield,Striker,Centre-Forward,"Nov 6, 1996 ",27,"['England', 'Jamaica']",England,London,,"1,91",-
+,Jonathan Edwards,Striker,Centre-Forward,"Nov 24, 1996 ",27,['England'],England,Luton,,"1,86",-
+6,Jordan Jowers,Striker,Centre-Forward,"Oct 16, 1996 ",27,['England'],England,Middlesbrough,,"1,80",-
+,Scott McCarthy,Striker,Centre-Forward,"Mar 4, 1996 ",28,['England'],England,Newcastle,,,-
+,Calum Dyson,Striker,Centre-Forward,"Sep 19, 1996 ",27,['England'],England,Liverpool,RW   LW,"1,87",-
+,Andre Wright,Striker,Centre-Forward,"Dec 7, 1996 ",27,['England'],England,Sandwell,RW   LW,"1,83",-
+,Harry Lewis,Striker,Centre-Forward,"Nov 12, 1996 ",27,['England'],England,Oxford,,"1,83",-
+,Jamie Eaton-Collins,Striker,Centre-Forward,"Sep 3, 1996 ",27,['England'],England,Ipswich,SS   RW,"1,74",-
+,Jake Simpson,Striker,Centre-Forward,"Oct 23, 1996 ",27,['England'],England,Cambridge,,"1,75",-
+,Jay Burgess,Striker,Centre-Forward,"Oct 23, 1996 ",27,"['England', 'Greece']",England,Solihull,RW   GK,"1,80",-
+,Nathan Curtis,Striker,Centre-Forward,"Feb 7, 1996 ",28,['England'],England,Leeds,LW   RW,"1,83",-
+,Bradley Fewster,Striker,Centre-Forward,"Jan 27, 1996 ",28,['England'],England,Middlesbrough,LW   RW,"1,78",-
+,Jordan Brown,Striker,Centre-Forward,"Nov 10, 1996 ",27,"['Barbados', 'England']",England,London,RW   LW,"1,85",-
+,Nikola Milosevic,Striker,Centre-Forward,"Dec 8, 1996 ",27,"['Serbia', 'England']",England,Birmingham,,"1,99",-
+9,Harry Cardwell,Striker,Centre-Forward,"Oct 23, 1996 ",27,"['Scotland', 'England']",England,Beverley,,"1,90",-
+,Dean Rittenberg,Striker,Centre-Forward,"May 13, 1996 ",27,['England'],England,Liverpool,RW   LW,,-
+14,Botti Biabi,Striker,Centre-Forward,"Mar 8, 1996 ",28,"['Scotland', ""Cote d'Ivoire""]",England,London,RW   LW,"1,88",-
+,Saul Hamer,Striker,Centre-Forward,"Feb 13, 1996 ",28,['England'],England,Preston,,,-
+,Nathan Ricketts-Hopkinson,Striker,Centre-Forward,"Apr 30, 1996 ",27,['England'],England,Manchester,,"1,80",-
+21,James Roberts,Striker,Centre-Forward,"Jun 21, 1996 ",27,['England'],England,Stoke Mandeville,,,-
+9,Ryan Seager,Striker,Centre-Forward,"Feb 5, 1996 ",28,['England'],England,Yeovil,SS,"1,76",-
+,Jerome Sinclair,Striker,Centre-Forward,"Sep 20, 1996 ",27,['England'],England,Birmingham,RW   LW,"1,81",-
+9,Tammy Abraham,Striker,Centre-Forward,"Oct 2, 1997 ",26,"['England', 'Nigeria']",England,London,,"1,94",€35.00m
+9,Dominic Calvert-Lewin,Striker,Centre-Forward,"Mar 16, 1997 ",27,['England'],England,Sheffield,SS   LW,"1,89",€22.00m
+16,Karlan Grant,Striker,Centre-Forward,"Sep 18, 1997 ",26,"['England', 'Scotland']",England,London,LW,"1,83",€3.80m
+11,Stephen Humphrys,Striker,Centre-Forward,"Sep 15, 1997 ",26,['England'],England,Oldham,RW   LW,"1,84",€500k
+9,Macaulay Langstaff,Striker,Centre-Forward,"Feb 3, 1997 ",27,['England'],England,Stockton-on-Tees,AM,"1,78",€400k
+17,Shayon Harrison,Striker,Centre-Forward,"Jul 13, 1997 ",26,"['England', 'Jamaica']",England,London,SS,"1,83",€400k
+9,Ronald Sobowale,Striker,Centre-Forward,"Jul 19, 1997 ",26,"['England', 'Nigeria']",England,London,RW,"1,78",€250k
+7,Dan Agyei,Striker,Centre-Forward,"Jun 1, 1997 ",26,"['England', 'Ghana']",England,London,LW   RW,"1,83",€225k
+9,Josh Dolling,Striker,Centre-Forward,"Dec 29, 1997 ",26,['England'],England,"Hillingdon, Middlesex",,,€150k
+47,Josh Walker,Striker,Centre-Forward,"Dec 28, 1997 ",26,['England'],England,London,SS,,€150k
+24,Josh March,Striker,Centre-Forward,"Mar 18, 1997 ",27,['England'],England,Stourbridge,,"1,75",€100k
+9,George Newell,Striker,Centre-Forward,"Jan 27, 1997 ",27,['England'],England,Formby,LW   RW,"1,84",€75k
+,James Stone,Striker,Centre-Forward,"Nov 11, 1997 ",26,['England'],England,Brighton,RW   LW,"1,90",-
+9,Dominic Solanke,Striker,Centre-Forward,"Sep 14, 1997 ",26,"['England', 'Nigeria']",England,Basingstoke,,"1,86",€35.00m
+9,Adam Armstrong,Striker,Centre-Forward,"Feb 10, 1997 ",27,['England'],England,West Denton,RW   LW,"1,73",€16.00m
+9,Kwadwo Duah,Striker,Centre-Forward,"Feb 24, 1997 ",27,"['Switzerland', 'Ghana']",England,London,RW   LW,"1,85",€2.00m
+7,Jonah Ayunga,Striker,Centre-Forward,"May 24, 1997 ",26,"['Kenya', 'England']",England,Beaminster,RW,"1,85",€450k
+18,Brandon Hanlan,Striker,Centre-Forward,"May 31, 1997 ",26,['England'],England,London,,"1,82",€400k
+9,Callum Hendry,Striker,Centre-Forward,"Dec 8, 1997 ",26,['Scotland'],England,Lytham St.Annes,SS,"1,76",€325k
+9,Rekeil Pyke,Striker,Centre-Forward,"Sep 1, 1997 ",26,['England'],England,Leeds,LW   RW,"1,78",€225k
+9,Ryan Loft,Striker,Centre-Forward,"Sep 14, 1997 ",26,['England'],England,Gravesend,,"1,90",€225k
+19,Harvey Saunders,Striker,Centre-Forward,"Jul 20, 1997 ",26,['England'],England,Wolverhampton,,"1,80",€150k
+25,Donovan Wilson,Striker,Centre-Forward,"Mar 14, 1997 ",27,"['England', 'Jamaica']",England,Yate,RW   LW,"1,80",€125k
+88,Connor Flynn-Gillespie,Striker,Centre-Forward,"May 20, 1997 ",26,"['Scotland', 'Spain']",England,Lewisham,AM   SS,"1,80",€100k
+,Connor Cullen,Striker,Centre-Forward,"Sep 30, 1997 ",26,['England'],England,Chertsey,,"1,78",-
+10,Jacob Evans,Striker,Centre-Forward,"Dec 12, 1997 ",26,['England'],England,Chester,CM,"1,80",-
+,Lauric Diakiesse,Striker,Centre-Forward,"May 17, 1997 ",26,['England'],England,London,LW   RW,"1,85",-
+11,Corie Andrews,Striker,Centre-Forward,"Sep 20, 1997 ",26,['England'],England,London,,"1,80",-
+,Reyon Dillon,Striker,Centre-Forward,"Nov 3, 1997 ",26,['England'],England,London,,"1,86",-
+,Taff Wadda,Striker,Centre-Forward,"Jun 24, 1997 ",26,"['England', 'The Gambia']",England,Ascot,RW   LW,,-
+9,Kurt Willoughby,Striker,Centre-Forward,"Jul 15, 1997 ",26,['England'],England,Blackpool,LW,"1,78",-
+,Jordan Walshaw,Striker,Centre-Forward,"Apr 17, 1997 ",26,['England'],England,Sheffield,RW   LW,"1,86",-
+,Andre Coker,Striker,Centre-Forward,"Nov 15, 1997 ",26,['England'],England,London,LW   RW,"1,81",-
+,Joshua Adeyileka,Striker,Centre-Forward,"Jul 16, 1997 ",26,"['England', 'Nigeria']",England,London,LW,"1,78",-
+,Ibby Akanbi,Striker,Centre-Forward,"Jul 12, 1997 ",26,"['England', 'Nigeria']",England,London,SS,"1,78",-
+9,Shawn McCoulsky,Striker,Centre-Forward,"Jan 6, 1997 ",27,['England'],England,London,,"1,83",-
+11,Muhammadu Faal,Striker,Centre-Forward,"Jul 1, 1997 ",26,"['England', 'The Gambia']",England,London,,"1,96",-
+15,Greg Cundle,Striker,Centre-Forward,"Mar 20, 1997 ",27,['England'],England,Bromley,,"1,82",-
+,Karnell Chambers,Striker,Centre-Forward,"Sep 26, 1997 ",26,['England'],England,Gloucester,LW,"1,76",-
+,Elliott Reeves,Striker,Centre-Forward,"Feb 14, 1997 ",27,['England'],England,Derby,,"1,80",-
+9,Regan Linney,Striker,Centre-Forward,"May 12, 1997 ",26,['England'],England,Preston,RW   LW,,-
+,Oliver Ford,Striker,Centre-Forward,"Mar 11, 1997 ",27,['England'],England,Macclesfield,,,-
+,Joshua Donnelly,Striker,Centre-Forward,"Mar 6, 1997 ",27,['England'],England,London,,"1,86",-
+,Mucahit Cinar,Striker,Centre-Forward,"May 1, 1997 ",26,"['Türkiye', 'England']",England,Lewisham,RB   CM,"1,80",-
+,Jordan Graham,Striker,Centre-Forward,"Dec 30, 1997 ",26,['England'],England,Peterborough,,"1,87",-
+9,Marcus Dinanga,Striker,Centre-Forward,"Jun 30, 1997 ",26,"['England', 'Angola']",England,Gravesend,,"1,80",-
+,Olly Mehew,Striker,Centre-Forward,"Nov 3, 1997 ",26,['England'],England,Bristol,AM,,-
+,Brandon Adams,Striker,Centre-Forward,"Dec 2, 1997 ",26,['England'],England,London,,"1,78",-
+20,Nick Dembele,Striker,Centre-Forward,"May 19, 1997 ",26,"['England', ""Cote d'Ivoire""]",England,London,RW   LW,,-
+,Mark Afedzie-Hayford,Striker,Centre-Forward,"May 12, 1997 ",26,"['England', 'Ghana']",England,London,CB,"1,96",-
+,Khaellem Bailey-Nicholls,Striker,Centre-Forward,"Dec 16, 1997 ",26,['England'],England,Wolverhampton,,"1,80",-
+,Joe Pugh,Striker,Centre-Forward,"Oct 10, 1997 ",26,"['Wales', 'England']",England,Doncaster,,"1,83",-
+,George Jeacock,Striker,Centre-Forward,"Sep 16, 1997 ",26,['England'],England,Oxford,LW   RW,,-
+,Freddy Tracey,Striker,Centre-Forward,"Sep 16, 1997 ",26,['England'],England,Sheffield,,,-
+,Daniel Ajakaiye,Striker,Centre-Forward,"Jan 11, 1997 ",27,"['England', 'Nigeria']",England,London,AM   LW,,-
+9,Luke Charman,Striker,Centre-Forward,"Dec 9, 1997 ",26,['England'],England,Durham,SS,"1,85",-
+9,Josh Umerah,Striker,Centre-Forward,"Mar 8, 1997 ",27,"['England', 'Nigeria']",England,London,,"1,85",-
+,Eddie Dsane,Striker,Centre-Forward,"Feb 5, 1997 ",27,['England'],England,London,LW,"1,81",-
+,Jack Kelleher,Striker,Centre-Forward,"Sep 22, 1997 ",26,['England'],England,Liverpool,,"1,88",-
+9,Dipo Akinyemi,Striker,Centre-Forward,"Jun 10, 1997 ",26,"['England', 'Nigeria']",England,London,,"1,83",-
+,Lewis Mansell,Striker,Centre-Forward,"Sep 20, 1997 ",26,"['England', 'Wales']",England,Burnley,,"1,88",-
+29,Olufela Olomola,Striker,Centre-Forward,"Sep 5, 1997 ",26,"['England', 'Nigeria']",England,London,SS   RW,"1,70",-
+9,Tom Shepherd,Striker,Centre-Forward,"Sep 17, 1997 ",26,['England'],England,Macclesfield,,"1,88",-
+,Jenk Acar,Striker,Centre-Forward,"Sep 6, 1997 ",26,"['England', 'Türkiye']",England,Lincoln,RW   LW,"1,75",-
+,Montel Gibson,Striker,Centre-Forward,"Dec 15, 1997 ",26,"['England', 'St. Kitts & Nevis']",England,Birmingham,,"1,78",-
+9,Kairo Mitchell,Striker,Centre-Forward,"Oct 21, 1997 ",26,"['Grenada', 'England']",England,Leicester,RW,"1,86",-
+,Kuda Muskwe,Striker,Centre-Forward,"Sep 17, 1997 ",26,['England'],England,Leicester,,"1,88",-
+,Cameron Rigby,Striker,Centre-Forward,"Jan 20, 1997 ",27,['England'],England,Doncaster,LW,,-
+,Delial Brewster,Striker,Centre-Forward,"Nov 7, 1997 ",26,['England'],England,Southport,SS   RW,"1,83",-
+,Cameron Johnson,Striker,Centre-Forward,"Jan 1, 1997 ",27,['England'],England,,RW   LW,"1,85",-
+,Levi Rowley,Striker,Centre-Forward,"Jun 16, 1997 ",26,['England'],England,Stafford,AM   CM,"1,80",-
+,Josh Cooke,Striker,Centre-Forward,"Feb 4, 1997 ",27,['England'],England,Gloucester,,"1,77",-
+,Jake Orrell,Striker,Centre-Forward,"Jul 17, 1997 ",26,['England'],England,Sunderland,SS,,-
+11,Andrew Nelson,Striker,Centre-Forward,"Sep 16, 1997 ",26,['England'],England,Stockton-on-Tees,RW   LW,"1,78",-
+,Enock Likoy-Elumba,Striker,Centre-Forward,"Nov 25, 1997 ",26,['England'],England,Manchester,,,-
+9,Frank Mulhern,Striker,Centre-Forward,"Feb 28, 1997 ",27,"['Ireland', 'England']",England,South Elmsall,RW,"1,75",-
+,George Couzens,Striker,Centre-Forward,"Oct 19, 1997 ",26,['England'],England,Bourne,,,-
+,Lewis Bemrose,Striker,Centre-Forward,"Mar 27, 1997 ",27,['England'],England,Grimsby,,"1,76",-
+,Lewis Byrne-Hewitt,Striker,Centre-Forward,"Jan 10, 1997 ",27,['England'],England,London,,,-
+,Max Hazeldine,Striker,Centre-Forward,"Feb 13, 1997 ",27,['England'],England,Stockport,AM,"1,78",-
+,Jake Pickard,Striker,Centre-Forward,"Mar 14, 1997 ",27,['England'],England,Newcastle,AM   CM,"1,81",-
+,Tahvon Campbell,Striker,Centre-Forward,"Jan 10, 1997 ",27,['England'],England,Birmingham,LW   RW,"1,85",-
+,Kaiman Anderson,Striker,Centre-Forward,"Mar 1, 1997 ",27,['England'],England,Shrewsbury,,"1,85",-
+9,Cemal Ramadan,Striker,Centre-Forward,"Jan 2, 1997 ",27,"['Ireland', 'Türkiye']",England,London,SS   LM,"1,72",-
+,Nyal Bell,Striker,Centre-Forward,"Jan 18, 1997 ",27,['England'],England,Manchester,,"1,88",-
+,Ben Hirst,Striker,Centre-Forward,"Oct 25, 1997 ",26,['England'],England,York,,"1,83",-
+,Noel Burdett,Striker,Centre-Forward,"Nov 13, 1997 ",26,['England'],England,Isle of Axholme,,"1,78",-
+,Jamie Thomas,Striker,Centre-Forward,"Jan 10, 1997 ",27,"['Wales', 'England']",England,Blackpool,SS   AM,"1,78",-
+,Jamie Hinchcliffe,Striker,Centre-Forward,"Mar 11, 1997 ",27,['England'],England,Glossop,,,-
+,Ged Oldnall,Striker,Centre-Forward,"Jul 26, 1997 ",26,['England'],England,West Bromwich,,"1,73",-
+,Liam Prynn,Striker,Centre-Forward,"Mar 26, 1997 ",27,['England'],England,,,,-
+26,Joe Nuttall,Striker,Centre-Forward,"Jan 27, 1997 ",27,['England'],England,Bury,,"1,82",-
+,Ken Feyi,Striker,Centre-Forward,"Jan 17, 1997 ",27,"['England', 'Ghana']",England,Hull,SS,"1,88",-
+11,Elijah Adebayo,Striker,Centre-Forward,"Jan 7, 1998 ",26,"['England', 'Nigeria']",England,London,,"1,93",€12.00m
+19,Jacob Brown,Striker,Centre-Forward,"Apr 10, 1998 ",25,"['Scotland', 'England']",England,Halifax,RW,"1,78",€4.00m
+9,Keinan Davis,Striker,Centre-Forward,"Feb 13, 1998 ",26,['England'],England,Stevenage,SS,"1,89",€3.00m
+12,Iké Ugbo,Striker,Centre-Forward,"Sep 21, 1998 ",25,"['Canada', 'England']",England,London,,"1,84",€2.80m
+10,Sam Smith,Striker,Centre-Forward,"Mar 8, 1998 ",26,['England'],England,Manchester,,"1,81",€450k
+10,Admiral Muskwe,Striker,Centre-Forward,"Aug 21, 1998 ",25,"['Zimbabwe', 'England']",England,Leicester,SS,"1,83",€275k
+14,Tyler Smith,Striker,Centre-Forward,"Dec 4, 1998 ",25,['England'],England,Sheffield,,"1,77",€200k
+11,Rushian Hepburn-Murphy,Striker,Centre-Forward,"Aug 28, 1998 ",25,"['England', 'Jamaica']",England,Birmingham,SS   RW,"1,73",€200k
+9,Mathew Stevens,Striker,Centre-Forward,"Feb 12, 1998 ",26,['England'],England,Guildford,,"1,80",€175k
+20,Aramide Oteh,Striker,Centre-Forward,"Sep 10, 1998 ",25,"['England', 'Nigeria']",England,London,SS   LW,"1,75",€125k
+,Joseph Chidyausiku,Striker,Centre-Forward,"Mar 3, 1998 ",26,['England'],England,Farnborough,,"1,88",-
+9,Tim Berridge,Striker,Centre-Forward,"Jan 27, 1998 ",26,['England'],England,Nottingham,,,-
+,Liam van Gelder,Striker,Centre-Forward,"Mar 28, 1998 ",26,['England'],England,Liverpool,AM,,-
+9,Sam Surridge,Striker,Centre-Forward,"Jul 28, 1998 ",25,['England'],England,Slough,,"1,90",€5.50m
+9,Josh Maja,Striker,Centre-Forward,"Dec 27, 1998 ",25,"['Nigeria', 'England']",England,London,,"1,81",€3.50m
+21,Brandon Thomas-Asante,Striker,Centre-Forward,"Dec 29, 1998 ",25,"['Ghana', 'England']",England,Milton Keynes,LW   RW,"1,82",€2.80m
+29,Sam Nombe,Striker,Centre-Forward,"Oct 22, 1998 ",25,['England'],England,London,,"1,80",€500k
+11,Kailan Gould,Striker,Centre-Forward,"Jan 13, 1998 ",26,['England'],England,Midsomer Norton,,,€275k
+45,Kazaiah Sterling,Striker,Centre-Forward,"Nov 9, 1998 ",25,"['England', 'Jamaica']",England,London,SS,"1,75",€250k
+9,George Miller,Striker,Centre-Forward,"Aug 11, 1998 ",25,['England'],England,Bolton,,"1,78",€200k
+9,Gerard Garner,Striker,Centre-Forward,"Nov 2, 1998 ",25,['England'],England,Liverpool,,"1,88",€175k
+19,Cedwyn Scott,Striker,Centre-Forward,"Dec 6, 1998 ",25,['England'],England,Hexham,,"1,78",€125k
+,Benny Ashley-Seal,Striker,Centre-Forward,"Nov 21, 1998 ",25,['England'],England,London,RW,"1,85",€50k
+,Alfie Cue,Striker,Centre-Forward,"Sep 29, 1998 ",25,['England'],England,London,,,-
+,Ashley Nzala,Striker,Centre-Forward,"Jan 11, 1998 ",26,['England'],England,London,,,-
+10,Ty Deacon,Striker,Centre-Forward,"Sep 6, 1998 ",25,['England'],England,Aylesbury,,"1,88",-
+7,Connor Woods,Striker,Centre-Forward,"Feb 1, 1998 ",26,['England'],England,Ormskirk,RM,"1,72",-
+,Caiden Imbert-Thomas,Striker,Centre-Forward,"Jan 25, 1998 ",26,"['England', 'Dominica']",England,London,SS,,-
+17,Kimarni Smith,Striker,Centre-Forward,"Mar 14, 1998 ",26,['England'],England,Nottingham,LW   RW,"1,85",-
+,Tommy Goss,Striker,Centre-Forward,"Apr 14, 1998 ",25,['Scotland'],England,London,,,-
+,Danny Parish,Striker,Centre-Forward,"Oct 18, 1998 ",25,['England'],England,Dartford,RW   LW,"1,69",-
+,Tinashe Chakwana,Striker,Centre-Forward,"Oct 25, 1998 ",25,['Zimbabwe'],England,Wigan,RW   LW,"1,80",-
+,Will Sewell,Striker,Centre-Forward,"Jun 13, 1998 ",25,"['England', 'Scotland']",England,London,,,-
+,Harvey Bradbury,Striker,Centre-Forward,"Nov 9, 1998 ",25,['England'],England,Fareham,,"1,91",-
+19,Brandon Smalley,Striker,Centre-Forward,"Jan 5, 1998 ",26,['England'],England,Scarborough,AM,"1,80",-
+,Alex Bruce,Striker,Centre-Forward,"Oct 28, 1998 ",25,"['England', 'United States']",England,Gateshead,,"1,85",-
+,Norman Wabo,Striker,Centre-Forward,"May 6, 1998 ",25,['England'],England,Newham,LW   RW,"1,75",-
+17,Eoin McKeown,Striker,Centre-Forward,"Nov 5, 1998 ",25,['England'],England,London,,"1,90",-
+11,Decarrey Sheriff,Striker,Centre-Forward,"Feb 18, 1998 ",26,['England'],England,London,,"1,82",-
+,Sam Ashton,Striker,Centre-Forward,"Aug 21, 1998 ",25,['England'],England,Waterlooville,,"1,83",-
+,Victor Fundi,Striker,Centre-Forward,"Dec 17, 1998 ",25,"['England', 'Malawi']",England,Croydon,,,-
+,Jack Hoey,Striker,Centre-Forward,"Nov 3, 1998 ",25,['England'],England,Bournemouth,,"1,88",-
+10,Deri Corfe,Striker,Centre-Forward,"Mar 3, 1998 ",26,['England'],England,Chester,LW   RW,"1,88",-
+,Ryan Nesbitt,Striker,Centre-Forward,"Apr 2, 1998 ",26,['England'],England,Birmingham,AM,"1,86",-
+,Brandon Taverner,Striker,Centre-Forward,"Dec 3, 1998 ",25,['England'],England,,,"1,86",-
+,Ogo Obi,Striker,Centre-Forward,"May 7, 1998 ",25,"['England', 'Nigeria']",England,London,RW   LW,"1,82",-
+,Tommy Wood,Striker,Centre-Forward,"Nov 26, 1998 ",25,['England'],England,London,,"1,88",-
+,Mikael Ndjoli,Striker,Centre-Forward,"Dec 16, 1998 ",25,"['England', 'DR Congo']",England,London,LW   RW,"1,83",-
+,Horatio Hirst,Striker,Centre-Forward,"Sep 6, 1998 ",25,['England'],England,Oxford,AM,"1,85",-
+9,Aaron Jarvis,Striker,Centre-Forward,"Jan 24, 1998 ",26,['England'],England,Basingstoke,,"1,88",-
+10,Josh Kelly,Striker,Centre-Forward,"Dec 19, 1998 ",25,"['Northern Ireland', 'England']",England,Windsor,SS,"1,75",-
+,Jahvan Davidson-Miller,Striker,Centre-Forward,"Oct 10, 1998 ",25,['England'],England,Derby,RW,,-
+,Jayden Antwi,Striker,Centre-Forward,"Nov 30, 1998 ",25,"['England', 'Ghana']",England,London,,,-
+,Connor Hall,Striker,Centre-Forward,"Feb 18, 1998 ",26,['England'],England,Slough,,"1,80",-
+,Matty Gillam,Striker,Centre-Forward,"Oct 4, 1998 ",25,['England'],England,Ormskirk,RW   LW,"1,82",-
+24,Cameron Salkeld,Striker,Centre-Forward,"Dec 6, 1998 ",25,['England'],England,Gateshead,RW   LW,"1,83",-
+,Morgan Penfold,Striker,Centre-Forward,"Dec 3, 1998 ",25,['England'],England,Whittlesey,RW   LW,"1,86",-
+11,Dan Turner,Striker,Centre-Forward,"Jun 23, 1998 ",25,['England'],England,Stone,LW,"1,80",-
+,Tom Powell,Striker,Centre-Forward,"Sep 12, 1998 ",25,['England'],England,Wigan,RW   SS,"1,80",-
+,Sam Ford,Striker,Centre-Forward,"Jun 5, 1998 ",25,['England'],England,Ipswich,,"1,83",-
+,Malakai Hinckson-Mars,Striker,Centre-Forward,"Dec 1, 1998 ",25,['England'],England,Middlesex,,,-
+,Zak Dearnley,Striker,Centre-Forward,"Sep 28, 1998 ",25,['England'],England,Sheffield,RW   LW,"1,80",-
+,Michael Elstone,Striker,Centre-Forward,"Oct 4, 1998 ",25,['England'],England,Stockport,,"1,80",-
+9,Jordan Ponticelli,Striker,Centre-Forward,"Sep 10, 1998 ",25,['England'],England,Nuneaton,,"1,80",-
+9,Tristan Abrahams,Striker,Centre-Forward,"Dec 29, 1998 ",25,"['England', 'Jamaica']",England,London,SS   RW,"1,85",-
+,Kieran Hall,Striker,Centre-Forward,"Oct 26, 1998 ",25,['England'],England,Gateshead,,,-
+,Michael Folivi,Striker,Centre-Forward,"Feb 25, 1998 ",26,"['England', 'Ghana']",England,London,SS,"1,80",-
+,Joe Iaciofano,Striker,Centre-Forward,"Sep 10, 1998 ",25,['England'],England,Northampton,,"1,78",-
+,Divine Shanganya,Striker,Centre-Forward,"Jan 1, 1998 ",26,['Zimbabwe'],England,,,"1,90",-
+,Nathan Webb,Striker,Centre-Forward,"Jul 9, 1998 ",25,['England'],England,Ashton-under-Lyne,,,-
+,Will Longbottom,Striker,Centre-Forward,"Dec 12, 1998 ",25,"['England', 'New Zealand']",England,Leeds,SS,"1,75",-
+,Ethan Jones,Striker,Centre-Forward,"Apr 4, 1998 ",26,['England'],England,Dudley,,"1,80",-
+,Jack Devlin,Striker,Centre-Forward,"Mar 19, 1998 ",26,['England'],England,Sunderland,,,-
+,Dan Sweeney,Striker,Centre-Forward,"Feb 14, 1998 ",26,['England'],England,Solihull,LW,"1,90",-
+,Kayne Diedrick-Roberts,Striker,Centre-Forward,"Nov 4, 1998 ",25,['England'],England,London,RW   LW,"1,73",-
+,Joe Hardy,Striker,Centre-Forward,"Sep 26, 1998 ",25,['England'],England,Wirral,SS   RW,"1,70",-
+,Matthew Foy,Striker,Centre-Forward,"Nov 2, 1998 ",25,['England'],England,Huntingdon,,"1,70",-
+,Jahmal Hector-Ingram,Striker,Centre-Forward,"Nov 11, 1998 ",25,['England'],England,London,,"1,80",-
+,Ruairi Cahill-Fleury,Striker,Centre-Forward,"Mar 8, 1998 ",26,"['New Zealand', 'England']",England,Manchester,,,-
+,Reece Webb-Foster,Striker,Centre-Forward,"Mar 7, 1998 ",26,['England'],England,Haworth,LW   AM,"1,78",-
+14,Eddie Nketiah,Striker,Centre-Forward,"May 30, 1999 ",24,"['England', 'Ghana']",England,London,RW   LW,"1,75",€30.00m
+8,Tyler Roberts,Striker,Centre-Forward,"Jan 12, 1999 ",25,"['Wales', 'England']",England,Gloucester,AM   RW,"1,80",€2.80m
+9,Fraser Hornby,Striker,Centre-Forward,"Sep 13, 1999 ",24,"['Scotland', 'England']",England,Northampton,SS   AM,"1,95",€1.80m
+36,Max Watters,Striker,Centre-Forward,"Mar 23, 1999 ",25,['England'],England,London,,"1,88",€400k
+9,Josh Davison,Striker,Centre-Forward,"Sep 16, 1999 ",24,['England'],England,London,,,€275k
+18,Ben House,Striker,Centre-Forward,"Jul 5, 1999 ",24,"['Scotland', 'England']",England,Guildford,,"1,75",€250k
+20,Charlie Brown,Striker,Centre-Forward,"Sep 23, 1999 ",24,['England'],England,Ipswich,,,€175k
+24,Udoyen Akpan,Striker,Centre-Forward,"Feb 10, 1999 ",25,"['England', 'Sierra Leone']",England,Liverpool,SS   RW,"1,84",€75k
+17,Franny Amartey,Striker,Centre-Forward,"Jun 5, 1999 ",24,['England'],England,London,RW,"1,81",€25k
+,Sewa Marah,Striker,Centre-Forward,"Sep 3, 1999 ",24,"['England', 'Sierra Leone']",England,London,LW   RW,"1,78",-
+,Jordan Lonchar,Striker,Centre-Forward,"Oct 30, 1999 ",24,['England'],England,Sheffield,SS,,-
+19,Kieran Cook,Striker,Centre-Forward,"Jul 7, 1999 ",24,['England'],England,Wolverhampton,,,-
+,Alex Willis,Striker,Centre-Forward,"Oct 5, 1999 ",24,['England'],England,Faversham,,"1,83",-
+27,George Hirst,Striker,Centre-Forward,"Feb 15, 1999 ",25,['England'],England,Sheffield,,"1,91",€3.20m
+10,Tyrese Campbell,Striker,Centre-Forward,"Dec 28, 1999 ",24,"['England', 'Jamaica']",England,Cheadle Hulme,RW   LW,"1,85",€2.00m
+14,Niall Ennis,Striker,Centre-Forward,"May 20, 1999 ",24,"['England', 'Jamaica']",England,Wolverhampton,LW,"1,78",€500k
+25,Isaac Olaofe,Striker,Centre-Forward,"Nov 21, 1999 ",24,"['England', 'Ghana']",England,Lewisham,RW   LW,"1,81",€325k
+18,Sam Dalby,Striker,Centre-Forward,"Dec 7, 1999 ",24,['England'],England,London,,,€275k
+11,Daniel Butterworth,Striker,Centre-Forward,"Sep 14, 1999 ",24,['England'],England,Manchester,SS,"1,83",€225k
+9,Ben Morris,Striker,Centre-Forward,"Jul 6, 1999 ",24,['England'],England,Colchester,,"1,75",€150k
+11,Martell Taylor-Crossdale,Striker,Centre-Forward,"Dec 26, 1999 ",24,['England'],England,London,,"1,85",€75k
+,Dejon Noel-Williams,Striker,Centre-Forward,"Feb 22, 1999 ",25,"['Grenada', 'England']",England,London,,"1,83",-
+,Ashton Ajibola-Gleed,Striker,Centre-Forward,"Jul 20, 1999 ",24,['England'],England,Swindon,,,-
+,Callum Scott,Striker,Centre-Forward,"Jan 1, 1999 ",25,['England'],England,Newcastle,,,-
+,Jozsef Keaveny,Striker,Centre-Forward,"Oct 12, 1999 ",24,"['Ireland', 'Hungary']",England,Leicester,,,-
+,Tom Clare,Striker,Centre-Forward,"Sep 2, 1999 ",24,['England'],England,Barnsley,CB,"1,95",-
+24,Lewis McGeoch,Striker,Centre-Forward,"Sep 13, 1999 ",24,['England'],England,Sunderland,,,-
+,Cameron Ebbutt,Striker,Centre-Forward,"Jan 30, 1999 ",25,['England'],England,Solihull,LW   AM,"1,82",-
+19,Aaron Cosgrave,Striker,Centre-Forward,"Jul 17, 1999 ",24,['England'],England,Shenfield,RW   LW,"1,85",-
+,Alex Battle,Striker,Centre-Forward,"Jan 23, 1999 ",25,['England'],England,Plymouth,RW   LW,"1,82",-
+,Jay Edward,Striker,Centre-Forward,"Jun 11, 1999 ",24,['England'],England,Londres,,"1,88",-
+,Dan Mooney,Striker,Centre-Forward,"Jul 3, 1999 ",24,"['Wales', 'England']",England,Trafford,RM   AM,"1,81",-
+,Joe Piggott,Striker,Centre-Forward,"Jun 23, 1999 ",24,['England'],England,Cheshire,SS   LW,"1,83",-
+,Lewis Reilly,Striker,Centre-Forward,"Jul 7, 1999 ",24,['England'],England,Liverpool,SS,"1,80",-
+9,Cameron Streete,Striker,Centre-Forward,"Feb 9, 1999 ",25,"['Sweden', 'England']",England,,,"1,80",-
+,Tom Barry,Striker,Centre-Forward,"Feb 4, 1999 ",25,['England'],England,Middlesbrough,AM,,-
+10,Tom Bearwish,Striker,Centre-Forward,"Oct 16, 1999 ",24,['England'],England,Portland,,,-
+,Alex Bruton,Striker,Centre-Forward,"Aug 21, 1999 ",24,['England'],England,Middlesbrough,,,-
+,Jake Embery,Striker,Centre-Forward,"Aug 18, 1999 ",24,['England'],England,Kings Hill,,"1,71",-
+,Scott Belgrove,Striker,Centre-Forward,"Aug 23, 1999 ",24,['England'],England,Milton Keynes,,,-
+,Noel Leighton,Striker,Centre-Forward,"Feb 18, 1999 ",25,['England'],England,Tunbridge Wells,,"1,88",-
+,David Smith,Striker,Centre-Forward,"May 22, 1999 ",24,['England'],England,,RW   LW,"1,76",-
+,Dan Smith,Striker,Centre-Forward,"Sep 5, 1999 ",24,['England'],England,London,RW   LW,"1,90",-
+,Akeel Francis,Striker,Centre-Forward,"Mar 30, 1999 ",25,"['England', 'Jamaica']",England,Leeds,RW   AM,"1,89",-
+,Andronikos Georgiou,Striker,Centre-Forward,"Oct 28, 1999 ",24,"['Cyprus', 'England']",England,London,RW   LW,"1,80",-
+,Ben Seymour,Striker,Centre-Forward,"Apr 16, 1999 ",24,['England'],England,Watford,,"1,72",-
+,Korrey Henry,Striker,Centre-Forward,"Nov 28, 1999 ",24,['England'],England,London,RW,"1,78",-
+,Tino Carpene,Striker,Centre-Forward,"Aug 24, 1999 ",24,['England'],England,London,AM   RW,,-
+,Alex Fletcher,Striker,Centre-Forward,"Feb 9, 1999 ",25,['England'],England,Newton Abbot,,"1,79",-
+15,Lewis Scattergood,Striker,Centre-Forward,"Mar 20, 1999 ",25,['England'],England,Nottingham,,"1,85",-
+,George Harry,Striker,Centre-Forward,"Jun 7, 1999 ",24,"['Wales', 'England']",England,Wirral,,,-
+,Tom Fielding,Striker,Centre-Forward,"Sep 18, 1999 ",24,['England'],England,Leicester,LW   RW,"1,72",-
+10,Adam Davie,Striker,Centre-Forward,"Oct 11, 1999 ",24,['England'],England,Nottingham,,"1,79",-
+27,Deon Moore,Striker,Centre-Forward,"May 14, 1999 ",24,"['Guyana', 'England']",England,London,,"1,79",-
+,Michael Howard,Striker,Centre-Forward,"Oct 17, 1999 ",24,['England'],England,Southport,,"1,78",-
+,Chris Sang,Striker,Centre-Forward,"Jun 26, 1999 ",24,['England'],England,Liverpool,RW,"1,88",-
+,Freddie Hinds,Striker,Centre-Forward,"Jan 28, 1999 ",25,['England'],England,Potton,,"1,75",-
+,Zayn Hakeem,Striker,Centre-Forward,"Feb 15, 1999 ",25,"['Antigua and Barbuda', 'England']",England,Leicester,,"1,88",-
+,Tyrone O'Neill,Striker,Centre-Forward,"Oct 12, 1999 ",24,['England'],England,Grangetown,,"1,86",-
+10,Harry Limb,Striker,Centre-Forward,"Aug 1, 1999 ",24,"['Northern Ireland', 'England']",England,,SS,"1,80",-
+,Kairo Edwards-John,Striker,Centre-Forward,"Oct 23, 1999 ",24,"['England', 'Antigua and Barbuda']",England,Leicester,LW   RW,"1,78",-
+11,Jordan Young,Striker,Centre-Forward,"Jul 31, 1999 ",24,"['Scotland', 'England']",England,Chippenham,,"1,75",-
+,Joe White,Striker,Centre-Forward,"Jan 16, 1999 ",25,['England'],England,London,,,-
+,Ricardo German,Striker,Centre-Forward,"Jan 13, 1999 ",25,"['Grenada', 'England']",England,London,,"1,80",-
+,Cameron Peters,Striker,Centre-Forward,"Feb 19, 1999 ",25,['England'],England,Hereford,,"1,78",-
+,Ethan Beckford,Striker,Centre-Forward,"Jun 21, 1999 ",24,['England'],England,Manchester,,"1,80",-
+,Kieran Hayes,Striker,Centre-Forward,"Jan 4, 1999 ",25,"['Philippines', 'England']",England,Nottingham,AM,"1,74",-
+,Jack Snelus,Striker,Centre-Forward,"Jul 5, 1999 ",24,['England'],England,Milton Keynes,SS,"1,82",-
+,Alan Fleming,Striker,Centre-Forward,"Sep 8, 1999 ",24,['England'],England,Watford,RW,,-
+,Lewis McNall,Striker,Centre-Forward,"Apr 24, 1999 ",24,['England'],England,Gateshead,,"1,78",-
+20,Mitchell Curry,Striker,Centre-Forward,"Jul 14, 1999 ",24,['England'],England,Washington,LW   RW,"1,78",-
+14,Sharp Räsänen,Striker,Centre-Forward,"Feb 17, 1999 ",25,"['Finland', 'England']",England,London,AM   RW,"1,85",-
+23,Owen Gallacher,Striker,Centre-Forward,"Apr 6, 1999 ",24,['England'],England,Newcastle upon Tyne,LW   RW,"1,74",-
+7,Will Davies,Striker,Centre-Forward,"Jun 6, 1999 ",24,['England'],England,Ipswich,,"1,86",-
+9,Erling Haaland,Striker,Centre-Forward,"Jul 21, 2000 ",23,['Norway'],England,Leeds,,"1,95",€180.00m
+7,Rhian Brewster,Striker,Centre-Forward,"Apr 1, 2000 ",24,"['England', 'Barbados']",England,London,,"1,80",€3.00m
+15,Kyle Hudlin,Striker,Centre-Forward,"Jun 15, 2000 ",23,['England'],England,Birmingham,,"2,06",€300k
+,Kieran Phillips,Striker,Centre-Forward,"Feb 18, 2000 ",24,['England'],England,Huddersfield,RW   LW,"1,87",€275k
+26,Will Swan,Striker,Centre-Forward,"Oct 26, 2000 ",23,['England'],England,London,SS   AM,"1,81",€225k
+24,Tola Showunmi,Striker,Centre-Forward,"Jul 3, 2000 ",23,['England'],England,Enfield,LW,"1,91",€175k
+11,Austin Samuels,Striker,Centre-Forward,"Nov 20, 2000 ",23,['England'],England,Wolverhampton,LW   RW,"1,78",€175k
+26,James Daly,Striker,Centre-Forward,"Jan 12, 2000 ",24,['England'],England,Brighton,LW   RW,"1,78",€100k
+89,Rodel Richards,Striker,Centre-Forward,"Sep 5, 2000 ",23,['England'],England,London,LW   RW,"1,80",€50k
+,Afolabi Soyemi-Ololade,Striker,Centre-Forward,"Jan 10, 2000 ",24,"['England', 'Nigeria']",England,London,LW   RW,"1,76",-
+,Alex Cameron,Striker,Centre-Forward,"Jul 22, 2000 ",23,['England'],England,Dudley,,"1,79",-
+,Sean Walker,Striker,Centre-Forward,"Dec 23, 2000 ",23,['England'],England,Liverpool,,,-
+9,Ken Charles,Striker,Centre-Forward,"Aug 5, 2000 ",23,['England'],England,London,,"1,83",-
+19,Danny Namaso,Striker,Centre-Forward,"Aug 28, 2000 ",23,"['England', 'Cameroon']",England,Reading,SS   LW,"1,82",€5.00m
+10,Ruel Sotiriou,Striker,Centre-Forward,"Aug 24, 2000 ",23,"['Cyprus', 'England']",England,London,LW   AM,"1,80",€450k
+20,Emile Acquah,Striker,Centre-Forward,"Jul 13, 2000 ",23,"['England', 'Ghana']",England,London,RW   LW,"1,91",€275k
+23,Gabby McGill,Striker,Centre-Forward,"Sep 4, 2000 ",23,['England'],England,York,SS   LW,"1,81",€250k
+39,Callum Morton,Striker,Centre-Forward,"Jan 19, 2000 ",24,['England'],England,Torquay,,"1,78",€200k
+19,George Lloyd,Striker,Centre-Forward,"Feb 11, 2000 ",24,['England'],England,Gloucester,RW   LW,"1,75",€175k
+14,D'Mani Mellor,Striker,Centre-Forward,"Sep 20, 2000 ",23,['England'],England,Manchester,,"1,86",€150k
+90,Eren Kinali,Striker,Centre-Forward,"Feb 24, 2000 ",24,"['England', 'Türkiye']",England,Londra,RM   LM,"1,78",€75k
+,Henry Jordan,Striker,Centre-Forward,"May 2, 2000 ",23,['England'],England,Portsmouth,,,-
+,Ade Gbolahan,Striker,Centre-Forward,"Apr 5, 2000 ",23,['England'],England,London,,"1,86",-
+,Shaun Joash,Striker,Centre-Forward,"Nov 20, 2000 ",23,['England'],England,London,,,-
+,Jack Holden,Striker,Centre-Forward,"Jun 7, 2000 ",23,['England'],England,Liverpool,RW   LW,,-
+,Tyreek McCallum,Striker,Centre-Forward,"Jan 7, 2000 ",24,['England'],England,Liverpool,,,-
+,Curtis Miller,Striker,Centre-Forward,"Nov 29, 2000 ",23,['England'],England,Manchester,,,-
+19,Billy Chadwick,Striker,Centre-Forward,"Jan 19, 2000 ",24,['England'],England,Kingston upon Hull,,,-
+7,Will Harris,Striker,Centre-Forward,"Oct 1, 2000 ",23,['England'],England,South Shields,,"1,88",-
+,Brandon Chebby,Striker,Centre-Forward,"Jul 22, 2000 ",23,['Burundi'],England,Southampton,,"1,90",-
+,Elliott Dugan,Striker,Centre-Forward,"Sep 18, 2000 ",23,['England'],England,Bath,,"1,83",-
+,Luke Hirst,Striker,Centre-Forward,"Sep 29, 2000 ",23,['England'],England,Brentwood,,"1,77",-
+,Eddie Brown,Striker,Centre-Forward,"Nov 27, 2000 ",23,['England'],England,Manchester,,"1,88",-
+,Malachi Linton,Striker,Centre-Forward,"Dec 22, 2000 ",23,['England'],England,Ipswich,,"1,82",-
+,Joe Neal,Striker,Centre-Forward,"Oct 22, 2000 ",23,['England'],England,Bury St Edmunds,,"1,76",-
+,Tyrone Ofori,Striker,Centre-Forward,"Jul 26, 2000 ",23,"['England', 'Ghana']",England,,,"1,76",-
+,David Bremang,Striker,Centre-Forward,"Apr 21, 2000 ",23,['England'],England,London,,"1,80",-
+,Iyrwah Gooden,Striker,Centre-Forward,"Aug 13, 2000 ",23,['England'],England,Huddersfield,LW   RW,"1,83",-
+33,Charley Kendall,Striker,Centre-Forward,"Dec 15, 2000 ",23,['England'],England,Eastbourne,,"1,80",-
+23,Hady Ghandour,Striker,Centre-Forward,"Jan 27, 2000 ",24,"['Lebanon', 'England']",England,London,RW,"1,89",-
+,Nyle Ellis,Striker,Centre-Forward,"Jun 28, 2000 ",23,['England'],England,Manchester,RW,"1,80",-
+,Reece Miller,Striker,Centre-Forward,"Oct 3, 2000 ",23,['England'],England,Aldershot,,"1,67",-
+,Reon Potts,Striker,Centre-Forward,"Sep 24, 2000 ",23,['England'],England,Sheffield,,"1,82",-
+,Henry Landers,Striker,Centre-Forward,"May 20, 2000 ",23,['England'],England,Oxford,,"1,75",-
+9,Mickel Platt,Striker,Centre-Forward,"Jan 5, 2000 ",24,"['England', 'Jamaica']",England,London,SS   LW,"1,86",-
+,Harry Draper,Striker,Centre-Forward,"Oct 5, 2000 ",23,['England'],England,Stevenage,,"1,91",-
+,Connor Heath,Striker,Centre-Forward,"Dec 11, 2000 ",23,['England'],England,Crewe,LW   RW,"1,88",-
+,Jake Scrimshaw,Striker,Centre-Forward,"Sep 13, 2000 ",23,['England'],England,Isle of Wight,LW   RW,"1,76",-
+,George Alexander,Striker,Centre-Forward,"Oct 14, 2000 ",23,['England'],England,London,RW   LW,"1,80",-
+,Harry Warwick,Striker,Centre-Forward,"May 9, 2000 ",23,['England'],England,Bath,,"1,76",-
+,Roman Campbell,Striker,Centre-Forward,"May 26, 2000 ",23,['England'],England,Gravesend,,"1,85",-
+,Rieves Boocock,Striker,Centre-Forward,"Sep 22, 2000 ",23,['England'],England,Sheffield,,"1,84",-
+41,Levi Amantchi,Striker,Centre-Forward,"Nov 26, 2000 ",23,['England'],England,London,,"1,93",-
+,Dylan Parker,Striker,Centre-Forward,"Sep 7, 2000 ",23,['England'],England,Stratford-upon-Avon,,"1,78",-
+,Sol Pryce,Striker,Centre-Forward,"Jan 30, 2000 ",24,['England'],England,Chippenham,,,-
+,Max Batchelor,Striker,Centre-Forward,"May 10, 2000 ",23,"['England', 'New Zealand']",England,London,,,-
+,Bradley Lethbridge,Striker,Centre-Forward,"Oct 22, 2000 ",23,['England'],England,Gosport,,,-
+,Dylan Asonganyi,Striker,Centre-Forward,"Dec 10, 2000 ",23,"['England', 'Nigeria']",England,Sheffield,,"1,72",-
+,Shae Hutchinson,Striker,Centre-Forward,"Oct 9, 2000 ",23,['England'],England,London,SS   AM,"1,76",-
+,Tyrone Lewthwaite,Striker,Centre-Forward,"Dec 18, 2000 ",23,"['Northern Ireland', 'England']",England,,,"1,82",-
+,Connor Slack,Striker,Centre-Forward,"Dec 27, 2000 ",23,['England'],England,Durham,RW,,-
+,Dylan Bollard,Striker,Centre-Forward,"Oct 5, 2000 ",23,"['Wales', 'England']",England,Leicester,RW   LW,,-
+,Mitchel Candlin,Striker,Centre-Forward,"Jun 8, 2000 ",23,['England'],England,Stafford,,"1,83",-
+10,Rumarn Burrell,Striker,Centre-Forward,"Dec 16, 2000 ",23,['England'],England,Birmingham,,"1,84",-
+,Myron Gibbons,Striker,Centre-Forward,"Nov 15, 2000 ",23,['England'],England,Doncaster,,"1,69",-
+,Remaye Campbell,Striker,Centre-Forward,"Jul 7, 2000 ",23,['England'],England,Nottingham,,"1,85",-
+,Bailey Whalley,Striker,Centre-Forward,"May 7, 2000 ",23,['England'],England,Manchester,,,-
+,Stanley Asomugha,Striker,Centre-Forward,"Dec 21, 2000 ",23,"['England', 'Nigeria']",England,Warndon,RW   LW,,-
+,Ezra Forde,Striker,Centre-Forward,"Oct 3, 2000 ",23,['England'],England,Milton Keynes,,,-
+,Benjy Aghadiuno,Striker,Centre-Forward,"Jan 30, 2000 ",24,"['England', 'Nigeria']",England,London,,"1,91",-
+11,James Morris,Striker,Centre-Forward,"Jan 2, 2000 ",24,['England'],England,Doncaster,,"1,83",-
+,Shaquille Wynter-Coles,Striker,Centre-Forward,"Oct 10, 2000 ",23,"['England', 'Wales']",England,Bath,,"1,75",-
+,Timmy Abraham,Striker,Centre-Forward,"Dec 28, 2000 ",23,"['England', 'Nigeria']",England,London,,"1,85",-
+,Connor Simpson,Striker,Centre-Forward,"Jan 24, 2000 ",24,['England'],England,Guisborough,,"1,96",-
+27,Sean Adarkwa,Striker,Centre-Forward,"Oct 11, 2000 ",23,"['England', 'Ghana']",England,London,,"1,80",-
+,Kyle Hawley,Striker,Centre-Forward,"May 11, 2000 ",23,['England'],England,Oldham,,"1,86",-
+,Mason Birch,Striker,Centre-Forward,"Jan 8, 2000 ",24,['England'],England,Wolverhampton,AM,"1,74",-
+,Jordan Greenidge,Striker,Centre-Forward,"Jan 5, 2000 ",24,['England'],England,London,,"1,93",-
+9,Rob Harker,Striker,Centre-Forward,"Mar 6, 2000 ",24,['England'],England,Gargrave,,"1,88",-
+,Reuben Mudd,Striker,Centre-Forward,"Nov 2, 2000 ",23,['England'],England,Norwich,,"1,83",-
+9,Great Evans,Striker,Centre-Forward,"Oct 25, 2000 ",23,['England'],England,London,,,-
+,Cameron Thompson,Striker,Centre-Forward,"Feb 21, 2000 ",24,['England'],England,London,SS   AM,"1,70",-
+20,Reo Griffiths,Striker,Centre-Forward,"Jun 27, 2000 ",23,['England'],England,London,,"1,80",-
+,Jamie Soule,Striker,Centre-Forward,"Nov 26, 2000 ",23,['England'],England,Cheltenham,,"1,83",-
+9,Armando Broja,Striker,Centre-Forward,"Sep 10, 2001 ",22,"['Albania', 'England']",England,Slough,,"1,91",€28.00m
+9,Ellis Simms,Striker,Centre-Forward,"Jan 5, 2001 ",23,['England'],England,Oldham,,"1,91",€6.00m
+16,Tyler Burey,Striker,Centre-Forward,"Jan 9, 2001 ",23,"['England', 'Jamaica']",England,London,LW   RW,"1,87",€600k
+9,Kyle Joseph,Striker,Centre-Forward,"Sep 10, 2001 ",22,"['Scotland', 'England']",England,London,,"1,86",€425k
+23,Charlie Kelman,Striker,Centre-Forward,"Nov 2, 2001 ",22,"['United States', 'England']",England,Basildon,,"1,80",€300k
+16,Jack Stretton,Striker,Centre-Forward,"Sep 6, 2001 ",22,"['Scotland', 'England']",England,Burton-upon-Trent,,"1,83",€300k
+9,Paul Glatzel,Striker,Centre-Forward,"Feb 20, 2001 ",23,"['Germany', 'England']",England,Liverpool,,"1,74",€250k
+99,Ryan Edmondson,Striker,Centre-Forward,"May 20, 2001 ",22,['England'],England,York,,"1,88",€225k
+,Bobby Duncan,Striker,Centre-Forward,"Jun 26, 2001 ",22,['England'],England,Whiston,,"1,76",€200k
+14,Dapo Mebude,Striker,Centre-Forward,"Jul 29, 2001 ",22,"['Scotland', 'Nigeria']",England,London,SS   LW,"1,74",€150k
+12,Charlie Jolley,Striker,Centre-Forward,"Jan 13, 2001 ",23,['England'],England,Liverpool,,"1,77",€100k
+,Imran Kayani,Striker,Centre-Forward,"Dec 24, 2001 ",22,"['Pakistan', 'England']",England,Woking,RW   LW,"1,83",€75k
+,Tom Hewlett,Striker,Centre-Forward,"Oct 17, 2001 ",22,['England'],England,Birmingham,,"1,75",€50k
+10,Cameron Archer,Striker,Centre-Forward,"Dec 9, 2001 ",22,"['England', 'Jamaica']",England,Walsall,SS   RW,"1,75",€15.00m
+9,Kion Etete,Striker,Centre-Forward,"Nov 28, 2001 ",22,"['England', 'Nigeria']",England,Derby,,"1,94",€1.20m
+19,Tyreece John-Jules,Striker,Centre-Forward,"Feb 14, 2001 ",23,"['England', 'Dominica']",England,London,SS   AM,"1,83",€500k
+11,Robert Street,Striker,Centre-Forward,"Sep 26, 2001 ",22,['England'],England,Oxford,,"1,89",€300k
+28,Jacob Wakeling,Striker,Centre-Forward,"Sep 15, 2001 ",22,['England'],England,Redditch,,,€300k
+28,Jake Young,Striker,Centre-Forward,"Jul 22, 2001 ",22,['England'],England,Huddersfield,LW   RW,"1,86",€275k
+9,Josh Andrews,Striker,Centre-Forward,"Oct 16, 2001 ",22,['England'],England,Solihull,,"1,96",€225k
+36,Jackson Conway,Striker,Centre-Forward,"Dec 3, 2001 ",22,"['United States', 'England']",England,Leeds,,"1,88",€200k
+11,Douglas James-Taylor,Striker,Centre-Forward,"Nov 18, 2001 ",22,"['England', 'Jamaica']",England,London,,"1,86",€150k
+19,Jake Bickerstaff,Striker,Centre-Forward,"Sep 11, 2001 ",22,"['Wales', 'England']",England,Liverpool,RW,,€125k
+27,Jay Bird,Striker,Centre-Forward,"May 6, 2001 ",22,['England'],England,Milton Keynes,,"1,86",€100k
+19,David Fisher,Striker,Centre-Forward,"Dec 9, 2001 ",22,"['England', 'Czech Republic']",England,Reigate,LW   RW,"1,78",€75k
+,Jordan Adeyemi,Striker,Centre-Forward,"Oct 25, 2001 ",22,['England'],England,London,,"1,76",-
+,Zidan Sutherland,Striker,Centre-Forward,"Dec 26, 2001 ",22,['England'],England,Birmingham,,"1,67",-
+,Sam Fowles,Striker,Centre-Forward,"Sep 15, 2001 ",22,['England'],England,Chester,,,-
+,Alex Taylor,Striker,Centre-Forward,"Mar 10, 2001 ",23,['England'],England,Sutton,,,-
+,Mikel Bregu,Striker,Centre-Forward,"Jan 24, 2001 ",23,['Albania'],England,,,,-
+,Ezekiel Coker,Striker,Centre-Forward,"Dec 11, 2001 ",22,"['England', 'Nigeria']",England,London,LW   RW,"1,86",-
+11,Lewis Salmon,Striker,Centre-Forward,"Nov 2, 2001 ",22,['England'],England,Stoke-on-Trent,,"1,75",-
+,Riley O'Sullivan,Striker,Centre-Forward,"Apr 7, 2001 ",22,['England'],England,Coventry,,,-
+14,Micah Obiero,Striker,Centre-Forward,"Feb 22, 2001 ",23,"['Kenya', 'England']",England,London,,"1,77",-
+,Tai Jones,Striker,Centre-Forward,"Jan 1, 2001 ",23,"['Wales', 'England']",England,,,"1,74",-
+,DJ Sturridge,Striker,Centre-Forward,"Oct 1, 2001 ",22,['England'],England,,,"1,76",-
+,Rubin Wilson,Striker,Centre-Forward,"Oct 8, 2001 ",22,['England'],England,Bodmin,,"1,82",-
+,Louis Britton,Striker,Centre-Forward,"Mar 17, 2001 ",23,['England'],England,Bristol,,"1,92",-
+,Miracle Okafor,Striker,Centre-Forward,"May 6, 2001 ",22,"['England', 'Nigeria']",England,Birmingham,LW,"1,88",-
+,Erald Desa,Striker,Centre-Forward,"Nov 29, 2001 ",22,"['England', 'Albania']",England,,RW,"1,75",-
+,Ben MacIver-Redwood,Striker,Centre-Forward,"Apr 17, 2001 ",22,['England'],England,Cornwall,,,-
+,Owen Bennett,Striker,Centre-Forward,"Sep 3, 2001 ",22,['England'],England,Birmingham,,,-
+,Jamie Clark,Striker,Centre-Forward,"Nov 7, 2001 ",22,['England'],England,Newcastle upon Tyne,RW,,-
+,Oliver Putnam,Striker,Centre-Forward,"Sep 1, 2001 ",22,['England'],England,Biddulph,RW   LW,"1,83",-
+,Temi Babalola,Striker,Centre-Forward,"Mar 30, 2001 ",23,['England'],England,South Ockenden,,"1,93",-
+,Destiny Oladipo,Striker,Centre-Forward,"Oct 14, 2001 ",22,"['Nigeria', 'England']",England,London,LW   RW,"1,94",-
+,Lewis Wilson,Striker,Centre-Forward,"Aug 18, 2001 ",22,['England'],England,Exeter,,"1,83",-
+,Jake Burton,Striker,Centre-Forward,"Nov 15, 2001 ",22,['England'],England,Liverpool,,"1,77",-
+,Cameron Gascoigne,Striker,Centre-Forward,"Feb 9, 2001 ",23,['England'],England,Dunston,AM,"1,74",-
+22,Matt Rush,Striker,Centre-Forward,"Mar 11, 2001 ",23,['England'],England,Wickford,,"1,77",-
+,Kyle Lake-Bryan,Striker,Centre-Forward,"Oct 23, 2001 ",22,"['Anguilla', 'England']",England,London,,,-
+,Bailey Thompson,Striker,Centre-Forward,"Jun 7, 2001 ",22,['England'],England,Bury,,"1,94",-
+,Kareem Isiaka,Striker,Centre-Forward,"Mar 5, 2001 ",23,"['England', 'Nigeria']",England,London,RW   LW,"1,86",-
+,Owen Windsor,Striker,Centre-Forward,"Sep 17, 2001 ",22,['England'],England,,RW,"1,81",-
+,Tyreece Onyeka,Striker,Centre-Forward,"Sep 1, 2001 ",22,"['England', 'Nigeria']",England,Stoke-on-Trent,,"1,82",-
+,Alfie Cerulli,Striker,Centre-Forward,"Feb 21, 2001 ",23,['England'],England,Harold Wood,,"1,83",-
+,Devon Arnold,Striker,Centre-Forward,"Nov 24, 2001 ",22,['England'],England,Winchester,,"1,80",-
+,Alfie Stanley,Striker,Centre-Forward,"Jan 1, 2001 ",23,['England'],England,Portsmouth,,"1,88",-
+,Liam Smyth,Striker,Centre-Forward,"Sep 6, 2001 ",22,"['Northern Ireland', 'England']",England,Watford,LW   RW,"1,76",-
+,Kielen Adams,Striker,Centre-Forward,"May 11, 2001 ",22,['England'],England,Huddersfield,,,-
+,Luke Rawson,Striker,Centre-Forward,"Mar 25, 2001 ",23,['England'],England,Chesterfield,RW,"1,88",-
+,Emil Jääskeläinen,Striker,Centre-Forward,"Mar 16, 2001 ",23,"['Finland', 'England']",England,Bolton,,,-
+,Keyendrah Simmonds,Striker,Centre-Forward,"May 31, 2001 ",22,['England'],England,Manchester,SS   LW,,-
+,De'Marlio Brown-Sterling,Striker,Centre-Forward,"Sep 12, 2001 ",22,['England'],England,Manchester,,"1,83",-
+,Tom Chalaye,Striker,Centre-Forward,"Dec 1, 2001 ",22,['England'],England,Worthing,,"1,81",-
+,Russell Currie,Striker,Centre-Forward,"May 2, 2001 ",22,"['Scotland', 'England']",England,Manchester,,"1,94",-
+,Devonte Simms,Striker,Centre-Forward,"Jan 1, 2001 ",23,['England'],England,,,,-
+11,Jimmy Knowles,Striker,Centre-Forward,"Feb 27, 2001 ",23,['England'],England,Sutton-in-Ashfield,,"1,84",-
+,Jacob Bancroft,Striker,Centre-Forward,"Apr 9, 2001 ",22,['England'],England,Reading,,"1,85",-
+,Josh Scott,Striker,Centre-Forward,"Sep 20, 2001 ",22,['England'],England,Newcastle upon Tyne,,"1,78",-
+,Aaron Basford,Striker,Centre-Forward,"Nov 21, 2001 ",22,['England'],England,Cheltenham,,"1,91",-
+,Alex McSkeane,Striker,Centre-Forward,"Oct 28, 2001 ",22,['England'],England,Birmingham,,,-
+,Javaun Splatt,Striker,Centre-Forward,"Feb 18, 2001 ",23,"['England', 'Jamaica']",England,London,RW   LW,"1,75",-
+,George Nunn,Striker,Centre-Forward,"Nov 23, 2001 ",22,"['Ireland', 'England']",England,Crewe,LW,,-
+,Veron Parkes,Striker,Centre-Forward,"Sep 28, 2001 ",22,"['England', 'Spain']",England,London,LW   RW,"1,76",-
+,Michael Tait,Striker,Centre-Forward,"Jan 29, 2001 ",23,['England'],England,Birmingham,LW   RW,"1,77",-
+9,Michael Fowler,Striker,Centre-Forward,"May 13, 2001 ",22,['England'],England,Lincolnshire,,"1,81",-
+17,Christian Norton,Striker,Centre-Forward,"May 21, 2001 ",22,"['Wales', 'England']",England,London,LW,,-
+,Alfie Matthews,Striker,Centre-Forward,"Sep 30, 2001 ",22,['England'],England,London,SS   LW,"1,75",-
+33,Tommy Stevens,Striker,Centre-Forward,"Mar 15, 2001 ",23,"['Thailand', 'England']",England,Nottingham,SS   AM,"1,85",-
+,Jake Ellis,Striker,Centre-Forward,"Mar 14, 2001 ",23,"['Ireland', 'England']",England,Huntington,,,-
+,Henri Ogunby,Striker,Centre-Forward,"Jan 21, 2001 ",23,"['England', 'Nigeria']",England,Bolton,LW   RW,,-
+23,Harrison Myring,Striker,Centre-Forward,"Jun 24, 2001 ",22,['England'],England,Leicester,RW   LW,,-
+,Connor Tomlinson,Striker,Centre-Forward,"Feb 12, 2001 ",23,['England'],England,Luton,,"1,75",-
+28,Danny Cashman,Striker,Centre-Forward,"Jan 8, 2001 ",23,['England'],England,Crawley,SS,,-
+30,Joe Gelhardt,Striker,Centre-Forward,"May 4, 2002 ",21,['England'],England,Liverpool,SS,"1,79",€5.00m
+28,Jay Stansfield,Striker,Centre-Forward,"Nov 24, 2002 ",21,['England'],England,Tiverton,SS,"1,87",€3.20m
+22,Andri Gudjohnsen,Striker,Centre-Forward,"Jan 29, 2002 ",22,['Iceland'],England,London,,"1,88",€1.50m
+19,Josh Coburn,Striker,Centre-Forward,"Dec 6, 2002 ",21,['England'],England,Bedale,,"1,93",€1.00m
+15,Christian Saydee,Striker,Centre-Forward,"May 10, 2002 ",21,"['England', 'Liberia']",England,London,,"1,84",€400k
+25,Will Goodwin,Striker,Centre-Forward,"May 7, 2002 ",21,['England'],England,Tarporley,,"1,93",€275k
+16,Tyreece Simpson,Striker,Centre-Forward,"Feb 7, 2002 ",22,['England'],England,Ipswich,,"1,86",€250k
+,Thomas Dickson-Peters,Striker,Centre-Forward,"Sep 16, 2002 ",21,"['Scotland', 'England']",England,Maidenhead,SS,"1,88",€125k
+32,Jovan Malcolm,Striker,Centre-Forward,"Dec 10, 2002 ",21,['England'],England,,RW   LW,,€100k
+,Peter Silcock,Striker,Centre-Forward,"Nov 10, 2002 ",21,['England'],England,Liverpool,,,-
+,Ade Francis,Striker,Centre-Forward,"Dec 7, 2002 ",21,['England'],England,Birmingham,RW   LW,"1,78",-
+22,Harry Scarborough,Striker,Centre-Forward,"Nov 6, 2002 ",21,['England'],England,Wigan,,"1,90",-
+,Gerald Sithole,Striker,Centre-Forward,"Dec 28, 2002 ",21,"['England', 'Zimbabwe']",England,Ashford,LW   RW,"1,80",-
+28,Thomas Cannon,Striker,Centre-Forward,"Dec 28, 2002 ",21,"['Ireland', 'England']",England,Aintree,,"1,80",€4.50m
+15,Tommy Conway,Striker,Centre-Forward,"Aug 6, 2002 ",21,"['Scotland', 'England']",England,Taunton,,"1,85",€2.50m
+9,Luke Plange,Striker,Centre-Forward,"Nov 4, 2002 ",21,['England'],England,Kingston upon Thames,,"1,88",€1.20m
+22,Kian Harratt,Striker,Centre-Forward,"Jun 21, 2002 ",21,['England'],England,Pontefract,,"1,85",€500k
+9,Joe Taylor,Striker,Centre-Forward,"Nov 18, 2002 ",21,"['Wales', 'England']",England,Peterborough,,,€350k
+16,Zach Robinson,Striker,Centre-Forward,"Jun 11, 2002 ",21,['England'],England,London,,,€275k
+17,Layton Stewart,Striker,Centre-Forward,"Sep 3, 2002 ",21,['England'],England,Liverpool,,"1,80",€250k
+14,Aribim Pepple,Striker,Centre-Forward,"Dec 25, 2002 ",21,"['Canada', 'England']",England,Kettering,,"1,85",€100k
+,Jaheim Whyte,Striker,Centre-Forward,"Sep 14, 2002 ",21,['England'],England,London,,"1,88",-
+,Jack Dillingham,Striker,Centre-Forward,"Apr 7, 2002 ",21,['England'],England,Chesterfield,AM,"1,73",-
+,Luke Jones,Striker,Centre-Forward,"Sep 12, 2002 ",21,['England'],England,York,,,-
+,Jeanny Leblanc-Akpo,Striker,Centre-Forward,"Feb 3, 2002 ",22,['England'],England,Manchester,LW,,-
+,Sam Evans,Striker,Centre-Forward,"Oct 1, 2002 ",21,"['England', 'Wales']",England,Chertsey,LW   RW,,-
+,Scott Crocker,Striker,Centre-Forward,"Nov 13, 2002 ",21,['England'],England,Ivybridge,,,-
+10,Jake Hutchinson,Striker,Centre-Forward,"May 8, 2002 ",21,['England'],England,Eastbourne,,,-
+,Coree Wilson,Striker,Centre-Forward,"Oct 19, 2002 ",21,['England'],England,,,,-
+,Hamzad Kargbo,Striker,Centre-Forward,"Jan 20, 2002 ",22,"['England', 'Sierra Leone']",England,,,,-
+17,Harry Jessop,Striker,Centre-Forward,"Aug 1, 2002 ",21,['England'],England,Chesterfield,,"1,80",-
+,Max McMillan,Striker,Centre-Forward,"Oct 3, 2002 ",21,"['England', 'South Africa']",England,York,,"1,82",-
+,Ethan Johnston,Striker,Centre-Forward,"Jun 13, 2002 ",21,['England'],England,Kettering,,"1,84",-
+,Callum Ebanks,Striker,Centre-Forward,"Oct 8, 2002 ",21,"['England', 'Jamaica']",England,Birmingham,,"1,86",-
+,Adan George,Striker,Centre-Forward,"Jul 30, 2002 ",21,['England'],England,Birmingham,,"1,79",-
+22,Bradley Holmes,Striker,Centre-Forward,"Dec 16, 2002 ",21,['England'],England,Blackpool,SS,"1,86",-
+,Michael Williamson,Striker,Centre-Forward,"Jan 31, 2002 ",22,['Scotland'],England,Carlisle,,"1,80",-
+14,Connor Kurran-Browne,Striker,Centre-Forward,"Jan 26, 2002 ",22,"['Guyana', 'England']",England,Hemel Hempstead,,"1,83",-
+,Luke Coleman,Striker,Centre-Forward,"Jan 2, 2002 ",22,['England'],England,,,,-
+,Thomas Stagg,Striker,Centre-Forward,"Sep 9, 2002 ",21,['England'],England,Harlow,LW,"1,87",-
+8,Hayden Campbell,Striker,Centre-Forward,"Jun 3, 2002 ",21,['England'],England,Stafford,,"1,79",-
+,Nathan Caine,Striker,Centre-Forward,"Nov 20, 2002 ",21,['England'],England,Stockport,RW,"1,82",-
+,Samuel Twist,Striker,Centre-Forward,"Apr 5, 2002 ",21,['England'],England,,,"1,82",-
+36,Will Jarvis,Striker,Centre-Forward,"Dec 17, 2002 ",21,['England'],England,York,RW   LW,"1,85",-
+,Jack Watson,Striker,Centre-Forward,"Jul 4, 2002 ",21,['England'],England,Doncaster,,,-
+,Harry Parsons,Striker,Centre-Forward,"Oct 9, 2002 ",21,['England'],England,Swindon,,"1,85",-
+,Kieran Phillips,Striker,Centre-Forward,"Aug 13, 2002 ",21,['England'],England,Bristol,,"1,75",-
+21,Joe McGlynn,Striker,Centre-Forward,"Sep 27, 2002 ",21,"['Scotland', 'England']",England,Warrington,,,-
+,Nathan Odokonyero,Striker,Centre-Forward,"Dec 22, 2002 ",21,"['England', 'Uganda']",England,Hove,LW   RW,"1,86",-
+,Euan Pollock,Striker,Centre-Forward,"Oct 3, 2002 ",21,['England'],England,Dorchester,,"1,73",-
+35,Dylan Stephenson,Striker,Centre-Forward,"Dec 10, 2002 ",21,['England'],England,Ashington,RW,"1,82",-
+,Nahum Melvin-Lambert,Striker,Centre-Forward,"Oct 21, 2002 ",21,"['St. Lucia', 'England']",England,London,,"1,85",-
+,Elliott Sartorius,Striker,Centre-Forward,"Jul 29, 2002 ",21,"['England', 'Greece']",England,London,RW   AM,"1,78",-
+,Bailey Rowe,Striker,Centre-Forward,"Mar 5, 2002 ",22,"['British Virgin Islands', 'England']",England,Weymouth,,,-
+,Brandon Lonsdale,Striker,Centre-Forward,"Sep 3, 2002 ",21,['England'],England,Blackburn,LW   RW,,-
+,Jaden Forrester,Striker,Centre-Forward,"Sep 9, 2002 ",21,['England'],England,Wolverhampton,RW   LW,"1,86",-
+,Rob Guilfoyle,Striker,Centre-Forward,"Aug 18, 2002 ",21,['England'],England,York,,"1,74",-
+,Ruben McIntosh,Striker,Centre-Forward,"Sep 9, 2002 ",21,['England'],England,Stafford,,,-
+,Rafael García,Striker,Centre-Forward,"Oct 7, 2002 ",21,"['England', 'Spain']",England,London,,"1,75",-
+,Cole Kiernan,Striker,Centre-Forward,"Jan 3, 2002 ",22,"['Ireland', 'England']",England,Hartlepool,,,-
+,Tyrese Briscoe,Striker,Centre-Forward,"Oct 27, 2002 ",21,['England'],England,London,LW,"1,84",-
+,Fidel O'Rourke,Striker,Centre-Forward,"Feb 5, 2002 ",22,['England'],England,Liverpool,RW   LW,"1,77",-
+20,Liam Delap,Striker,Centre-Forward,"Feb 8, 2003 ",21,"['England', 'Ireland']",England,Winchester,RW,"1,86",€8.00m
+11,Mason Burstow,Striker,Centre-Forward,"Aug 4, 2003 ",20,"['England', 'Jamaica']",England,London,,"1,87",€1.80m
+20,Louie Barry,Striker,Centre-Forward,"Jun 21, 2003 ",20,"['England', 'Ireland']",England,Sutton Coldfield,LW   RW,"1,74",€800k
+47,Khayon Edwards,Striker,Centre-Forward,"Sep 12, 2003 ",20,"['Jamaica', 'England']",England,London,AM,"1,80",€400k
+20,Ademola Ola-Adebomi,Striker,Centre-Forward,"Sep 3, 2003 ",20,"['England', 'Nigeria']",England,London,LW,"1,95",€250k
+44,Joe Hugill,Striker,Centre-Forward,"Oct 19, 2003 ",20,['England'],England,Durham,,"1,88",€200k
+,Jahmari Clarke,Striker,Centre-Forward,"Oct 2, 2003 ",20,"['Jamaica', 'England']",England,,,"1,91",€200k
+23,Brad Young,Striker,Centre-Forward,"Jan 6, 2003 ",21,['England'],England,Solihull,,"1,85",€200k
+34,Louie Marsh,Striker,Centre-Forward,"Oct 16, 2003 ",20,['England'],England,Sheffield,SS,"1,86",€100k
+18,Malik Mothersille,Striker,Centre-Forward,"Oct 23, 2003 ",20,"['England', 'Jamaica']",England,London,LW   RW,,€100k
+44,Joey Dawson,Striker,Centre-Forward,"May 30, 2003 ",20,['England'],England,Scunthorpe,,,€100k
+29,Ciaran McGuckin,Striker,Centre-Forward,"Dec 30, 2003 ",20,['Northern Ireland'],England,Leeds,,"1,88",€100k
+25,Josh Stones,Striker,Centre-Forward,"Nov 12, 2003 ",20,['England'],England,Bradford,,"1,81",€75k
+18,Mika Biereth,Striker,Centre-Forward,"Feb 8, 2003 ",21,"['Denmark', 'England']",England,London,,"1,87",€3.00m
+20,Harry Leonard,Striker,Centre-Forward,"Sep 12, 2003 ",20,['England'],England,Rochdale,,"1,84",€1.00m
+25,Abu Kamara,Striker,Centre-Forward,"Jul 21, 2003 ",20,"['England', 'Sierra Leone']",England,London,LW   RW,"1,83",€600k
+26,Michael Mellon,Striker,Centre-Forward,"Dec 5, 2003 ",20,['Scotland'],England,Blackpool,,"1,85",€300k
+27,Max Woltman,Striker,Centre-Forward,"Aug 20, 2003 ",20,['England'],England,Wirral,SS,,€250k
+26,Patrick Jones,Striker,Centre-Forward,"Jun 9, 2003 ",20,['Wales'],England,Stockport,,,€200k
+38,John-Kymani Gordon,Striker,Centre-Forward,"Feb 13, 2003 ",21,"['England', 'Jamaica']",England,London,LW,"1,81",€200k
+,Charlie McNeill,Striker,Centre-Forward,"Sep 9, 2003 ",20,['England'],England,Droylsden,,"1,81",€200k
+,Tremaine Eastmond,Striker,Centre-Forward,"Aug 28, 2003 ",20,['England'],England,Oldham,SS,,€100k
+43,Tony Weston,Striker,Centre-Forward,"Sep 17, 2003 ",20,['England'],England,Liverpool,LW,"1,70",€100k
+20,Gabriel Popovic,Striker,Centre-Forward,"Jul 28, 2003 ",20,"['Australia', 'Croatia']",England,Westminster,,"1,88",€100k
+42,Nathan Butler-Oyedeji,Striker,Centre-Forward,"Jan 4, 2003 ",21,"['England', 'Nigeria']",England,London,RW   LW,"1,77",€100k
+,Sam Fishburn,Striker,Centre-Forward,"Nov 26, 2003 ",20,['England'],England,Gateshead,,"1,88",€75k
+24,Dylan Youmbi,Striker,Centre-Forward,"Dec 26, 2003 ",20,['England'],England,Leeds,,"1,87",€50k
+19,Reece Warder,Striker,Centre-Forward,"Sep 30, 2003 ",20,['England'],England,Liverpool,RW,"1,75",€10k
+,Andry Demira,Striker,Centre-Forward,"Mar 6, 2003 ",21,['England'],England,Poole,,,-
+,Oliver Bray,Striker,Centre-Forward,"Apr 1, 2003 ",21,['England'],England,Rochdale,LW   RW,"1,90",-
+,Arnold Matshazi,Striker,Centre-Forward,"Nov 2, 2003 ",20,"['England', 'Zimbabwe']",England,Milton Keynes,,"1,74",-
+,Jamal Salawu,Striker,Centre-Forward,"Dec 6, 2003 ",20,['England'],England,Bristol,,,-
+,Finlay Lovatt,Striker,Centre-Forward,"Feb 17, 2003 ",21,['England'],England,,,"1,78",-
+,Rhys Shirley,Striker,Centre-Forward,"Jan 18, 2003 ",21,['England'],England,Gunnislake,,"1,77",-
+,Jerome Greaves,Striker,Centre-Forward,"Mar 22, 2003 ",21,['England'],England,Pontefract,,"1,94",-
+,Ethan Kenny,Striker,Centre-Forward,"Feb 26, 2003 ",21,['England'],England,Barnsley,,"1,75",-
+,Jamie Timlin,Striker,Centre-Forward,"Sep 16, 2003 ",20,['England'],England,Liverpool,,"1,72",-
+60,Tai Sodje,Striker,Centre-Forward,"Sep 20, 2003 ",20,"['England', 'Nigeria']",England,Sheffield,,"1,79",-
+,Quaine Bartley,Striker,Centre-Forward,"Oct 28, 2003 ",20,"['England', 'Jamaica']",England,Whittington,,,€75k
+,Daniel Nkrumah,Striker,Centre-Forward,"Nov 5, 2003 ",20,"['England', 'Ghana']",England,London,,"1,75",€50k
+,Dominic Johnson-Fisher,Striker,Centre-Forward,"Jul 30, 2003 ",20,['England'],England,London,,,-
+,Kyah Cahill,Striker,Centre-Forward,"Mar 13, 2003 ",21,"['Samoa', 'Australia']",England,London,,"1,78",-
+,Max Fisher,Striker,Centre-Forward,"Oct 3, 2003 ",20,['England'],England,Widnes,,"1,84",-
+,David Kawa,Striker,Centre-Forward,"Dec 16, 2003 ",20,['England'],England,London,LW   RW,,-
+,Jack Connor,Striker,Centre-Forward,"Sep 30, 2003 ",20,['England'],England,Northampton,,"1,90",-
+,Max McCarthy,Striker,Centre-Forward,"Aug 28, 2003 ",20,['England'],England,Crewe,,"1,81",-
+,Cameron Ferguson,Striker,Centre-Forward,"Mar 24, 2003 ",21,"['Scotland', 'England']",England,Liverpool,,,-
+,Harry Gardiner,Striker,Centre-Forward,"Sep 25, 2003 ",20,['England'],England,Alnwick,AM   LW,"1,90",-
+,Josh Waite,Striker,Centre-Forward,"Dec 24, 2003 ",20,['England'],England,Wednesbury,RW,"1,75",-
+,Luke Jackson,Striker,Centre-Forward,"Dec 2, 2003 ",20,['England'],England,,,"1,72",-
+,Alex Wilkinson,Striker,Centre-Forward,"Aug 5, 2003 ",20,['England'],England,Leeds,AM,,-
+22,Billy Vigar,Striker,Centre-Forward,"Oct 22, 2003 ",20,['England'],England,Worthing,RW   RM,,-
+,Dewain Sewell,Striker,Centre-Forward,"Nov 9, 2003 ",20,['England'],England,Birmingham,LW,"1,78",-
+,Prince Henry,Striker,Centre-Forward,"May 23, 2003 ",20,['England'],England,Bristol,,"1,88",-
+,Michael Ndiweni,Striker,Centre-Forward,"Dec 2, 2003 ",20,"['England', 'Zimbabwe']",England,Throckley,,,-
+,Shane Temple,Striker,Centre-Forward,"Jan 5, 2003 ",21,['England'],England,Cambridge,,,-
+38,Oliver Sanderson,Striker,Centre-Forward,"Dec 30, 2003 ",20,['England'],England,,SS,"1,83",-
+,Troy Chiabi,Striker,Centre-Forward,"May 2, 2003 ",20,"['Zambia', 'England']",England,London,SS,"1,82",-
+7,Siyabonga Ligendza,Striker,Centre-Forward,"Jun 5, 2003 ",20,"['Wales', 'South Africa']",England,Leicester,,"1,77",-
+19,Jayden Wareham,Striker,Centre-Forward,"May 13, 2003 ",20,['England'],England,Ascot,,"1,77",-
+70,Katia Kouyate,Striker,Centre-Forward,"Sep 9, 2003 ",20,"['England', ""Cote d'Ivoire""]",England,Manchester,RW   LW,"1,83",-
+25,Andre Edionhon,Striker,Centre-Forward,"May 20, 2003 ",20,"['England', 'Portugal']",England,London,LW   RW,"1,87",-
+,Oluwabunmi Babajide,Striker,Centre-Forward,"Jun 23, 2003 ",20,"['England', 'Nigeria']",England,London,,"1,87",-
+,Khavarn Williams,Striker,Centre-Forward,"Mar 12, 2003 ",21,"['England', 'Jamaica']",England,London,,"1,76",-
+44,Dane Scarlett,Striker,Centre-Forward,"Mar 24, 2004 ",20,"['England', 'Jamaica']",England,London,,"1,80",€1.80m
+45,Divin Mubama,Striker,Centre-Forward,"Oct 25, 2004 ",19,"['England', 'DR Congo']",England,London,,"1,83",€1.00m
+9,Samson Tovide,Striker,Centre-Forward,"Jan 4, 2004 ",20,"['England', 'Nigeria']",England,London,RW   LW,,€450k
+18,Max Dean,Striker,Centre-Forward,"Feb 21, 2004 ",20,['England'],England,Ormskirk,RW   LW,"1,78",€250k
+,Gatlin O'Donkor,Striker,Centre-Forward,"Oct 14, 2004 ",19,"['England', 'Ghana']",England,Reading,,,€200k
+19,Sonny Cox,Striker,Centre-Forward,"Oct 11, 2004 ",19,['England'],England,Exeter,,"1,78",€100k
+,Harvey Greenslade,Striker,Centre-Forward,"Apr 8, 2004 ",19,['England'],England,Bristol,LW   RW,"1,83",€50k
+,Adrien Thibaut,Striker,Centre-Forward,"Jul 11, 2004 ",19,"['Ireland', 'England']",England,Slough,AM,"1,80",-
+,Seth Chambers,Striker,Centre-Forward,"Oct 21, 2004 ",19,['England'],England,,,"1,86",-
+,Nic Bollado,Striker,Centre-Forward,"Oct 18, 2004 ",19,['England'],England,North Shields,,"1,74",-
+,Omar Eisa,Striker,Centre-Forward,"May 21, 2004 ",19,"['England', 'Sudan']",England,London,,"1,76",-
+,Eden Page,Striker,Centre-Forward,"Sep 19, 2004 ",19,['England'],England,Sunderland,,,-
+,Kenny Ndefo,Striker,Centre-Forward,"Sep 29, 2004 ",19,['England'],England,Northampton,,"1,79",-
+16,Sonny Perkins,Striker,Centre-Forward,"Feb 10, 2004 ",20,"['England', 'Ireland']",England,London,LW   RW,"1,89",€1.00m
+32,Antwoine Hackford,Striker,Centre-Forward,"Mar 20, 2004 ",20,"['England', 'Trinidad and Tobago']",England,Sheffield,,"1,77",€500k
+34,Freddie Draper,Striker,Centre-Forward,"Jul 28, 2004 ",19,['England'],England,,,"1,81",€275k
+52,Jude Soonsup-Bell,Striker,Centre-Forward,"Jan 10, 2004 ",20,"['England', 'Thailand']",England,Chippenham,RW   LW,"1,82",€250k
+30,Seb Palmer-Houlden,Striker,Centre-Forward,"May 12, 2004 ",19,['England'],England,Bristol,,,€125k
+,Sonny Fish,Striker,Centre-Forward,"Jan 9, 2004 ",20,"['Wales', 'England']",England,London,,"1,87",€50k
+,Thomas Vonk,Striker,Centre-Forward,"Oct 6, 2004 ",19,"['Ireland', 'Netherlands']",England,London,,,-
+,Joe Dixon,Striker,Centre-Forward,"Jul 22, 2004 ",19,['England'],England,Stockton-on-Tees,,,-
+,Callum Knowles,Striker,Centre-Forward,"Jan 6, 2004 ",20,['England'],England,Priorslee,,"1,82",-
+,Josh Beeson,Striker,Centre-Forward,"Apr 2, 2004 ",20,['England'],England,Warwick,,,-
+59,Jack Grieves,Striker,Centre-Forward,"Dec 5, 2004 ",19,['England'],England,Watford,,,-
+,Jakub Hebda,Striker,Centre-Forward,"Mar 11, 2004 ",20,"['England', 'Poland']",England,Leeds,,"1,71",-
+,Jim Simms,Striker,Centre-Forward,"Jan 8, 2004 ",20,['England'],England,Manchester,,"1,79",-
+,Troy Smikle-James,Striker,Centre-Forward,"Nov 15, 2004 ",19,['England'],England,Birmingham,LW,"1,78",-
+70,Jaden Williams,Striker,Centre-Forward,"Sep 6, 2004 ",19,['England'],England,London,,,-
+66,Louis Flower,Striker,Centre-Forward,"Oct 6, 2004 ",19,"['England', 'Nigeria']",England,Cambridge,RW   LW,,-
+69,Manni Norkett,Striker,Centre-Forward,"Oct 30, 2004 ",19,['England'],England,Nottingham,,,-
+20,Justin Obikwu,Striker,Centre-Forward,"May 6, 2004 ",19,"['Trinidad and Tobago', 'England']",England,London,,"1,94",-
+,Louie Evans,Striker,Centre-Forward,"Sep 13, 2004 ",19,['England'],England,Stockton-on-Tees,,"1,83",-
+29,Tom Leahy,Striker,Centre-Forward,"Mar 31, 2004 ",20,['England'],England,Croydon,LW   RW,"1,81",-
+,Jaylan Wildbore,Striker,Centre-Forward,"Jul 4, 2004 ",19,['England'],England,Nottingham,SS   RW,"1,84",-
+,Justin Iwobi,Striker,Centre-Forward,"Dec 9, 2004 ",19,['England'],England,Manchester,,"1,93",-
+,Joe Smyth-Ferguson,Striker,Centre-Forward,"Jul 21, 2004 ",19,['England'],England,Southport,,,-
+,Damani Hunter,Striker,Centre-Forward,"Apr 23, 2004 ",19,"['England', 'Jamaica']",England,London,,"1,68",-
+,George Chmiel,Striker,Centre-Forward,"Sep 28, 2004 ",19,"['Poland', 'England']",England,Manchester,SS   LW,"1,78",-
+,Dan Gifford,Striker,Centre-Forward,"Jan 24, 2004 ",20,['England'],England,Portsmouth,,,-
+65,Will Dickson,Striker,Centre-Forward,"Nov 25, 2004 ",19,['England'],England,Liverpool,SS,,-
+,Tommy-Lee Higgs,Striker,Centre-Forward,"Oct 11, 2004 ",19,['England'],England,Portsmouth,,"1,76",-
+43,Junior Dixon,Striker,Centre-Forward,"Oct 24, 2004 ",19,['England'],England,London,,"1,86",-
+,Paris Lock,Striker,Centre-Forward,"Oct 18, 2004 ",19,['England'],England,London,LW   RW,,-
+,Braedan Noon-Brandy,Striker,Centre-Forward,"Oct 21, 2004 ",19,['England'],England,Nottingham,,"1,78",-
+,Aaron Korpal,Striker,Centre-Forward,"Jun 26, 2004 ",19,['England'],England,,,"1,81",-
+,Eden Bailey,Striker,Centre-Forward,"Feb 4, 2004 ",20,['England'],England,Stoke-on-Trent,SS,"1,78",-
+88,Francis Okoronkwo,Striker,Centre-Forward,"Sep 18, 2004 ",19,"['England', 'Nigeria']",England,Blyth,LW   RW,,-
+,Alexandre Batisse,Striker,Centre-Forward,"Jan 21, 2004 ",20,['England'],England,Margate,,,-
+28,Reyes Cleary,Striker,Centre-Forward,"Apr 13, 2004 ",19,['England'],England,,RW   LW,"1,85",-
+49,Ben Andreucci,Striker,Centre-Forward,"Oct 5, 2004 ",19,"['Scotland', 'Ireland']",England,Bedford,,,-
+87,Oakley Cannonier,Striker,Centre-Forward,"May 6, 2004 ",19,['England'],England,Leeds,,,-
+,Nathan Fraser,Striker,Centre-Forward,"Feb 22, 2005 ",19,"['Ireland', 'England']",England,Wolverhampton,,"1,88",€1.00m
+62,Ronnie Stutter,Striker,Centre-Forward,"Jan 6, 2005 ",19,['England'],England,London,,,€200k
+29,Aron Sasu,Striker,Centre-Forward,"Mar 5, 2005 ",19,"['Norway', 'England']",England,London,,"1,85",€75k
+29,Joseph Gbode,Striker,Centre-Forward,"Apr 8, 2005 ",18,['England'],England,London,,"1,80",€50k
+28,Oli Wilson,Striker,Centre-Forward,"Aug 31, 2005 ",18,['England'],England,Nottingham,,"1,94",-
+,Caelan Ryan,Striker,Centre-Forward,"Oct 12, 2005 ",18,"['Thailand', 'England']",England,Upton,,"1,90",-
+,Connor Brown,Striker,Centre-Forward,"Nov 9, 2005 ",18,['England'],England,,,,-
+,Zak Abbott,Striker,Centre-Forward,"Feb 6, 2005 ",19,"['Poland', 'England']",England,Huddersfield,,"1,89",-
+35,Nathan Lowe,Striker,Centre-Forward,"Sep 18, 2005 ",18,['England'],England,Harlow,,"1,93",-
+,Jake Daniels,Striker,Centre-Forward,"Jan 8, 2005 ",19,"['England', 'United States']",England,Bispham,SS   RW,,-
+20,Daniel Adu-Adjei,Striker,Centre-Forward,"Jun 21, 2005 ",18,"['England', 'Ghana']",England,London,,,-
+73,Josh Donaldson,Striker,Centre-Forward,"Sep 25, 2005 ",18,['England'],England,Gateshead,,,-
+,Finlay Corrigan,Striker,Centre-Forward,"Jan 13, 2005 ",19,"['Wales', 'England']",England,Loughton,RW   LW,"1,80",-
+42,Bailey Cadamarteri,Striker,Centre-Forward,"May 9, 2005 ",18,"['England', 'Jamaica']",England,Leeds,,"1,85",€450k
+32,Max Woodcock,Striker,Centre-Forward,"Jul 29, 2005 ",18,"['Scotland', 'England']",England,Congleton,RW   LW,"1,78",€75k
+,Brandon Njoku,Striker,Centre-Forward,"Jan 29, 2005 ",19,"['England', 'Nigeria']",England,London,LW,,€50k
+,Jonny Stuttle,Striker,Centre-Forward,"Sep 29, 2005 ",18,['England'],England,Weymouth,,,-
+,Nathan Jeche,Striker,Centre-Forward,"Jun 30, 2005 ",18,['England'],England,Maidstone,,,-
+,Olly Thomas,Striker,Centre-Forward,"Jul 28, 2005 ",18,['England'],England,Bristol,,,-
+,Olly Sully,Striker,Centre-Forward,"Sep 8, 2005 ",18,['England'],England,,LW,"1,78",-
+71,Donnell McNeilly,Striker,Centre-Forward,"Oct 30, 2005 ",18,['England'],England,London,,,-
+,Glen Sani,Striker,Centre-Forward,"May 9, 2005 ",18,['England'],England,London,,"1,79",-
+41,Tyrell Sellars-Fleming,Striker,Centre-Forward,"May 31, 2005 ",18,"['England', 'Jamaica']",England,Lincoln,,"1,73",-
+81,Jaden Heskey,Striker,Centre-Forward,"Dec 17, 2005 ",18,['England'],England,Manchester,AM   CM,,-
+,Princewill Ehibhatiomhan,Striker,Centre-Forward,"Oct 20, 2005 ",18,"['England', 'Nigeria']",England,Milton Keynes,SS,,-
+62,Will Lankshear,Striker,Centre-Forward,"Apr 20, 2005 ",18,['England'],England,,,"1,89",-
+61,Shaun Mavididi,Striker,Centre-Forward,"Aug 13, 2005 ",18,['England'],England,London,,,-
+,Owen Farmer,Striker,Centre-Forward,"May 22, 2005 ",18,['England'],England,Solihull,LW   RW,,-
+,Kian Le Fondre,Striker,Centre-Forward,"Feb 2, 2005 ",19,"['Scotland', 'England']",England,Stockport,RW   LW,,-
+,Tobi Adeyemo,Striker,Centre-Forward,"Mar 14, 2005 ",19,"['England', 'Nigeria']",England,London,,,-
+64,Sonny Finch,Striker,Centre-Forward,"Aug 5, 2005 ",18,['England'],England,Sunderland,SS,,-
+14,Dajaune Brown,Striker,Centre-Forward,"Oct 16, 2005 ",18,"['Jamaica', 'England']",England,Nottingham,,,-
+22,Emre Tezgel,Striker,Centre-Forward,"Sep 19, 2005 ",18,"['Türkiye', 'England']",England,Burton,,"1,82",-
