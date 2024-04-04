@@ -1,0 +1,44 @@
+Number,Name,Main Position,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+,Michael Byrne,Striker,Second Striker,"May 14, 1985 ",38,['Wales'],England,Ashton-under-Lyne,CF   AM,"1,73",-
+,Ashley Grimes,Striker,Second Striker,"Dec 9, 1986 ",37,['England'],England,Swinton,LW   AM,"1,83",-
+,Stuart Fleetwood,Striker,Second Striker,"Apr 23, 1986 ",37,"['Wales', 'England']",England,Gloucester,RW   LW,"1,75",-
+,Louis Dodds,Striker,Second Striker,"Oct 8, 1986 ",37,['England'],England,Sheffield,RW   AM,"1,78",-
+,Ross Dyer,Striker,Second Striker,"May 12, 1988 ",35,['England'],England,Stafford,AM   CF,"1,88",-
+,Josh Wilson,Striker,Second Striker,"Jul 5, 1988 ",35,['England'],England,Liverpool,LW   RW,"1,87",-
+,Lee Tomlin,Striker,Second Striker,"Jan 12, 1989 ",35,['England'],England,Leicester,RW   LW,"1,80",-
+11,Freddie Sears,Striker,Second Striker,"Nov 27, 1989 ",34,['England'],England,Hornchurch,LW   RW,"1,70",-
+,Moses Emmanuel,Striker,Second Striker,"Jul 18, 1989 ",34,"['England', 'Nigeria']",England,London,LW   CF,"1,68",-
+,Lewis Alessandra,Striker,Second Striker,"Feb 8, 1989 ",35,['England'],England,Bury,RW   LW,"1,78",-
+,Luke Holmes,Striker,Second Striker,"Mar 11, 1990 ",34,['England'],England,Oldham,LW   RW,"1,70",-
+18,Corey Whitely,Striker,Second Striker,"Jul 11, 1991 ",32,['England'],England,London,LW   RW,"1,77",-
+,Sam Jones,Striker,Second Striker,"Nov 18, 1991 ",32,['Wales'],England,Doncaster,CF   AM,"1,88",-
+,Amos Kabeya,Striker,Second Striker,"Aug 26, 1992 ",31,"['England', 'DR Congo']",England,Coventry,RW   LW,"1,80",-
+,Ben Greenhalgh,Striker,Second Striker,"Apr 16, 1992 ",31,['England'],England,Orpington,RW   LW,"1,83",-
+,Steven Rigg,Striker,Second Striker,"Jun 30, 1992 ",31,['England'],England,Keswick,CF   AM,"1,85",-
+,Tom Urwin,Striker,Second Striker,"May 23, 1992 ",31,['England'],England,Stoke-on-Trent,AM,"1,70",-
+,Patryk Kubicki,Striker,Second Striker,"Oct 9, 1993 ",30,"['Poland', 'England']",England,Birmingham,RW   LW,"1,77",-
+,John Marsden,Striker,Second Striker,"Jan 1, 1993 ",31,['England'],England,Liverpool,CF   RW,"1,70",-
+20,Jevani Brown,Striker,Second Striker,"Oct 16, 1994 ",29,"['Jamaica', 'England']",England,Letchworth,AM   CF,"1,75",€250k
+9,Harry Panayiotou,Striker,Second Striker,"Oct 28, 1994 ",29,"['St. Kitts & Nevis', 'England']",England,Leicester,CF   RW,"1,78",€50k
+10,Craig Tanner,Striker,Second Striker,"Oct 27, 1994 ",29,['England'],England,Reading,RW   LW,"1,71",-
+,Max Clayton,Striker,Second Striker,"Aug 9, 1994 ",29,['England'],England,Crewe,LW   RW,"1,76",-
+40,Billy Waters,Striker,Second Striker,"Oct 15, 1994 ",29,['England'],England,London,LW   RW,"1,74",€125k
+,Adeoye Yusuff,Striker,Second Striker,"May 25, 1994 ",29,"['England', 'Nigeria']",England,London,RW   LW,"1,70",-
+,Jack Dunn,Striker,Second Striker,"Nov 19, 1994 ",29,['England'],England,Liverpool,LW   RW,"1,72",-
+,Sandy Cunningham,Striker,Second Striker,"Apr 5, 1995 ",28,['Scotland'],England,London,LW   RW,,-
+,Danny Rowe,Striker,Second Striker,"Dec 30, 1996 ",27,['England'],England,London,LW   RW,"1,76",-
+,Florent Bojaj,Striker,Second Striker,"Apr 13, 1996 ",27,"['Albania', 'England']",England,London,CF   AM,"1,85",-
+,Dan Demkiv,Striker,Second Striker,"Dec 26, 1996 ",27,"['England', 'Russia']",England,Bath,AM,"1,80",-
+11,Ademola Lookman,Striker,Second Striker,"Oct 20, 1997 ",26,"['Nigeria', 'England']",England,London,RW   LW,"1,74",€30.00m
+37,Harley Willard,Striker,Second Striker,"Sep 4, 1997 ",26,"['Scotland', 'England']",England,London,CF   RW,"1,83",€100k
+,Jordan Blinco,Striker,Second Striker,"Jan 20, 1997 ",27,['England'],England,Meadowsfield,LW   CF,"1,78",-
+10,Conor Chaplin,Striker,Second Striker,"Feb 16, 1997 ",27,['England'],England,Worthing,CF   LW,"1,68",€3.00m
+11,Ben Stephens,Striker,Second Striker,"Aug 9, 1997 ",26,['England'],England,Leicester,AM,"1,72",-
+,Jack Storer,Striker,Second Striker,"Jan 2, 1998 ",26,['England'],England,Birmingham,AM   CF,"1,85",-
+,Kaylen Hinds,Striker,Second Striker,"Jan 28, 1998 ",26,"['England', 'Jamaica']",England,London,CF   AM,"1,79",-
+45,John McAtee,Striker,Second Striker,"Jul 23, 1999 ",24,['England'],England,Manchester,AM,"1,80",€300k
+,Stuart Gjeta,Striker,Second Striker,"Dec 15, 2000 ",23,"['England', 'Albania']",England,Leicester,LW   RW,"1,70",€10k
+,Stephen Walker,Striker,Second Striker,"Oct 11, 2000 ",23,['England'],England,Middlesbrough,LW   CF,"1,81",-
+,Bilal Sesay,Striker,Second Striker,"Jan 15, 2000 ",24,"['England', 'Sweden']",England,London,CF,"1,81",-
+10,Rayhaan Tulloch,Striker,Second Striker,"Jan 20, 2001 ",23,['England'],England,Birmingham,LW   RW,"1,78",€175k
+,Jack Leahy,Striker,Second Striker,"Sep 17, 2002 ",21,"['England', 'Ireland']",England,London,RW   LW,"1,79",-
