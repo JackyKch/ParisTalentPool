@@ -1,0 +1,388 @@
+Number,Name,Main Position,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+,Danny Spendlove,Striker,Right Winger,"Jul 15, 1985 ",38,['England'],England,London,,,-
+,Ashley Winn,Striker,Right Winger,"Dec 1, 1985 ",38,['England'],England,Stockton-on-Tees,,"1,78",-
+,Lewis Haldane,Striker,Right Winger,"Mar 13, 1985 ",39,['Wales'],England,Trowbridge,LW   CF,"1,83",-
+,Mark Smyth,Striker,Right Winger,"Jan 9, 1985 ",39,['England'],England,Liverpool,LW   SS,"1,85",-
+,Chris Eagles,Striker,Right Winger,"Nov 19, 1985 ",38,['England'],England,Hemel Hempstead,LW   AM,"1,83",-
+,Robbie Booth,Striker,Right Winger,"Dec 30, 1985 ",38,['England'],England,Liverpool,,"1,70",-
+,Damian Scannell,Striker,Right Winger,"Apr 28, 1985 ",38,"['England', 'Jamaica']",England,London,LW   CF,"1,78",-
+,Adam Smith,Striker,Right Winger,"Feb 20, 1985 ",39,['England'],England,Huddersfield,LW   CF,"1,83",-
+,Lewis Gobern,Striker,Right Winger,"Jan 28, 1985 ",39,['England'],England,Birmingham,,"1,78",-
+,Jordan Johnson,Striker,Right Winger,"Oct 9, 1986 ",37,"['British Virgin Islands', 'Wales']",England,Stoke-on-Trent,LW   CF,"1,77",-
+,Daniel Francis,Striker,Right Winger,"Oct 1, 1986 ",37,['Dominica'],England,London,,"1,78",-
+,Dean McDonald,Striker,Right Winger,"Feb 19, 1986 ",38,['England'],England,London,AM,"1,70",-
+,Kyle Joryeff,Striker,Right Winger,"Nov 10, 1986 ",37,['England'],England,London,CF,"1,85",-
+,James Younghusband,Striker,Right Winger,"Sep 4, 1986 ",37,"['Philippines', 'England']",England,"Ashford, Middlesex",RB   AM,"1,85",-
+37,Albert Adomah,Striker,Right Winger,"Dec 13, 1987 ",36,"['Ghana', 'England']",England,London,RM,"1,85",€150k
+7,Shaun Whalley,Striker,Right Winger,"Aug 7, 1987 ",36,['England'],England,Whiston,CF   LW,"1,75",€50k
+,Kwame Adjeman-Pamboe,Striker,Right Winger,"Oct 24, 1987 ",36,"['United States', 'Ghana']",England,London,LW   CF,"1,73",-
+,Paul Rutherford,Striker,Right Winger,"Jul 10, 1987 ",36,['England'],England,Moreton,LW,"1,75",-
+,Nathan Dyer,Striker,Right Winger,"Nov 29, 1987 ",36,"['England', 'Jamaica']",England,Trowbridge,LW,"1,65",-
+,Aaron Lennon,Striker,Right Winger,"Apr 16, 1987 ",36,"['England', 'Ireland']",England,Chapeltown,RM,"1,65",-
+12,Garath McCleary,Striker,Right Winger,"May 15, 1987 ",36,"['Jamaica', 'England']",England,Oxford,LW   AM,"1,87",€100k
+,Bradley Bubb,Striker,Right Winger,"May 20, 1987 ",36,"['Grenada', 'England']",England,Harrow,CF,"1,70",-
+,Craig Noone,Striker,Right Winger,"Nov 17, 1987 ",36,['England'],England,Liverpool,LW   AM,"1,73",-
+,Joel Grant,Striker,Right Winger,"Aug 26, 1987 ",36,"['Jamaica', 'England']",England,London,SS   LW,"1,75",-
+,Adam Johnson,Striker,Right Winger,"Jul 14, 1987 ",36,['England'],England,Sunderland,LW   AM,"1,82",-
+,Dee Okojie,Striker,Right Winger,"Mar 5, 1988 ",36,"['England', 'Nigeria']",England,London,LW   CF,,-
+18,Greg Miley,Striker,Right Winger,"May 10, 1988 ",35,['England'],England,London,,"1,78",-
+,Josh O'Keefe,Striker,Right Winger,"Dec 22, 1988 ",35,"['Ireland', 'England']",England,Whalley,LW   AM,"1,91",-
+,Jennison Myrie-Williams,Striker,Right Winger,"May 17, 1988 ",35,['England'],England,London,LW,"1,83",-
+17,Craig Lindfield,Striker,Right Winger,"Sep 7, 1988 ",35,['England'],England,Wirral,RB   RM,"1,83",-
+,Ryan Crowther,Striker,Right Winger,"Sep 17, 1988 ",35,['England'],England,Stockport,CF,"1,80",-
+,Ricky Modeste,Striker,Right Winger,"Feb 20, 1988 ",36,"['Grenada', 'England']",England,London,CF   LW,"1,78",-
+,Jamie Mullan,Striker,Right Winger,"Feb 10, 1988 ",36,['England'],England,Nottingham,CF   LW,"1,72",-
+,Danny Green,Striker,Right Winger,"Jul 9, 1988 ",35,['England'],England,Harlow,RM,"1,83",-
+,Graeme Owens,Striker,Right Winger,"May 1, 1988 ",35,['England'],England,Cramlington,LW   AM,"1,78",-
+,Adam Hammill,Striker,Right Winger,"Jan 25, 1988 ",36,"['England', 'Ireland']",England,Liverpool,LW,"1,80",-
+23,Sone Aluko,Striker,Right Winger,"Feb 19, 1989 ",35,"['Nigeria', 'England']",England,London,SS   LW,"1,73",€150k
+,Mike Phenix,Striker,Right Winger,"Mar 15, 1989 ",35,['England'],England,Manchester,CF   LW,"1,78",-
+,Will Buckley,Striker,Right Winger,"Nov 21, 1989 ",34,"['England', 'Ireland']",England,Oldham,LW   CF,"1,83",-
+,Febian Brandy,Striker,Right Winger,"Feb 4, 1989 ",35,"['St. Kitts & Nevis', 'England']",England,Manchester,SS   LW,"1,68",-
+,Jonny Godsmark,Striker,Right Winger,"Sep 3, 1989 ",34,['England'],England,Guide Post,RM,"1,71",-
+,Kallum Higginbotham,Striker,Right Winger,"Jun 15, 1989 ",34,['England'],England,Salford,SS   LW,"1,80",-
+,Dion Chambers,Striker,Right Winger,"Dec 16, 1989 ",34,['England'],England,Nottingham,,,-
+,Carl Haworth,Striker,Right Winger,"Jul 9, 1989 ",34,"['Canada', 'Wales']",England,Southport,CF   RB,"1,75",-
+,Leon Osborne,Striker,Right Winger,"Oct 28, 1989 ",34,['England'],England,Doncaster,LW,"1,78",-
+16,Alfie Potter,Striker,Right Winger,"Jan 9, 1989 ",35,['England'],England,London,SS   LW,"1,70",-
+,Eric Odhiambo,Striker,Right Winger,"May 12, 1989 ",34,"['England', 'Tanzania']",England,Oxford,CF   LW,"1,75",-
+,Theo Walcott,Striker,Right Winger,"Mar 16, 1989 ",35,['England'],England,London,CF   LW,"1,75",-
+23,Marley Watkins,Striker,Right Winger,"Oct 17, 1990 ",33,"['Wales', 'England']",England,London,CF   LW,"1,78",€250k
+,Jay Hart,Striker,Right Winger,"Sep 5, 1990 ",33,['England'],England,Oswaldtwistle,LW   CF,,-
+,Michael Bryan,Striker,Right Winger,"Feb 21, 1990 ",34,"['Northern Ireland', 'England']",England,London,AM,"1,73",-
+,Tristan Plummer,Striker,Right Winger,"Jan 30, 1990 ",34,"['England', 'Jamaica']",England,Bristol,LW,"1,68",-
+,Bobby Grant,Striker,Right Winger,"Jul 1, 1990 ",33,['England'],England,Litherland,AM   CF,"1,80",-
+,Danny Broadbent,Striker,Right Winger,"Mar 2, 1990 ",34,['England'],England,Leeds,,"1,78",-
+,Paris Cowan-Hall,Striker,Right Winger,"Oct 5, 1990 ",33,"['England', 'Jamaica']",England,London,LW   SS,"1,80",-
+,Ben Parsonage,Striker,Right Winger,"Aug 29, 1990 ",33,['England'],England,Liverpool,,,-
+,Tom Bolarinwa,Striker,Right Winger,"Jan 21, 1990 ",34,"['England', 'Nigeria']",England,London,LW   CF,"1,80",-
+,Craig King,Striker,Right Winger,"Oct 16, 1990 ",33,"['Scotland', 'England']",England,Chesterfield,LW   CF,"1,80",-
+,Romone Rose,Striker,Right Winger,"Jan 19, 1990 ",34,"['England', 'Scotland']",England,Reading,LW   CF,"1,78",-
+,Ged Dalton,Striker,Right Winger,"Mar 30, 1990 ",34,['England'],England,Beverley,LW   CF,"1,73",-
+,Sean Scannell,Striker,Right Winger,"Sep 17, 1990 ",33,"['Ireland', 'England']",England,London,LW   CF,"1,76",-
+30,Andros Townsend,Striker,Right Winger,"Jul 16, 1991 ",32,['England'],England,London,LW   CF,"1,81",€1.80m
+7,Mark Jones,Striker,Right Winger,"Aug 30, 1991 ",32,"['England', 'New Zealand']",England,Truro,LW,"1,73",€150k
+10,Jared Cunniff,Striker,Right Winger,"Aug 15, 1991 ",32,['England'],England,Milton Keynes,CF,"1,74",€125k
+,Ben Cullen,Striker,Right Winger,"Jun 4, 1991 ",32,['England'],England,Ossett,,,-
+,Joe Lennox,Striker,Right Winger,"Nov 22, 1991 ",32,['England'],England,Bristol,LW   AM,"1,70",-
+,Jake Jervis,Striker,Right Winger,"Sep 17, 1991 ",32,['England'],England,Wolverhampton,CF   LW,"1,91",-
+,Ryan Donaldson,Striker,Right Winger,"May 1, 1991 ",32,['England'],England,Newcastle upon Tyne,RM   LW,"1,93",-
+10,Matt Phillips,Striker,Right Winger,"Mar 13, 1991 ",33,"['Scotland', 'England']",England,Aylesbury,AM   LW,"1,83",€450k
+20,Callum McManaman,Striker,Right Winger,"Apr 25, 1991 ",32,"['England', 'Ireland']",England,Huyton,LW   SS,"1,74",€150k
+12,Osebi Abadaki,Striker,Right Winger,"Apr 22, 1991 ",32,"['Nigeria', 'England']",England,Manchester,LW,"1,76",€75k
+,David Pearce,Striker,Right Winger,"Mar 11, 1991 ",33,['England'],England,High Wycombe,LW   CF,,-
+,Alastair Taylor,Striker,Right Winger,"Sep 13, 1991 ",32,['England'],England,Sheffield,,"1,85",-
+,Daniel Powell,Striker,Right Winger,"Mar 12, 1991 ",33,['England'],England,Luton,LW   CF,"1,88",-
+,David Amoo,Striker,Right Winger,"Apr 13, 1991 ",32,"['England', 'Nigeria']",England,London,LW   SS,"1,78",-
+10,Joe Lolley,Striker,Right Winger,"Aug 25, 1992 ",31,['England'],England,Redditch,LW   AM,"1,79",€1.50m
+11,Nathaniel Méndez-Laing,Striker,Right Winger,"Apr 15, 1992 ",31,"['Guatemala', 'England']",England,Birmingham,LW,"1,78",€400k
+10,Billy Bodin,Striker,Right Winger,"Mar 24, 1992 ",32,"['Wales', 'England']",England,Swindon,LW   AM,"1,80",€175k
+,Keanu Marsh-Brown,Striker,Right Winger,"Aug 10, 1992 ",31,"['Guyana', 'England']",England,London,LW   CF,"1,81",€25k
+,Luke Wanadio,Striker,Right Winger,"Oct 18, 1992 ",31,['England'],England,London,LW,"1,73",-
+,Claudio Herbert,Striker,Right Winger,"Oct 25, 1992 ",31,"['Portugal', 'England']",England,Andover,CF,"1,84",-
+,Adam Dawson,Striker,Right Winger,"Oct 5, 1992 ",31,['England'],England,Bury,LW,"1,75",-
+6,Danny Emerton,Striker,Right Winger,"Oct 12, 1992 ",31,['England'],England,Beverley,,"1,78",-
+7,Tom Ince,Striker,Right Winger,"Jan 30, 1992 ",32,"['England', 'Barbados']",England,Stockport,LW   AM,"1,78",€1.00m
+19,Gavin Massey,Striker,Right Winger,"Oct 14, 1992 ",31,['England'],England,Watford,LW   SS,"1,73",€175k
+,Brendan Kiernan,Striker,Right Winger,"Nov 10, 1992 ",31,['England'],England,London,LW   SS,"1,75",€100k
+,Benjamin Wilks,Striker,Right Winger,"Sep 6, 1992 ",31,['England'],England,London,LB,"1,8",-
+,Sean Cooke,Striker,Right Winger,"Sep 3, 1992 ",31,['England'],England,Crewe,SS   CF,"1,71",-
+,Richard Barroilhet,Striker,Right Winger,"Aug 29, 1992 ",31,"['France', 'Chile']",England,Westminster,SS   CF,"1,88",-
+,Nathan Koranteng,Striker,Right Winger,"May 26, 1992 ",31,"['England', 'Ghana']",England,London,RM,"1,88",-
+30,Kadeem Harris,Striker,Right Winger,"Jun 8, 1993 ",30,['England'],England,London,RM   LW,"1,74",€300k
+11,Jed Johnson,Striker,Right Winger,"Mar 17, 1993 ",31,['England'],England,,,,-
+,Danny Deakin,Striker,Right Winger,"Sep 6, 1993 ",30,['England'],England,Sheffield,LW,"1,75",-
+,Rhys Murrell-Williamson,Striker,Right Winger,"Jul 10, 1993 ",30,['England'],England,London,LW   CF,"1,85",-
+,Sanchez Payne,Striker,Right Winger,"Jan 31, 1993 ",31,['England'],England,Leeds,CF   LW,,-
+,Danny Lambert,Striker,Right Winger,"Sep 6, 1993 ",30,['England'],England,Stockton-on-Tees,RM,,-
+,Rob Hall,Striker,Right Winger,"Oct 20, 1993 ",30,['England'],England,Aylesbury,LW   AM,"1,73",-
+7,Sam Hoskins,Striker,Right Winger,"Feb 4, 1993 ",31,['England'],England,Dorchester,SS   LW,"1,73",€275k
+,Khale Da Costa,Striker,Right Winger,"Dec 28, 1993 ",30,"['England', 'Jamaica']",England,London,LW   AM,"1,75",-
+,Sam Orritt,Striker,Right Winger,"Feb 21, 1993 ",31,"['England', 'Australia']",England,Doncaster,RM   LM,"1,77",-
+,Calaum Jahraldo-Martin,Striker,Right Winger,"Apr 27, 1993 ",30,"['Antigua and Barbuda', 'England']",England,Hemel Hempstead,LW,"1,75",-
+7,Lloyd Isgrove,Striker,Right Winger,"Jan 12, 1993 ",31,"['Wales', 'England']",England,Yeovil,LW   RM,"1,78",-
+,Joe Mwasile,Striker,Right Winger,"Jun 7, 1993 ",30,"['England', 'Zambia']",England,Basildon,LW,"1,74",-
+7,Solly March,Striker,Right Winger,"Jul 20, 1994 ",29,['England'],England,Eastbourne,LW   AM,"1,80",€22.00m
+7,Jed Wallace,Striker,Right Winger,"Mar 29, 1994 ",30,['England'],England,Reading,AM   LW,"1,78",€3.20m
+,Rob McCartney,Striker,Right Winger,"May 12, 1994 ",29,['England'],England,Carlisle,CF,,-
+,Gilmàr,Striker,Right Winger,"Jan 21, 1994 ",30,"['Philippines', 'England']",England,London,LW   AM,"1,80",-
+,James Warnett,Striker,Right Winger,"Nov 7, 1994 ",29,['England'],England,Bishop Auckland,,,-
+,Jack Maloney,Striker,Right Winger,"Jun 13, 1994 ",29,['England'],England,Ryde,CF,"1,83",-
+,Conner Robinson,Striker,Right Winger,"Oct 11, 1994 ",29,['England'],England,Lincoln,LW   SS,"1,76",-
+,Anthony Jeffrey,Striker,Right Winger,"Oct 3, 1994 ",29,"['Guyana', 'England']",England,London,LW,"1,73",-
+11,Adam Thomas,Striker,Right Winger,"Feb 4, 1994 ",30,['England'],England,Wirral,LW,"1,91",-
+15,Nathan Redmond,Striker,Right Winger,"Mar 6, 1994 ",30,"['England', 'Jamaica']",England,Birmingham,LW   SS,"1,73",€7.00m
+19,Duncan Watmore,Striker,Right Winger,"Mar 8, 1994 ",30,['England'],England,Manchester,LW   CF,"1,75",€900k
+,Ryan Hall,Striker,Right Winger,"Jun 9, 1994 ",29,['England'],England,Huddersfield,RM,"1,78",-
+19,Jonathan Ustabasi,Striker,Right Winger,"Mar 24, 1994 ",30,"['England', 'Türkiye']",England,Manchester,LW,"1,80",-
+11,Ryan Colclough,Striker,Right Winger,"Dec 27, 1994 ",29,['England'],England,Stoke-on-Trent,LW,"1,84",-
+,Jake Sinclair,Striker,Right Winger,"Nov 29, 1994 ",29,"['England', 'Jamaica']",England,Bath,SS   LW,"1,72",-
+,Jake Healy,Striker,Right Winger,"Jun 11, 1994 ",29,['England'],England,Birmingham,CF,,-
+,Adam Mitchell,Striker,Right Winger,"Dec 2, 1994 ",29,['England'],England,Durham,LW,,-
+19,Matthias Fanimo,Striker,Right Winger,"Jan 28, 1994 ",30,"['England', 'Nigeria']",England,London,LW,"1,75",-
+23,Jacob Murphy,Striker,Right Winger,"Feb 24, 1995 ",29,"['England', 'Ireland']",England,London,LW   RM,"1,73",€15.00m
+24,Jordan Graham,Striker,Right Winger,"Mar 5, 1995 ",29,"['England', 'Ireland']",England,Coventry,LW,"1,82",€325k
+,Yasin Ben El-Mhanni,Striker,Right Winger,"Oct 26, 1995 ",28,"['England', 'Morocco']",England,London,LW,"1,78",€75k
+,Ashford Dawkins,Striker,Right Winger,"Jul 21, 1995 ",28,"['England', 'Jamaica']",England,,LW,"1,75",-
+,Jordan Green,Striker,Right Winger,"Feb 22, 1995 ",29,['England'],England,London,LW,"1,68",-
+,Ryan Jennings,Striker,Right Winger,"Jul 8, 1995 ",28,['England'],England,Manchester,LW,"1,81",-
+,Lewis Walters,Striker,Right Winger,"Mar 28, 1995 ",29,['England'],England,Harrogate,SS   LW,"1,72",-
+,Femi Akinwande,Striker,Right Winger,"Sep 19, 1995 ",28,"['England', 'Nigeria']",England,London,CF,"1,78",-
+14,Rhys Browne,Striker,Right Winger,"Nov 16, 1995 ",28,"['Antigua and Barbuda', 'England']",England,London,LW,"1,75",-
+,Tarum Dawkins,Striker,Right Winger,"Sep 14, 1995 ",28,['England'],England,London,LW,,-
+33,Jordon Ibe,Striker,Right Winger,"Dec 8, 1995 ",28,"['England', 'Nigeria']",England,London,LW,"1,76",-
+19,Ryan Hedges,Striker,Right Winger,"Jul 8, 1995 ",28,"['Wales', 'England']",England,Northampton,LW   AM,"1,85",€1.20m
+8,Conor Wilkinson,Striker,Right Winger,"Jan 23, 1995 ",29,"['Ireland', 'England']",England,London,CF,"1,91",€150k
+,Sam Williams,Striker,Right Winger,"Aug 9, 1995 ",28,"['Wales', 'England']",England,,,,-
+7,Tommy,Striker,Right Winger,"Dec 1, 1995 ",28,"['Portugal', 'England']",England,,LW,"1,75",-
+30,Alex Newby,Striker,Right Winger,"Nov 21, 1995 ",28,['England'],England,Barrow-in-Furness,AM   LW,"1,73",-
+,Alex Bray,Striker,Right Winger,"Jul 25, 1995 ",28,"['Wales', 'England']",England,Bath,RM,"1,78",-
+,Sean Miller,Striker,Right Winger,"May 9, 1995 ",28,['England'],England,Liverpool,RM,,-
+,Roman Michael-Percil,Striker,Right Winger,"Feb 28, 1995 ",29,"['Ireland', 'England']",England,London,AM   LW,"1,71",-
+,Kieran Woodley,Striker,Right Winger,"May 19, 1995 ",28,['England'],England,Croydon,RM,,-
+,Bradley Tarbuck,Striker,Right Winger,"Nov 6, 1995 ",28,['England'],England,Emsworth,RM,"1,75",-
+,Shaquille Hunter,Striker,Right Winger,"Aug 29, 1995 ",28,['England'],England,Birmingham,LW,"1,78",-
+20,Jarrod Bowen,Striker,Right Winger,"Dec 20, 1996 ",27,['England'],England,Leominster,SS   CF,"1,75",€50.00m
+99,Anastasios Donis,Striker,Right Winger,"Aug 29, 1996 ",27,"['Greece', 'England']",England,Blackburn,SS   LW,"1,78",€650k
+31,Viv Solomon-Otabor,Striker,Right Winger,"Jan 2, 1996 ",28,"['Nigeria', 'England']",England,London,LW,"1,75",€400k
+20,Scott Kashket,Striker,Right Winger,"Feb 25, 1996 ",28,"['England', 'Israel']",England,London,LW   SS,"1,75",€150k
+23,Dassiemou Mai,Striker,Right Winger,"May 17, 1996 ",27,"['England', ""Cote d'Ivoire""]",England,London,LW   AM,"1,81",€100k
+,Ceylan Taneri,Striker,Right Winger,"Aug 4, 1996 ",27,"['England', 'Cyprus']",England,London,,,-
+25,Daniel Olaoye,Striker,Right Winger,N/A ,27,"['England', 'Nigeria']",England,London,LW   CF,"1,79",-
+,Joe Whittington,Striker,Right Winger,"Apr 2, 1996 ",28,['England'],England,Manchester,LW   AM,"1,80",-
+,Mark Irvine,Striker,Right Winger,"Oct 25, 1996 ",27,['England'],England,Fareham,LW,,-
+,Tom Chamberlain,Striker,Right Winger,"May 23, 1996 ",27,['England'],England,Scarborough,LW   CF,"1,80",-
+11,Jack Harrison,Striker,Right Winger,"Nov 20, 1996 ",27,['England'],England,Stoke-on-Trent,LW,"1,75",€22.00m
+27,Randell Williams,Striker,Right Winger,"Dec 30, 1996 ",27,['England'],England,London,LW,"1,74",€450k
+47,Hakeeb Adelakun,Striker,Right Winger,"Jun 11, 1996 ",27,"['England', 'Nigeria']",England,London,LW,,€200k
+25,Daniel Bruce,Striker,Right Winger,"May 13, 1996 ",27,['England'],England,Warrington,,"1,68",€125k
+10,Louis Robles,Striker,Right Winger,"Sep 11, 1996 ",27,"['England', 'Spain']",England,Liverpool,LW   CF,"1,81",€100k
+,Nazim Amokachi,Striker,Right Winger,"Jun 22, 1996 ",27,"['Nigeria', 'Tunisia']",England,Liverpool,LW   CF,"1,80",-
+11,Justin Amaluzor,Striker,Right Winger,"Oct 17, 1996 ",27,"['England', 'Nigeria']",England,London,CF   LW,"1,83",-
+,Montel Agyemang,Striker,Right Winger,"Nov 22, 1996 ",27,"['England', 'Ghana']",England,London,AM   CM,"1,75",-
+,Emmanuel Sonupe,Striker,Right Winger,"Mar 21, 1996 ",28,"['England', 'Nigeria']",England,London,LW,"1,73",-
+,Alex Kiwomya,Striker,Right Winger,"May 20, 1996 ",27,"['England', 'Uganda']",England,Sheffield,LW   CF,"1,79",-
+36,David Brooks,Striker,Right Winger,"Jul 8, 1997 ",26,"['Wales', 'England']",England,Warrington,AM   SS,"1,73",€9.00m
+17,Oladapo Afolayan,Striker,Right Winger,"Sep 11, 1997 ",26,"['England', 'Nigeria']",England,London,LW   CF,"1,80",€2.00m
+11,Danny Armstrong,Striker,Right Winger,"Oct 11, 1997 ",26,"['Scotland', 'Ireland']",England,Taunton,LW   RM,"1,75",€1.00m
+11,Josh Sims,Striker,Right Winger,"Mar 28, 1997 ",27,['England'],England,Yeovil,LW,"1,74",€350k
+18,Jonny Smith,Striker,Right Winger,"Jul 28, 1997 ",26,"['England', 'Ireland']",England,Liverpool,LW,"1,78",€275k
+17,Harry Anderson,Striker,Right Winger,"Jan 9, 1997 ",27,['England'],England,Chertsey,RM   RB,"1,79",€250k
+9,Elliott List,Striker,Right Winger,"May 12, 1997 ",26,['England'],England,London,LW   CF,"1,78",€125k
+,Dylan Logan,Striker,Right Winger,"Feb 6, 1997 ",27,['England'],England,Orpington,LW   CF,"1,81",-
+,Cory Bent,Striker,Right Winger,"May 14, 1997 ",26,"['England', 'Jamaica']",England,Preston,LW,"1,68",-
+,Nathan Crofts,Striker,Right Winger,"Jan 1, 1997 ",27,['England'],England,Sheffield,LW,"1,70",-
+,Jamal Crawford,Striker,Right Winger,"Nov 26, 1997 ",26,"['England', 'Jamaica']",England,Manchester,LW,"1,73",-
+7,Andreas Komodikis,Striker,Right Winger,"Jun 2, 1997 ",26,"['Cyprus', 'England']",England,London,LW   RB,"1,80",-
+,Bilal Sayoud,Striker,Right Winger,"May 5, 1997 ",26,"['Algeria', 'England']",England,London,AM   LW,"1,79",-
+10,Patrick Roberts,Striker,Right Winger,"Feb 5, 1997 ",27,['England'],England,Kingston-upon-Thames,LW   AM,"1,67",€3.20m
+54,Sheyi Ojo,Striker,Right Winger,"Jun 19, 1997 ",26,"['England', 'Nigeria']",England,Hemel Hempstead,LW,"1,79",€1.00m
+27,Corey Blackett-Taylor,Striker,Right Winger,"Sep 23, 1997 ",26,['England'],England,Erdington,LW,"1,80",€500k
+23,Connor Mahoney,Striker,Right Winger,"Feb 12, 1997 ",27,"['England', 'Ireland']",England,Blackburn,LW,"1,75",€300k
+10,Jodi Jones,Striker,Right Winger,"Oct 22, 1997 ",26,"['Malta', 'England']",England,London,LW,"1,77",€275k
+,Wes McDonald,Striker,Right Winger,"May 4, 1997 ",26,"['England', 'Jamaica']",England,London,LW,"1,74",€125k
+10,Harry McKirdy,Striker,Right Winger,"Mar 29, 1997 ",27,['England'],England,London,CF   LW,"1,75",€20k
+,Elliot Cutts,Striker,Right Winger,"Apr 10, 1997 ",26,['England'],England,London,LW   RM,"1,88",-
+11,Dajon Golding,Striker,Right Winger,"Oct 5, 1997 ",26,['England'],England,"Lewisham, London",LW,,-
+,Nathan Waterston,Striker,Right Winger,"May 13, 1997 ",26,['England'],England,Barrow-in-Furness,LW,,-
+,Shiraz Khan,Striker,Right Winger,"Oct 26, 1997 ",26,"['England', 'Pakistan']",England,Halifax,RM,"1,88",-
+,Curtis Morrison,Striker,Right Winger,"Oct 2, 1997 ",26,['England'],England,Sheffield,LW   SS,"1,78",-
+,Tyrell Palmer,Striker,Right Winger,"Oct 5, 1997 ",26,['England'],England,Manchester,LW   AM,,-
+,Jordan Maguire-Drew,Striker,Right Winger,"Sep 19, 1997 ",26,['England'],England,Crawley,LW,"1,80",-
+27,Jack Stobbs,Striker,Right Winger,"Feb 27, 1997 ",27,['England'],England,Leeds,LW,"1,80",-
+,Courtney Senior,Striker,Right Winger,"Jun 30, 1997 ",26,"['England', 'Jamaica']",England,London,LW,"1,76",-
+,Michael Donohue,Striker,Right Winger,"Nov 12, 1997 ",26,['England'],England,Warrington,LW,,-
+10,Callum Roberts,Striker,Right Winger,"Apr 14, 1997 ",26,['England'],England,South Shields,LW   AM,"1,73",-
+10,Marcus Edwards,Striker,Right Winger,"Dec 3, 1998 ",25,"['England', 'Cyprus']",England,London,AM   LW,"1,68",€25.00m
+7,Mallik Wilks,Striker,Right Winger,"Dec 15, 1998 ",25,['England'],England,Leeds,CF   LW,"1,83",€450k
+16,David Ajiboye,Striker,Right Winger,"Sep 28, 1998 ",25,"['England', 'Nigeria']",England,Bromley,LW,"1,72",€300k
+7,James Tilley,Striker,Right Winger,"Jun 13, 1998 ",25,['England'],England,Billingshurst,AM   LW,"1,74",€300k
+13,Diallang Jaiyesimi,Striker,Right Winger,"May 7, 1998 ",25,"['England', 'Nigeria']",England,London,CF   LW,"1,81",€225k
+,Hani Berchiche,Striker,Right Winger,"Sep 17, 1998 ",25,"['Algeria', 'England']",England,London,AM   CF,"1,86",-
+16,Claudio Ofosu,Striker,Right Winger,"Sep 27, 1998 ",25,"['England', 'Ghana']",England,London,RM,"1,83",-
+10,Devante Rodney,Striker,Right Winger,"May 19, 1998 ",25,['England'],England,Manchester,CF   LW,"1,78",-
+,Niah Payne,Striker,Right Winger,"Sep 25, 1998 ",25,"['England', 'Jamaica']",England,Leeds,LW   SS,"1,87",-
+,Kieran Higgs,Striker,Right Winger,"Dec 14, 1998 ",25,['England'],England,Cambridge,RM,"1,73",-
+,Joe Delacoe,Striker,Right Winger,"Jan 7, 1998 ",26,"['England', 'Germany']",England,Middlesbrough,LW,,-
+49,Callum Lang,Striker,Right Winger,"Sep 8, 1998 ",25,['England'],England,Liverpool,SS   CF,"1,83",€900k
+30,Owen Dale,Striker,Right Winger,"Nov 1, 1998 ",25,['England'],England,Warrington,LW,"1,75",€425k
+10,Shilow Tracey,Striker,Right Winger,"Apr 29, 1998 ",25,['England'],England,London,LW   CF,"1,79",€300k
+7,Reeco Hackett,Striker,Right Winger,"Jan 9, 1998 ",26,"['St. Lucia', 'England']",England,London,CF   LW,"1,90",€250k
+,Matt Bentley,Striker,Right Winger,"May 23, 1998 ",25,['England'],England,London,CF   RM,"1,85",-
+,Josh Shonibare,Striker,Right Winger,"May 29, 1998 ",25,"['England', 'Nigeria']",England,London,LW,"1,72",-
+,Joel Rollinson,Striker,Right Winger,"Nov 16, 1998 ",25,"['Australia', 'England']",England,Reading,,,-
+,William Akinola,Striker,Right Winger,N/A ,25,"['Germany', 'England']",England,Satellite,LW   CF,"1,88",-
+17,Max Wright,Striker,Right Winger,"Apr 6, 1998 ",25,['England'],England,Grimsby,LW,"1,75",-
+27,Oliver Crankshaw,Striker,Right Winger,"Aug 12, 1998 ",25,['England'],England,Preston,LW,"1,82",-
+19,Nathan Tella,Striker,Right Winger,"Jul 5, 1999 ",24,"['Nigeria', 'England']",England,Stevenage,LW   SS,"1,73",€23.00m
+14,Sorba Thomas,Striker,Right Winger,"Jan 25, 1999 ",25,"['Wales', 'England']",England,London,CF   LW,"1,85",€4.80m
+14,Josh Bowler,Striker,Right Winger,"Mar 5, 1999 ",25,['England'],England,Chertsey,LW,"1,84",€1.50m
+,Lewis Hendry,Striker,Right Winger,"Sep 30, 1999 ",24,['England'],England,London,LW   AM,,-
+,Joshua Osude,Striker,Right Winger,"Jun 8, 1999 ",24,"['England', 'United States']",England,London,CF,"1,68",-
+17,Dom Tear,Striker,Right Winger,"Oct 25, 1999 ",24,['England'],England,Knaresborough,LW,"1,80",-
+11,Luca Colville,Striker,Right Winger,"Feb 17, 1999 ",25,['England'],England,York,LW   AM,"1,85",-
+,Dean Ager,Striker,Right Winger,"Oct 27, 1999 ",24,['England'],England,Chelmsford,AM   LW,,-
+,Opi Edwards,Striker,Right Winger,"Apr 30, 1999 ",24,['England'],England,Bristol,RM,"1,71",-
+,Kurtis Russell,Striker,Right Winger,"Dec 13, 1999 ",24,['England'],England,Gateshead,LW   AM,"1,78",-
+,Okera Simmonds,Striker,Right Winger,"Dec 25, 1999 ",24,['England'],England,Manchester,,"1,87",-
+,Yanni Barberoglou,Striker,Right Winger,"Jul 10, 1999 ",24,['Australia'],England,Doncaster,LW,,-
+,Fraser Preston,Striker,Right Winger,"Mar 5, 1999 ",25,"['Scotland', 'England']",England,Holmfirth,LW   AM,,-
+24,Reiss Nelson,Striker,Right Winger,"Dec 10, 1999 ",24,"['England', 'Jamaica']",England,London,LW   AM,"1,75",€15.00m
+11,Isaiah Jones,Striker,Right Winger,"Jun 26, 1999 ",24,"['England', 'Guyana']",England,London,LW   RM,"1,76",€3.50m
+11,Luke Thomas,Striker,Right Winger,"Feb 19, 1999 ",25,['England'],England,Soudley,AM   CM,"1,71",€450k
+,Brandon Barzey,Striker,Right Winger,"Jul 27, 1999 ",24,"['Montserrat', 'Antigua and Barbuda']",England,London,CM   RB,,-
+,Olatunde Bayode,Striker,Right Winger,"Feb 7, 1999 ",25,"['England', 'Nigeria']",England,New Mills,RM   RB,"1,71",-
+,Lewis White,Striker,Right Winger,"May 3, 1999 ",24,['England'],England,London,LW   CF,"1,73",-
+16,Liam Sole,Striker,Right Winger,"Dec 21, 1999 ",24,['England'],England,Watford,RM   RB,"1,75",-
+,Billy Craske,Striker,Right Winger,"Sep 19, 1999 ",24,['England'],England,Truro,LW,"1,76",-
+,Rhain Hellawell,Striker,Right Winger,"Dec 17, 1999 ",24,['England'],England,Ashton-under-Lyne,RM,,-
+,Joshua Hesson,Striker,Right Winger,"Sep 21, 1999 ",24,['England'],England,,LW   RB,"1,78",-
+7,Tom Allan,Striker,Right Winger,"Sep 23, 1999 ",24,['England'],England,Newcastle upon Tyne,LW   SS,"1,73",-
+11,Idris Kanu,Striker,Right Winger,"Dec 5, 1999 ",24,"['Sierra Leone', 'England']",England,London,CF   LW,"1,82",-
+47,Phil Foden,Striker,Right Winger,"May 28, 2000 ",23,['England'],England,Stockport,LW   AM,"1,71",€130.00m
+36,Ian Poveda,Striker,Right Winger,"Feb 9, 2000 ",24,"['Colombia', 'England']",England,London,LW,"1,67",€900k
+10,Jack Lankester,Striker,Right Winger,"Jan 19, 2000 ",24,['England'],England,Bury St Edmunds,LW,"1,77",€325k
+12,Sam Folarin,Striker,Right Winger,"Sep 23, 2000 ",23,"['England', 'Nigeria']",England,London,LW,,€175k
+22,Luke Rae,Striker,Right Winger,"Dec 27, 2000 ",23,['England'],England,,SS   LW,,€50k
+,Lucas Sinclair,Striker,Right Winger,"Jan 11, 2000 ",24,['England'],England,London,LW   CF,"1,79",-
+,Shiloh Remy,Striker,Right Winger,"Dec 28, 2000 ",23,"['England', 'St. Lucia']",England,London,LW   CM,"1,70",-
+,Danny Walker-Rice,Striker,Right Winger,"Nov 10, 2000 ",23,['England'],England,London,LW,"1,69",-
+,Tushaun Walters,Striker,Right Winger,"Mar 25, 2000 ",24,['England'],England,London,LW   CF,"1,73",-
+,Harlem Hale,Striker,Right Winger,"Feb 4, 2000 ",24,['England'],England,High Wycombe,LW,"1,81",-
+24,Antoine Semenyo,Striker,Right Winger,"Jan 7, 2000 ",24,"['Ghana', 'England']",England,London,LW   CF,"1,85",€10.00m
+23,Joseph Hungbo,Striker,Right Winger,"Jan 15, 2000 ",24,"['England', 'Nigeria']",England,London,LW,"1,73",€500k
+,Tyrese Shade,Striker,Right Winger,"Jun 9, 2000 ",23,"['St. Kitts & Nevis', 'England']",England,Birmingham,CF   LW,"1,83",€225k
+9,Teddy Sutherland,Striker,Right Winger,"Mar 28, 2000 ",24,['England'],England,London,,"1,70",€150k
+,George Baker,Striker,Right Winger,"Jul 17, 2000 ",23,"['Philippines', 'England']",England,London,LW   AM,"1,83",-
+11,Ryan Glover,Striker,Right Winger,"Nov 9, 2000 ",23,['England'],England,Yeovil,RM,"1,77",-
+,Harry Benns,Striker,Right Winger,"Jan 13, 2000 ",24,['England'],England,Warrington,LW   AM,"1,70",-
+,Nana Adarkwa,Striker,Right Winger,"Oct 24, 2000 ",23,"['England', 'Ghana']",England,London,LW,"1,82",-
+,Jeremie Mukendi,Striker,Right Winger,"Sep 12, 2000 ",23,"['England', 'DR Congo']",England,London,LW   CF,"1,81",-
+7,Bukayo Saka,Striker,Right Winger,"Sep 5, 2001 ",22,"['England', 'Nigeria']",England,London,LW   RM,"1,78",€130.00m
+22,Brennan Johnson,Striker,Right Winger,"May 23, 2001 ",22,"['Wales', 'England']",England,Nottingham,LW   CF,"1,86",€48.00m
+10,Morgan Whittaker,Striker,Right Winger,"Jan 7, 2001 ",23,['England'],England,Derby,SS   LW,"1,83",€6.00m
+11,Kwame Poku,Striker,Right Winger,"Aug 11, 2001 ",22,"['Ghana', 'England']",England,London,AM   LW,"1,79",€1.50m
+32,Paddy Lane,Striker,Right Winger,"Feb 18, 2001 ",23,"['Northern Ireland', 'England']",England,Halifax,AM   LW,"1,77",€700k
+11,Femi Azeez,Striker,Right Winger,"Jun 5, 2001 ",22,"['England', 'Spain']",England,London,CF   LW,"1,81",€450k
+23,Noah Alexandersson,Striker,Right Winger,"Sep 30, 2001 ",22,['Sweden'],England,Warrington,CM   LW,"1,79",€200k
+19,Luis Longstaff,Striker,Right Winger,"Feb 24, 2001 ",23,['England'],England,Darlington,LW   CF,"1,67",€150k
+,Amin Benyoucef,Striker,Right Winger,"Apr 22, 2001 ",22,"['England', 'Algeria']",England,London,RM   LW,"1,65",-
+,Charles Hagan,Striker,Right Winger,"Sep 6, 2001 ",22,"['England', 'Ghana']",England,London,CF,"1,78",-
+,Kai Brown,Striker,Right Winger,"Apr 30, 2001 ",22,['England'],England,Greenwich,CF,"1,77",-
+,Sheldon Green,Striker,Right Winger,"Jun 25, 2001 ",22,['England'],England,Wesham,LW   RB,"1,76",-
+,Aaron Goulty,Striker,Right Winger,"Aug 24, 2001 ",22,['England'],England,Saltash,LW   CF,"1,75",-
+7,Michael Olise,Striker,Right Winger,"Dec 12, 2001 ",22,"['France', 'England']",England,London,AM   RM,"1,84",€50.00m
+12,Mason Greenwood,Striker,Right Winger,"Oct 1, 2001 ",22,"['England', 'Jamaica']",England,Bradford,CF   LW,"1,81",€15.00m
+10,Tyrhys Dolan,Striker,Right Winger,"Dec 28, 2001 ",22,['England'],England,Manchester,LW   CF,"1,70",€5.00m
+35,Kasey McAteer,Striker,Right Winger,"Nov 22, 2001 ",22,['England'],England,Northampton,LW   AM,,€900k
+20,Xavier Amaechi,Striker,Right Winger,"Jan 5, 2001 ",23,"['England', 'Nigeria']",England,Bath,LW,"1,79",€500k
+18,Dilan Markanday,Striker,Right Winger,"Aug 20, 2001 ",22,"['England', 'India']",England,London,AM   LW,"1,67",€400k
+32,D'Margio Wright-Phillips,Striker,Right Winger,"Sep 24, 2001 ",22,"['England', 'Grenada']",England,Manchester,RM   LW,"1,70",€200k
+19,Jack Bearne,Striker,Right Winger,"Sep 15, 2001 ",22,['England'],England,Nottingham,AM   CF,,€75k
+,Luca Chadli,Striker,Right Winger,"Dec 23, 2001 ",22,"['England', 'Algeria']",England,Stoke-on-Trent,LW   SS,"1,78",-
+11,Terrell Egbri,Striker,Right Winger,"Jun 21, 2001 ",22,"['England', 'Nigeria']",England,London,LW,"1,63",-
+,Ben Mills,Striker,Right Winger,"Feb 14, 2001 ",23,['England'],England,,CF,"1,68",-
+,Gabriel Rogers,Striker,Right Winger,"Feb 14, 2001 ",23,['England'],England,Torquay,LW,,-
+,Khalid Simmo,Striker,Right Winger,"Jan 1, 2001 ",23,['England'],England,Mapledurham,LW,"1,69",-
+,Tyler Savage,Striker,Right Winger,"Jul 17, 2001 ",22,['England'],England,,LW   CF,"1,77",-
+,Ryan Leonard,Striker,Right Winger,"May 16, 2001 ",22,['England'],England,Sunderland,LW,,-
+,Jack Noel,Striker,Right Winger,"Aug 12, 2001 ",22,['England'],England,High Wycombe,AM   LW,"1,79",-
+11,Noni Madueke,Striker,Right Winger,"Mar 10, 2002 ",22,"['England', 'Nigeria']",England,London,CF,"1,82",€25.00m
+32,Ollie Tanner,Striker,Right Winger,"May 13, 2002 ",21,['England'],England,London,LW   AM,"1,77",€700k
+40,Wanya Marçal,Striker,Right Winger,"Oct 19, 2002 ",21,"['Portugal', 'Angola']",England,Leicester,AM   LW,"1,81",€300k
+20,Shayden Morris,Striker,Right Winger,"Mar 30, 2002 ",22,['England'],England,London,RM,,€125k
+,Dave Djalme Assuncao,Striker,Right Winger,"Jun 1, 2002 ",21,"['England', 'Angola']",England,Leicester,SS   LW,"1,75",€50k
+99,Max Thompson,Striker,Right Winger,"Feb 9, 2002 ",22,['England'],England,Macclesfield,CF   LW,"1,82",€10k
+30,Harvey Walker,Striker,Right Winger,"Mar 27, 2002 ",22,['England'],England,London,LW,,-
+,Bobby Unwin,Striker,Right Winger,"Dec 12, 2002 ",21,['England'],England,Romford,LW,"1,80",-
+19,Hari McCoy,Striker,Right Winger,"Sep 11, 2002 ",21,"['England', 'Singapore']",England,,,,-
+,Romeo Beckham,Striker,Right Winger,"Sep 1, 2002 ",21,['England'],England,London,RM   AM,"1,78",-
+,Kinsly Murray,Striker,Right Winger,"Oct 20, 2002 ",21,"['England', 'Jamaica']",England,,LW   CF,"1,72",-
+,Myles Bright,Striker,Right Winger,"Oct 18, 2002 ",21,['England'],England,London,AM,"1,73",-
+,TQ Addy,Striker,Right Winger,"Feb 1, 2002 ",22,"['England', 'Ghana']",England,London,LW,"1,72",-
+49,Jesurun Rak-Sakyi,Striker,Right Winger,"Oct 5, 2002 ",21,"['England', 'Ghana']",England,London,LW   AM,"1,78",€2.00m
+28,Tony Springett,Striker,Right Winger,"Sep 22, 2002 ",21,"['Ireland', 'England']",England,London,LW,"1,74",€500k
+31,Ben Knight,Striker,Right Winger,"Jun 14, 2002 ",21,['England'],England,Cambridge,AM   SS,"1,70",€200k
+11,Maleace Asamoah,Striker,Right Winger,"Nov 15, 2002 ",21,"['England', 'Ghana']",England,Oxford,CF   LW,"1,83",€75k
+18,Zac Hartley,Striker,Right Winger,"Feb 27, 2002 ",22,['England'],England,Shrewsbury,LB   RB,,€25k
+,Toby Raggett,Striker,Right Winger,"Nov 1, 2002 ",21,['England'],England,Reading,CF,,-
+,Sam Turner,Striker,Right Winger,"Jun 27, 2002 ",21,['England'],England,Chester,LW   AM,,-
+,Nabil Rahim,Striker,Right Winger,"Nov 21, 2002 ",21,"['Bangladesh', 'England']",England,,,,-
+,Kyle MacKillop-Hall,Striker,Right Winger,"Jan 18, 2002 ",22,"['England', 'Scotland']",England,London,AM   LW,"1,81",-
+,Lewis Bell,Striker,Right Winger,"Sep 29, 2002 ",21,['England'],England,Carlisle,LW   RM,"1,81",-
+,Jacob Gratton,Striker,Right Winger,"Jan 5, 2002 ",22,['England'],England,Rotherham,LW   CF,"1,82",-
+19,David Omilabu,Striker,Right Winger,"Sep 27, 2002 ",21,"['England', 'Nigeria']",England,London,LW   CF,,-
+,Jay Fitzmartin,Striker,Right Winger,"Sep 14, 2002 ",21,['England'],England,Leigh,LW,"1,76",-
+,Harley Curtis,Striker,Right Winger,"Oct 23, 2002 ",21,['England'],England,Ipswich,LW   CF,"1,87",-
+,Tarrelle Whittaker,Striker,Right Winger,"Nov 23, 2002 ",21,"['England', 'Jamaica']",England,London,LW,"1,70",-
+,Joseph Ajose,Striker,Right Winger,"May 8, 2002 ",21,"['England', 'Nigeria']",England,London,LW,,-
+,Will Bapaga,Striker,Right Winger,"Nov 3, 2002 ",21,['England'],England,Coventry,LW,"1,76",-
+,Zak Brown,Striker,Right Winger,"Jun 6, 2002 ",21,['England'],England,Felixstowe,,"1,72",-
+16,Zain Walker,Striker,Right Winger,"Jan 8, 2002 ",22,['England'],England,London,LW,"1,73",-
+,Eno Nto,Striker,Right Winger,"Sep 18, 2002 ",21,['England'],England,Derby,LW,"1,80",-
+20,Omari Hutchinson,Striker,Right Winger,"Oct 30, 2003 ",20,"['Jamaica', 'England']",England,Redhill,AM   LW,"1,74",€4.50m
+14,Romaine Mundle,Striker,Right Winger,"Apr 24, 2003 ",20,['England'],England,London,LW,,€1.50m
+19,Tyler Goodrham,Striker,Right Winger,"Aug 7, 2003 ",20,"['Ireland', 'England']",England,High Wycombe,,"1,70",€300k
+25,Rob Apter,Striker,Right Winger,"Jan 16, 2003 ",21,"['Scotland', 'England']",England,Liverpool,LW,"1,75",€100k
+,Tyler Roberts,Striker,Right Winger,"Dec 22, 2003 ",20,"['Jamaica', 'England']",England,Walsall,CF   LW,,€100k
+41,Jacob Godsman-Pilling,Striker,Right Winger,"Apr 2, 2003 ",21,['England'],England,Burnley,LW,"1,76",€10k
+,Jonah Pastiroff,Striker,Right Winger,"May 12, 2003 ",20,"['New Zealand', 'England']",England,Bristol,,,-
+,Thierry Swaby,Striker,Right Winger,"Jun 5, 2003 ",20,['England'],England,Bristol,LW,"1,77",-
+,Said Idouarab,Striker,Right Winger,"Jul 29, 2003 ",20,"['Morocco', 'England']",England,Leicester,,"1,80",-
+,Nicky Gyimah,Striker,Right Winger,"May 27, 2003 ",20,"['England', 'Ghana']",England,London,LW,"1,78",-
+,Mitch Picksley,Striker,Right Winger,"Dec 6, 2003 ",20,['England'],England,Dewsbury,RM,,-
+,Jake Adams,Striker,Right Winger,"Jun 27, 2003 ",20,['England'],England,Basingstoke,,"1,75",-
+,Max Papounidi,Striker,Right Winger,"Jan 22, 2003 ",21,"['England', 'Netherlands']",England,London,CF,"1,83",-
+10,Malcolm Ebiowei,Striker,Right Winger,"Sep 4, 2003 ",20,"['England', 'Netherlands']",England,London,LW   CF,"1,85",€2.50m
+,Cian Hayes,Striker,Right Winger,"Jun 29, 2003 ",20,"['Ireland', 'England']",England,Preston,LW,"1,70",€400k
+42,Jayden Fevrier,Striker,Right Winger,"Apr 14, 2003 ",20,"['England', 'France']",England,London,LW   LB,"1,73",€250k
+86,Harvey Blair,Striker,Right Winger,"Sep 14, 2003 ",20,"['England', 'Jamaica']",England,Huddersfield,LW   SS,,€100k
+,Sean Etaluku,Striker,Right Winger,"Dec 5, 2003 ",20,"['England', 'Nigeria']",England,Denton,LW,"1,74",€50k
+,John Deniz Hockley,Striker,Right Winger,"Sep 19, 2003 ",20,"['Türkiye', 'England']",England,Sidcup,,,-
+,Connor Ferguson,Striker,Right Winger,"Jan 1, 2003 ",21,['England'],England,Buckland,LW,,-
+,Michael Bareck,Striker,Right Winger,"Apr 4, 2003 ",21,"['England', 'Nigeria']",England,,LW,"1,81",-
+,Marcus Daws,Striker,Right Winger,"Dec 26, 2003 ",20,"['Northern Ireland', 'England']",England,Bath,LW   AM,,-
+,Kevin Gonzalez,Striker,Right Winger,"Jan 11, 2003 ",21,"['England', 'Colombia']",England,London,LW,,-
+,Mitchell Henry,Striker,Right Winger,"Sep 2, 2003 ",20,['England'],England,Salford,LW,"1,89",-
+43,Nathan Young-Coombes,Striker,Right Winger,"Jan 15, 2003 ",21,"['England', 'Jamaica']",England,London,CF,"1,75",-
+49,Kaide Gordon,Striker,Right Winger,"Oct 5, 2004 ",19,"['England', 'Jamaica']",England,Burton-on-Trent,LW,"1,73",€1.20m
+15,Michael Olakigbe,Striker,Right Winger,"Apr 25, 2004 ",19,"['England', 'Nigeria']",England,London,AM   LW,"1,80",€600k
+21,James Plant,Striker,Right Winger,"Nov 3, 2004 ",19,['England'],England,Werrington,LW   CM,"1,75",€200k
+,Mikey O'Neill,Striker,Right Winger,"Jun 8, 2004 ",19,"['England', 'Ireland']",England,Liverpool,CF   LW,"1,83",€150k
+,Danai Rhule,Striker,Right Winger,"Dec 18, 2004 ",19,"['England', 'Jamaica']",England,Sheffield,LW,,-
+,Kai O'Keeffe,Striker,Right Winger,"Oct 26, 2004 ",19,['England'],England,Leicester,LW   CF,"1,62",-
+,Cian Philpott,Striker,Right Winger,"Oct 5, 2004 ",19,['England'],England,Leeds,LW   AM,"1,83",-
+,Norman Garbett,Striker,Right Winger,"Feb 27, 2004 ",20,"['New Zealand', 'France']",England,London,LW   CF,"1,81",-
+,Ethan Moore,Striker,Right Winger,"Dec 4, 2004 ",19,['England'],England,,CF,"1,90",-
+,Max Howells,Striker,Right Winger,"Sep 30, 2004 ",19,"['England', 'Sweden']",England,Stockton-on-Tees,RM,,-
+70,Amani Richards,Striker,Right Winger,"Nov 16, 2004 ",19,"['England', 'Jamaica']",England,,CF   LW,,-
+,Roshaun Mathurin,Striker,Right Winger,"Jan 23, 2004 ",20,['England'],England,London,LW,,-
+67,Omari Forson,Striker,Right Winger,"Jul 20, 2004 ",19,"['England', 'Ghana']",England,London,LW   AM,"1,79",€1.00m
+,Adedire Mebude,Striker,Right Winger,"May 28, 2004 ",19,"['Scotland', 'Nigeria']",England,London,LW   CF,"1,89",€500k
+17,Shaqai Forde,Striker,Right Winger,"May 5, 2004 ",19,"['England', 'Barbados']",England,Watford,CF,"1,74",€200k
+46,Bradley Stretton,Striker,Right Winger,"Sep 9, 2004 ",19,['England'],England,Coventry,LW   AM,,-
+,Nathaniel Wallace,Striker,Right Winger,"Oct 13, 2004 ",19,['England'],England,Nottingham,CF,"1,75",-
+,Aaron Benn,Striker,Right Winger,"Sep 21, 2004 ",19,['England'],England,London,LW,"1,80",-
+,Trevor Caborn,Striker,Right Winger,"Feb 9, 2004 ",20,['England'],England,Petersfield,LW,"1,85",-
+,Ash MacCarthy,Striker,Right Winger,"Dec 2, 2004 ",19,['England'],England,Stockton-on-Tees,LB   RM,"1,85",-
+,Ethan McLeod,Striker,Right Winger,"Apr 1, 2004 ",20,['England'],England,Birmingham,LW   CF,,-
+,Ethan Ennis,Striker,Right Winger,"Dec 11, 2004 ",19,['England'],England,Runcorn,SS,"1,78",-
+66,Luca Thomas,Striker,Right Winger,"Sep 16, 2004 ",19,['England'],England,Crewe,CF   LW,,-
+46,Silko Thomas,Striker,Right Winger,"Jun 25, 2004 ",19,"['England', 'Jamaica']",England,London,LW,,-
+45,Amario Cozier-Duberry,Striker,Right Winger,"May 29, 2005 ",18,"['England', 'Montserrat']",England,London,LW   AM,"1,70",€2.00m
+63,Ben Parkinson,Striker,Right Winger,"Mar 10, 2005 ",19,['England'],England,Durham,CF   LW,"1,83",€250k
+20,Angus McAllister,Striker,Right Winger,"Sep 6, 2005 ",18,"['New Zealand', 'England']",England,Devon,LW   AM,"1,83",€25k
+,Ranel Young,Striker,Right Winger,"Dec 26, 2005 ",18,['England'],England,Huddersfield,,,-
+74,Damola Ajayi,Striker,Right Winger,"Dec 27, 2005 ",18,['England'],England,London,AM   LW,,-
+,Jaedyn Chibanga,Striker,Right Winger,"Oct 5, 2005 ",18,['England'],England,Doncaster,,,-
+,Ben Creamer,Striker,Right Winger,"Dec 16, 2005 ",18,['England'],England,,RM   CF,"1,82",-
+,Carlos Richards,Striker,Right Winger,"Aug 30, 2005 ",18,"['Gibraltar', 'England']",England,London,AM   LW,"1,73",-
+16,Rylee Wright,Striker,Right Winger,"Mar 13, 2005 ",19,['England'],England,Kingston Upon Thames,LW,"1,81",-
+77,Tudor Mendel-Idowu,Striker,Right Winger,"Jan 15, 2005 ",19,"['England', 'Nigeria']",England,Slough,AM   LW,"1,80",€400k
+53,Joe Gardner,Striker,Right Winger,"Jun 6, 2005 ",18,['England'],England,,AM   LW,,€150k
+,Jake Bradford,Striker,Right Winger,"Jan 26, 2005 ",19,['England'],England,Sheffield,,,-
+83,Darren Palmer,Striker,Right Winger,"Sep 24, 2005 ",18,['England'],England,South Shields,LW   AM,"1,78",-
+,Lewis Trickett,Striker,Right Winger,"Apr 27, 2005 ",18,['Northern Ireland'],England,Blackburn,LW,,-
+,Archie Kirton,Striker,Right Winger,"Oct 15, 2005 ",18,['England'],England,,RB   CF,,-
+,Malachi Sharpe,Striker,Right Winger,"Nov 20, 2005 ",18,"['Scotland', 'England']",England,Nottingham,LW,,-
+38,Rayan Kolli,Striker,Right Winger,"Feb 10, 2005 ",19,"['Algeria', 'England']",England,London,LW   AM,,-
