@@ -1,0 +1,576 @@
+Number,Name,Main Position,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+5,Caio,Defender,Left-Back,"Sep 6, 1985 ",38,['Portugal'],Portugal,Peso da Régua,,"1,72",-
+,Jorge Lopes,Defender,Left-Back,"Jan 3, 1985 ",39,['Portugal'],Portugal,Porto,,"1,80",-
+11,Jorginho,Defender,Left-Back,"Sep 21, 1985 ",38,['Portugal'],Portugal,Paredes,LM   LW,"1,69",-
+,Nélson Pedroso,Defender,Left-Back,"Jun 10, 1985 ",38,['Portugal'],Portugal,Guimarães,LM,"1,80",-
+,Luisinho,Defender,Left-Back,"May 5, 1985 ",38,['Portugal'],Portugal,Porto,,"1,71",-
+,Pedro Araújo,Defender,Left-Back,"Jan 10, 1985 ",39,['Portugal'],Portugal,Vila Nova de Famalicão,,"1,73",-
+,Serginho,Defender,Left-Back,"Oct 12, 1985 ",38,['Portugal'],Portugal,Castelo de Paiva,,"1,77",-
+,Tiago Santos,Defender,Left-Back,"Apr 3, 1985 ",39,['Portugal'],Portugal,Caldas da Raínha,,"1,75",-
+,Serginho,Defender,Left-Back,"Nov 22, 1985 ",38,['Portugal'],Portugal,Vila Nova de Famalicão,DM,"1,73",-
+,Jordão Diogo,Defender,Left-Back,"Nov 12, 1985 ",38,"['Sao Tome and Principe', 'Portugal']",Portugal,Lissabon,LM   DM,"1,84",-
+,Pak-Chun Chan,Defender,Left-Back,"Dec 5, 1985 ",38,['Macao'],Portugal,Macao,RB   CB,"1,72",-
+,Bruno Simão,Defender,Left-Back,"May 5, 1985 ",38,['Portugal'],Portugal,Lisboa,CB   LM,"1,77",-
+,Vítor Hugo,Defender,Left-Back,"Sep 21, 1985 ",38,['Portugal'],Portugal,Gondomar,LM   LW,"1,80",-
+45,Mário Camora,Defender,Left-Back,"Nov 10, 1986 ",37,"['Romania', 'Portugal']",Portugal,Samora Correia,LM,"1,78",€400k
+,Ivo Oliveira,Defender,Left-Back,"Jun 23, 1986 ",37,['Portugal'],Portugal,Santa Maria de Lamas,,"1,82",-
+,Vítor Pinto,Defender,Left-Back,"Mar 21, 1986 ",38,['Portugal'],Portugal,Vizela,LM,"1,70",-
+,Pedrinho,Defender,Left-Back,"May 26, 1986 ",37,['Portugal'],Portugal,Paredes,LM   LW,"1,76",-
+,Gonçalo,Defender,Left-Back,"May 25, 1986 ",37,['Portugal'],Portugal,Vila Nova de Gaia,,"1,80",-
+,Chileno,Defender,Left-Back,"May 2, 1986 ",37,"['Portugal', 'Chile']",Portugal,Góis,,"1,73",-
+77,Vitinha,Defender,Left-Back,"Feb 11, 1986 ",38,['Portugal'],Portugal,Guimarães,RB   DM,"1,73",-
+,Luís Tinoco,Defender,Left-Back,"Oct 17, 1986 ",37,['Portugal'],Portugal,Barcelos,,"1,86",-
+,Tiago Gomes,Defender,Left-Back,"Jul 29, 1986 ",37,['Portugal'],Portugal,Oeiras,,"1,77",-
+20,Jorge Rosa,Defender,Left-Back,"Dec 25, 1986 ",37,['Portugal'],Portugal,Horta,LM,,-
+,Porto,Defender,Left-Back,"Sep 20, 1986 ",37,['Portugal'],Portugal,Lourosa,,"1,71",-
+,Filipe Pires,Defender,Left-Back,"Feb 5, 1986 ",38,['Portugal'],Portugal,Porto,,"1,80",-
+,Dani Lopes,Defender,Left-Back,"Jul 6, 1986 ",37,['Portugal'],Portugal,Entroncamento,,"1,72",-
+,Bruno Chapinha,Defender,Left-Back,"Mar 11, 1986 ",38,['Portugal'],Portugal,Valpaços,,"1,70",-
+,Emídio Rafael,Defender,Left-Back,"Jan 24, 1986 ",38,['Portugal'],Portugal,Lisboa,,"1,83",-
+,Nuno Pinto,Defender,Left-Back,"Aug 6, 1986 ",37,['Portugal'],Portugal,Vila Nova de Gaia,LM,"1,73",-
+,Vítor Vinha,Defender,Left-Back,"Nov 11, 1986 ",37,['Portugal'],Portugal,Oliveira de Frades,LM   CM,"1,80",-
+5,Antunes,Defender,Left-Back,"Apr 1, 1987 ",37,['Portugal'],Portugal,Freamunde,LM,"1,75",€75k
+13,Marco Semedo,Defender,Left-Back,"Oct 8, 1987 ",36,['Portugal'],Portugal,Carnaxide,CB   DM,"1,81",-
+17,Raúl Martins,Defender,Left-Back,"Feb 3, 1987 ",37,"['Portugal', 'Angola']",Portugal,Porto,CB,"1,81",-
+25,Jorginho,Defender,Left-Back,"Mar 30, 1987 ",37,['Portugal'],Portugal,Ponta Delgada,LM,"1,78",-
+,Zinho,Defender,Left-Back,"Dec 10, 1987 ",36,['Portugal'],Portugal,Lisboa,,"1,83",-
+,André Marques,Defender,Left-Back,"Aug 1, 1987 ",36,['Portugal'],Portugal,Viseu,DM   LM,"1,86",-
+,Luís Firmino,Defender,Left-Back,"Feb 16, 1987 ",37,['Portugal'],Portugal,Vila Real Santo Antonio,LM   CF,"1,87",-
+31,Miguel Fernandes,Defender,Left-Back,"May 2, 1987 ",36,['Portugal'],Portugal,Barcelos,,"1,82",-
+,Augusto,Defender,Left-Back,"Aug 30, 1987 ",36,['Portugal'],Portugal,Matosinho,LM   DM,"1,80",-
+,Miguel Pimenta,Defender,Left-Back,"Mar 9, 1987 ",37,['Portugal'],Portugal,Barreiro,CM   LM,"1,77",-
+,João Pedro,Defender,Left-Back,"May 13, 1987 ",36,['Portugal'],Portugal,Lavra,CB,"1,83",-
+69,Igor Conceição,Defender,Left-Back,"Sep 23, 1988 ",35,['Portugal'],Portugal,Penedo Gordo,,"1,83",-
+,Diogo Aidos,Defender,Left-Back,"Nov 23, 1988 ",35,['Portugal'],Portugal,Aveiro,DM   LM,,-
+,Nera,Defender,Left-Back,"Jul 9, 1988 ",35,['Portugal'],Portugal,Guimarães,,"1,82",-
+,Lino,Defender,Left-Back,"Sep 16, 1988 ",35,['Portugal'],Portugal,Portimão,,"1,74",-
+,Fábio Esquivas,Defender,Left-Back,"May 17, 1988 ",35,['Portugal'],Portugal,Castelo Branco,LM,"1,86",-
+,Vítor Hugo,Defender,Left-Back,"Oct 2, 1988 ",35,['Portugal'],Portugal,São Roque,CB,"1,83",-
+5,Bruno Machado,Defender,Left-Back,"Jun 9, 1988 ",35,['Portugal'],Portugal,Vila Nova de Famalicão,CB,"1,80",-
+,Diogo Oliveira,Defender,Left-Back,"Oct 3, 1988 ",35,['Portugal'],Portugal,Matosinhos,,"1,82",-
+,Tiago Pinto,Defender,Left-Back,"Feb 1, 1988 ",36,['Portugal'],Portugal,Porto,LM   DM,"1,77",-
+,Fábio Coentrão,Defender,Left-Back,"Mar 11, 1988 ",36,['Portugal'],Portugal,Vila do Conde,LW   LM,"1,79",-
+,Hugo Fernandes,Defender,Left-Back,"Mar 27, 1988 ",36,['Portugal'],Portugal,Amadora,,,-
+51,Eugénio Fernandes,Defender,Left-Back,"Jan 30, 1988 ",36,['Portugal'],Portugal,Angra do Heroísmo,LM,"1,77",-
+,Miguel Gomes,Defender,Left-Back,"Oct 21, 1988 ",35,['Portugal'],Portugal,Vila Nova de Gaia,LM   LW,"1,72",-
+37,Huguinho,Defender,Left-Back,"Mar 20, 1988 ",36,['Portugal'],Portugal,Vila Nova de Gaia,,"1,81",-
+,Pedro Sá,Defender,Left-Back,"Nov 22, 1988 ",35,['Portugal'],Portugal,Vila Nova de Gaia,LM   LW,"1,83",-
+,Vítor Lobo,Defender,Left-Back,"Jul 1, 1988 ",35,['Portugal'],Portugal,Vila Nova de Gaia,CB,"1,76",-
+,Marco Lança,Defender,Left-Back,"Jan 17, 1988 ",36,['Portugal'],Portugal,Setúbal,,"1,82",-
+,Hélder Mendes,Defender,Left-Back,"Jun 22, 1988 ",35,['Portugal'],Portugal,Penafiel,LM   LW,"1,73",-
+,Carlos Alves,Defender,Left-Back,"Feb 6, 1988 ",36,['Portugal'],Portugal,Oeiras,,"1,77",-
+22,Hélder Lopes,Defender,Left-Back,"Jan 4, 1989 ",35,['Portugal'],Portugal,Vila Nova de Gaia,LM   LW,"1,79",€300k
+31,Joãozinho,Defender,Left-Back,"Jul 2, 1989 ",34,['Portugal'],Portugal,Lisboa,LM   CB,"1,85",€100k
+,Joãozinho,Defender,Left-Back,"Nov 27, 1989 ",34,['Portugal'],Portugal,Arcozelo,CM,"1,70",-
+18,Maurílio Jesus,Defender,Left-Back,"Feb 25, 1989 ",35,['Portugal'],Portugal,Santana,LM,"1,64",-
+14,Vítor Sanches,Defender,Left-Back,"Mar 6, 1989 ",35,"['Portugal', 'Cape Verde']",Portugal,Lisboa,CB,"1,79",-
+,André Pereira,Defender,Left-Back,"Mar 20, 1989 ",35,['Portugal'],Portugal,Vila Nova de Gaia,CB,"1,78",-
+13,Álvaro Branco,Defender,Left-Back,"Aug 13, 1989 ",34,['Portugal'],Portugal,Chaves,CB,"1,86",-
+,Califo,Defender,Left-Back,"Sep 22, 1989 ",34,"['Guinea-Bissau', 'Portugal']",Portugal,Lisboa,,"1,80",-
+,Luís Sousa,Defender,Left-Back,"Jul 22, 1989 ",34,['Portugal'],Portugal,Lisboa,,"1,70",-
+,Tiago Conceição,Defender,Left-Back,"Apr 17, 1989 ",34,['Portugal'],Portugal,Lissabon,CB   DM,"1,86",-
+31,Talocha,Defender,Left-Back,"Aug 30, 1989 ",34,['Portugal'],Portugal,Vila Nova de Famalicão,,"1,80",€125k
+28,Rúben Lima,Defender,Left-Back,"Oct 3, 1989 ",34,['Portugal'],Portugal,Lisboa,CB   LM,"1,77",€100k
+,Alex Sá,Defender,Left-Back,"Feb 22, 1989 ",35,['Portugal'],Portugal,Porto,LM,"1,79",-
+,Paulo Lopes,Defender,Left-Back,"Feb 13, 1989 ",35,['Portugal'],Portugal,Leça da Palmeira,LM   LW,"1,83",-
+,Zé Diogo,Defender,Left-Back,"Mar 26, 1989 ",35,['Portugal'],Portugal,Vila Real,CM   LM,"1,80",-
+5,Rui Raínho,Defender,Left-Back,"Jun 27, 1989 ",34,['Portugal'],Portugal,Aveiro,CB   LM,"1,80",-
+,Diogo Bonito,Defender,Left-Back,"Dec 6, 1989 ",34,['Portugal'],Portugal,Vidigueirra,CB,"1,74",-
+25,Rui Torres,Defender,Left-Back,"Dec 16, 1989 ",34,['Portugal'],Portugal,Barcelos,,"1,75",-
+,Sérgio Ramos,Defender,Left-Back,"Jun 28, 1989 ",34,['Portugal'],Portugal,Guimarães,,"1,83",-
+,Igor Pita,Defender,Left-Back,"May 31, 1989 ",34,['Portugal'],Portugal,Funchal,CB,"1,82",-
+6,Sequeira,Defender,Left-Back,"Aug 19, 1990 ",33,['Portugal'],Portugal,Porto,CB   LM,"1,84",€825k
+20,João Amaral,Defender,Left-Back,"Jul 20, 1990 ",33,['Portugal'],Portugal,Coimbra,CB   LM,"1,79",-
+5,Hugo Graça,Defender,Left-Back,"Apr 24, 1990 ",33,['Portugal'],Portugal,Vila Nova de Famalicão,CB   DM,"1,84",-
+,Joel Vaz,Defender,Left-Back,"Jun 23, 1990 ",33,['Portugal'],Portugal,Cascais,,"1,78",-
+35,Hugo Moreira,Defender,Left-Back,"Oct 30, 1990 ",33,['Portugal'],Portugal,Maia,LM,"1,70",-
+,Sérgio Vieira,Defender,Left-Back,"Jun 26, 1990 ",33,['Portugal'],Portugal,,LM,"1,80",-
+,Preto,Defender,Left-Back,"Aug 18, 1990 ",33,['Portugal'],Portugal,Paredes,,"1,76",-
+11,Rúben,Defender,Left-Back,"Feb 17, 1990 ",34,['Portugal'],Portugal,Funchal,,"1,83",-
+10,Fausto Peixoto,Defender,Left-Back,"Jun 24, 1990 ",33,['Portugal'],Portugal,Vizela,,"1,69",-
+,Hugo Costa,Defender,Left-Back,"Feb 20, 1990 ",34,['Portugal'],Portugal,Póvoa de Varzim,CB,"1,85",-
+,Alex Barbosa,Defender,Left-Back,"Oct 13, 1990 ",33,['Portugal'],Portugal,Barcelos,LM,"1,84",-
+20,Filipe Ferreira,Defender,Left-Back,"Sep 27, 1990 ",33,['Portugal'],Portugal,Lisboa,LM   LW,"1,78",€200k
+,Gonçalo Fonseca,Defender,Left-Back,"Aug 21, 1990 ",33,['Portugal'],Portugal,Lisboa,,"1,82",-
+5,João Rodrigues,Defender,Left-Back,"Nov 15, 1990 ",33,['Portugal'],Portugal,Santarém,LM   LW,"1,78",-
+,Rui Gato,Defender,Left-Back,"Feb 18, 1990 ",34,['Portugal'],Portugal,Ferreira do Alentejo,,,-
+20,Gonçalo,Defender,Left-Back,"Dec 28, 1990 ",33,['Portugal'],Portugal,Guimarães,LW   LM,"1,76",-
+15,Jorge Miguel,Defender,Left-Back,"Sep 22, 1990 ",33,['Portugal'],Portugal,Vila Nova de Famalicão,,"1,76",-
+90,Ruca,Defender,Left-Back,"Sep 11, 1990 ",33,['Portugal'],Portugal,Tondela,LM   LW,"1,89",-
+,Fabinho,Defender,Left-Back,"Jan 26, 1990 ",34,"['Brazil', 'Portugal']",Portugal,Famalicão,RB,"1,70",-
+90,Vítor Bruno,Defender,Left-Back,"Jan 13, 1990 ",34,['Portugal'],Portugal,Vila do Conde,LM   LW,"1,71",-
+,André Pires,Defender,Left-Back,"Feb 7, 1990 ",34,['Portugal'],Portugal,Lisboa,LM,"1,83",-
+6,Mário Rui,Defender,Left-Back,"May 27, 1991 ",32,['Portugal'],Portugal,Sines,LM,"1,68",€4.00m
+10,Rola,Defender,Left-Back,"Feb 22, 1991 ",33,['Portugal'],Portugal,Coimbra,DM   CM,"1,79",-
+,Vitinha,Defender,Left-Back,"Mar 24, 1991 ",33,['Portugal'],Portugal,Santa Maria da Feira,,,-
+,Pedro Branco,Defender,Left-Back,"Apr 16, 1991 ",32,['Portugal'],Portugal,Porto,CB,"1,80",-
+17,Luisinho,Defender,Left-Back,"May 6, 1991 ",32,['Portugal'],Portugal,Vimioso,LM,"1,68",-
+,Espincho,Defender,Left-Back,"Apr 5, 1991 ",33,['Portugal'],Portugal,Valongo,LM   LW,"1,7",-
+,Serginho,Defender,Left-Back,"Jan 20, 1991 ",33,['Portugal'],Portugal,Lisboa,,,-
+,Pedro Lemos,Defender,Left-Back,"Apr 2, 1991 ",33,['Portugal'],Portugal,Espinho,,,-
+,Pedro Gomes,Defender,Left-Back,"May 23, 1991 ",32,['Portugal'],Portugal,Lisboa,LM,"1,83",-
+,Gil Barros,Defender,Left-Back,"Jul 4, 1991 ",32,['Portugal'],Portugal,Paredes,,"1,82",-
+17,Luís Gonçalves,Defender,Left-Back,"Jun 30, 1991 ",32,['Portugal'],Portugal,Lisboa,,"1,78",-
+,Manteigas,Defender,Left-Back,"Jan 14, 1991 ",33,['Portugal'],Portugal,Odivelas,LM   LW,"1,69",-
+,Daniel Latkowski,Defender,Left-Back,"Nov 11, 1991 ",32,"['Germany', 'Portugal']",Portugal,Porto,RB   RW,"1,78",-
+15,Gui Ferreira,Defender,Left-Back,"Apr 17, 1991 ",32,['Portugal'],Portugal,Alverca do Ribatejo,LM   LW,"1,83",€100k
+,Oliveira,Defender,Left-Back,"Jan 16, 1991 ",33,['Portugal'],Portugal,Oliveira de Azeméis,,,-
+5,Paulito Martins,Defender,Left-Back,"Nov 28, 1991 ",32,['Portugal'],Portugal,Pombal,,"1,69",-
+5,Carlão,Defender,Left-Back,"Jul 27, 1991 ",32,['Portugal'],Portugal,Penafiel,CB,"1,78",-
+,Armando,Defender,Left-Back,"Sep 30, 1991 ",32,['Portugal'],Portugal,Ponta Delgada,LM,"1,77",-
+,Jaime Filipe Saraiva Pires,Defender,Left-Back,"Mar 18, 1991 ",33,['Portugal'],Portugal,"Rebordãos, Bragança",,"1,75",-
+,Paulo Monteiro,Defender,Left-Back,"May 29, 1991 ",32,['Portugal'],Portugal,Lousada,,"1,77",-
+31,Mário Mendonça,Defender,Left-Back,"Aug 18, 1991 ",32,['Portugal'],Portugal,Esposende,LM   LW,"1,82",-
+,Miguel Vaz,Defender,Left-Back,"Dec 6, 1991 ",32,['Portugal'],Portugal,Vila Nova de Gaia,LW,"1,80",-
+24,Muhammad Candé,Defender,Left-Back,"Aug 28, 1991 ",32,"['Guinea-Bissau', 'Portugal']",Portugal,Cascais,LM,"1,73",-
+,Ricardo Real,Defender,Left-Back,"Jan 24, 1991 ",33,['Portugal'],Portugal,Covilhã,,"1,77",-
+,Bruno Silva,Defender,Left-Back,"May 4, 1991 ",32,['Portugal'],Portugal,Braga,,"1,78",-
+14,Luís Martins,Defender,Left-Back,"Jun 10, 1992 ",31,['Portugal'],Portugal,Lamego,LM,"1,77",€400k
+15,Káká,Defender,Left-Back,"Oct 6, 1992 ",31,['Portugal'],Portugal,Guimarães,,"1,72",€150k
+,Mauro Cerqueira,Defender,Left-Back,"Aug 20, 1992 ",31,['Portugal'],Portugal,Lisboa,,"1,78",€100k
+,Jojó,Defender,Left-Back,"Nov 23, 1992 ",31,['Portugal'],Portugal,Arcos de Valdevez,,"1,74",-
+21,Faneca,Defender,Left-Back,"May 26, 1992 ",31,['Portugal'],Portugal,Paços de Ferreira,CB,"1,78",-
+3,João Varudo,Defender,Left-Back,"Jul 6, 1992 ",31,['Portugal'],Portugal,Lisboa,LM   LW,"1,84",-
+,Abílio,Defender,Left-Back,"May 27, 1992 ",31,['Portugal'],Portugal,Matosinhos,,,-
+29,Joel Ferreira,Defender,Left-Back,"Jan 10, 1992 ",32,['Portugal'],Portugal,Valongo,RB   CB,"1,80",-
+55,Diogo Coelho,Defender,Left-Back,"Jul 8, 1992 ",31,['Portugal'],Portugal,Oeiras,LM   LW,"1,75",-
+,Bruno Pacheco,Defender,Left-Back,"Nov 27, 1992 ",31,['Portugal'],Portugal,Lagos,,"1,82",-
+27,Rui Coentrão,Defender,Left-Back,"Jul 25, 1992 ",31,['Portugal'],Portugal,Vila do Conde,LW   LM,"1,65",-
+17,João Reis,Defender,Left-Back,"Jun 24, 1992 ",31,['Portugal'],Portugal,Loulé,LW   LM,"1,74",€300k
+45,China,Defender,Left-Back,"Jul 7, 1992 ",31,['Portugal'],Portugal,Funchal,LM   LW,"1,79",€100k
+,Jorge,Defender,Left-Back,"Mar 13, 1992 ",32,['Portugal'],Portugal,Póvoa de Sobrinhos,,"1,80",-
+7,Rúben Freire,Defender,Left-Back,"Oct 8, 1992 ",31,['Portugal'],Portugal,Évora,LM   LW,"1,78",-
+25,Vítor Sousa,Defender,Left-Back,"Mar 18, 1992 ",32,['Portugal'],Portugal,Viana do Castelo,LM   CM,"1,70",-
+,Pedro Batista,Defender,Left-Back,"May 27, 1992 ",31,['Portugal'],Portugal,Setúbal,,"1,71",-
+12,Tiago Cerveira,Defender,Left-Back,"Jul 7, 1992 ",31,['Portugal'],Portugal,Coimbra,LM   LW,"1,73",-
+,Bernas,Defender,Left-Back,"Apr 22, 1992 ",31,['Portugal'],Portugal,Aveiro,,,-
+23,Diogo Apolinário,Defender,Left-Back,"Jul 28, 1992 ",31,['Portugal'],Portugal,Barcelos,,,-
+3,André Dias,Defender,Left-Back,"Apr 18, 1992 ",31,['Portugal'],Portugal,Torre Moncorvo,,"1,78",-
+23,Kiko,Defender,Left-Back,"Jan 20, 1993 ",31,['Portugal'],Portugal,Alcacer do Sal,LM,"1,80",€250k
+6,Miguel Costa,Defender,Left-Back,"Nov 19, 1993 ",30,['Portugal'],Portugal,Portimão,CB,"1,84",-
+,Ricardo Duarte,Defender,Left-Back,"Aug 29, 1993 ",30,['Portugal'],Portugal,Lagos,,"1,84",-
+,Tiago Bragança,Defender,Left-Back,"Jan 16, 1993 ",31,['Portugal'],Portugal,Caldas da Raínha,RB,"1,66",-
+27,André Frias,Defender,Left-Back,"Apr 21, 1993 ",30,['Portugal'],Portugal,Lisboa,LM   LW,"1,71",-
+,Jorge Miranda,Defender,Left-Back,"Aug 11, 1993 ",30,['Portugal'],Portugal,Tocha,LM,,-
+,Ricardo Sivas,Defender,Left-Back,"Oct 18, 1993 ",30,['Portugal'],Portugal,Mondim de Basto,LM   LW,"1,80",-
+,Rafael Sardinha,Defender,Left-Back,"Jan 9, 1993 ",31,['Portugal'],Portugal,Vila Nova de Gaia,LM,"1,80",-
+,Daniel Gonçalves,Defender,Left-Back,"Oct 11, 1993 ",30,['Portugal'],Portugal,Tábua,LM,"1,75",-
+7,Tiaguinho,Defender,Left-Back,"Jul 18, 1993 ",30,['Portugal'],Portugal,Lousada,RB,"1,68",-
+,Vitinha,Defender,Left-Back,"Apr 14, 1993 ",30,['Portugal'],Portugal,Santa Maria de Lamas,LM   LW,,-
+,Daniel Martins,Defender,Left-Back,"Jun 23, 1993 ",30,['Portugal'],Portugal,Lisboa,CB,"1,89",-
+16,Luís Rocha,Defender,Left-Back,"Jun 27, 1993 ",30,['Portugal'],Portugal,Vila Nova de Famalicão,LM,"1,77",€150k
+,Xano Costa,Defender,Left-Back,"Jun 21, 1993 ",30,['Portugal'],Portugal,,LM,"1,77",-
+,Gil Santos,Defender,Left-Back,"Feb 26, 1993 ",31,['Portugal'],Portugal,Maia,,,-
+,David André,Defender,Left-Back,"Jan 12, 1993 ",31,['Portugal'],Portugal,Carregueiros,CB,"1,80",-
+7,Luís Farinha,Defender,Left-Back,"Feb 3, 1993 ",31,['Portugal'],Portugal,Lourinhã,LW   RW,"1,75",-
+29,Zé Pedro,Defender,Left-Back,"Feb 10, 1993 ",31,"['Portugal', 'Angola']",Portugal,Cascais,LM,"1,83",-
+,Carlos Canedo,Defender,Left-Back,"Jul 14, 1993 ",30,['Portugal'],Portugal,Lisboa,RB   LM,"1,73",-
+,Jiayu Chen,Defender,Left-Back,"Jul 14, 1993 ",30,"['China', 'Portugal']",Portugal,Lisboa,CB,"1,78",-
+17,Chiquinho,Defender,Left-Back,"Feb 14, 1993 ",31,['Portugal'],Portugal,Paredes,LM   LW,"1,70",-
+,Afonso Figueiredo,Defender,Left-Back,"Jan 6, 1993 ",31,['Portugal'],Portugal,Oeiras,LM,"1,69",-
+6,Rodolfo Castro,Defender,Left-Back,"May 2, 1993 ",30,['Portugal'],Portugal,Condeixa,LM,"1,80",-
+,Samuel Fernandes,Defender,Left-Back,"Aug 10, 1993 ",30,['Portugal'],Portugal,Lissabon,DM   CM,"1,70",-
+25,Kiki,Defender,Left-Back,"Dec 10, 1994 ",29,['Portugal'],Portugal,Esposende,CB,"1,81",€600k
+2,Pastilhas,Defender,Left-Back,"Oct 5, 1994 ",29,['Portugal'],Portugal,Marinha Grande,LM,,-
+,Rogério,Defender,Left-Back,"Jan 21, 1994 ",30,['Portugal'],Portugal,Braga,,,-
+,Fábio Rebelo,Defender,Left-Back,"Oct 6, 1994 ",29,['Portugal'],Portugal,Lamego,,,-
+25,João Pinto,Defender,Left-Back,"May 22, 1994 ",29,['Portugal'],Portugal,Oeiras,LM,"1,72",-
+,Cláudio Bandeira,Defender,Left-Back,"Nov 28, 1994 ",29,['Portugal'],Portugal,,LM   LW,"1,79",-
+16,Fred Castanheira,Defender,Left-Back,"May 26, 1994 ",29,['Portugal'],Portugal,Coimbra,LM,"1,81",-
+,Gerson Sousa,Defender,Left-Back,"Apr 18, 1994 ",29,['Portugal'],Portugal,Viana do Castelo,,"1,83",-
+5,Rui Herculano,Defender,Left-Back,"Mar 10, 1994 ",30,['Portugal'],Portugal,Ribeirão,LM,"1,70",-
+,João Neves,Defender,Left-Back,"Mar 19, 1994 ",30,['Portugal'],Portugal,Coimbra,LM,"1,73",-
+5,Ruizinho,Defender,Left-Back,"Feb 16, 1994 ",30,"['Portugal', 'Brazil']",Portugal,Braga,,"1,70",-
+27,Pedro Tavares,Defender,Left-Back,"Mar 6, 1994 ",30,['Portugal'],Portugal,Santa Maria da Feira,CM   CB,"1,78",-
+,Rui Cardoso,Defender,Left-Back,"Feb 17, 1994 ",30,['Portugal'],Portugal,Amadora,,"1,85",-
+24,Rafael Floro,Defender,Left-Back,"Jan 19, 1994 ",30,['Portugal'],Portugal,Quarteira,RB   CB,"1,75",€100k
+17,Pedro Faria,Defender,Left-Back,"Jun 1, 1994 ",29,['Portugal'],Portugal,Gondar,,"1,82",-
+,Duarte Cordeiro,Defender,Left-Back,"Oct 16, 1994 ",29,['Portugal'],Portugal,Angra do Heroísmo,,"1,80",-
+30,David Santos,Defender,Left-Back,"Jan 30, 1994 ",30,['Portugal'],Portugal,Oliveira do Douro,LM,"1,80",-
+,Pedro Rodrigues,Defender,Left-Back,"Mar 24, 1994 ",30,['Portugal'],Portugal,Castelo de Paiva,,"1,75",-
+29,David Dinamite,Defender,Left-Back,"Dec 7, 1994 ",29,['Portugal'],Portugal,Estoril,LM   LW,"1,74",-
+,Diogo Silva,Defender,Left-Back,"Nov 18, 1994 ",29,['Portugal'],Portugal,Angra do Heroísmo,,,-
+,Pedro Rodrigues,Defender,Left-Back,"Aug 30, 1994 ",29,['Portugal'],Portugal,Porto,,"1,80",-
+,Ivo Silva,Defender,Left-Back,"Jun 13, 1994 ",29,['Portugal'],Portugal,Vila Nova de Famalicão,,"1,72",-
+,Bruno Chuca,Defender,Left-Back,"Jan 19, 1994 ",30,['Portugal'],Portugal,Trofa,RB   CM,"1,75",-
+22,Rui Bento,Defender,Left-Back,"Apr 29, 1994 ",29,['Portugal'],Portugal,Loures,RB,"1,75",-
+,Jake Gonçalves,Defender,Left-Back,"Sep 7, 1994 ",29,"['Portugal', 'England']",Portugal,Funchal,,"1,73",-
+45,David Crespo,Defender,Left-Back,"Feb 14, 1994 ",30,['Portugal'],Portugal,Lisboa,CB   DM,"1,80",-
+8,Guilherme,Defender,Left-Back,"Feb 14, 1994 ",30,['Portugal'],Portugal,Calvão,CM   LW,"1,74",-
+13,Nuno Malheiro,Defender,Left-Back,"Feb 1, 1994 ",30,"['Sao Tome and Principe', 'Portugal']",Portugal,Cascais,LM,"1,74",-
+11,Nuno Santos,Defender,Left-Back,"Feb 13, 1995 ",29,['Portugal'],Portugal,Trofa,LW   RW,"1,77",€12.00m
+5,Pedro Rebocho,Defender,Left-Back,"Jan 23, 1995 ",29,['Portugal'],Portugal,Évora,RB,"1,71",€650k
+15,Simãozinho,Defender,Left-Back,"May 31, 1995 ",28,['Portugal'],Portugal,Trofa,LM,"1,80",€225k
+77,Henrique Gomes,Defender,Left-Back,"Nov 30, 1995 ",28,['Portugal'],Portugal,Barcelos,LM,"1,85",€150k
+,Bruno Lopes,Defender,Left-Back,"Mar 31, 1995 ",29,['Portugal'],Portugal,Aveiro,,,-
+31,Marco Silva,Defender,Left-Back,"Oct 28, 1995 ",28,['Portugal'],Portugal,Horta,LM,"1,65",-
+8,Bruno Maia,Defender,Left-Back,"May 29, 1995 ",28,['Portugal'],Portugal,Madalena,CB,"1,79",-
+14,Tiago Vieira,Defender,Left-Back,"Aug 17, 1995 ",28,['Portugal'],Portugal,Guimarães,LM,"1,77",-
+,Paulo Antunes,Defender,Left-Back,"Nov 15, 1995 ",28,['Portugal'],Portugal,,,"1,74",-
+26,Zézinho,Defender,Left-Back,"Nov 2, 1995 ",28,['Portugal'],Portugal,Póvoa de Varzim,LM,"1,80",-
+17,João Frazão,Defender,Left-Back,"Sep 14, 1995 ",28,['Portugal'],Portugal,Leiria,LM,"1,86",-
+,Portilho,Defender,Left-Back,"Jul 21, 1995 ",28,['Portugal'],Portugal,Gondomar,,"1,74",-
+,Ruizinho,Defender,Left-Back,"Sep 24, 1995 ",28,['Portugal'],Portugal,Guimarães,LM,"1,66",-
+55,Rafa Soares,Defender,Left-Back,"May 9, 1995 ",28,['Portugal'],Portugal,Marco de Canaveses,,"1,77",€1.50m
+28,Miguel Silva,Defender,Left-Back,"Dec 20, 1995 ",28,['Portugal'],Portugal,Fiães,LM   LW,"1,91",€350k
+21,João Vigário,Defender,Left-Back,"Nov 20, 1995 ",28,['Portugal'],Portugal,Gondomar,LW,"1,80",€200k
+16,João Pinho,Defender,Left-Back,"Sep 16, 1995 ",28,['Portugal'],Portugal,Estarreja,,,-
+13,António Pedro,Defender,Left-Back,"Sep 20, 1995 ",28,['Portugal'],Portugal,,,"1,85",-
+,Gabriel Quintal,Defender,Left-Back,"Jan 24, 1995 ",29,['Portugal'],Portugal,,,,-
+22,Duda,Defender,Left-Back,"Aug 14, 1995 ",28,"['Portugal', 'Guinea-Bissau']",Portugal,,LM   LW,"1,82",-
+,Figueiras,Defender,Left-Back,"Feb 28, 1995 ",29,['Portugal'],Portugal,Joane,LM,"1,75",-
+,João Monteiro,Defender,Left-Back,"Dec 11, 1995 ",28,['Portugal'],Portugal,Porto,CB,"1,80",-
+,Maurício Antunes,Defender,Left-Back,"Nov 22, 1995 ",28,['Portugal'],Portugal,Lisboa,,"1,85",-
+20,Luís Vaz,Defender,Left-Back,"Dec 20, 1995 ",28,['Portugal'],Portugal,Braga,LW   RW,"1,74",-
+20,Armando,Defender,Left-Back,"May 14, 1995 ",28,['Portugal'],Portugal,Amarante,RB,"1,76",-
+6,Renato Maia,Defender,Left-Back,"Aug 9, 1995 ",28,['Portugal'],Portugal,Sandim,CB,"1,79",-
+6,Xéxé,Defender,Left-Back,"Dec 15, 1995 ",28,['Portugal'],Portugal,Ribeira Grande,RB   LM,"1,78",-
+5,Rúben Ribeiro,Defender,Left-Back,"Dec 16, 1995 ",28,"['Portugal', 'Germany']",Portugal,Sesimbra,LW   CB,"1,77",-
+21,Ricardo Tavares,Defender,Left-Back,"Mar 25, 1995 ",29,['Portugal'],Portugal,São João da Madeira,CB,"1,80",-
+,Pedro Campos,Defender,Left-Back,"Jun 21, 1995 ",28,['Portugal'],Portugal,Vila Nova de Famalicão,,"1,82",-
+,Cadú Gomes,Defender,Left-Back,"Feb 21, 1995 ",29,['Portugal'],Portugal,,LW,,-
+,Rafael,Defender,Left-Back,"May 4, 1995 ",28,['Portugal'],Portugal,Amadora,,"1,75",-
+6,Ulisses Garcia,Defender,Left-Back,"Jan 11, 1996 ",28,"['Switzerland', 'Cape Verde']",Portugal,Almada,LM,"1,82",€4.00m
+5,José Gomes,Defender,Left-Back,"Jul 20, 1996 ",27,['Portugal'],Portugal,Cabeceiras de Basto,CB,"1,85",€225k
+20,Luís Serrano,Defender,Left-Back,"Jul 1, 1996 ",27,['Portugal'],Portugal,Portel,LM,,-
+23,Gonçalo Casal,Defender,Left-Back,"Oct 4, 1996 ",27,['Portugal'],Portugal,Marinhas,CM,"1,73",-
+7,David Salgadinho,Defender,Left-Back,"Jul 23, 1996 ",27,['Portugal'],Portugal,Faro,,"1,78",-
+,Amândio Rodrigues,Defender,Left-Back,"Jul 20, 1996 ",27,['Portugal'],Portugal,Coimbra,LM   LW,"1,78",-
+,Tozé,Defender,Left-Back,"Sep 12, 1996 ",27,['Portugal'],Portugal,,,,-
+18,Vieirinha,Defender,Left-Back,"Aug 21, 1996 ",27,['Portugal'],Portugal,Leiria,LW,"1,76",-
+,Guilherme Esteves,Defender,Left-Back,"Apr 11, 1996 ",27,['Portugal'],Portugal,Monção,,,-
+23,Lisandro Menezes,Defender,Left-Back,"Apr 23, 1996 ",27,['Portugal'],Portugal,Lisboa,,"1,77",-
+55,Bruno Beato,Defender,Left-Back,"Dec 10, 1996 ",27,['Portugal'],Portugal,Batalha,LM   LW,"1,76",-
+,Marcito,Defender,Left-Back,"Jul 15, 1996 ",27,['Portugal'],Portugal,,,"1,73",-
+,João Carvalho,Defender,Left-Back,"Oct 26, 1996 ",27,['Portugal'],Portugal,Santo Tirso,LM   LW,"1,80",-
+16,Paulo Henrique,Defender,Left-Back,"Oct 23, 1996 ",27,['Portugal'],Portugal,Fenais da Luz,CB   LM,"1,82",€450k
+80,Evandro Gomes,Defender,Left-Back,"Oct 1, 1996 ",27,['Portugal'],Portugal,Quarteira,LW   LM,,€50k
+29,Miguel Coelho,Defender,Left-Back,"Nov 1, 1996 ",27,['Portugal'],Portugal,Barcelos,,"1,85",-
+,Fábio Galego,Defender,Left-Back,"Jun 1, 1996 ",27,['Portugal'],Portugal,,,,-
+15,Rui Pedro,Defender,Left-Back,"Dec 22, 1996 ",27,['Portugal'],Portugal,,LM   LW,,-
+27,Ivo Palma,Defender,Left-Back,"Sep 8, 1996 ",27,['Portugal'],Portugal,Amadora,CB,"1,88",-
+,Simão Serra,Defender,Left-Back,"Mar 7, 1996 ",28,['Portugal'],Portugal,Lisboa,LM,"1,75",-
+25,Rafael Silva,Defender,Left-Back,"Jan 10, 1996 ",28,['Portugal'],Portugal,Viseu,LM,"1,83",-
+5,Ivo Amorim,Defender,Left-Back,"May 27, 1996 ",27,['Portugal'],Portugal,Ponte da Barca,,,-
+,Miguel Barbosa,Defender,Left-Back,"Oct 16, 1996 ",27,['Portugal'],Portugal,Funchal,LM,"1,85",-
+21,Miguel Silva,Defender,Left-Back,"Apr 24, 1996 ",27,['Portugal'],Portugal,Santo Tirso,LM   LW,"1,84",-
+,João Grilo,Defender,Left-Back,"Aug 8, 1996 ",27,['Portugal'],Portugal,Ribeira Grande,CB,"1,80",-
+4,André Oliveira,Defender,Left-Back,"Jun 22, 1996 ",27,['Portugal'],Portugal,Leiria,CB,"1,84",-
+14,Filipe Melo,Defender,Left-Back,"Mar 27, 1996 ",28,['Portugal'],Portugal,Águeda,CB,"1,80",-
+18,Hélder Varela,Defender,Left-Back,"Apr 22, 1996 ",27,"['Portugal', 'Cape Verde']",Portugal,Sintra,LM   LW,"1,79",-
+,Gonçalo Pessoa,Defender,Left-Back,"Jan 15, 1996 ",28,['Portugal'],Portugal,Coimbra,LM,"1,72",-
+11,Cláudio Mateus,Defender,Left-Back,"Jan 18, 1996 ",28,['Portugal'],Portugal,Vila Real,LW,"1,70",-
+15,João Lucas,Defender,Left-Back,"Jan 15, 1996 ",28,['Portugal'],Portugal,Almada,LM   LW,"1,80",-
+6,Gonçalo Maria,Defender,Left-Back,"Jan 18, 1996 ",28,['Portugal'],Portugal,Lisboa,LM   LW,"1,80",-
+,João Santos,Defender,Left-Back,"Apr 17, 1996 ",27,['Portugal'],Portugal,Ponta Delgada,CM   LM,"1,69",-
+16,Tomás Mota,Defender,Left-Back,"Mar 25, 1996 ",28,['Portugal'],Portugal,Porto,LM   LW,"1,75",-
+,Tiago Azevedo,Defender,Left-Back,"Oct 9, 1996 ",27,['Portugal'],Portugal,Braga,CB,"1,74",-
+5,Nandinho,Defender,Left-Back,"Nov 7, 1996 ",27,['Portugal'],Portugal,Santa Maria da Feira,,"1,75",-
+47,Celsinho,Defender,Left-Back,"Jul 12, 1996 ",27,['Portugal'],Portugal,Faro,,"1,77",-
+,Luís Neves,Defender,Left-Back,"Apr 18, 1996 ",27,['Portugal'],Portugal,Moura,CM   LM,,-
+,Raúl Tavares,Defender,Left-Back,"Jan 2, 1996 ",28,['Portugal'],Portugal,Lourosa,,"1,61",-
+37,Fábio Pais,Defender,Left-Back,"May 28, 1996 ",27,['Portugal'],Portugal,Covilhã,LM,"1,75",-
+95,Luís Ká,Defender,Left-Back,"May 5, 1996 ",27,['Portugal'],Portugal,Braga,,"1,80",-
+,João Serrano,Defender,Left-Back,"Jul 19, 1996 ",27,['Portugal'],Portugal,Évora,LM,"1,79",-
+5,Yuri Ribeiro,Defender,Left-Back,"Jan 24, 1997 ",27,"['Portugal', 'Switzerland']",Portugal,Vieira do Minho,CB   LM,"1,75",€1.00m
+3,David Sualehe,Defender,Left-Back,"Mar 23, 1997 ",27,"['Portugal', 'Mozambique']",Portugal,Porto,LM,"1,83",€400k
+14,Pedro Empis,Defender,Left-Back,"Feb 1, 1997 ",27,['Portugal'],Portugal,Estoril,LM   LW,"1,77",€300k
+5,Rafael Pereira,Defender,Left-Back,"Oct 17, 1997 ",26,['Portugal'],Portugal,Palmeira,LM,"1,78",-
+24,Rochinha,Defender,Left-Back,"Feb 24, 1997 ",27,['Portugal'],Portugal,Cantanhede,,"1,70",-
+,Bruno Gomes,Defender,Left-Back,"Nov 27, 1997 ",26,['Portugal'],Portugal,Lisboa,,"1,76",-
+6,Litos,Defender,Left-Back,"Nov 3, 1997 ",26,['Portugal'],Portugal,Porto,CB,"1,80",-
+,Gilinho,Defender,Left-Back,"May 4, 1997 ",26,['Portugal'],Portugal,Vila Nova de Gaia,RB,"1,77",-
+,Ruca,Defender,Left-Back,"Jun 29, 1997 ",26,['Portugal'],Portugal,Chaves,CB,"1,82",-
+32,Filipe Cascão,Defender,Left-Back,"Mar 11, 1997 ",27,['Portugal'],Portugal,Caldas da Raínha,LM   LW,"1,79",-
+,Fábio Martins,Defender,Left-Back,"Jan 31, 1997 ",27,['Portugal'],Portugal,Águeda,LM,,-
+,Henrique Brito,Defender,Left-Back,"Apr 21, 1997 ",26,"['Cape Verde', 'Portugal']",Portugal,Braga,LM   LW,"1,76",-
+55,Tiago André,Defender,Left-Back,"Jan 18, 1997 ",27,['Portugal'],Portugal,Vila do Conde,LM,"1,82",-
+24,Pedro Amaral,Defender,Left-Back,"Aug 25, 1997 ",26,['Portugal'],Portugal,Lourel,CB   LM,"1,78",€700k
+55,Luís Mata,Defender,Left-Back,"Jul 6, 1997 ",26,['Portugal'],Portugal,Porto,LW   RB,"1,81",€400k
+5,Guilherme Graça,Defender,Left-Back,"Apr 10, 1997 ",26,['Portugal'],Portugal,,,,-
+5,João Barros,Defender,Left-Back,"Aug 30, 1997 ",26,['Portugal'],Portugal,,LM,,-
+,Hélio Amaral,Defender,Left-Back,"Jan 13, 1997 ",27,['Portugal'],Portugal,,LM   LW,"1,78",-
+,Drula,Defender,Left-Back,"Apr 16, 1997 ",26,['Portugal'],Portugal,Espinho,LM   LW,"1,83",-
+7,Ricardo Lousada,Defender,Left-Back,"Mar 11, 1997 ",27,['Portugal'],Portugal,Guimarães,,"1,87",-
+,Manecas,Defender,Left-Back,"Mar 31, 1997 ",27,['Portugal'],Portugal,Mirandela,CB,"1,79",-
+,Rochinha,Defender,Left-Back,"Jul 8, 1997 ",26,['Portugal'],Portugal,Vila Nova de Gaia,,,-
+,Elton Tavares,Defender,Left-Back,"Apr 20, 1997 ",26,['Portugal'],Portugal,Loures,RB,"1,75",-
+23,Ricardo Ferreira,Defender,Left-Back,"May 5, 1997 ",26,['Portugal'],Portugal,Fafe,RB   CM,"1,75",-
+5,Álvaro Milhazes,Defender,Left-Back,"Apr 26, 1997 ",26,['Portugal'],Portugal,Póvoa de Varzim,DM,"1,73",-
+,André Severino,Defender,Left-Back,"Aug 14, 1997 ",26,['Portugal'],Portugal,Barreiro,,"1,74",-
+,Rafael Pinho,Defender,Left-Back,"Jan 8, 1997 ",27,['Portugal'],Portugal,,,"1,77",-
+,Tiago Francisco,Defender,Left-Back,"Sep 7, 1997 ",26,['Portugal'],Portugal,Guimarães,CB,"1,82",-
+,Rúben Barbosa,Defender,Left-Back,"Jul 18, 1997 ",26,['Portugal'],Portugal,Santa Maria da Feira,LM   AM,"1,73",-
+19,Ricardo Mangas,Defender,Left-Back,"Mar 19, 1998 ",26,['Portugal'],Portugal,Lisboa,LM   LW,"1,81",€3.00m
+4,João Moutinho,Defender,Left-Back,"Jan 12, 1998 ",26,['Portugal'],Portugal,Lisbon,LM,"1,83",€800k
+77,Tiago Dias,Defender,Left-Back,"May 4, 1998 ",25,['Portugal'],Portugal,Lisboa,LM   LW,"1,75",€325k
+15,João Silva,Defender,Left-Back,"Feb 18, 1998 ",26,['Portugal'],Portugal,Caldas da Rainha,LM   LW,"1,83",€300k
+5,Bruno Pereira,Defender,Left-Back,"Jan 27, 1998 ",26,['Portugal'],Portugal,Esposende,LM   CM,"1,77",€125k
+5,Maçorano,Defender,Left-Back,"Jan 16, 1998 ",26,['Portugal'],Portugal,Torre de Moncorvo,,"1,74",-
+21,Kajê,Defender,Left-Back,"Feb 15, 1998 ",26,"['Portugal', 'Guinea-Bissau']",Portugal,Sintra,,"1,75",-
+20,Daniel Barão,Defender,Left-Back,"Sep 14, 1998 ",25,['Portugal'],Portugal,Concavada,,,-
+3,Diamantino Rocha,Defender,Left-Back,"Mar 7, 1998 ",26,"['Portugal', 'Guinea-Bissau']",Portugal,,RB   CM,"1,81",-
+5,João Pedro Silva,Defender,Left-Back,"May 25, 1998 ",25,['Portugal'],Portugal,Ponta de Sol,,,-
+28,Esteves,Defender,Left-Back,"Dec 4, 1998 ",25,['Portugal'],Portugal,Braga,LM   LW,"1,78",-
+,Rui Costa,Defender,Left-Back,"Jun 16, 1998 ",25,['Portugal'],Portugal,Felgueiras,LM   LW,"1,72",-
+77,Gil Pinto,Defender,Left-Back,"Jun 11, 1998 ",25,['Portugal'],Portugal,Amarante,LW,"1,75",-
+18,Pedro Amador,Defender,Left-Back,"Dec 18, 1998 ",25,['Portugal'],Portugal,Loures,LM,"1,81",€800k
+55,André Sousa,Defender,Left-Back,"Feb 26, 1998 ",26,['Portugal'],Portugal,Setúbal,LM   LW,"1,74",€400k
+13,Fábio Vianna,Defender,Left-Back,"Oct 8, 1998 ",25,['Portugal'],Portugal,Vila Real,LM,"1,81",€300k
+3,Jorginho,Defender,Left-Back,"Jun 27, 1998 ",25,['Portugal'],Portugal,Vila Nova de Famalicão,LM   LW,"1,73",€250k
+75,Nuno Namora,Defender,Left-Back,"Feb 12, 1998 ",26,['Portugal'],Portugal,Porto,,"1,78",€100k
+21,Hugo Medeiros,Defender,Left-Back,"Mar 30, 1998 ",26,['Portugal'],Portugal,,,,-
+19,David Lopes,Defender,Left-Back,"Apr 1, 1998 ",26,['Portugal'],Portugal,,,,-
+5,Iuri Alves,Defender,Left-Back,"Sep 20, 1998 ",25,['Portugal'],Portugal,Torres Novas,LM   LW,"1,78",-
+7,Amílcar,Defender,Left-Back,"Mar 2, 1998 ",26,['Portugal'],Portugal,Porto,,"1,75",-
+11,Nassur Bacém,Defender,Left-Back,"Sep 22, 1998 ",25,"['Portugal', 'Angola']",Portugal,Aveiro,LM   LW,"1,70",-
+,Edgar Alves,Defender,Left-Back,"Nov 16, 1998 ",25,['Portugal'],Portugal,Leiria,LM   LW,"1,74",-
+,Mário João,Defender,Left-Back,"Dec 10, 1998 ",25,['Portugal'],Portugal,Almada,,,-
+25,Diogo Portela,Defender,Left-Back,"Sep 11, 1998 ",25,['Portugal'],Portugal,Penafiel,,"1,80",-
+23,Léo Abreu,Defender,Left-Back,"Dec 28, 1998 ",25,['Portugal'],Portugal,Câmara de Lobos,RB   LM,"1,68",-
+17,André Freitas,Defender,Left-Back,"Jan 28, 1998 ",26,['Portugal'],Portugal,Seia,LM   RM,"1,63",-
+,António Podstawski,Defender,Left-Back,"May 12, 1998 ",25,"['Portugal', 'Poland']",Portugal,Porto,,"1,83",-
+,Jorginho,Defender,Left-Back,"May 19, 1998 ",25,['Portugal'],Portugal,Guimarães,,"1,73",-
+12,Roger,Defender,Left-Back,"Sep 7, 1998 ",25,['Portugal'],Portugal,Santa Maria da Feira,LW   LM,"1,80",-
+20,Rodrigo Antunes,Defender,Left-Back,"Apr 13, 1998 ",25,['Portugal'],Portugal,Setúbal,CB,"1,91",-
+5,Rodrigo Moitas,Defender,Left-Back,"Mar 31, 1998 ",26,['Portugal'],Portugal,Lisboa,LM,,-
+,João Pantir,Defender,Left-Back,"May 8, 1998 ",25,['Portugal'],Portugal,Santo Tirso,CB,"1,80",-
+55,Lucas Leite,Defender,Left-Back,"Mar 30, 1998 ",26,['Portugal'],Portugal,Braga,,"1,84",-
+,João Sousa,Defender,Left-Back,"Oct 25, 1998 ",25,['Portugal'],Portugal,Póvoa de Varzim,,"1,65",-
+18,João Moreira,Defender,Left-Back,"Mar 2, 1998 ",26,['Portugal'],Portugal,Paços de Ferreira,CM   LM,,-
+,Sérgio Félix,Defender,Left-Back,"May 26, 1998 ",25,['Portugal'],Portugal,Lisboa,LM   LW,"1,71",-
+74,Francisco Moura,Defender,Left-Back,"Aug 16, 1999 ",24,['Portugal'],Portugal,Braga,LM   LW,"1,81",€4.00m
+5,Kiko,Defender,Left-Back,"Sep 8, 1999 ",24,['Portugal'],Portugal,Barcelos,LM,"1,77",€200k
+18,Vasco Gadelho,Defender,Left-Back,"Dec 13, 1999 ",24,['Portugal'],Portugal,Gondomar,LW   RW,"1,82",€150k
+,Afonso Costa,Defender,Left-Back,"Jun 30, 1999 ",24,['Portugal'],Portugal,,,,-
+77,Rafael Lopes,Defender,Left-Back,"Sep 22, 1999 ",24,['Portugal'],Portugal,Fafe,,,-
+20,Daniel Andrade,Defender,Left-Back,"Sep 20, 1999 ",24,['Portugal'],Portugal,Moura,CB   LW,"1,78",-
+24,Manu,Defender,Left-Back,"Aug 15, 1999 ",24,['Portugal'],Portugal,Santo Tirso,,,-
+,Délcio Gomes,Defender,Left-Back,"Jun 20, 1999 ",24,"['Portugal', 'Guinea-Bissau']",Portugal,Lisboa,CB,"1,85",-
+,Diogo Santos,Defender,Left-Back,"Jan 29, 1999 ",25,['Portugal'],Portugal,Lisboa,,"1,74",-
+70,Hugo Almeida,Defender,Left-Back,"Apr 28, 1999 ",24,['Portugal'],Portugal,Vila Nova de Gaia,LM   LW,"1,77",-
+26,Rodrigo Prior,Defender,Left-Back,"Jan 9, 1999 ",25,['Portugal'],Portugal,Lisboa,LM,"1,73",-
+,Júlio Arruda,Defender,Left-Back,"Jun 5, 1999 ",24,['Portugal'],Portugal,São Miguel,CM   LM,"1,80",-
+,Dani,Defender,Left-Back,"Feb 18, 1999 ",25,['Portugal'],Portugal,Guimarães,,"1,78",-
+19,Rúben Vinagre,Defender,Left-Back,"Apr 9, 1999 ",25,['Portugal'],Portugal,Charneca da Caparica,LM,"1,74",€2.80m
+19,Armando Lopes,Defender,Left-Back,"Mar 15, 1999 ",25,['Portugal'],Portugal,Cabeceiras de Basto,LM   LW,"1,67",€200k
+,Ivanilson,Defender,Left-Back,"Apr 4, 1999 ",25,"['Angola', 'Portugal']",Portugal,Lisboa,LM   LW,"1,76",€75k
+12,Pedro Jacinto,Defender,Left-Back,"Jun 3, 1999 ",24,['Portugal'],Portugal,Alcácer do Sal,LM   LW,"1,86",-
+19,Leandro Puga,Defender,Left-Back,"Dec 28, 1999 ",24,['Portugal'],Portugal,,LM,"1,63",-
+25,Bernardo Godinho,Defender,Left-Back,"Aug 19, 1999 ",24,['Portugal'],Portugal,Moura,LM   LW,"1,77",-
+,Gonçalo Passarinho,Defender,Left-Back,"Apr 10, 1999 ",24,['Portugal'],Portugal,,LM,"1,75",-
+3,Alexandre Correia,Defender,Left-Back,"Oct 10, 1999 ",24,['Portugal'],Portugal,,,,-
+,Rui Costa,Defender,Left-Back,"Dec 18, 1999 ",24,['Portugal'],Portugal,Ponta Delgada,CB   DM,"1,83",-
+14,Tiago Matos,Defender,Left-Back,"Oct 9, 1999 ",24,['Portugal'],Portugal,Sesimbra,LM,"1,70",-
+4,Gonçalo Rebolo,Defender,Left-Back,"Jun 23, 1999 ",24,['Portugal'],Portugal,Funchal,CB,"1,83",-
+,Tiago Dias,Defender,Left-Back,"May 7, 1999 ",24,['Portugal'],Portugal,Águeda,,,-
+6,Filipe Maio,Defender,Left-Back,"Jan 6, 1999 ",25,['Portugal'],Portugal,Aveiro,CB,"1,85",-
+,Francisco Pacheco,Defender,Left-Back,"Sep 26, 1999 ",24,['Portugal'],Portugal,Portimão,,,-
+,Ricardo Carloto,Defender,Left-Back,"Dec 31, 1999 ",24,['Portugal'],Portugal,Caldas da Raínha,LM   LW,"1,82",-
+,Nuno Esgueirão,Defender,Left-Back,"Jan 11, 1999 ",25,['Portugal'],Portugal,Coimbra,,"1,77",-
+20,Rafael Braga,Defender,Left-Back,"May 16, 1999 ",24,['Portugal'],Portugal,Porto,LW   RW,"1,69",-
+11,Diogo Bessa,Defender,Left-Back,"Jan 16, 1999 ",25,['Portugal'],Portugal,Valongo,LM   LW,"1,73",-
+15,Cristiano Abreu,Defender,Left-Back,"May 21, 1999 ",24,"['Portugal', 'Venezuela']",Portugal,Funchal,LM,"1,79",-
+3,Filipe Garcia,Defender,Left-Back,"Sep 16, 1999 ",24,"['Portugal', 'Brazil']",Portugal,Faro,LM,"1,80",-
+5,Ricardo Leal,Defender,Left-Back,"Feb 24, 1999 ",25,['Portugal'],Portugal,,LM   CM,"1,78",-
+,Roberto Jaques,Defender,Left-Back,"Oct 8, 1999 ",24,['Portugal'],Portugal,Viana do Castelo,,,-
+,Pedro Santos,Defender,Left-Back,"Mar 25, 1999 ",25,['Portugal'],Portugal,Ponta Delgada,LM   LW,"1,85",-
+3,Nuno Tavares,Defender,Left-Back,"Jan 26, 2000 ",24,"['Portugal', 'Cape Verde']",Portugal,Lisboa,LM   RB,"1,83",€16.00m
+72,Afonso Freitas,Defender,Left-Back,"Apr 7, 2000 ",24,"['Portugal', 'Luxembourg']",Portugal,Guimarães,LM   RM,"1,81",€1.50m
+18,Gonçalo Costa,Defender,Left-Back,"Feb 18, 2000 ",24,['Portugal'],Portugal,Setúbal,LM,"1,79",€600k
+5,Tiago Gonçalves,Defender,Left-Back,"Aug 18, 2000 ",23,['Portugal'],Portugal,Cascais,LM   LW,"1,83",€50k
+17,Diogo Pêras,Defender,Left-Back,"Mar 4, 2000 ",24,['Portugal'],Portugal,Ericeira,,"1,73",-
+18,Miguel Cardoso,Defender,Left-Back,"Dec 20, 2000 ",23,['Portugal'],Portugal,,,,-
+5,Daniel Carvalho,Defender,Left-Back,"Aug 2, 2000 ",23,['Portugal'],Portugal,Barcelos,,"1,78",-
+5,Dinis Lopes,Defender,Left-Back,"Jul 21, 2000 ",23,['Portugal'],Portugal,,LM,,-
+5,Miguel Rosa,Defender,Left-Back,"Sep 6, 2000 ",23,['Portugal'],Portugal,,LW,"1,77",-
+5,Ivo Cláudio,Defender,Left-Back,"Jan 28, 2000 ",24,['Portugal'],Portugal,Vila Franca de Xira,LM,"1,78",-
+13,Gonçalo Paixão,Defender,Left-Back,"Aug 11, 2000 ",23,['Portugal'],Portugal,Vila Real,,"1,78",-
+,João Silva,Defender,Left-Back,"Jan 6, 2000 ",24,['Portugal'],Portugal,,RB,,-
+3,Bernardo Fonseca,Defender,Left-Back,"Jan 30, 2000 ",24,['Portugal'],Portugal,Águeda,CB   RB,"1,81",-
+5,Leonardo Lelo,Defender,Left-Back,"Mar 30, 2000 ",24,['Portugal'],Portugal,Olhão,LM   LW,"1,75",€3.50m
+55,João Mendes,Defender,Left-Back,"Apr 13, 2000 ",23,['Portugal'],Portugal,Marco de Canaveses,,"1,79",€1.20m
+14,Simão Rocha,Defender,Left-Back,"Dec 13, 2000 ",23,['Portugal'],Portugal,Paços de Ferreira,LM,"1,86",€450k
+2,Babacar Fati,Defender,Left-Back,"Feb 1, 2000 ",24,"['Portugal', 'Guinea-Bissau']",Portugal,,LW   LM,"1,77",€50k
+6,David Xavi,Defender,Left-Back,"Apr 20, 2000 ",23,['Portugal'],Portugal,Setúbal,,,-
+18,André Guedes,Defender,Left-Back,"Sep 30, 2000 ",23,['Portugal'],Portugal,Lisboa,,"1,81",-
+12,João Fernandes,Defender,Left-Back,"Jan 15, 2000 ",24,['Portugal'],Portugal,,,"1,83",-
+,Bernardo Colaço,Defender,Left-Back,"Sep 21, 2000 ",23,['Portugal'],Portugal,,,,-
+7,Sandro Rodrigues,Defender,Left-Back,"Jul 22, 2000 ",23,['Portugal'],Portugal,Ponta Delgada,,,-
+,Baltazar Paisana,Defender,Left-Back,"Mar 31, 2000 ",24,['Portugal'],Portugal,Lisboa,CB,"1,80",-
+,Zé Martins,Defender,Left-Back,"Jul 2, 2000 ",23,['Portugal'],Portugal,Guimarães,,"1,74",-
+,Andy Pereira,Defender,Left-Back,"Mar 4, 2000 ",24,"['Portugal', 'France']",Portugal,,,"1,77",-
+14,Vítor Fati,Defender,Left-Back,"May 29, 2000 ",23,"['Portugal', 'Guinea-Bissau']",Portugal,,LW   LM,"1,76",-
+,Pedro Santos,Defender,Left-Back,"Jan 11, 2000 ",24,['Portugal'],Portugal,Matosinhos,LM   CM,"1,80",-
+,João Ferreira,Defender,Left-Back,"Jun 13, 2000 ",23,['Portugal'],Portugal,Vila Nova de Gaia,,"1,80",-
+,Alex Ramos,Defender,Left-Back,"Apr 28, 2000 ",23,['Portugal'],Portugal,Almada,,,-
+23,Pedro Rodrigues,Defender,Left-Back,"Jan 29, 2000 ",24,['Portugal'],Portugal,,,"1,72",-
+26,Pedro Rosas,Defender,Left-Back,"Nov 28, 2000 ",23,['Portugal'],Portugal,Espinho,CB,"1,89",-
+5,Edu Duarte,Defender,Left-Back,"Apr 10, 2000 ",23,['Portugal'],Portugal,Matosinhos,CB,"1,79",-
+7,Miguel Pais,Defender,Left-Back,"Jan 10, 2000 ",24,['Portugal'],Portugal,Faro,LM   LW,"1,74",-
+,Rúben Ferreira,Defender,Left-Back,"Feb 24, 2000 ",24,['Portugal'],Portugal,Vila Nova de Famalicão,,"1,67",-
+4,Miguel Rodeia,Defender,Left-Back,"Jun 24, 2000 ",23,['Portugal'],Portugal,Lisboa,RB   LM,"1,85",-
+6,Rúben Moura,Defender,Left-Back,"Mar 31, 2000 ",24,['Portugal'],Portugal,Guimarães,LM   LW,"1,75",-
+,Robim Dias,Defender,Left-Back,"Oct 28, 2000 ",23,['Portugal'],Portugal,,,,-
+5,João Oliveira,Defender,Left-Back,"Jul 3, 2000 ",23,['Portugal'],Portugal,Porto,LM   LW,"1,80",-
+15,Tiago Castelinho,Defender,Left-Back,"Mar 9, 2000 ",24,['Portugal'],Portugal,,,"1,82",-
+13,Rafa González,Defender,Left-Back,"Jul 29, 2000 ",23,['Portugal'],Portugal,Lisboa,LM   LW,"1,83",-
+4,Diogo Pimenta,Defender,Left-Back,"Nov 25, 2000 ",23,['Portugal'],Portugal,Lisboa,RB,"1,88",-
+22,Edu Silva,Defender,Left-Back,"Nov 13, 2000 ",23,['Portugal'],Portugal,Porto,,"1,74",-
+15,Fernando Marques,Defender,Left-Back,"Mar 12, 2000 ",24,['Portugal'],Portugal,Guimarães,LM,"1,79",-
+22,Diogo Vilela,Defender,Left-Back,"Oct 14, 2000 ",23,['Portugal'],Portugal,Barreiro,,"1,78",-
+20,Abel Folha,Defender,Left-Back,"Apr 6, 2000 ",24,['Portugal'],Portugal,Vila do Conde,LM,"1,78",-
+58,Miguel Vilela,Defender,Left-Back,"Mar 25, 2000 ",24,['Portugal'],Portugal,Vila Verde,LM,"1,75",-
+,Ivo Costa,Defender,Left-Back,"Sep 20, 2000 ",23,['Portugal'],Portugal,Loures,,"1,80",-
+15,Breno,Defender,Left-Back,"Jan 1, 2000 ",24,['Portugal'],Portugal,Paredes,LM   CB,"1,79",-
+,Bernardo Santos,Defender,Left-Back,"Jan 15, 2000 ",24,['Portugal'],Portugal,Ílhavo,LM,"1,70",-
+,Tiago Lopes,Defender,Left-Back,"May 27, 2000 ",23,['Portugal'],Portugal,Cascais,LM   LW,"1,78",-
+19,Rúben Amaral,Defender,Left-Back,"Oct 19, 2001 ",22,['Portugal'],Portugal,Vila Nova de Gaia,LM,,€1.00m
+33,Sandro Cruz,Defender,Left-Back,"May 12, 2001 ",22,"['Portugal', 'Angola']",Portugal,Braga,LM   LW,"1,82",€400k
+20,Luís Bastos,Defender,Left-Back,"Sep 10, 2001 ",22,['Portugal'],Portugal,Paços de Ferreira,LM   LW,"1,75",€200k
+18,Jackson,Defender,Left-Back,"Jul 20, 2001 ",22,['Portugal'],Portugal,Alqueidão da Serra,RB,,-
+6,Quim Sequeira,Defender,Left-Back,"Jan 9, 2001 ",23,['Portugal'],Portugal,Castelo Branco,LM   LW,,-
+,Armando,Defender,Left-Back,"Jan 9, 2001 ",23,['Portugal'],Portugal,Canedo,LW,,-
+19,Bernardo Chorinha,Defender,Left-Back,"Oct 1, 2001 ",22,['Portugal'],Portugal,Setúbal,,"1,91",-
+,David Santos,Defender,Left-Back,"Jun 29, 2001 ",22,['Portugal'],Portugal,,,,-
+7,Gonçalo Borges,Defender,Left-Back,"Jul 10, 2001 ",22,['Portugal'],Portugal,Penafiel,,"1,79",-
+,Daniel Novais,Defender,Left-Back,"Jun 27, 2001 ",22,['Portugal'],Portugal,Guimarães,LM,"1,80",-
+5,Hugo Gavino,Defender,Left-Back,"Dec 19, 2001 ",22,['Portugal'],Portugal,Cascais,,"1,8",-
+,Edilson Furtado,Defender,Left-Back,"Jul 3, 2001 ",22,['Portugal'],Portugal,,LM   LW,"1,78",-
+25,Rodrigo Domingues,Defender,Left-Back,"Jan 17, 2001 ",23,['Portugal'],Portugal,Corroios,,"1,68",-
+78,Tiago Araújo,Defender,Left-Back,"Mar 27, 2001 ",23,['Portugal'],Portugal,Vila do Conde,LW   RW,"1,84",€700k
+17,André Lopes,Defender,Left-Back,"Nov 2, 2001 ",22,['Portugal'],Portugal,Maia,CB   LM,"1,84",€250k
+24,João Barros,Defender,Left-Back,"Jun 24, 2001 ",22,['Portugal'],Portugal,Funchal,CB,"1,86",€50k
+3,Bruno Pereira,Defender,Left-Back,"Jan 16, 2001 ",23,['Portugal'],Portugal,Faro,,"1,72",-
+22,Frederico Serrão,Defender,Left-Back,"Jan 25, 2001 ",23,['Portugal'],Portugal,Lisboa,LM,"1,80",-
+,Ricardo Barreto,Defender,Left-Back,"Sep 20, 2001 ",22,['Portugal'],Portugal,,LM,,-
+,Abílio Morais,Defender,Left-Back,"May 26, 2001 ",22,['Portugal'],Portugal,Arcos de Valdevez,LW,"1,62",-
+5,Zé Luís,Defender,Left-Back,"Aug 10, 2001 ",22,['Portugal'],Portugal,Guimaraes,LM,"1,69",-
+,Francisco Semedo,Defender,Left-Back,"Dec 9, 2001 ",22,['Portugal'],Portugal,,LM,"1,82",-
+10,Rafael Batista,Defender,Left-Back,"Oct 19, 2001 ",22,['Portugal'],Portugal,Sintra,LM,"1,78",-
+,André Paço,Defender,Left-Back,"Oct 2, 2001 ",22,['Portugal'],Portugal,Espinho,LM,"1,77",-
+27,Madiu Djalo,Defender,Left-Back,"Aug 18, 2001 ",22,"['Guinea-Bissau', 'Portugal']",Portugal,Queluz,LM   LW,"1,78",-
+,André Gomes,Defender,Left-Back,"Mar 21, 2001 ",23,['Portugal'],Portugal,Vila Nova de Famalicão,CB   DM,"1,77",-
+,Ricardo Caeiro,Defender,Left-Back,"May 22, 2001 ",22,['Portugal'],Portugal,Barreiro,LW,"1,79",-
+75,Pedro Martins,Defender,Left-Back,"Aug 28, 2001 ",22,['Portugal'],Portugal,Viseu,LM   LW,"1,79",-
+22,Igor Ribeiro,Defender,Left-Back,"Sep 7, 2001 ",22,['Portugal'],Portugal,Setúbal,,,-
+16,Simão Melhor,Defender,Left-Back,"Nov 15, 2001 ",22,['Portugal'],Portugal,,LM,"1,78",-
+67,Pedro Caeiro,Defender,Left-Back,"May 4, 2001 ",22,['Portugal'],Portugal,Horta,LM   AM,"1,75",-
+,Daniel Martins,Defender,Left-Back,"May 30, 2001 ",22,['Portugal'],Portugal,Barreiro,,"1,80",-
+25,Nuno Mendes,Defender,Left-Back,"Jun 19, 2002 ",21,['Portugal'],Portugal,Lisboa,LM,"1,83",€60.00m
+48,Rafael Rodrigues,Defender,Left-Back,"Jan 27, 2002 ",22,['Portugal'],Portugal,Oliveira do Bairro,RB,"1,83",€1.80m
+67,Ricardo Fernandes,Defender,Left-Back,"Aug 28, 2002 ",21,"['Sao Tome and Principe', 'Portugal']",Portugal,Seixal,LM,"1,73",€300k
+78,Kiko,Defender,Left-Back,"Apr 16, 2002 ",21,['Portugal'],Portugal,Lisboa,LM,"1,80",€250k
+19,Ruizinho,Defender,Left-Back,"Jul 19, 2002 ",21,['Portugal'],Portugal,,,"1,70",-
+20,Rodrigo Ribeiro,Defender,Left-Back,"Jan 10, 2002 ",22,['Portugal'],Portugal,Lisboa,,"1,68",-
+20,Luís Guerra,Defender,Left-Back,N/A ,21,['Portugal'],Portugal,,,,-
+15,Vítor Ribeiro,Defender,Left-Back,"Nov 7, 2002 ",21,['Portugal'],Portugal,Marco de Canaveses,LM   LW,,-
+5,Rui Pacheco,Defender,Left-Back,"Jun 25, 2002 ",21,['Portugal'],Portugal,,CB,"1,89",-
+70,Jair Brito,Defender,Left-Back,"Oct 18, 2002 ",21,['Portugal'],Portugal,Olhão,LM   LW,"1,77",-
+,Mesquita,Defender,Left-Back,"May 28, 2002 ",21,['Portugal'],Portugal,Chaves,,"1,79",-
+,Mário Rodrigues,Defender,Left-Back,"Sep 27, 2002 ",21,['Portugal'],Portugal,Loulé,LM,"1,75",-
+,Miguel Ventura,Defender,Left-Back,"Jan 2, 2002 ",22,['Portugal'],Portugal,,,"1,80",-
+23,Leonardo Buta,Defender,Left-Back,"Jun 5, 2002 ",21,"['Portugal', 'Angola']",Portugal,Águeda,LM   LW,"1,82",€2.00m
+28,Hélder Sá,Defender,Left-Back,"Nov 10, 2002 ",21,['Portugal'],Portugal,Vila Nova de Famalicão,,"1,87",€450k
+49,Bruno Tavares,Defender,Left-Back,"Apr 16, 2002 ",21,"['Portugal', 'Cape Verde']",Portugal,Lisboa,LW   RW,"1,75",€275k
+26,Rodrigo Engenheiro,Defender,Left-Back,"Dec 13, 2002 ",21,['Portugal'],Portugal,,LM   LW,,-
+5,Flávio Gonçalves,Defender,Left-Back,"May 11, 2002 ",21,['Portugal'],Portugal,,,"1,82",-
+5,João Pedro Damas,Defender,Left-Back,"Sep 6, 2002 ",21,['Portugal'],Portugal,,LM,,-
+,Sandro Silveira,Defender,Left-Back,"Oct 13, 2002 ",21,['Portugal'],Portugal,,,,-
+17,José Ganhão,Defender,Left-Back,"Jul 22, 2002 ",21,['Portugal'],Portugal,,,"1,78",-
+15,Francisco Felizardo,Defender,Left-Back,"Sep 25, 2002 ",21,['Portugal'],Portugal,,CB,"1,78",-
+5,Guga,Defender,Left-Back,"Nov 3, 2002 ",21,['Portugal'],Portugal,Porto,LM,"1,72",-
+11,Rui André,Defender,Left-Back,"Oct 17, 2002 ",21,['Portugal'],Portugal,Braga,LM,"1,78",-
+5,Hernâni Martins,Defender,Left-Back,"Aug 10, 2002 ",21,['Portugal'],Portugal,Alcaçovas,,"1,71",-
+72,Pedro Cancelo,Defender,Left-Back,"May 16, 2002 ",21,['Portugal'],Portugal,Barreiro,,"1,88",-
+,Gui Santos,Defender,Left-Back,"Sep 19, 2002 ",21,['Portugal'],Portugal,,CB,,-
+28,Rui Ferreira,Defender,Left-Back,"Apr 24, 2002 ",21,['Portugal'],Portugal,Famalicão,,"1,85",-
+22,Valter Dias,Defender,Left-Back,"Jul 31, 2002 ",21,['Portugal'],Portugal,Alhandra,CM,"1,82",-
+5,Rui Pinto,Defender,Left-Back,"Jan 13, 2002 ",22,['Portugal'],Portugal,Porto,LW   LM,"1,78",-
+20,Nazinho,Defender,Left-Back,"Jul 20, 2003 ",20,"['Portugal', 'Guinea-Bissau']",Portugal,Almada,LM,"1,80",€1.20m
+19,Afonso Peixoto,Defender,Left-Back,"Jan 31, 2003 ",21,['Portugal'],Portugal,,LM,"1,80",€25k
+20,Rodrigo Ribeiro,Defender,Left-Back,"Nov 1, 2003 ",20,['Portugal'],Portugal,,CB,,-
+28,Pedro Santos,Defender,Left-Back,"Jan 1, 2003 ",21,['Portugal'],Portugal,Alqueidão da Serra,,,-
+14,Tomás Justino,Defender,Left-Back,"Aug 26, 2003 ",20,['Portugal'],Portugal,Castelo Branco,,,-
+28,Tomás Abrantes,Defender,Left-Back,"Sep 1, 2003 ",20,['Portugal'],Portugal,,,"1,78",-
+22,Samuel Vivas,Defender,Left-Back,"Dec 14, 2003 ",20,['Portugal'],Portugal,Santa Maria de Lamas,CB,"1,87",-
+11,Pedro Fernandes,Defender,Left-Back,"Apr 3, 2003 ",21,['Portugal'],Portugal,,LW   LM,"1,75",-
+5,Guilhas,Defender,Left-Back,"Oct 23, 2003 ",20,['Portugal'],Portugal,Meadela,LM   LW,"1,71",-
+,Rui Maia,Defender,Left-Back,"Jul 8, 2003 ",20,['Portugal'],Portugal,Esmoriz,,,-
+13,Bruno França,Defender,Left-Back,"Nov 3, 2003 ",20,"['Portugal', 'Angola']",Portugal,Lisboa,,"1,84",-
+,Nando Teixeira,Defender,Left-Back,"Nov 13, 2003 ",20,['Portugal'],Portugal,Funchal,LM,"1,74",-
+,Fábio Alexandre,Defender,Left-Back,"Aug 7, 2003 ",20,['Portugal'],Portugal,Póvoa de Varzim,LM,"1,76",-
+72,João Ferreira,Defender,Left-Back,"Sep 4, 2003 ",20,['Portugal'],Portugal,Lisboa,,"1,80",€50k
+15,Ione Dragnev,Defender,Left-Back,"Oct 21, 2003 ",20,"['Moldova', 'Portugal']",Portugal,Algarve,LM   RB,"1,84",-
+16,Júnior,Defender,Left-Back,"Jun 25, 2003 ",20,['Portugal'],Portugal,Loures,LM   LW,"1,87",-
+14,Duarte Andrade,Defender,Left-Back,"Feb 17, 2003 ",21,['Portugal'],Portugal,Santarém,,,-
+,Tomás Costa,Defender,Left-Back,"Apr 11, 2003 ",20,['Portugal'],Portugal,Amarante,LM   LW,"1,78",-
+,Bernardo Pereira,Defender,Left-Back,"Jul 11, 2003 ",20,['Portugal'],Portugal,,CM,,-
+71,Tomás César,Defender,Left-Back,"Apr 1, 2003 ",21,['Portugal'],Portugal,Castro Daire,LM   LW,"1,79",-
+70,João Costa,Defender,Left-Back,"Feb 19, 2003 ",21,['Portugal'],Portugal,Esposende,,,-
+75,Samuel Velho,Defender,Left-Back,"Oct 3, 2003 ",20,['Portugal'],Portugal,Capelas,,"1,79",-
+3,André Moreira,Defender,Left-Back,"Jan 5, 2003 ",21,['Portugal'],Portugal,Leiria,LM   LW,"1,80",-
+,Vânio Almeida,Defender,Left-Back,"Sep 22, 2003 ",20,['Portugal'],Portugal,Pontinha,,"1,83",-
+5,Rui Santos,Defender,Left-Back,"Oct 22, 2003 ",20,['Portugal'],Portugal,Porto,LM   LW,"1,81",-
+20,Tiago Martins,Defender,Left-Back,"Jun 8, 2003 ",20,['Portugal'],Portugal,Funchal,,"1,70",-
+49,Vicente Durand,Defender,Left-Back,"Dec 24, 2003 ",20,['Portugal'],Portugal,,LM,"1,82",-
+56,Gonçalo Duarte,Defender,Left-Back,"Oct 31, 2003 ",20,['Portugal'],Portugal,Porto,LM   LW,"1,75",-
+75,Diogo Costa,Defender,Left-Back,"Jul 27, 2003 ",20,['Portugal'],Portugal,Vila Nova de Famalicão,,"1,80",-
+28,Rodrigo Fajardo,Defender,Left-Back,"Mar 1, 2003 ",21,['Portugal'],Portugal,Viseu,LM,"1,85",-
+,Guilherme Montóia,Defender,Left-Back,"Sep 14, 2003 ",20,['Portugal'],Portugal,Lisboa,,"1,85",-
+17,Francisco Dias,Defender,Left-Back,"Nov 26, 2003 ",20,['Portugal'],Portugal,Oliveira do Bairro,LM,"1,79",-
+22,Paulo Manaia,Defender,Left-Back,"Feb 19, 2003 ",21,['Portugal'],Portugal,,LM   CM,"1,75",-
+23,José Pereira,Defender,Left-Back,"Aug 16, 2003 ",20,['Portugal'],Portugal,Porto,LM   LW,"1,70",-
+,Benny Couto,Defender,Left-Back,"Sep 27, 2003 ",20,"['Portugal', 'England']",Portugal,Porto,LM,,-
+,Adriano Almeida,Defender,Left-Back,"Jan 6, 2003 ",21,['Portugal'],Portugal,Coimbra,CM,"1,77",-
+75,João Barros,Defender,Left-Back,"Jan 9, 2003 ",21,['Portugal'],Portugal,Espinho,CB,,-
+65,Leandro Dias,Defender,Left-Back,"Apr 2, 2003 ",21,['Portugal'],Portugal,Matosinhos,LW,"1,80",-
+26,Martim Marques,Defender,Left-Back,"Feb 11, 2004 ",20,['Portugal'],Portugal,Vila Nova de Gaia,,"1,73",€1.50m
+77,Pedro Sousa,Defender,Left-Back,"Feb 26, 2004 ",20,['Portugal'],Portugal,,LM,,-
+,Leonardo Nunes,Defender,Left-Back,"Apr 4, 2004 ",20,['Portugal'],Portugal,Funchal,LW   RW,"1,80",-
+17,Martim Cruz,Defender,Left-Back,"May 2, 2004 ",19,['Portugal'],Portugal,Linda-a-Velha,LM,"1,75",-
+23,João Marques,Defender,Left-Back,"Mar 31, 2004 ",20,['Portugal'],Portugal,,LW,,-
+21,Donato Sabença,Defender,Left-Back,"Nov 24, 2004 ",19,['Portugal'],Portugal,Angra do Heroísmo,,,-
+,Duarte Grais,Defender,Left-Back,"Dec 31, 2004 ",19,['Portugal'],Portugal,Lisboa,,"1,75",-
+13,Cristiano Moreira,Defender,Left-Back,"Feb 13, 2004 ",20,['Portugal'],Portugal,,LM,"1,83",-
+27,Vasco Sousa,Defender,Left-Back,"Apr 6, 2004 ",20,['Portugal'],Portugal,Penafiel,CB   DM,"1,84",-
+,Paulinho,Defender,Left-Back,"Sep 18, 2004 ",19,['Portugal'],Portugal,Vila Nova de Famalicão,LM,"1,77",-
+60,Martim Alberto,Defender,Left-Back,"Apr 20, 2004 ",19,['Portugal'],Portugal,Estoril,,"1,75",-
+49,Gustavo Barros,Defender,Left-Back,"Feb 23, 2004 ",20,['Portugal'],Portugal,Santa Maria da Feira,CF   LW,"1,86",-
+5,Tiago Parente,Defender,Left-Back,"Jan 14, 2004 ",20,['Portugal'],Portugal,Sintra,LM,"1,80",-
+9,Rafael Possidónio,Defender,Left-Back,"Aug 26, 2004 ",19,['Portugal'],Portugal,,,,-
+,Martim Ferreira,Defender,Left-Back,"Jul 23, 2004 ",19,['Portugal'],Portugal,Matosinhos,,,-
+4,Guilherme Rodrigo,Defender,Left-Back,"Aug 23, 2004 ",19,['Portugal'],Portugal,Peniche,CB,,-
+4,João Veríssimo,Defender,Left-Back,"May 3, 2004 ",19,['Portugal'],Portugal,,CB,"1,90",-
+,Miguel Madeira,Defender,Left-Back,"Sep 27, 2004 ",19,['Portugal'],Portugal,Viseu,,,-
+,Luís Azevedo,Defender,Left-Back,"Sep 28, 2004 ",19,['Portugal'],Portugal,Famalicão,CB   LM,,-
+,David Lopes,Defender,Left-Back,"Oct 15, 2004 ",19,['Portugal'],Portugal,,,,-
+,Tiago Gomes,Defender,Left-Back,"Jul 29, 2004 ",19,['Portugal'],Portugal,Viana do Castelo,LM   LW,"1,67",-
+5,David Moreira,Defender,Left-Back,"Apr 18, 2004 ",19,['Portugal'],Portugal,Lisboa,CB   RB,"1,71",-
+,Santiago Rocha,Defender,Left-Back,"Jul 14, 2004 ",19,['Portugal'],Portugal,Cascais,LM,"1,84",-
+85,Kamika,Defender,Left-Back,"Jun 4, 2004 ",19,['Portugal'],Portugal,Serpa,LM   CM,"1,74",-
+18,Stitch,Defender,Left-Back,"Jan 22, 2004 ",20,['Portugal'],Portugal,,LM,"1,72",-
+,André Valente,Defender,Left-Back,"Mar 31, 2004 ",20,['Portugal'],Portugal,,LW   RW,"1,75",-
+76,Francisco Silva,Defender,Left-Back,"Jan 7, 2004 ",20,['Portugal'],Portugal,Cadaval,,"1,80",-
+,Tomás Oliveira,Defender,Left-Back,"Dec 28, 2004 ",19,['Portugal'],Portugal,Vila Nova de Gaia,RB,"1,77",-
+5,Tiago Abreu,Defender,Left-Back,"Mar 27, 2004 ",20,['Portugal'],Portugal,Guimarães,,"1,78",-
+3,Lino Sousa,Defender,Left-Back,"Jan 19, 2005 ",19,"['England', 'Portugal']",Portugal,Lisboa,LM   CB,"1,85",€2.00m
+,Diogo Faria,Defender,Left-Back,"Jan 7, 2005 ",19,['Portugal'],Portugal,,RB,,-
+,Ravidson Biague,Defender,Left-Back,"Feb 18, 2005 ",19,['Portugal'],Portugal,Faro,,"1,72",-
+,Guga,Defender,Left-Back,"Mar 28, 2005 ",19,['Portugal'],Portugal,Mafra,CB,"1,79",-
+,Paulo Carvalho,Defender,Left-Back,"Jul 16, 2005 ",18,['Portugal'],Portugal,Lisboa,RW   LW,"1,77",-
+,Bernardo Paiva,Defender,Left-Back,"Jan 25, 2005 ",19,['Portugal'],Portugal,Setúbal,,"1,75",-
+,Hugo Girardin,Defender,Left-Back,"Jun 25, 2005 ",18,['Portugal'],Portugal,Braga,LM,"1,78",-
+77,Gaby Tavares,Defender,Left-Back,"Jul 23, 2005 ",18,"['Portugal', 'Brazil']",Portugal,Sintra,LW   RW,"1,81",-
+55,Chissumba,Defender,Left-Back,"May 29, 2005 ",18,['Portugal'],Portugal,Braga,DM,"1,80",-
+,Afonso Martins,Defender,Left-Back,"Apr 1, 2005 ",19,['Portugal'],Portugal,Porto,LM   LW,"1,83",-
+75,Tiago Carriço,Defender,Left-Back,"Feb 26, 2005 ",19,['Portugal'],Portugal,Faro,,"1,76",€100k
+,Gonçalo Neiva,Defender,Left-Back,"Dec 5, 2005 ",18,['Portugal'],Portugal,,LW,"1,85",-
+57,Gu Costa,Defender,Left-Back,"Sep 15, 2005 ",18,['Portugal'],Portugal,Porto,,,-
+,Miguel Amorim,Defender,Left-Back,"Jan 18, 2005 ",19,['Portugal'],Portugal,Aveiro,,,-
+,Tomás Teixeira,Defender,Left-Back,"Jun 19, 2005 ",18,['Portugal'],Portugal,Coimbra,LM,"1,80",-
+15,Rodrigo Dias,Defender,Left-Back,"Jul 12, 2005 ",18,['Portugal'],Portugal,Lisboa,,"1,79",-
+,Afonso Ferreira,Defender,Left-Back,"Apr 13, 2005 ",18,['Portugal'],Portugal,Guimarães,LM,"1,75",-
+52,Francisco Machado,Defender,Left-Back,"Jul 22, 2005 ",18,['Portugal'],Portugal,Coimbra,CM   LM,"1,79",-
+49,Leonardo Barroso,Defender,Left-Back,"Jun 12, 2005 ",18,['Portugal'],Portugal,Setúbal,RB,"1,70",-
+,João André Pereira,Defender,Left-Back,"Apr 20, 2005 ",18,['Portugal'],Portugal,Braga,,"1,82",-
