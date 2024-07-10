@@ -1,0 +1,631 @@
+Number,Name,Main Position,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+7,Cristiano Ronaldo,Striker,Centre-Forward,"Feb 5, 1985 ",39,['Portugal'],Portugal,Funchal,LW   RW,"1,88",€15.00m
+,Davide Bessa,Striker,Centre-Forward,"Jan 14, 1985 ",39,['Portugal'],Portugal,Felgueiras,,"1,86",-
+,Capela,Striker,Centre-Forward,"Aug 2, 1985 ",38,['Portugal'],Portugal,Santa Maria da Feira,RW   AM,"1,81",-
+,Tiago Borges,Striker,Centre-Forward,"Jun 6, 1985 ",39,['Portugal'],Portugal,Angra do Heroísmo,LW   RW,"1,78",-
+,Guilherme Ramos,Striker,Centre-Forward,"Jan 7, 1985 ",39,['Portugal'],Portugal,Lisboa,,"1,88",-
+,Rui Augusto,Striker,Centre-Forward,"Apr 3, 1985 ",39,['Portugal'],Portugal,Lisboa,,,-
+9,Vítor Hugo,Striker,Centre-Forward,"Nov 4, 1985 ",38,['Portugal'],Portugal,Vila Nova de Famalicão,,"1,77",-
+,Hugo Carolo,Striker,Centre-Forward,"Jun 13, 1985 ",39,['Portugal'],Portugal,Loures,LW,"1,75",-
+,Bruno Goncalves,Striker,Centre-Forward,"Feb 6, 1985 ",39,['Portugal'],Portugal,Setúbal,,"1,82",-
+9,Billy,Striker,Centre-Forward,"Feb 19, 1985 ",39,['Portugal'],Portugal,Ponte de Sôr,RW   LW,"1,80",-
+22,Zé Feio,Striker,Centre-Forward,"Sep 28, 1985 ",38,['Portugal'],Portugal,Alvito,,"1,85",-
+,Pedro Rodrigues Duarte,Striker,Centre-Forward,"Apr 1, 1985 ",39,['Portugal'],Portugal,Salvaterra de Magos,LW   RW,,-
+,Amílcar,Striker,Centre-Forward,"Jan 4, 1985 ",39,['Portugal'],Portugal,Grijó,RW,"1,87",-
+,Bonifácio,Striker,Centre-Forward,"Aug 6, 1985 ",38,['Portugal'],Portugal,Mafra,,"1,80",-
+7,Carlitos,Striker,Centre-Forward,"Jul 23, 1985 ",38,['Portugal'],Portugal,Espinho,RW   LW,"1,75",-
+,Élio Martins,Striker,Centre-Forward,"Mar 26, 1985 ",39,['Portugal'],Portugal,Machico,RW   LW,"1,85",-
+16,Rui Sousa,Striker,Centre-Forward,"Sep 2, 1985 ",38,['Portugal'],Portugal,Beja,,"1,90",-
+,Abdul Carrupt,Striker,Centre-Forward,"Dec 28, 1985 ",38,"['Switzerland', 'Guinea-Bissau']",Portugal,,SS   RW,"1,80",-
+,Sílvio Andrade,Striker,Centre-Forward,"Nov 12, 1986 ",37,['Portugal'],Portugal,Câmara de Lobos,SS,"1,82",-
+,Roberto Alberto,Striker,Centre-Forward,"Jun 1, 1986 ",38,['Portugal'],Portugal,Portimão,,"1,75",-
+,Bruno Gomes,Striker,Centre-Forward,"Feb 6, 1986 ",38,['Portugal'],Portugal,Igreja Nova,,"1,96",-
+,Ivo Bastos,Striker,Centre-Forward,"Jan 31, 1986 ",38,['Portugal'],Portugal,Porto,,"1,88",-
+,Ivan Sa Borges,Striker,Centre-Forward,N/A ,37,[],Portugal,Lissabon,,N/A,-
+,Romeu Torres,Striker,Centre-Forward,"Aug 7, 1986 ",37,['Portugal'],Portugal,Santo Tirso,,"1,83",-
+,Cascavél,Striker,Centre-Forward,"Oct 3, 1986 ",37,['Portugal'],Portugal,Guimarães,,"1,84",-
+,Bruno Filipe,Striker,Centre-Forward,"Jan 15, 1986 ",38,['Portugal'],Portugal,Braga,,"1,88",-
+,Carlos Saleiro,Striker,Centre-Forward,"Feb 25, 1986 ",38,['Portugal'],Portugal,Lisboa,,"1,85",-
+,Carlos Baldé,Striker,Centre-Forward,"Sep 21, 1986 ",37,['Portugal'],Portugal,Lisboa,RW   LW,"1,78",-
+,Ricardo Teixeira,Striker,Centre-Forward,"Oct 8, 1986 ",37,['Portugal'],Portugal,Rebordosa,,"1,88",-
+,Jony Ramos,Striker,Centre-Forward,"May 12, 1986 ",38,"['Sao Tome and Principe', 'Portugal']",Portugal,Lisboa,LW,"1,88",-
+,Bruno Soares,Striker,Centre-Forward,"May 26, 1986 ",38,['Portugal'],Portugal,Lisboa,,,-
+,Tony Veiga,Striker,Centre-Forward,"Jun 13, 1986 ",38,"['Portugal', 'Cape Verde']",Portugal,Lisboa,SS,"1,75",-
+9,Marco Véstia,Striker,Centre-Forward,"May 2, 1986 ",38,['Portugal'],Portugal,Barreiro,RW,"1,80",-
+,Luis Pimenta,Striker,Centre-Forward,"Mar 6, 1986 ",38,['Portugal'],Portugal,Mealhada,RW   RM,"1,75",-
+77,Diogo Ramos,Striker,Centre-Forward,"Nov 8, 1986 ",37,['Portugal'],Portugal,Vila Nova de Gaia,,"1,83",-
+17,João Moreira,Striker,Centre-Forward,"Feb 7, 1986 ",38,['Portugal'],Portugal,São Sebastião,,"1,84",-
+,Guima,Striker,Centre-Forward,"Mar 11, 1986 ",38,['Portugal'],Portugal,Santa Maria da Feira,SS   AM,"1,94",-
+,Cícero,Striker,Centre-Forward,"May 8, 1986 ",38,"['Guinea-Bissau', 'Portugal']",Portugal,Seia,,"1,89",-
+,Luís Leal,Striker,Centre-Forward,"May 29, 1987 ",37,"['Sao Tome and Principe', 'Portugal']",Portugal,Arrentela,RW   LW,"1,76",€50k
+,Cláudio Pereira,Striker,Centre-Forward,"Jan 11, 1987 ",37,['Portugal'],Portugal,Lobão,RW,,-
+,Cajó,Striker,Centre-Forward,"Oct 29, 1987 ",36,['Portugal'],Portugal,,RW   LW,"1,80",-
+,Rúben Braga,Striker,Centre-Forward,"Aug 4, 1987 ",36,['Portugal'],Portugal,Almada,,"1,72",-
+,Carlos Leonel,Striker,Centre-Forward,"Jul 28, 1987 ",36,"['Macao', 'Portugal']",Portugal,Ribeira Brava,,"1,86",-
+,Ezequiel Cabral Barbosa,Striker,Centre-Forward,"Sep 30, 1987 ",36,"['Portugal', 'Cape Verde']",Portugal,Lissabon,,"1,92",-
+,Jaime Leite,Striker,Centre-Forward,"Oct 20, 1987 ",36,['Portugal'],Portugal,Felgueiras,,"1,84",-
+,Bruno Botas,Striker,Centre-Forward,"Jan 26, 1987 ",37,['Portugal'],Portugal,Lissabon,,"1,92",-
+,Pirata,Striker,Centre-Forward,"Feb 1, 1987 ",37,['Portugal'],Portugal,Ovar,,"1,88",-
+,Rúben Rodrigues,Striker,Centre-Forward,"Jun 2, 1987 ",37,['Portugal'],Portugal,Ponta Delgada,SS   LW,"1,78",-
+,Bruno Moreira,Striker,Centre-Forward,"Sep 6, 1987 ",36,['Portugal'],Portugal,Vila Nova de Famalicão,,"1,85",-
+,André Martins,Striker,Centre-Forward,"Mar 26, 1987 ",37,['Portugal'],Portugal,Ferreira do Alentejo,AM   RW,"1,80",-
+,Hélder Guedes,Striker,Centre-Forward,"May 7, 1987 ",37,['Portugal'],Portugal,Penafiel,SS   LW,"1,84",-
+,Zequinha,Striker,Centre-Forward,"Jan 7, 1987 ",37,['Portugal'],Portugal,Setúbal,RW   LW,"1,83",€25k
+,Henrique,Striker,Centre-Forward,"Mar 24, 1987 ",37,['Portugal'],Portugal,Maia,,,-
+,Pedro Augusto,Striker,Centre-Forward,"Feb 21, 1987 ",37,['Portugal'],Portugal,Lisboa,,"1,82",-
+,Magina,Striker,Centre-Forward,"Aug 29, 1987 ",36,['Portugal'],Portugal,Angra do Heroísmo,,"1,84",-
+7,Luís Cardoso,Striker,Centre-Forward,"Oct 26, 1987 ",36,['Portugal'],Portugal,Viseu,,,-
+9,Horácio,Striker,Centre-Forward,"Jan 7, 1987 ",37,['Portugal'],Portugal,Ovar,,"1,84",-
+7,Ricardo Queirós,Striker,Centre-Forward,"Oct 20, 1987 ",36,['Portugal'],Portugal,Praia da Vitória,RW   LW,"1,79",-
+,Ricardo Santos,Striker,Centre-Forward,"Jun 21, 1987 ",37,['Portugal'],Portugal,Trofa,,"1,78",-
+,Manuel Pinto,Striker,Centre-Forward,"Jun 26, 1987 ",37,['Portugal'],Portugal,Paços de Brandão,RW   LW,"1,85",-
+,Tozé Marreco,Striker,Centre-Forward,"Jul 25, 1987 ",36,['Portugal'],Portugal,Miranda do Corvo,,"1,83",-
+,Nuno Carvalho,Striker,Centre-Forward,"Jan 9, 1987 ",37,"['Portugal', 'Spain']",Portugal,Amarante,,"1,81",-
+,Tomané,Striker,Centre-Forward,"Jan 15, 1987 ",37,['Portugal'],Portugal,Oliveira do Hospital,RW,"1,78",-
+,Diogo Tavares,Striker,Centre-Forward,"Jul 29, 1987 ",36,['Portugal'],Portugal,Lissabon,,"1,85",-
+,Hugo Firmino,Striker,Centre-Forward,"Dec 22, 1988 ",35,['Portugal'],Portugal,Lisboa,RW   LW,"1,85",€75k
+,João Tiago,Striker,Centre-Forward,"Mar 26, 1988 ",36,['Portugal'],Portugal,Foz do Sousa,,,-
+,Ricardo Nogueira,Striker,Centre-Forward,"Jun 23, 1988 ",36,['Portugal'],Portugal,Fafe,,"1,81",-
+,Fábio Pimenta,Striker,Centre-Forward,"Sep 20, 1988 ",35,['Portugal'],Portugal,Barcelos,,"1,90",-
+,Rui Capitão-Mor,Striker,Centre-Forward,"Sep 26, 1988 ",35,['Portugal'],Portugal,Barreiro,,"1,90",-
+,Diamantino Ramos,Striker,Centre-Forward,"May 26, 1988 ",36,['Portugal'],Portugal,,,,-
+,Valdemar Mané,Striker,Centre-Forward,"Apr 22, 1988 ",36,['Portugal'],Portugal,Lisboa,,"1,86",-
+,Bandeira,Striker,Centre-Forward,"Dec 20, 1988 ",35,['Portugal'],Portugal,Coimbra,RW,,-
+,Tiago Cabral,Striker,Centre-Forward,"Aug 19, 1988 ",35,['Portugal'],Portugal,Lisboa,,"1,78",-
+,Carlos Karajy,Striker,Centre-Forward,"Dec 31, 1988 ",35,['Portugal'],Portugal,Paredes,RW,"1,82",-
+9,Tanela,Striker,Centre-Forward,"Oct 15, 1988 ",35,['Portugal'],Portugal,Braga,LW,"1,85",-
+9,Camilo,Striker,Centre-Forward,"Sep 27, 1988 ",35,['Portugal'],Portugal,Carnide,,"1,77",-
+,Jonas,Striker,Centre-Forward,"Aug 31, 1988 ",35,['Portugal'],Portugal,Felgueiras,,"1,85",-
+17,Roberto,Striker,Centre-Forward,"Nov 28, 1988 ",35,['Portugal'],Portugal,Porto,SS   RW,"1,80",€75k
+,André Coutinho,Striker,Centre-Forward,"Sep 26, 1988 ",35,['Portugal'],Portugal,Peso da Régua,,"1,83",-
+9,Cristiano Vasconcelos,Striker,Centre-Forward,"Sep 25, 1988 ",35,['Portugal'],Portugal,Funchal,LW   SS,"1,75",-
+,Óscar Lopes,Striker,Centre-Forward,"Dec 18, 1988 ",35,['Portugal'],Portugal,Aveiro,,"1,86",-
+,Fábio Gomes,Striker,Centre-Forward,"Sep 21, 1988 ",35,"['Portugal', 'Cape Verde']",Portugal,Lisboa,LW,"1,90",-
+21,Marocas,Striker,Centre-Forward,"Feb 17, 1988 ",36,['Portugal'],Portugal,Albufeira,,"1,91",-
+23,Tiago Penantes,Striker,Centre-Forward,"Feb 24, 1988 ",36,['Portugal'],Portugal,Porto,LW   RW,,-
+,Bruno Anciães,Striker,Centre-Forward,"Apr 1, 1988 ",36,"['Portugal', 'Angola']",Portugal,Porto,RW   LW,"1,80",-
+9,Filipe Sorrilha,Striker,Centre-Forward,"Mar 23, 1988 ",36,['Portugal'],Portugal,Viseu,LW,"1,83",-
+11,Man-Hou Ho,Striker,Centre-Forward,"Nov 5, 1988 ",35,['Macao'],Portugal,Macao,,"1,71",-
+,Marcelo Santiago,Striker,Centre-Forward,"Mar 18, 1988 ",36,['Portugal'],Portugal,S. João de Loure,,"1,90",-
+9,Pedro Correia,Striker,Centre-Forward,"Nov 3, 1988 ",35,['Portugal'],Portugal,Vila Nova de Famalicão,,"1,90",-
+,Miguel Vieira,Striker,Centre-Forward,"Dec 3, 1988 ",35,['Portugal'],Portugal,Porto,SS,"1,73",-
+,Pedro Ribeiro,Striker,Centre-Forward,"May 24, 1988 ",36,['Portugal'],Portugal,Mealhada,,"1,86",-
+,Orlando Sá,Striker,Centre-Forward,"May 26, 1988 ",36,['Portugal'],Portugal,Barcelos,,"1,88",-
+10,Hugo Vieira,Striker,Centre-Forward,"Jul 25, 1988 ",35,['Portugal'],Portugal,Barcelos,SS   RW,"1,78",-
+,Nandinho,Striker,Centre-Forward,"Dec 28, 1988 ",35,['Portugal'],Portugal,Lousada,,"1,88",-
+,Yazalde,Striker,Centre-Forward,"Sep 21, 1988 ",35,"['Portugal', 'Guinea-Bissau']",Portugal,Vila do Conde,SS   LW,"1,83",-
+19,Ricardo Faria,Striker,Centre-Forward,"Oct 15, 1989 ",34,['Portugal'],Portugal,Coimbra,,"1,87",-
+,Hugo Silva,Striker,Centre-Forward,"Apr 1, 1989 ",35,['Portugal'],Portugal,Marco de Canaveses,,,-
+,Luisinho,Striker,Centre-Forward,"Aug 14, 1989 ",34,['Portugal'],Portugal,Cascais,,"1,80",-
+31,Pio Júnior,Striker,Centre-Forward,"Oct 16, 1989 ",34,"['Portugal', 'Guinea-Bissau']",Portugal,Lisboa,,"1,91",-
+19,Bruninho,Striker,Centre-Forward,"Aug 1, 1989 ",34,"['Portugal', 'Macao']",Portugal,Arrentela,AM   CM,"1,90",-
+,João Victoria,Striker,Centre-Forward,"Apr 21, 1989 ",35,"['Portugal', 'Angola']",Portugal,,LW   RW,"1,83",-
+,André Cacito,Striker,Centre-Forward,"Apr 23, 1989 ",35,['Portugal'],Portugal,Lisboa,,"1,84",-
+,Amaral,Striker,Centre-Forward,"Oct 23, 1989 ",34,['Portugal'],Portugal,São Miguel,,"1,75",-
+,Rabiola,Striker,Centre-Forward,"Jul 25, 1989 ",34,['Portugal'],Portugal,Guimarães,,"1,82",-
+,Lima,Striker,Centre-Forward,"Aug 9, 1989 ",34,['Portugal'],Portugal,Lourosa,,,-
+10,Helmut Ari,Striker,Centre-Forward,"Feb 17, 1989 ",35,"['Portugal', 'Angola']",Portugal,Barreiro,RW   LW,"1,80",-
+,Mário,Striker,Centre-Forward,"Mar 28, 1989 ",35,['Portugal'],Portugal,São João da Madeira,,,-
+,Rúben Pereira,Striker,Centre-Forward,"Apr 13, 1989 ",35,['Portugal'],Portugal,São Martinho de Sardoura,RW   LW,"1,70",-
+14,Karadas,Striker,Centre-Forward,"Jul 8, 1989 ",35,['Portugal'],Portugal,Grândola,,"1,90",-
+,Jaime Poulson,Striker,Centre-Forward,"Jun 22, 1989 ",35,['Portugal'],Portugal,Paredes,,"1,84",-
+10,Maurício,Striker,Centre-Forward,"Jun 29, 1989 ",35,['Portugal'],Portugal,Funchal,RW,"1,79",-
+,Tiago Cintra,Striker,Centre-Forward,"Jul 5, 1989 ",35,['Portugal'],Portugal,Matosinhos,LW,"1,85",-
+19,Rui Fonte,Striker,Centre-Forward,"Apr 23, 1990 ",34,['Portugal'],Portugal,Penafiel,SS,"1,80",€75k
+,Alex,Striker,Centre-Forward,"May 1, 1990 ",34,['Portugal'],Portugal,Santa Maria da Feira,,,-
+10,Rui Santos,Striker,Centre-Forward,"Jan 25, 1990 ",34,['Portugal'],Portugal,,SS,"1,88",-
+,Carlos Matos,Striker,Centre-Forward,"Mar 28, 1990 ",34,['Portugal'],Portugal,Paços de Ferreira,,"1,90",-
+9,Hélder Silva,Striker,Centre-Forward,"Nov 21, 1990 ",33,['Portugal'],Portugal,Penafiel,SS   AM,"1,76",-
+,Diogo de Pina Goncalves,Striker,Centre-Forward,"Apr 23, 1990 ",34,"['Luxembourg', 'Portugal']",Portugal,Faro,RW   LW,,-
+,Stéphane,Striker,Centre-Forward,"Jan 23, 1990 ",34,"['Portugal', 'France']",Portugal,Pombal,,"1,89",-
+,Serra,Striker,Centre-Forward,"Feb 5, 1990 ",34,['Portugal'],Portugal,Cinfães,AM,"1,79",-
+,Xavier,Striker,Centre-Forward,"Nov 17, 1990 ",33,['Portugal'],Portugal,Paredes,,"2,02",-
+,Dani Pinto,Striker,Centre-Forward,"Jun 1, 1990 ",34,['Portugal'],Portugal,Almada,LW,"1,80",-
+,Diogo Lamas,Striker,Centre-Forward,"Oct 5, 1990 ",33,['Portugal'],Portugal,Lisboa,,"1,88",€50k
+,Diogo Teixeira,Striker,Centre-Forward,"Feb 7, 1990 ",34,['Portugal'],Portugal,,,,-
+,Tika,Striker,Centre-Forward,"Sep 29, 1990 ",33,['Portugal'],Portugal,Águeda,RW,"1,81",-
+,Careca,Striker,Centre-Forward,"Oct 26, 1990 ",33,"['Brazil', 'Portugal']",Portugal,Lisboa,,"1,93",-
+,Tiago Pereira,Striker,Centre-Forward,"Feb 6, 1990 ",34,['Portugal'],Portugal,Loures,SS,"1,87",-
+,Quim Simões,Striker,Centre-Forward,"May 22, 1990 ",34,['Portugal'],Portugal,Matosinhos,,"1,76",-
+,Joel Silva,Striker,Centre-Forward,"Oct 24, 1990 ",33,['Portugal'],Portugal,Barcelos,LW   SS,"1,84",-
+31,Ricardo Barros,Striker,Centre-Forward,"Apr 27, 1990 ",34,['Portugal'],Portugal,Santa Maria da Feira,,"1,90",-
+19,João Silva,Striker,Centre-Forward,"May 21, 1990 ",34,['Portugal'],Portugal,Santo Tirso,LW,"1,89",-
+79,Nélson Oliveira,Striker,Centre-Forward,"Aug 8, 1991 ",32,['Portugal'],Portugal,Barcelos,,"1,86",€500k
+9,Vando,Striker,Centre-Forward,"Jul 27, 1991 ",32,['Portugal'],Portugal,Espinho,,"1,87",-
+7,Cami,Striker,Centre-Forward,"Jan 7, 1991 ",33,['Portugal'],Portugal,Montijo,RW   LW,,-
+,Paulo César,Striker,Centre-Forward,"Jun 28, 1991 ",33,['Portugal'],Portugal,Ponta Delgada,LW,"1,78",-
+,Pacheco Mendes,Striker,Centre-Forward,"Mar 30, 1991 ",33,['Portugal'],Portugal,Coimbra,,"1,92",-
+9,Vasco Costa,Striker,Centre-Forward,"Aug 8, 1991 ",32,['Portugal'],Portugal,Ponte de Lima,LW   RW,"1,84",-
+,Rui Pereira,Striker,Centre-Forward,"Mar 26, 1991 ",33,['Portugal'],Portugal,Gavinhos,LW,"1,85",-
+,Abel Vieira,Striker,Centre-Forward,"Sep 16, 1991 ",32,['Portugal'],Portugal,Santa Cruz,,"1,82",-
+,Kiko Moucheira,Striker,Centre-Forward,"Oct 7, 1991 ",32,['Portugal'],Portugal,Sintra,,"1,88",-
+,Diogo Ribeiro,Striker,Centre-Forward,"Jan 14, 1991 ",33,['Portugal'],Portugal,Coimbra,,"1,84",-
+33,Ricardo Valente,Striker,Centre-Forward,"Apr 3, 1991 ",33,['Portugal'],Portugal,Porto,RW   LW,"1,81",€75k
+20,Rui Ribeiro,Striker,Centre-Forward,"Jun 23, 1991 ",33,['Portugal'],Portugal,,,"1,81",-
+,Rafael Martins,Striker,Centre-Forward,"Nov 7, 1991 ",32,['Andorra'],Portugal,Vila Real,,"1,83",-
+,Ângelo,Striker,Centre-Forward,"Jan 4, 1991 ",33,['Portugal'],Portugal,Gondomar,RW   SS,"1,78",-
+,Luís Medina,Striker,Centre-Forward,"Oct 12, 1991 ",32,['Portugal'],Portugal,Lisboa,RW   LW,"1,88",-
+,Valter Rocha,Striker,Centre-Forward,"Aug 19, 1991 ",32,"['Sao Tome and Principe', 'Portugal']",Portugal,Oeiras,LW   SS,"1,88",-
+10,Vinício Alves,Striker,Centre-Forward,"May 19, 1991 ",33,"['Macao', 'Portugal']",Portugal,,,,-
+17,João Vieira,Striker,Centre-Forward,"Dec 19, 1991 ",32,['Portugal'],Portugal,Leiria,,"1,89",-
+,Jonathan,Striker,Centre-Forward,"Jul 10, 1991 ",33,['Portugal'],Portugal,Santa Maria da Feira,,"1,80",-
+18,André Claro,Striker,Centre-Forward,"Mar 31, 1991 ",33,['Portugal'],Portugal,Vila Nova de Gaia,SS   LW,"1,83",-
+26,Paulinho,Striker,Centre-Forward,"Nov 9, 1992 ",31,['Portugal'],Portugal,Barcelos,SS   LW,"1,88",€7.00m
+,Érico Castro,Striker,Centre-Forward,"Sep 21, 1992 ",31,"['Angola', 'Portugal']",Portugal,Oeiras,,"1,85",€100k
+,João Manuel,Striker,Centre-Forward,"Feb 21, 1992 ",32,['Portugal'],Portugal,Braga,RW   SS,"1,78",-
+7,Pázinho,Striker,Centre-Forward,"May 22, 1992 ",32,['Portugal'],Portugal,Cuba,LW   RW,"1,75",-
+10,Carlos Canha,Striker,Centre-Forward,"Dec 27, 1992 ",31,['Portugal'],Portugal,Ponta do Sol,,,-
+,Zé António,Striker,Centre-Forward,"Oct 30, 1992 ",31,['Portugal'],Portugal,Oliveira de Azemeis,,"1,85",-
+,Janú Silva,Striker,Centre-Forward,"Feb 26, 1992 ",32,['Portugal'],Portugal,Cascais,SS   RW,"1,86",-
+28,Madureira,Striker,Centre-Forward,"Dec 14, 1992 ",31,['Portugal'],Portugal,Paredes,SS   RW,"1,83",-
+,Rúben Pedrosa,Striker,Centre-Forward,"Apr 8, 1992 ",32,['Portugal'],Portugal,Canidelo,LW   RW,"1,73",-
+,Zé Pedro,Striker,Centre-Forward,"Jul 8, 1992 ",32,['Portugal'],Portugal,Ponte de Lima,,"1,82",-
+70,Bertino Barbosa,Striker,Centre-Forward,"May 6, 1992 ",32,"['Portugal', 'Cape Verde']",Portugal,Oeiras,RW   LW,"1,88",-
+18,Campinhos,Striker,Centre-Forward,"Apr 14, 1992 ",32,['Portugal'],Portugal,Arcos de Valdevez,,"1,81",-
+23,Rafa,Striker,Centre-Forward,"Mar 11, 1992 ",32,['Portugal'],Portugal,Oliveira de Azeméis,RW   LW,"1,85",-
+,Tomané,Striker,Centre-Forward,"Oct 23, 1992 ",31,['Portugal'],Portugal,Fafe,SS,"1,86",€200k
+,Deco,Striker,Centre-Forward,"Jun 16, 1992 ",32,['Andorra'],Portugal,Amarante,,,€10k
+,Diogo Inácio,Striker,Centre-Forward,"Nov 19, 1992 ",31,['Portugal'],Portugal,Lisboa,LW,"1,81",-
+,João Santos,Striker,Centre-Forward,"Mar 10, 1992 ",32,['Portugal'],Portugal,Maia,,"1,87",-
+,Tiago Romeira,Striker,Centre-Forward,"Mar 3, 1992 ",32,['Portugal'],Portugal,Olhão,,"1,75",-
+31,José Semedo,Striker,Centre-Forward,"Jul 15, 1992 ",31,"['Sao Tome and Principe', 'Portugal']",Portugal,Lisboa,SS   LW,"1,76",-
+9,Diogo Braz,Striker,Centre-Forward,"Jul 6, 1992 ",32,['Portugal'],Portugal,Viseu,,"1,82",-
+11,Filipe Andrade,Striker,Centre-Forward,"Oct 31, 1992 ",31,['Portugal'],Portugal,Ponta Delgada,RW   SS,"1,77",-
+,Ruca,Striker,Centre-Forward,"Sep 6, 1992 ",31,['Portugal'],Portugal,Viana do Castelo,,"1,86",-
+9,Amândio Ramião,Striker,Centre-Forward,"Oct 4, 1992 ",31,['Portugal'],Portugal,Moita,AM,"1,85",-
+,Diogo Caramelo,Striker,Centre-Forward,"Nov 22, 1992 ",31,['Portugal'],Portugal,Lisboa,,"1,79",-
+,Jonas,Striker,Centre-Forward,"Aug 17, 1992 ",31,['Portugal'],Portugal,Paços de Ferreira,LW   RW,"1,82",-
+29,Fábio Fortes,Striker,Centre-Forward,"Mar 8, 1992 ",32,"['Portugal', 'Cape Verde']",Portugal,Lisboa,RW,"1,86",-
+,Tó Barbosa,Striker,Centre-Forward,"Sep 30, 1992 ",31,['Portugal'],Portugal,Póvoa de Varzim,LW,"1,85",-
+,João Beirão,Striker,Centre-Forward,"Jun 26, 1992 ",32,['Portugal'],Portugal,Guarda,,"1,80",-
+,Dani,Striker,Centre-Forward,"May 4, 1992 ",32,['Portugal'],Portugal,Vila das Aves,,"1,83",-
+29,Fabio Abreu,Striker,Centre-Forward,"Jan 29, 1993 ",31,"['Angola', 'Portugal']",Portugal,Lisboa,LW   SS,"1,84",€1.50m
+42,Jucie Lupeta,Striker,Centre-Forward,"Mar 24, 1993 ",31,"['Portugal', 'DR Congo']",Portugal,Lourinhã,RW,"1,88",€200k
+,Vítor Andrade,Striker,Centre-Forward,"Aug 17, 1993 ",30,['Portugal'],Portugal,Senhora da Hora,,"1,90",-
+9,Eduardo Chalana,Striker,Centre-Forward,"Sep 21, 1993 ",30,['Portugal'],Portugal,Funchal,LW,"1,72",-
+17,Jorge Raposo,Striker,Centre-Forward,"Apr 1, 1993 ",31,['Portugal'],Portugal,Moura,,,-
+,Tiago Dias,Striker,Centre-Forward,"Oct 13, 1993 ",30,['Portugal'],Portugal,Lisboa,AM,"1,77",-
+13,Rodrigo Pinto,Striker,Centre-Forward,"Aug 23, 1993 ",30,['Portugal'],Portugal,Mafra,,"1,80",-
+,Carlos Djaló,Striker,Centre-Forward,"Feb 13, 1993 ",31,"['Portugal', 'Guinea-Bissau']",Portugal,Setúbal,,"1,87",-
+,Miguel Diz,Striker,Centre-Forward,"May 31, 1993 ",31,['Portugal'],Portugal,Bragança,SS,"1,88",-
+,Vicente,Striker,Centre-Forward,"Nov 17, 1993 ",30,['Portugal'],Portugal,Coimbra,LW   AM,"1,80",-
+,Rui Areias,Striker,Centre-Forward,"Nov 22, 1993 ",30,['Portugal'],Portugal,Guimarães,,"1,88",-
+10,Ricardo Da Costa,Striker,Centre-Forward,"Aug 26, 1993 ",30,"['Switzerland', 'Portugal']",Portugal,Vila Real,AM,"1,66",-
+,Lucas João,Striker,Centre-Forward,"Sep 4, 1993 ",30,"['Angola', 'Portugal']",Portugal,Lisboa,LW   RW,"1,93",€800k
+,José Embaló,Striker,Centre-Forward,"May 3, 1993 ",31,"['Guinea-Bissau', 'Portugal']",Portugal,Lisbon,,"1,88",€150k
+16,Décio Fialho,Striker,Centre-Forward,"Mar 22, 1993 ",31,['Portugal'],Portugal,Salão,SS,"1,77",-
+,Rúben Rodrigues,Striker,Centre-Forward,"Apr 6, 1993 ",31,['Portugal'],Portugal,Coimbra,,"1,92",-
+,Flávio Cardoso,Striker,Centre-Forward,"Oct 5, 1993 ",30,['Portugal'],Portugal,Viseu,RW,,-
+,José Pratas,Striker,Centre-Forward,"Feb 21, 1993 ",31,['Portugal'],Portugal,,,,-
+,Rui Gomes,Striker,Centre-Forward,"Mar 27, 1993 ",31,['Portugal'],Portugal,Barcelos,SS   AM,"1,87",-
+17,Vasco Goulart,Striker,Centre-Forward,"May 14, 1993 ",31,['Portugal'],Portugal,Praia da Vitória,LW   SS,"1,87",-
+,Pedro Beirão,Striker,Centre-Forward,"Oct 11, 1993 ",30,['Portugal'],Portugal,Lisboa,,,-
+,Zé Martins,Striker,Centre-Forward,"Apr 7, 1993 ",31,['Portugal'],Portugal,Porto,,,-
+,Zé Miguel,Striker,Centre-Forward,"Mar 19, 1993 ",31,['Portugal'],Portugal,Lousada,RW,"1,82",-
+,Betinho,Striker,Centre-Forward,"Jul 21, 1993 ",30,['Portugal'],Portugal,Santa Maria de Lamas,SS,"1,79",-
+,Gonçalo Paciência,Striker,Centre-Forward,"Aug 1, 1994 ",29,['Portugal'],Portugal,Porto,,"1,84",€1.50m
+17,Bruno Correia Mendes,Striker,Centre-Forward,"Dec 10, 1994 ",29,"['Guinea-Bissau', 'Portugal']",Portugal,Cascais,RW,"1,80",€75k
+,Tono,Striker,Centre-Forward,"Jul 25, 1994 ",29,['Portugal'],Portugal,Romariz,,,-
+9,Gonçalo Sousa,Striker,Centre-Forward,"Jun 21, 1994 ",30,['Portugal'],Portugal,Lamego,SS,"1,83",-
+20,Licas Feijó,Striker,Centre-Forward,"Aug 1, 1994 ",29,['Portugal'],Portugal,Arcos de Valdevez,AM,"1,86",-
+9,Tiago Ribeiro,Striker,Centre-Forward,"Feb 7, 1994 ",30,['Portugal'],Portugal,Guimarães,RW   LW,"1,70",-
+9,Ricardo Silva,Striker,Centre-Forward,"Oct 27, 1994 ",29,['Portugal'],Portugal,Ponte de Lima,SS   RW,"1,78",-
+,Rui Costa,Striker,Centre-Forward,"Jan 8, 1994 ",30,['Portugal'],Portugal,Guimarães,RW,"1,85",-
+9,Gonçalo Barroso,Striker,Centre-Forward,"May 8, 1994 ",30,['Portugal'],Portugal,Lisboa,,"1,91",-
+33,Tarzan,Striker,Centre-Forward,"Oct 26, 1994 ",29,['Portugal'],Portugal,Óbidos,AM   LW,"1,80",-
+27,Carlos Fortes,Striker,Centre-Forward,"Nov 9, 1994 ",29,"['Cape Verde', 'Portugal']",Portugal,Lisboa,LW   RW,"1,88",-
+,Alexandre Guedes,Striker,Centre-Forward,"Feb 11, 1994 ",30,['Portugal'],Portugal,Arcozelo,,"1,85",€250k
+,Mohcine Hassan,Striker,Centre-Forward,"Sep 30, 1994 ",29,"['Morocco', 'Portugal']",Portugal,Faro,RW,"1,92",€75k
+9,Pontes,Striker,Centre-Forward,"Apr 13, 1994 ",30,['Portugal'],Portugal,Trofa,,,-
+10,Roberto Gouveia,Striker,Centre-Forward,"Apr 2, 1994 ",30,['Portugal'],Portugal,,,"1,89",-
+9,Ivan Francisco,Striker,Centre-Forward,"May 11, 1994 ",30,['Portugal'],Portugal,Olhão,,,-
+,Fábio Carvalho,Striker,Centre-Forward,"Oct 29, 1994 ",29,['Portugal'],Portugal,,RW,"1,85",-
+,Diogo Pedras,Striker,Centre-Forward,"Apr 25, 1994 ",30,['Portugal'],Portugal,Matosinhos,RW   LW,"1,75",-
+,Simão Machado,Striker,Centre-Forward,"Jul 20, 1994 ",29,['Portugal'],Portugal,Guimarães,LW   RW,"1,84",-
+,Danny Esteves,Striker,Centre-Forward,"Jul 29, 1994 ",29,['Portugal'],Portugal,Alcobaça,SS   LW,"1,76",-
+,Best,Striker,Centre-Forward,"Feb 9, 1994 ",30,['Portugal'],Portugal,Porto,,"1,87",-
+10,Edinho Júnior,Striker,Centre-Forward,"Mar 7, 1994 ",30,"['Portugal', 'Brazil']",Portugal,Faro,SS   RW,"1,80",-
+,André Silva,Striker,Centre-Forward,"Nov 6, 1995 ",28,['Portugal'],Portugal,Baguim do Monte,,"1,85",€6.00m
+8,Gonçalo Gregório,Striker,Centre-Forward,"Jun 14, 1995 ",29,['Portugal'],Portugal,Lisboa,,"1,84",€400k
+7,Rui Pipo,Striker,Centre-Forward,"Aug 24, 1995 ",28,['Portugal'],Portugal,Viseu,LW,"1,74",-
+,João Marques,Striker,Centre-Forward,"May 9, 1995 ",29,['Portugal'],Portugal,Coimbra,,"1,84",-
+14,Bruno Aguiar,Striker,Centre-Forward,"Jan 10, 1995 ",29,['Portugal'],Portugal,,,,-
+,Miguel Ribeiro,Striker,Centre-Forward,"Jul 11, 1995 ",28,['Portugal'],Portugal,Guimarães,SS   RW,"1,85",-
+,Rúben Noque,Striker,Centre-Forward,"Nov 16, 1995 ",28,['Portugal'],Portugal,Lisboa,,"1,85",-
+,Muacir,Striker,Centre-Forward,"Nov 24, 1995 ",28,"['Portugal', 'Angola']",Portugal,Braga,,"1,91",-
+,Luís Gaspar,Striker,Centre-Forward,"Jan 12, 1995 ",29,['Portugal'],Portugal,Breijos de Azeitão,LW,"1,84",-
+,Rúben Fidalgo,Striker,Centre-Forward,"Dec 15, 1995 ",28,['Portugal'],Portugal,Lisboa,RW   SS,"1,80",-
+,Wilson Dias,Striker,Centre-Forward,"Sep 14, 1995 ",28,['Portugal'],Portugal,Terceira - Açores,,"1,82",-
+,Andjelo Stevanovic,Striker,Centre-Forward,"Jul 26, 1995 ",28,['Serbia'],Portugal,Setubal,,"1,96",-
+,Tiago Lapa,Striker,Centre-Forward,"Apr 26, 1995 ",29,['Portugal'],Portugal,Espinho,AM   RW,"1,75",-
+,Gerson Rodrigues,Striker,Centre-Forward,"Jun 20, 1995 ",29,"['Luxembourg', 'Portugal']",Portugal,Pragal,LW   RW,"1,88",€1.50m
+,André Pereira,Striker,Centre-Forward,"May 5, 1995 ",29,['Portugal'],Portugal,Porto,SS   RW,"1,88",€300k
+,Hélio Ocante,Striker,Centre-Forward,"Oct 6, 1995 ",28,['Portugal'],Portugal,Alcanena,LW,,-
+,Marco Bessa,Striker,Centre-Forward,"Dec 31, 1995 ",28,['Portugal'],Portugal,Gondomar,LW   RW,,-
+11,Ângelo,Striker,Centre-Forward,"Oct 29, 1995 ",28,['Portugal'],Portugal,Braga,,"1,76",-
+7,Jean,Striker,Centre-Forward,"Dec 7, 1995 ",28,"['Portugal', 'France']",Portugal,Rio Tinto,,"1,77",-
+9,Dinis Franco,Striker,Centre-Forward,"Oct 20, 1995 ",28,['Portugal'],Portugal,Torres Vedras,,"1,88",-
+10,Nelsinho,Striker,Centre-Forward,"Apr 8, 1995 ",29,"['Portugal', 'Cape Verde']",Portugal,Lisboa,LW,"1,80",-
+17,David Silva,Striker,Centre-Forward,"Mar 17, 1995 ",29,['Portugal'],Portugal,Almeirim,,"1,88",-
+9,Dário Simão,Striker,Centre-Forward,"Jul 12, 1995 ",28,['Portugal'],Portugal,Angra do Heroísmo,,"1,82",-
+11,Rodrigo,Striker,Centre-Forward,"Aug 10, 1995 ",28,['Portugal'],Portugal,Amarante,LW,"1,83",-
+99,Totas,Striker,Centre-Forward,"Jul 5, 1995 ",29,['Portugal'],Portugal,Vila Nova de Famalicão,RW,"1,85",-
+,Diogo D'Avila,Striker,Centre-Forward,"Jan 1, 1995 ",29,['Portugal'],Portugal,Loulé,,"1,87",-
+9,Jorge Teixeira,Striker,Centre-Forward,"Jun 5, 1995 ",29,['Portugal'],Portugal,Felgueiras,SS,"1,85",-
+,Rui Caniço,Striker,Centre-Forward,"Oct 18, 1995 ",28,['Portugal'],Portugal,Salvaterra de Magos,SS,"1,74",-
+,Tiago Carreira,Striker,Centre-Forward,"Jan 20, 1995 ",29,['Portugal'],Portugal,Santarém,RW,"1,85",-
+,Tiago Leão,Striker,Centre-Forward,"Aug 24, 1995 ",28,['Portugal'],Portugal,Paços de Ferreira,,"1,80",-
+,João Gomes,Striker,Centre-Forward,"Jan 4, 1995 ",29,['Portugal'],Portugal,Alpiarça,,"1,84",-
+,Rui Costa,Striker,Centre-Forward,"Feb 20, 1996 ",28,['Portugal'],Portugal,Vila Nova de Famalicão,RW   SS,"1,79",€500k
+20,Rúben Rodrigues,Striker,Centre-Forward,"Aug 2, 1996 ",27,"['Portugal', 'Netherlands']",Portugal,Oliveira de Azeméis,SS,"1,81",€400k
+7,Rafael Victor,Striker,Centre-Forward,"Oct 21, 1996 ",27,['Portugal'],Portugal,Lisboa,,"1,88",€125k
+20,Cláudio Major,Striker,Centre-Forward,"Jan 3, 1996 ",28,['Portugal'],Portugal,Torres Novas,SS,"1,82",-
+9,Rick,Striker,Centre-Forward,"Jun 17, 1996 ",28,['Portugal'],Portugal,Gondomar,SS,"1,74",-
+,Miguel Varela,Striker,Centre-Forward,"Oct 10, 1996 ",27,"['Portugal', 'Cape Verde']",Portugal,Lissabon,,"1,93",-
+,Igor Sevivas,Striker,Centre-Forward,"Jul 5, 1996 ",28,['Portugal'],Portugal,Chaves,,"1,88",-
+14,Diogo Paixão,Striker,Centre-Forward,"Oct 19, 1996 ",27,['Portugal'],Portugal,Mirandela,,"1,83",-
+,Léo Malhadas,Striker,Centre-Forward,"Mar 4, 1996 ",28,['Portugal'],Portugal,Miranda do Douro,,,-
+25,Pedro Pedroso,Striker,Centre-Forward,"Aug 27, 1996 ",27,['Portugal'],Portugal,,DM   CB,"1,92",-
+,Raphael de la Sousa,Striker,Centre-Forward,"Nov 16, 1996 ",27,"['Israel', 'Portugal']",Portugal,,RW   LW,"1,88",-
+,Henrique Pinto,Striker,Centre-Forward,"Aug 20, 1996 ",27,['Portugal'],Portugal,Ponta do Sol,,"1,83",-
+,Tiago Nunes,Striker,Centre-Forward,"May 4, 1996 ",28,['Portugal'],Portugal,Vila Franca de Xira,SS,"1,80",-
+45,João Pedro,Striker,Centre-Forward,"Nov 13, 1996 ",27,"['Guinea-Bissau', 'Portugal']",Portugal,São Miguel,SS,"1,85",€450k
+9,João Paredes,Striker,Centre-Forward,"Jan 1, 1996 ",28,['Portugal'],Portugal,Figueira da Foz,,"1,89",€225k
+,Óscar Mendes,Striker,Centre-Forward,"Oct 8, 1996 ",27,['Portugal'],Portugal,Odivelas,,"1,83",€50k
+79,Manú Alves,Striker,Centre-Forward,"Jan 9, 1996 ",28,['Portugal'],Portugal,Santa Maria da Feira,LW   SS,"1,85",-
+7,Ricky Duarte,Striker,Centre-Forward,"Apr 18, 1996 ",28,['Portugal'],Portugal,Nazaré,,"1,83",-
+,Henrique Carvalho,Striker,Centre-Forward,"Jun 25, 1996 ",28,['Portugal'],Portugal,Porto,,"1,89",-
+,Vítor Pestana,Striker,Centre-Forward,"Aug 23, 1996 ",27,['Portugal'],Portugal,Portimão,,"1,80",-
+9,João Nuno,Striker,Centre-Forward,"Jul 17, 1996 ",27,['Portugal'],Portugal,Peso da Régua,SS,"1,82",-
+,André Martins,Striker,Centre-Forward,"Feb 14, 1996 ",28,['Portugal'],Portugal,Santo Tirso,,"1,88",-
+10,Miguel Teixeira,Striker,Centre-Forward,"Feb 28, 1996 ",28,['Portugal'],Portugal,,AM,"1,73",-
+,Schuster,Striker,Centre-Forward,"Jun 17, 1996 ",28,['Portugal'],Portugal,Rio Tinto,LW   RW,"1,74",-
+,Wilson Monteiro,Striker,Centre-Forward,"Jul 2, 1996 ",28,['Portugal'],Portugal,Benavente,,,-
+,Mário Jardel Jr.,Striker,Centre-Forward,"Sep 18, 1996 ",27,"['Portugal', 'Brazil']",Portugal,Porto,,"1,92",-
+,Marcio Soares,Striker,Centre-Forward,"Apr 7, 1996 ",28,['Portugal'],Portugal,Lisboa,AM,,-
+,Tiago Vilela,Striker,Centre-Forward,"Jan 7, 1996 ",28,['Portugal'],Portugal,Vila Verde,,"1,75",-
+,João Monteiro,Striker,Centre-Forward,"Jan 16, 1996 ",28,['Portugal'],Portugal,Santarém,,"1,82",-
+33,Ricardo Oliveira,Striker,Centre-Forward,"Apr 4, 1996 ",28,['Portugal'],Portugal,Porto,SS   RW,"1,87",-
+,Luther King,Striker,Centre-Forward,"Jul 21, 1996 ",27,['Portugal'],Portugal,Viana do Castelo,SS,"1,81",-
+,Tucka,Striker,Centre-Forward,"Feb 15, 1996 ",28,['Portugal'],Portugal,Arocua,,"1,82",-
+,José Postiga,Striker,Centre-Forward,"May 3, 1996 ",28,['Portugal'],Portugal,Vila do Conde,SS,"1,78",-
+,Nuno Martins,Striker,Centre-Forward,"Mar 11, 1996 ",28,['Portugal'],Portugal,,,,-
+9,João Padi,Striker,Centre-Forward,"Mar 5, 1996 ",28,['Portugal'],Portugal,Mondim de Basto,RW,"1,77",-
+,Rooney,Striker,Centre-Forward,"Oct 13, 1996 ",27,['Portugal'],Portugal,Paredes,,"1,83",-
+,Leandro Quinhentas,Striker,Centre-Forward,"Dec 12, 1996 ",27,['Portugal'],Portugal,Funchal,SS,"1,83",-
+9,Migas,Striker,Centre-Forward,"Jul 28, 1996 ",27,['Portugal'],Portugal,Vila Meã,SS,"1,83",-
+,Bruno Pais,Striker,Centre-Forward,"Dec 14, 1996 ",27,['Portugal'],Portugal,Lisboa,,"1,87",-
+,Márcio Martins,Striker,Centre-Forward,"Sep 25, 1996 ",27,['Portugal'],Portugal,,,"1,89",-
+99,Dida,Striker,Centre-Forward,"Jun 15, 1996 ",28,['Portugal'],Portugal,Lisboa,SS,"1,81",-
+17,Leonardo Rocha,Striker,Centre-Forward,"May 23, 1997 ",27,"['Portugal', 'Brazil']",Portugal,Almada,,"2,00",€400k
+,Leandro Antunes,Striker,Centre-Forward,"Jul 28, 1997 ",26,['Portugal'],Portugal,Rio Maior,RW   LW,"1,83",€350k
+20,Adilson Silva,Striker,Centre-Forward,"Jul 30, 1997 ",26,"['Portugal', 'Angola']",Portugal,Évora,RW   SS,"1,91",€225k
+9,Ricardo Varão,Striker,Centre-Forward,"Sep 23, 1997 ",26,['Portugal'],Portugal,Lagoa,,"1,80",-
+11,Afonso Silva,Striker,Centre-Forward,"Sep 3, 1997 ",26,['Portugal'],Portugal,,RW,,-
+18,Henrique Vieira,Striker,Centre-Forward,"May 30, 1997 ",27,['Portugal'],Portugal,,,"1,80",-
+,Ivan Pina,Striker,Centre-Forward,"Sep 3, 1997 ",26,['Portugal'],Portugal,Amadora,,"1,84",-
+,Zé Miguel,Striker,Centre-Forward,"Oct 9, 1997 ",26,['Portugal'],Portugal,Matosinhos,LW   RW,"1,82",-
+10,Pedro Matos,Striker,Centre-Forward,"Feb 19, 1997 ",27,['Portugal'],Portugal,Trofa,RW   LW,"1,78",-
+,Edu Ferreira,Striker,Centre-Forward,"Apr 23, 1997","Apr 23, 1997",['Portugal'],Portugal,Porto,,"1,85",-
+9,José Xavier,Striker,Centre-Forward,"Mar 7, 1997 ",27,['Portugal'],Portugal,Braga,,"1,80",-
+,Ricardo Almeida,Striker,Centre-Forward,"May 9, 1997 ",27,['Portugal'],Portugal,Guimarães,SS,"1,84",-
+,Paulo César,Striker,Centre-Forward,"Jul 17, 1997 ",26,['Portugal'],Portugal,,RW,"1,77",-
+70,Ronaldo Tavares,Striker,Centre-Forward,"Jul 22, 1997 ",26,"['Portugal', 'Sao Tome and Principe']",Portugal,Seixal,,"1,94",€400k
+28,Jorginho,Striker,Centre-Forward,"Nov 9, 1997 ",26,['Portugal'],Portugal,Celeirós,SS   LW,"1,70",€250k
+9,Josemar Agostinho,Striker,Centre-Forward,"Dec 16, 1997 ",26,['Portugal'],Portugal,Lisboa,,"1,94",€50k
+9,Pedro Silva,Striker,Centre-Forward,"Jan 14, 1997 ",27,['Portugal'],Portugal,Câmara de Lobos,,"1,85",-
+75,Jorge Martins,Striker,Centre-Forward,"May 10, 1997 ",27,['Portugal'],Portugal,Olhão,,"1,73",-
+,Ivo Lucas,Striker,Centre-Forward,"Apr 2, 1997 ",27,['Portugal'],Portugal,Espinho,,"1,83",-
+,Joel Santos,Striker,Centre-Forward,"Jun 28, 1997 ",27,['Portugal'],Portugal,,RW   LW,"1,80",-
+,Bruno Pires,Striker,Centre-Forward,"Mar 17, 1997 ",27,['Portugal'],Portugal,Amadora,SS,"1,85",-
+,Luís Henriques,Striker,Centre-Forward,"Jun 24, 1997 ",27,['Portugal'],Portugal,Albufeira,LW,"1,80",-
+,Raúl Almeida,Striker,Centre-Forward,"Nov 2, 1997 ",26,['Portugal'],Portugal,Gondomar,RW,"1,75",-
+17,João Silva,Striker,Centre-Forward,"Apr 3, 1997 ",27,['Portugal'],Portugal,Coimbra,SS,"1,75",-
+,Tiago Serralheiro,Striker,Centre-Forward,"Mar 20, 1997 ",27,['Portugal'],Portugal,Sousel,,"1,84",-
+,Hugo Neto,Striker,Centre-Forward,"Mar 7, 1997 ",27,['Portugal'],Portugal,Braga,SS   LW,"1,78",-
+14,Beto,Striker,Centre-Forward,"Jan 31, 1998 ",26,"['Portugal', 'Guinea-Bissau']",Portugal,Lisboa,,"1,94",€20.00m
+29,Kikas,Striker,Centre-Forward,"Sep 17, 1998 ",25,['Portugal'],Portugal,Castelo Branco,RW   LW,"1,77",€800k
+33,Ricardo Schutte,Striker,Centre-Forward,"May 21, 1998 ",26,"['South Africa', 'Portugal']",Portugal,Ribeira Brava,RW   SS,"1,83",€275k
+9,Carlos Ferreira,Striker,Centre-Forward,"May 3, 1998 ",26,['Portugal'],Portugal,Lousada,,"1,90",€25k
+30,Gonçalo Caroço,Striker,Centre-Forward,"Jun 12, 1998 ",26,['Portugal'],Portugal,Lisboa,,"1,83",-
+77,João Garcês,Striker,Centre-Forward,"Jan 18, 1998 ",26,['Portugal'],Portugal,Vila Meã,,"1,81",-
+,Marcelo Marquês,Striker,Centre-Forward,"Sep 8, 1998 ",25,['Portugal'],Portugal,Alcobaça,LW   RW,"1,78",-
+27,Bruno Guimarães,Striker,Centre-Forward,"May 27, 1998 ",26,['Portugal'],Portugal,Guimarães,RW,"1,78",-
+,Pauleta,Striker,Centre-Forward,"Jun 3, 1998 ",26,['Portugal'],Portugal,Viana do Castelo,RW   LW,"1,85",-
+,Rochinha,Striker,Centre-Forward,"Apr 16, 1998 ",26,['Portugal'],Portugal,Porto,LW,"1,76",-
+24,Didi,Striker,Centre-Forward,"Sep 24, 1998 ",25,['Portugal'],Portugal,Aveiro,,"1,84",-
+21,Luís Canina,Striker,Centre-Forward,"Apr 18, 1998 ",26,['Portugal'],Portugal,Amadora,,"1,76",-
+20,Pedro Almeida,Striker,Centre-Forward,"Apr 5, 1998 ",26,['Portugal'],Portugal,Castelo Branco,RW   LW,,-
+43,Pedro Marques,Striker,Centre-Forward,"Apr 25, 1998 ",26,['Portugal'],Portugal,Lisboa,SS,"1,81",€800k
+14,Rui Pedro,Striker,Centre-Forward,"Mar 20, 1998 ",26,['Portugal'],Portugal,Pedorido,LW   AM,"1,82",€650k
+,Léo Abreu,Striker,Centre-Forward,"Sep 6, 1998 ",25,"['Portugal', 'Italy']",Portugal,Câmara de Lobos,,"1,90",€150k
+,Nuno Leal,Striker,Centre-Forward,"May 30, 1998 ",26,['Portugal'],Portugal,Porto,SS,,-
+,Eduardo Arada,Striker,Centre-Forward,"Jun 24, 1998 ",26,['Portugal'],Portugal,Mondim de Basto,,"1,88",-
+,Miguel Santana,Striker,Centre-Forward,"Jun 16, 1998 ",26,['Portugal'],Portugal,,,"1,82",-
+,Jardel,Striker,Centre-Forward,"Sep 12, 1998 ",25,['Portugal'],Portugal,Porto,,"1,84",-
+,Afonso Alcario,Striker,Centre-Forward,"Jan 7, 1998 ",26,['Portugal'],Portugal,Sintra,,"1,79",-
+,Semedo,Striker,Centre-Forward,"Feb 3, 1998 ",26,['Portugal'],Portugal,,SS,,-
+9,João Tiago,Striker,Centre-Forward,"Sep 5, 1998 ",25,['Portugal'],Portugal,,,"1,88",-
+,Fábio Jorge,Striker,Centre-Forward,"Jul 29, 1998 ",25,['Portugal'],Portugal,Lisboa,,"1,88",-
+,Tomás Carvalho,Striker,Centre-Forward,"May 27, 1998 ",26,['Portugal'],Portugal,Lisboa,,"1,86",-
+70,Miguel Varela,Striker,Centre-Forward,"Sep 30, 1998 ",25,"['Cape Verde', 'Portugal']",Portugal,,AM,,-
+,Diogo Tavares,Striker,Centre-Forward,"Nov 29, 1998 ",25,['Portugal'],Portugal,Vila Franca de Xira,,"1,88",-
+9,Rúben Araújo,Striker,Centre-Forward,"Nov 5, 1998 ",25,['Portugal'],Portugal,Rio Maior,,"1,86",-
+21,Francisco Roque,Striker,Centre-Forward,"Feb 6, 1998 ",26,['Portugal'],Portugal,Montemor-o-Novo,LW,"1,90",-
+89,Manuel Namora,Striker,Centre-Forward,"Feb 12, 1998 ",26,['Portugal'],Portugal,Porto,,"1,80",-
+9,João Oliveira,Striker,Centre-Forward,"Sep 13, 1998 ",25,['Portugal'],Portugal,Setúbal,,"1,90",-
+,Tiago São Bento,Striker,Centre-Forward,"May 30, 1998 ",26,['Portugal'],Portugal,Barcelos,,"1,85",-
+,Gonçalo Lourenço,Striker,Centre-Forward,"Feb 3, 1998 ",26,['Portugal'],Portugal,Almada,RW   LW,"1,80",-
+,Marcelo Santos,Striker,Centre-Forward,"Mar 20, 1998 ",26,['Portugal'],Portugal,Oliveira de Azeméis,RW,"1,85",-
+,Marcelo Marques,Striker,Centre-Forward,"Aug 31, 1998 ",25,['Portugal'],Portugal,Funchal,LW,"1,85",-
+,Zé Pedro,Striker,Centre-Forward,"May 24, 1998 ",26,['Portugal'],Portugal,Guimarães,,"1,90",-
+,Ferraz,Striker,Centre-Forward,"Jun 20, 1998 ",26,['Portugal'],Portugal,Paredes,SS,"1,81",-
+,Cláudio Silva,Striker,Centre-Forward,"Jun 9, 1998 ",26,['Portugal'],Portugal,Ovar,,"1,89",-
+,Nuno Morais,Striker,Centre-Forward,"Aug 9, 1998 ",25,['Portugal'],Portugal,Lousada,SS,"1,86",-
+,Tiago Silva,Striker,Centre-Forward,"Sep 27, 1998 ",25,['Portugal'],Portugal,Ovar,,"1,84",-
+,Gil Santos,Striker,Centre-Forward,"Apr 18, 1998 ",26,['Portugal'],Portugal,Carcavelos,RW,"1,79",-
+9,Xavi,Striker,Centre-Forward,"Sep 25, 1998 ",25,['Portugal'],Portugal,Coimbra,,"1,82",-
+,Ricardo Moita,Striker,Centre-Forward,"Jun 20, 1998 ",26,['Portugal'],Portugal,Valença,,"1,77",-
+90,Pedro Mendes,Striker,Centre-Forward,"Aug 1, 1999 ",24,['Portugal'],Portugal,Guimarães,,"1,87",€1.80m
+,Miguel Pereira,Striker,Centre-Forward,"Jan 31, 1999 ",25,['Portugal'],Portugal,Peso da Régua,LW,"1,78",€300k
+90,João Santos,Striker,Centre-Forward,"Mar 15, 1999 ",25,['Portugal'],Portugal,Amadora,RW   SS,"1,80",€175k
+9,Pedro Diniz,Striker,Centre-Forward,"Mar 22, 1999 ",25,['Portugal'],Portugal,Moura,RW,"1,78",-
+,Diogo Grácio,Striker,Centre-Forward,"Dec 10, 1999 ",24,['Portugal'],Portugal,Amadora,,"1,85",-
+,David Cabral,Striker,Centre-Forward,"Dec 18, 1999 ",24,['Portugal'],Portugal,,,"1,96",-
+9,Ricky,Striker,Centre-Forward,"Feb 11, 1999 ",25,"['Portugal', 'Angola']",Portugal,,LW   RW,"1,90",-
+70,Henrique Henriques,Striker,Centre-Forward,"Apr 5, 1999 ",25,['Portugal'],Portugal,Sintra,SS   LW,"1,88",-
+,Bruno Gomes,Striker,Centre-Forward,"Jul 2, 1999 ",25,['Portugal'],Portugal,Lisboa,,"1,85",-
+,Flávio Chita,Striker,Centre-Forward,"Jun 5, 1999 ",25,['Portugal'],Portugal,Barcelos,SS,"1,83",-
+77,Kimen,Striker,Centre-Forward,"Sep 13, 1999 ",24,['Portugal'],Portugal,Guimarães,SS,"1,80",-
+,Hugo Azevedo,Striker,Centre-Forward,"Sep 7, 1999 ",24,['Portugal'],Portugal,,,,-
+,Bruno Tavares,Striker,Centre-Forward,"Oct 27, 1999 ",24,['Portugal'],Portugal,,,"1,87",-
+10,Cláudio Braga,Striker,Centre-Forward,"Oct 28, 1999 ",24,['Portugal'],Portugal,Mafamude,RW   LW,"1,80",€325k
+,Paulinho,Striker,Centre-Forward,"Sep 21, 1999 ",24,['Portugal'],Portugal,Braga,,"1,86",€275k
+9,Tiago Lopes,Striker,Centre-Forward,"Aug 23, 1999 ",24,"['Portugal', 'Cape Verde']",Portugal,,LW   RW,"1,85",€10k
+,Pedro Leite,Striker,Centre-Forward,"Jan 28, 1999 ",25,['Portugal'],Portugal,Felgueiras,RW   LW,"1,80",-
+,Evaldir Borges,Striker,Centre-Forward,"Jan 14, 1999","Jan 14, 1999","['Portugal', 'Cape Verde']",Portugal,,,"1,84",-
+10,Xavier Gil,Striker,Centre-Forward,"Sep 24, 1999 ",24,['Portugal'],Portugal,Coimbra,AM,"1,72",-
+9,Kako,Striker,Centre-Forward,"Sep 14, 1999 ",24,['Portugal'],Portugal,,,"1,84",-
+,Ivan Carvalho,Striker,Centre-Forward,"Feb 7, 1999 ",25,['Portugal'],Portugal,Lisboa,LW,"1,79",-
+,Vicente Caldeira,Striker,Centre-Forward,"Sep 25, 1999 ",24,['Portugal'],Portugal,Costa Da Caparica,SS,"1,83",-
+,Kenny Valinhas,Striker,Centre-Forward,"Sep 1, 1999 ",24,"['Portugal', 'France']",Portugal,Porto,,"1,83",-
+,João Maia,Striker,Centre-Forward,"Nov 21, 1999 ",24,['Portugal'],Portugal,Amarante,,"1,83",-
+19,Gonçalo Chaves,Striker,Centre-Forward,"May 14, 1999 ",25,['Portugal'],Portugal,Peniche,,"1,84",-
+,Celso Hadami,Striker,Centre-Forward,"Sep 13, 1999 ",24,"['Portugal', 'Morocco']",Portugal,Lordelo,,"1,89",-
+7,Leo Costa,Striker,Centre-Forward,"Feb 5, 1999 ",25,['Portugal'],Portugal,Braga,SS   LW,"1,78",-
+11,Evailton Fernandes,Striker,Centre-Forward,N/A ,24,"['Portugal', 'Germany']",Portugal,,RW   LW,,-
+17,Batistuta,Striker,Centre-Forward,"Aug 3, 1999 ",24,['Portugal'],Portugal,Milheirós de Poiares,SS   AM,"1,80",-
+,Nilson Júnior,Striker,Centre-Forward,"Aug 15, 1999 ",24,['Portugal'],Portugal,Olhão,LW   SS,,-
+,Pedro Martelo,Striker,Centre-Forward,"Oct 12, 1999 ",24,['Portugal'],Portugal,Évora,,"1,90",-
+24,Ambrosio Da Costa,Striker,Centre-Forward,"May 17, 1999 ",25,"['Switzerland', 'Portugal']",Portugal,Loures,RW   LW,"1,80",-
+,André Simões,Striker,Centre-Forward,"Feb 13, 1999 ",25,['Portugal'],Portugal,Lisboa,,"1,80",-
+90,Pedro Soares,Striker,Centre-Forward,"Mar 30, 1999 ",25,['Portugal'],Portugal,Penafiel,,"1,84",-
+,Nelson Carvoeiro,Striker,Centre-Forward,"Feb 26, 1999 ",25,['Portugal'],Portugal,Monte Gordo,,,-
+,Fábio Lasca,Striker,Centre-Forward,"Jan 6, 1999 ",25,['Portugal'],Portugal,Azurva,RW,"1,98",-
+,Rúben Teixeira,Striker,Centre-Forward,"Jan 18, 1999 ",25,['Portugal'],Portugal,,LW,"1,85",-
+20,Gérson Correia,Striker,Centre-Forward,"Jan 9, 1999 ",25,"['Portugal', 'Belgium']",Portugal,Amadora,RW   LW,"1,80",-
+,Tiago Macedo,Striker,Centre-Forward,"Mar 23, 1999 ",25,['Portugal'],Portugal,Angra do Heroísmo,AM,"1,82",-
+9,Leandro Cardoso,Striker,Centre-Forward,"May 11, 1999 ",25,['Portugal'],Portugal,Figueira da Foz,RW,"1,80",-
+9,Vitinha,Striker,Centre-Forward,"Mar 15, 2000 ",24,['Portugal'],Portugal,Cabeceiras de Basto,,"1,78",€14.00m
+20,Masca,Striker,Centre-Forward,"May 15, 2000 ",24,['Portugal'],Portugal,Cascais,LW,"1,82",€800k
+,João Costa,Striker,Centre-Forward,"Mar 7, 2000 ",24,['Portugal'],Portugal,Lisboa,,"1,85",€350k
+9,Tamble,Striker,Centre-Forward,"Nov 15, 2000 ",23,['Portugal'],Portugal,Coimbra,,"1,91",€300k
+,Gustavo Schneider,Striker,Centre-Forward,"Jun 29, 2000 ",24,"['Portugal', 'Brazil']",Portugal,Espinho,,"1,75",€25k
+75,Pedro Catarino,Striker,Centre-Forward,"Mar 30, 2000 ",24,['Portugal'],Portugal,Setúbal,,,-
+9,André Jesus,Striker,Centre-Forward,"Feb 14, 2000 ",24,['Portugal'],Portugal,,,,-
+,Mateus Oliveira,Striker,Centre-Forward,"Feb 19, 2000 ",24,['Portugal'],Portugal,,,,-
+9,João Saldanha,Striker,Centre-Forward,"Aug 12, 2000 ",23,['Portugal'],Portugal,,,,-
+21,Tuga,Striker,Centre-Forward,"Mar 8, 2000 ",24,"['Portugal', 'Angola']",Portugal,Porto,LW   RW,"1,76",-
+19,João Morais,Striker,Centre-Forward,"Mar 9, 2000 ",24,['Portugal'],Portugal,,,,-
+,Rúben Júnior,Striker,Centre-Forward,"Jan 18, 2000 ",24,['Portugal'],Portugal,Lisboa,,"1,81",-
+11,Lucas Silva,Striker,Centre-Forward,"Jan 9, 2000 ",24,"['Portugal', 'Brazil']",Portugal,Porto,LW   SS,"1,75",-
+11,Duk,Striker,Centre-Forward,"Feb 16, 2000 ",24,"['Cape Verde', 'Portugal']",Portugal,Lisboa,LW,"1,82",€1.50m
+,Diogo Almeida,Striker,Centre-Forward,"Sep 8, 2000 ",23,['Portugal'],Portugal,Mortágua,RW,"1,84",€450k
+,Rúben Fonseca,Striker,Centre-Forward,"Feb 24, 2000 ",24,['Portugal'],Portugal,Santa Maria da Feira,RW,"1,88",€350k
+9,Ricardo Matos,Striker,Centre-Forward,"Mar 25, 2000 ",24,['Portugal'],Portugal,,SS,"1,83",€250k
+,Gonçalo Semedo,Striker,Centre-Forward,"Jun 30, 2000 ",24,['Portugal'],Portugal,Ovar,AM   RW,,-
+9,Diogo Fraga,Striker,Centre-Forward,"Oct 6, 2000 ",23,['Portugal'],Portugal,Mirandela,,"1,75",-
+7,Henrique Xavier,Striker,Centre-Forward,"Aug 26, 2000 ",23,['Portugal'],Portugal,Ribeira Brava,,"1,85",-
+22,Ricardo Moreira,Striker,Centre-Forward,"Dec 11, 2000 ",23,['Portugal'],Portugal,,,,-
+,Nuno Machado,Striker,Centre-Forward,"Apr 23, 2000 ",24,['Portugal'],Portugal,,,"1,81",-
+9,Paris,Striker,Centre-Forward,"Dec 1, 2000 ",23,['Portugal'],Portugal,,,"1,83",-
+7,Bismark Sanca,Striker,Centre-Forward,"Aug 18, 2000 ",23,['Portugal'],Portugal,,SS,,-
+,Celso Ferreira,Striker,Centre-Forward,"Apr 22, 2000 ",24,['Portugal'],Portugal,,,"1,86",-
+99,Luís Guerra,Striker,Centre-Forward,"Mar 1, 2000 ",24,['Portugal'],Portugal,Guimarães,,"1,78",-
+9,José Cruz,Striker,Centre-Forward,"Dec 5, 2000 ",23,['Portugal'],Portugal,Lisboa,,"1,93",-
+19,Diogo Pina,Striker,Centre-Forward,"Aug 4, 2000 ",23,"['Portugal', 'Cape Verde']",Portugal,Faro,LW   SS,"1,84",-
+,João Teixeira,Striker,Centre-Forward,"Aug 17, 2000 ",23,['Portugal'],Portugal,Sines,AM,"1,80",-
+,Luís Gerardo,Striker,Centre-Forward,"Apr 26, 2000 ",24,['Portugal'],Portugal,Funchal,,"1,80",-
+,André Lucas,Striker,Centre-Forward,"Jul 1, 2000 ",24,['Portugal'],Portugal,Matosinhos,,,-
+,João Arraiol,Striker,Centre-Forward,"Jul 3, 2000 ",24,['Portugal'],Portugal,Funchal,,"1,82",-
+,Tiago Leite,Striker,Centre-Forward,"Jul 31, 2000 ",23,['Portugal'],Portugal,Guimarães,SS   LW,"1,85",-
+,Rúben Amoreirinha,Striker,Centre-Forward,"Jan 17, 2000 ",24,['Portugal'],Portugal,Vila Franca de Xira,,"1,84",-
+9,Rodrigo Simão,Striker,Centre-Forward,"Oct 28, 2000 ",23,['Portugal'],Portugal,Ponta Delgada,,"1,80",-
+11,Luís Silva,Striker,Centre-Forward,"Oct 2, 2000 ",23,['Portugal'],Portugal,,RW   AM,"1,83",-
+70,Leandro Campos,Striker,Centre-Forward,"Apr 1, 2000 ",24,['Portugal'],Portugal,Barcelos,LW,"1,78",-
+48,Gonçalo Cabral,Striker,Centre-Forward,"Jan 31, 2000 ",24,['Portugal'],Portugal,Lisboa,,"1,88",-
+,Benja,Striker,Centre-Forward,"Apr 10, 2000 ",24,['Portugal'],Portugal,,LW,"1,80",-
+9,Pedro Mendanha,Striker,Centre-Forward,"Jan 10, 2000 ",24,['Portugal'],Portugal,Póvoa de Lanhoso,,"1,84",-
+16,Vítor Jesus,Striker,Centre-Forward,"Aug 15, 2000 ",23,['Portugal'],Portugal,Amora,LW   SS,"1,86",-
+,Nuno Barbosa,Striker,Centre-Forward,"Sep 26, 2000 ",23,['Portugal'],Portugal,Porto,LW,"1,85",-
+23,João Diogo,Striker,Centre-Forward,"Nov 23, 2000 ",23,['Portugal'],Portugal,Vendas Novas,,,-
+18,Pedro Ribeiro,Striker,Centre-Forward,"Apr 23, 2000 ",24,['Portugal'],Portugal,Paredes,LW   RW,"1,85",-
+,Chico,Striker,Centre-Forward,"Mar 28, 2000 ",24,['Portugal'],Portugal,Porto,SS   AM,"1,72",-
+,Dani Costa,Striker,Centre-Forward,"Sep 1, 2000 ",23,['Portugal'],Portugal,Anadia,SS,"1,81",-
+14,Duarte Ferreira,Striker,Centre-Forward,"Sep 6, 2000 ",23,['Portugal'],Portugal,Cascais,,"1,87",-
+17,Vitor Moreira,Striker,Centre-Forward,"Mar 13, 2000 ",24,['Portugal'],Portugal,Paredes,SS   LW,"1,83",-
+9,Vasco Paciência,Striker,Centre-Forward,"Mar 23, 2000 ",24,['Portugal'],Portugal,Porto,,"1,83",-
+,Juliano Baptista,Striker,Centre-Forward,"Apr 17, 2000 ",24,"['Russia', 'Portugal']",Portugal,Lissabon,,"1,95",-
+,Tiago Rodrigues,Striker,Centre-Forward,"Jun 21, 2000 ",24,['Portugal'],Portugal,Évora,,"1,81",-
+22,João Marouca,Striker,Centre-Forward,"Apr 14, 2000 ",24,['Portugal'],Portugal,Almada,RW   SS,"1,86",-
+9,Gonçalo Ramos,Striker,Centre-Forward,"Jun 20, 2001 ",23,['Portugal'],Portugal,Olhão,,"1,85",€50.00m
+,Rodrigo Piloto,Striker,Centre-Forward,"Jun 9, 2001 ",23,['Portugal'],Portugal,Lisboa,,,€300k
+,Tiago Lopes,Striker,Centre-Forward,"Sep 23, 2001 ",22,"['Portugal', 'Cape Verde']",Portugal,Lisboa,,"1,90",€100k
+,Éder Spínola,Striker,Centre-Forward,"Jul 16, 2001 ",22,['Portugal'],Portugal,Lisboa,,"1,87",-
+28,Tiago Florim,Striker,Centre-Forward,"Jan 28, 2001 ",23,['Portugal'],Portugal,Vila Nova de Gaia,,"1,83",-
+,Gustavo Campos,Striker,Centre-Forward,"May 29, 2001 ",23,['Portugal'],Portugal,Lourinhã,LW   RW,,-
+14,Kaipira,Striker,Centre-Forward,"Jun 6, 2001 ",23,['Portugal'],Portugal,Angra do Heroísmo,RW,"1,79",-
+99,Celso Sidney,Striker,Centre-Forward,"May 18, 2001 ",23,['Portugal'],Portugal,Mirandela,SS   LW,"1,87",-
+,Edney Ribeiro,Striker,Centre-Forward,"Feb 7, 2001 ",23,['Portugal'],Portugal,Lisboa,,"1,82",-
+9,Ivo Nabais,Striker,Centre-Forward,"Jul 13, 2001 ",22,['Portugal'],Portugal,Óbidos,,"1,80",-
+7,Duda,Striker,Centre-Forward,"Mar 19, 2001 ",23,['Portugal'],Portugal,Chaves,RW,"1,81",-
+,Diogo Mancilha,Striker,Centre-Forward,"Jul 25, 2001 ",22,['Portugal'],Portugal,Alenquer,LW,"1,83",-
+,Hugo Caeiro,Striker,Centre-Forward,"Feb 22, 2001 ",23,['Portugal'],Portugal,Barreiro,,"1,83",-
+18,Duarte Moreira,Striker,Centre-Forward,"Sep 29, 2001 ",22,['Portugal'],Portugal,Vila Nova de Gaia,LW   RW,"1,83",€350k
+30,Fábio Tavares,Striker,Centre-Forward,"Jan 22, 2001 ",23,"['Portugal', 'England']",Portugal,Matosinhos,LW   RW,"1,78",€250k
+20,Martim Cardoso,Striker,Centre-Forward,"Jul 3, 2001 ",23,['Portugal'],Portugal,Porto,SS,"1,79",-
+9,Fábio Costa,Striker,Centre-Forward,"Oct 30, 2001 ",22,['Portugal'],Portugal,Barcelos,RW,"1,82",-
+14,Diogo Reis,Striker,Centre-Forward,"Aug 7, 2001 ",22,['Portugal'],Portugal,Vila Nova de Famalicão,SS,"1,92",-
+,Ricardo Ferreira,Striker,Centre-Forward,"Jan 5, 2001 ",23,['Portugal'],Portugal,Espinho,,"1,75",-
+,João Pires,Striker,Centre-Forward,"Jul 1, 2001 ",23,['Portugal'],Portugal,Sintra,,"1,85",-
+,João Sousa,Striker,Centre-Forward,"Jul 9, 2001 ",23,['Portugal'],Portugal,Pinhal Novo,LW,"1,70",-
+,Márcio Fernandes,Striker,Centre-Forward,"Jan 12, 2001 ",23,['Portugal'],Portugal,,AM,,-
+,Mário Correia,Striker,Centre-Forward,"Dec 5, 2001 ",22,['Portugal'],Portugal,Freamunde,,"1,86",-
+19,Gabi,Striker,Centre-Forward,"Nov 19, 2001 ",22,['Portugal'],Portugal,,,"1,84",-
+16,Paulo Gavino,Striker,Centre-Forward,"Dec 19, 2001 ",22,['Portugal'],Portugal,Cascais,LW,"1,85",-
+9,Gonçalo Monteiro,Striker,Centre-Forward,"Feb 19, 2001 ",23,['Portugal'],Portugal,,,"1,78",-
+,Hugo Pereira,Striker,Centre-Forward,"Apr 11, 2001 ",23,['Portugal'],Portugal,Braga,,,-
+,João Oliveira Pinto,Striker,Centre-Forward,"Jul 12, 2001 ",22,['Portugal'],Portugal,Porto,,,-
+10,Gonçalo Gomes,Striker,Centre-Forward,"Mar 5, 2001 ",23,['Portugal'],Portugal,Coimbra,SS,"1,77",-
+,Ruben Domingos,Striker,Centre-Forward,"Jan 14, 2001 ",23,['Portugal'],Portugal,Vila Nova de Gaia,SS   RW,"1,72",-
+,Jorge Ferreira,Striker,Centre-Forward,"Sep 6, 2001 ",22,['Portugal'],Portugal,Vila Nova de Gaia,SS,"1,85",-
+11,Fábio Lopes,Striker,Centre-Forward,"Dec 7, 2001 ",22,['Portugal'],Portugal,Lisboa,RW   LW,"1,78",-
+,Gonçalo Oliveira,Striker,Centre-Forward,"Feb 28, 2001 ",23,['Portugal'],Portugal,Évora,,"1,76",-
+,Edu,Striker,Centre-Forward,"Jan 14, 2001 ",23,['Portugal'],Portugal,Braga,,"1,85",-
+26,Gonçalo Ferreira,Striker,Centre-Forward,"Jul 22, 2001 ",22,['Portugal'],Portugal,Cantanhede,RW   SS,"1,77",-
+,Fábio Silva,Striker,Centre-Forward,"Jul 19, 2002 ",21,['Portugal'],Portugal,Porto,SS   LW,"1,85",€11.00m
+,Henrique Araújo,Striker,Centre-Forward,"Jan 19, 2002 ",22,['Portugal'],Portugal,Funchal,,"1,82",€2.50m
+9,Rodrigo Fortuna,Striker,Centre-Forward,"Apr 19, 2002 ",22,['Portugal'],Portugal,,,,-
+19,Tomás Mendes,Striker,Centre-Forward,"Mar 19, 2002 ",22,['Portugal'],Portugal,Angra do Heroísmo,,"1,82",-
+10,Diogo Santos,Striker,Centre-Forward,"Jun 9, 2002 ",22,['Portugal'],Portugal,Lisboa,,,-
+,Marco Lopes,Striker,Centre-Forward,"Sep 6, 2002 ",21,['Portugal'],Portugal,,,,-
+96,Admilson Graça,Striker,Centre-Forward,"Jul 9, 2002 ",22,"['Portugal', 'Cape Verde']",Portugal,Algés,,"1,82",-
+97,António Maior,Striker,Centre-Forward,"Jan 20, 2002 ",22,['Portugal'],Portugal,Santo Aleixo da Restauração,,"1,80",-
+,Balelo,Striker,Centre-Forward,"Mar 24, 2002 ",22,['Portugal'],Portugal,Oliveira de Azeméis,,"1,86",-
+9,Rodrigo Lopes,Striker,Centre-Forward,"Jan 15, 2002 ",22,['Portugal'],Portugal,Lisboa,,"1,87",-
+24,Ari Almeida,Striker,Centre-Forward,"Sep 29, 2002 ",21,['Portugal'],Portugal,Lisboa,,"1,95",-
+27,Pedro Mochila,Striker,Centre-Forward,"Aug 6, 2002 ",21,['Portugal'],Portugal,,,"1,79",-
+,Pedro Marques,Striker,Centre-Forward,"Oct 28, 2002 ",21,['Portugal'],Portugal,,,"1,84",-
+11,Tiago Tomás,Striker,Centre-Forward,"Jun 16, 2002 ",22,['Portugal'],Portugal,Cascais,LW   RW,"1,80",€6.00m
+23,Tomás Borges,Striker,Centre-Forward,"Aug 5, 2002 ",21,['Portugal'],Portugal,,,"1,80",-
+11,Diogo Ribeiro,Striker,Centre-Forward,"Jan 10, 2002 ",22,['Portugal'],Portugal,Lisboa,SS,"1,70",-
+9,Edgar Ribeiro,Striker,Centre-Forward,"Jan 12, 2002 ",22,['Portugal'],Portugal,Valongo,,"1,87",-
+,Igor Carreira,Striker,Centre-Forward,"Jul 12, 2002 ",21,['Portugal'],Portugal,Barcelos,,"1,85",-
+18,Joao Gomes,Striker,Centre-Forward,"Oct 30, 2002 ",21,['Portugal'],Portugal,Lisboa,,"1,75",-
+16,Gonçalo Barreiras,Striker,Centre-Forward,"Mar 24, 2002 ",22,['Portugal'],Portugal,Caldas da Rainha,SS   AM,"1,75",-
+,João Couto,Striker,Centre-Forward,"Mar 28, 2002 ",22,['Portugal'],Portugal,,LW   RW,"1,80",-
+9,Cardoso,Striker,Centre-Forward,"Sep 17, 2002 ",21,['Portugal'],Portugal,Amarante,SS,"1,80",-
+,Giovanni Moura,Striker,Centre-Forward,"May 12, 2002 ",22,['Portugal'],Portugal,Lisboa,LW   SS,"1,77",-
+9,Bruno Fernandes,Striker,Centre-Forward,"Apr 1, 2002 ",22,['Portugal'],Portugal,Guimarães,RW,"1,85",-
+11,Diogo Medeiros,Striker,Centre-Forward,"May 15, 2002 ",22,['Portugal'],Portugal,São Miguel,,"1,82",-
+,João Marcelo,Striker,Centre-Forward,"Feb 9, 2002 ",22,['Portugal'],Portugal,,,"1,89",-
+,Simão Coelho,Striker,Centre-Forward,"Jul 31, 2002 ",21,['Portugal'],Portugal,Braga,SS,"1,74",-
+,Flávio Coutinho,Striker,Centre-Forward,"Oct 8, 2002 ",21,['Portugal'],Portugal,Coimbra,,"1,77",-
+19,Danilo Luís,Striker,Centre-Forward,"Dec 8, 2002 ",21,"['Portugal', 'Angola']",Portugal,,,"1,78",-
+,Rodrigo Freitas,Striker,Centre-Forward,"Apr 28, 2002 ",22,['Portugal'],Portugal,Almada,,"1,80",-
+35,Leandro Gonçalves,Striker,Centre-Forward,"Oct 16, 2002 ",21,"['Portugal', 'Brazil']",Portugal,,SS,"1,80",-
+,Rúben Travassos,Striker,Centre-Forward,"May 28, 2002 ",22,['Portugal'],Portugal,Faro,RW   LW,"1,82",-
+9,João Filipe,Striker,Centre-Forward,"Jul 1, 2002 ",22,['Portugal'],Portugal,Guimarães,SS,"1,74",-
+59,Yan Said,Striker,Centre-Forward,"Nov 8, 2002 ",21,"['Portugal', 'Brazil']",Portugal,Braga,SS   LW,"1,75",-
+,João dos Santos,Striker,Centre-Forward,"Jul 9, 2002 ",22,"['Portugal', 'Switzerland']",Portugal,Tomar,LW,"1,75",-
+,João Pinto,Striker,Centre-Forward,"Aug 31, 2002 ",21,['Portugal'],Portugal,Porto,RW   SS,"1,81",-
+,Leo Silva,Striker,Centre-Forward,"Mar 16, 2002 ",22,['Portugal'],Portugal,Cantanhede,SS   AM,"1,80",-
+,Guilherme Alves,Striker,Centre-Forward,"Jul 30, 2002 ",21,['Portugal'],Portugal,Faro,,"1,94",-
+,Paulo Agostinho,Striker,Centre-Forward,"Aug 25, 2002 ",21,"['Portugal', 'Angola']",Portugal,Vila Franca de Xira,,"1,90",-
+27,Fábio Delgado,Striker,Centre-Forward,"Sep 27, 2002 ",21,['Portugal'],Portugal,Almada,RW,"1,84",-
+,Tomás Francisco,Striker,Centre-Forward,"Mar 28, 2002 ",22,['Portugal'],Portugal,Odivelas,,"1,80",-
+9,Luís Pinto,Striker,Centre-Forward,"Mar 30, 2002 ",22,['Portugal'],Portugal,Porto,LW   RW,"1,80",-
+,Diogo Cardoso,Striker,Centre-Forward,"Feb 20, 2002 ",22,['Portugal'],Portugal,Moita,SS   RW,"1,77",-
+,Rodrigo Costa,Striker,Centre-Forward,"Feb 18, 2002 ",22,['Portugal'],Portugal,Setúbal,RW,,-
+9,Luís Semedo,Striker,Centre-Forward,"Aug 11, 2003 ",20,"['Portugal', 'Cape Verde']",Portugal,Lisboa,,"1,92",€600k
+,Bica,Striker,Centre-Forward,"Jun 16, 2003 ",21,['Portugal'],Portugal,Mirandela,RW,"1,80",€350k
+,Cuba,Striker,Centre-Forward,"Apr 16, 2003 ",21,['Portugal'],Portugal,Beja,LW   RW,"1,78",€275k
+,Rodrigo Macedo,Striker,Centre-Forward,"Jul 9, 2003 ",21,['Portugal'],Portugal,Braga,RW   SS,"1,81",€200k
+89,Luís Mota,Striker,Centre-Forward,"Sep 25, 2003 ",20,"['Portugal', 'Brazil']",Portugal,Lisboa,,"1,83",€125k
+,Francisco Silva,Striker,Centre-Forward,"Jun 2, 2003 ",21,['Portugal'],Portugal,,,"1,91",-
+21,Milton Monteiro,Striker,Centre-Forward,"Jan 1, 2003 ",21,['Portugal'],Portugal,Lisboa,,"1,84",-
+11,Pedro Teixeira,Striker,Centre-Forward,"Mar 8, 2003 ",21,['Portugal'],Portugal,,,"1,78",-
+15,Guilherme Biscaia,Striker,Centre-Forward,"May 3, 2003 ",21,['Portugal'],Portugal,Marinha Grande,,"1,85",-
+9,Tomás Martins,Striker,Centre-Forward,"Mar 19, 2003 ",21,['Portugal'],Portugal,Moura,,"1,88",-
+,Xixas,Striker,Centre-Forward,"Nov 11, 2003 ",20,['Portugal'],Portugal,Amadora,,"1,86",-
+7,Dimas Soares,Striker,Centre-Forward,"Sep 16, 2003 ",20,['Portugal'],Portugal,Angra do Heroísmo,,,-
+17,Bernardo Baltazar,Striker,Centre-Forward,"Jan 16, 2003 ",21,['Portugal'],Portugal,Fundão,SS,"1,75",-
+,Martim Tavares,Striker,Centre-Forward,"Nov 10, 2003 ",20,['Portugal'],Portugal,Porto,RW,"1,83",€400k
+,João Resende,Striker,Centre-Forward,"Mar 26, 2003 ",21,['Portugal'],Portugal,Guimarães,,"1,78",€275k
+27,Miguel Monteiro,Striker,Centre-Forward,"Jul 24, 2003 ",20,['Portugal'],Portugal,Guimarães,LW,"1,87",€200k
+17,Rodrigo Pereira,Striker,Centre-Forward,"Mar 7, 2003 ",21,['Portugal'],Portugal,Barreiro,,"1,88",€175k
+90,Nélson Pereira,Striker,Centre-Forward,"Apr 10, 2003 ",21,['Portugal'],Portugal,Lisboa,SS   RW,"1,82",€10k
+9,Isaac Rodrigues,Striker,Centre-Forward,"Jun 24, 2003 ",21,['Portugal'],Portugal,,,,-
+9,Gui,Striker,Centre-Forward,"Oct 23, 2003 ",20,['Portugal'],Portugal,,AM,"1,62",-
+,Diogo Barbosa,Striker,Centre-Forward,"Sep 17, 2003 ",20,['Portugal'],Portugal,Gondomar,,,-
+,Afonso Bom,Striker,Centre-Forward,"Oct 18, 2003 ",20,['Portugal'],Portugal,Olhão,,,-
+,Pedro Costa,Striker,Centre-Forward,"Jan 22, 2003 ",21,['Portugal'],Portugal,Lisboa,,"1,85",-
+17,Jair Pina,Striker,Centre-Forward,"Jul 22, 2003 ",20,['Portugal'],Portugal,Lisboa,RW,"1,88",-
+,Diogo Evaristo,Striker,Centre-Forward,"Feb 20, 2003 ",21,['Portugal'],Portugal,Lisboa,,"1,86",-
+,Pedro Gustavo,Striker,Centre-Forward,"Oct 25, 2003 ",20,['Portugal'],Portugal,,,"1,91",-
+11,Gabi,Striker,Centre-Forward,"Jun 30, 2003 ",21,['Portugal'],Portugal,,,"1,80",-
+18,Tiago Gaspar,Striker,Centre-Forward,"Sep 8, 2003 ",20,['Portugal'],Portugal,,RW   LW,"1,86",-
+,Sandro Pais,Striker,Centre-Forward,"Feb 10, 2003 ",21,['Portugal'],Portugal,Covilhã,LW,"1,70",-
+9,André Matos,Striker,Centre-Forward,"Jan 12, 2003 ",21,['Portugal'],Portugal,Marinha Grande,,"1,97",-
+,Milton Santos,Striker,Centre-Forward,"Nov 29, 2003 ",20,['Portugal'],Portugal,Câmara de Lobos,,"1,87",-
+,Afonso Silva,Striker,Centre-Forward,"Sep 7, 2003 ",20,['Portugal'],Portugal,Rio Maior,,"1,80",-
+,Carlos Caetano,Striker,Centre-Forward,"Dec 20, 2003 ",20,['Portugal'],Portugal,Albufeira,,"1,86",-
+89,Piteira,Striker,Centre-Forward,"Jul 3, 2003 ",21,['Portugal'],Portugal,,SS   LW,"1,78",-
+9,Francisco Canário,Striker,Centre-Forward,"Aug 3, 2003 ",20,['Portugal'],Portugal,Portalegre,,"1,92",-
+9,Leandro Jesus,Striker,Centre-Forward,"Dec 22, 2003 ",20,['Portugal'],Portugal,Olhão,SS,"1,81",-
+,Malam Sambú,Striker,Centre-Forward,"Mar 2, 2003 ",21,['Portugal'],Portugal,,,"1,85",-
+,Manuel Eloy,Striker,Centre-Forward,"Apr 15, 2003 ",21,['Portugal'],Portugal,,LW,"1,80",-
+17,Jonas,Striker,Centre-Forward,"Apr 6, 2003 ",21,['Portugal'],Portugal,,,"1,87",-
+99,Miguel Santos,Striker,Centre-Forward,"Jun 25, 2003 ",21,['Portugal'],Portugal,Matosinhos,,"1,81",-
+,Diogo Gonçalves,Striker,Centre-Forward,"Feb 11, 2003 ",21,['Portugal'],Portugal,Loulé,,"1,86",-
+9,Diogo Machado,Striker,Centre-Forward,"Nov 22, 2003 ",20,['Portugal'],Portugal,Estarreja,,"1,78",-
+,Guga Ricci,Striker,Centre-Forward,"Feb 28, 2003 ",21,"['Portugal', 'Brazil']",Portugal,,,"1,83",-
+,Miguel Rajani,Striker,Centre-Forward,"Jun 18, 2003 ",21,['Portugal'],Portugal,Porto,,"1,74",-
+,Veríssimo Amaro,Striker,Centre-Forward,"Jan 28, 2003 ",21,['Portugal'],Portugal,Vizela,,"1,85",-
+28,Chermiti,Striker,Centre-Forward,"May 24, 2004 ",20,"['Portugal', 'Tunisia']",Portugal,"Santa Maria, Açores",,"1,92",€9.00m
+96,Miguel Falé,Striker,Centre-Forward,"Jan 28, 2004 ",20,['Portugal'],Portugal,Redondo,RW   LW,"1,80",€350k
+13,João Pinto,Striker,Centre-Forward,"May 31, 2004 ",20,"['Portugal', 'Guinea-Bissau']",Portugal,,LW   RW,"1,80",€75k
+22,Edgar Garcia,Striker,Centre-Forward,"Oct 25, 2004 ",19,['Portugal'],Portugal,Gouveia,,,-
+,Pedro Cunha,Striker,Centre-Forward,"Mar 16, 2004 ",20,['Portugal'],Portugal,Amadora,SS,"1,80",-
+9,Rafael Carvalho,Striker,Centre-Forward,"Aug 11, 2004 ",19,['Portugal'],Portugal,Lisboa,,"1,88",-
+11,Nuno Gaspar,Striker,Centre-Forward,"Jun 10, 2004 ",20,['Portugal'],Portugal,,,"1,92",-
+19,Tomás Ribeiro,Striker,Centre-Forward,"Dec 16, 2004 ",19,['Portugal'],Portugal,,,,-
+,Diogo Nascimento,Striker,Centre-Forward,"Jul 20, 2004 ",19,['Portugal'],Portugal,Vila Franca de Xira,,"1,90",-
+16,Jota,Striker,Centre-Forward,"Feb 9, 2004 ",20,['Portugal'],Portugal,,AM   RW,,-
+67,Lucas Anjos,Striker,Centre-Forward,"Jul 7, 2004 ",20,"['Portugal', 'Brazil']",Portugal,Santarém,LW,"1,86",-
+,Joel Carvalho,Striker,Centre-Forward,"Feb 26, 2004 ",20,['Portugal'],Portugal,Braga,,"1,80",-
+,Pablo,Striker,Centre-Forward,"Jan 2, 2004 ",20,"['Brazil', 'Portugal']",Portugal,Braga,RW   LW,"1,84",€400k
+90,Tiago Machado,Striker,Centre-Forward,"Apr 2, 2004 ",20,['Portugal'],Portugal,Gondomar,SS,"1,85",€100k
+25,David Santos,Striker,Centre-Forward,"Feb 4, 2004 ",20,['Portugal'],Portugal,São João da Madeira,RW,,-
+24,Lucas Pinto,Striker,Centre-Forward,"Apr 27, 2004 ",20,['Portugal'],Portugal,São Pedro do Sul,,"1,93",-
+27,Simão,Striker,Centre-Forward,"Feb 3, 2004 ",20,['Portugal'],Portugal,Ovar,,"1,90",-
+,Rúben Carvalho,Striker,Centre-Forward,"Feb 26, 2004 ",20,['Portugal'],Portugal,Porto,,"1,75",-
+,Martim Fortes,Striker,Centre-Forward,"Dec 31, 2004 ",19,['Portugal'],Portugal,,,"1,90",-
+20,Rui Faria,Striker,Centre-Forward,"Jul 29, 2004 ",19,['Portugal'],Portugal,,,"1,77",-
+,Alexandre Godinho,Striker,Centre-Forward,"Sep 5, 2004 ",19,['Portugal'],Portugal,Grândola,,"1,82",-
+,Gustavo Barros,Striker,Centre-Forward,"Feb 23, 2004 ",20,['Portugal'],Portugal,Santa Maria da Feira,RW   LW,"1,86",-
+,Iuri Moreira,Striker,Centre-Forward,"Mar 24, 2004 ",20,['Portugal'],Portugal,Amadora,,"1,85",-
+,Rodrigo Ribeiro,Striker,Centre-Forward,"Apr 28, 2005 ",19,['Portugal'],Portugal,Viana do Castelo,SS   RW,"1,85",€3.00m
+89,Gustavo Varela,Striker,Centre-Forward,"Jan 30, 2005 ",19,['Portugal'],Portugal,Lisboa,,"1,84",€500k
+21,Grave,Striker,Centre-Forward,"Oct 27, 2005 ",18,['Portugal'],Portugal,Santa Maria da Feira,,,€150k
+,António Indami,Striker,Centre-Forward,"Jun 11, 2005 ",19,['Portugal'],Portugal,,,"1,74",-
+9,Daniel Patrocínio,Striker,Centre-Forward,"Jun 4, 2005 ",19,['Portugal'],Portugal,,,,-
+,Duarte Carreira,Striker,Centre-Forward,"Apr 15, 2005 ",19,['Portugal'],Portugal,,,"1,97",-
+79,Ricardo Ferreira,Striker,Centre-Forward,"Dec 10, 2005 ",18,['Portugal'],Portugal,,RW   LW,,-
+,Rodrigo Malheiros,Striker,Centre-Forward,"Apr 13, 2005 ",19,['Portugal'],Portugal,Vila Nova de Gaia,,"1,76",-
+91,Rudi Almeida,Striker,Centre-Forward,"Mar 19, 2005 ",19,['Portugal'],Portugal,Fátima,,"1,85",-
+,Iuri Borges,Striker,Centre-Forward,"Feb 15, 2005 ",19,['Portugal'],Portugal,,,"1,88",-
+,Matheus Monteiro dos Santos,Striker,Centre-Forward,"Oct 9, 2005 ",18,"['Portugal', 'Brazil']",Portugal,Matosinhos,SS   AM,"1,89",-
+,Thiago Figueiredo,Striker,Centre-Forward,"Nov 29, 2005 ",18,"['Portugal', 'Brazil']",Portugal,,,"1,80",-
+97,Dinis Rodrigues,Striker,Centre-Forward,"Jul 14, 2005 ",18,['Portugal'],Portugal,Maia,,"1,87",€700k
+17,Brandão,Striker,Centre-Forward,"Aug 7, 2005 ",18,['Portugal'],Portugal,Oliveira de Azeméis,,,€200k
+33,Adulai Djabi Embalo,Striker,Centre-Forward,"Jun 30, 2005 ",19,"['Luxembourg', 'Portugal']",Portugal,,,"1,88",€125k
+27,Sassá,Striker,Centre-Forward,"Feb 6, 2005 ",19,['Portugal'],Portugal,Ponte da Barca,,"1,74",-
+,Pedro Cauã Gomes,Striker,Centre-Forward,"Jun 14, 2005 ",19,"['Portugal', 'Brazil']",Portugal,Gafanha de Nazaré,SS,"1,80",-
+18,Tomás Afonso,Striker,Centre-Forward,"Nov 13, 2005 ",18,['Portugal'],Portugal,Lissabon,,"1,89",-
+,João Bernardo,Striker,Centre-Forward,"Jan 21, 2005 ",19,['Portugal'],Portugal,Anadia,,"1,83",-
+96,Gonçalo Próspero,Striker,Centre-Forward,"Jun 1, 2005 ",19,['Portugal'],Portugal,Olhão,,,-
+86,Rafael Nel,Striker,Centre-Forward,"Apr 3, 2005 ",19,['Portugal'],Portugal,Amadora,AM   RW,"1,82",-
+59,Leonardo Oliveira,Striker,Centre-Forward,"Feb 8, 2005 ",19,"['Sweden', 'Portugal']",Portugal,Porto,SS,"1,87",-
+,João Costa,Striker,Centre-Forward,"Mar 12, 2005 ",19,['Portugal'],Portugal,Lagos,,,-
+,Carlos Durães,Striker,Centre-Forward,"Mar 15, 2005 ",19,['Portugal'],Portugal,Vila Nova de Famalicão,,"1,78",-
