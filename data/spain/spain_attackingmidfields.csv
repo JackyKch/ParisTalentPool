@@ -1,0 +1,855 @@
+Number,Name,Main Position,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+,Javi Lara,Midfielder,Attacking Midfield,"Dec 4, 1985 ",38,['Spain'],Spain,Montoro,LW   CM,"1,79",€100k
+,Antonio Bello,Midfielder,Attacking Midfield,"Jan 30, 1985 ",39,['Spain'],Spain,Jerez de la Frontera,RW   LW,"1,77",€10k
+,Sergio Narváez,Midfielder,Attacking Midfield,"Jul 11, 1985 ",39,['Spain'],Spain,Jerez de la Frontera,,"1,75",-
+,Richi,Midfielder,Attacking Midfield,"Mar 11, 1985 ",39,['Spain'],Spain,Castellnovo,CM,,-
+,Dani Ávalos,Midfielder,Attacking Midfield,"Jan 28, 1985 ",39,['Spain'],Spain,Algeciras,,"1,81",-
+,Pedro Ramírez,Midfielder,Attacking Midfield,"Sep 15, 1985 ",38,['Spain'],Spain,Carcaixent,,"1,73",-
+,Aarón Fernández,Midfielder,Attacking Midfield,"May 8, 1985 ",39,['Spain'],Spain,Tarragona,LW,"1,89",-
+,Iván Pérez,Midfielder,Attacking Midfield,"Nov 16, 1985 ",38,['Spain'],Spain,Santiago de Compostela,LW   RW,"1,71",-
+,Pulga,Midfielder,Attacking Midfield,"Nov 6, 1985 ",38,['Spain'],Spain,Almassora,CM,"1,80",-
+,Teo Tirado,Midfielder,Attacking Midfield,"Jul 16, 1985 ",39,['Spain'],Spain,Madrid,RB   RW,"1,76",-
+,Mario Martínez,Midfielder,Attacking Midfield,"Mar 25, 1985 ",39,['Spain'],Spain,Soria,RW   LW,"1,73",-
+,Iván Carril,Midfielder,Attacking Midfield,"Feb 13, 1985 ",39,['Spain'],Spain,Rebordaos,RM,"1,83",-
+,Perico,Midfielder,Attacking Midfield,"Jan 18, 1985 ",39,['Spain'],Spain,Málaga,LW,"1,82",-
+14,Pablo Rey,Midfielder,Attacking Midfield,"Feb 14, 1985 ",39,['Spain'],Spain,Ferrol,,"1,75",€25k
+,Alberto Melero,Midfielder,Attacking Midfield,"Jan 24, 1985 ",39,['Spain'],Spain,Palencia,,"1,79",-
+,Javier Romero,Midfielder,Attacking Midfield,N/A ,39,[],Spain,La Cala del Moral,,N/A,-
+,Jorge Gazapo,Midfielder,Midfield,N/A ,N/A,[],Spain,N/A,N/A,N/A,-
+,Josu Hernáez,Midfielder,Attacking Midfield,"Jul 4, 1985 ",39,['Spain'],Spain,Eibar,RW   LW,"1,76",-
+,Israel Losa,Midfielder,Attacking Midfield,"Jul 30, 1985 ",38,['Spain'],Spain,Pradejón,,"1,85",-
+,Eloi Amagat,Midfielder,Attacking Midfield,"May 21, 1985 ",39,['Spain'],Spain,Girona,CM,"1,81",-
+11,Abraham Noé,Midfielder,Attacking Midfield,"Apr 5, 1985 ",39,['Spain'],Spain,Las Palmas de Gran Canaria,RW   LW,"1,80",-
+,David Narváez,Midfielder,Attacking Midfield,"Jul 11, 1985 ",39,['Spain'],Spain,Jerez de la Frontera,LW,"1,70",-
+,Saúl,Midfielder,Attacking Midfield,"Apr 9, 1985 ",39,['Spain'],Spain,Oviedo,RW   LW,"1,76",-
+,Joselito,Midfielder,Attacking Midfield,"Jan 23, 1985 ",39,['Spain'],Spain,Zalamea la Real,SS   RM,"1,79",-
+,Carlitos,Midfielder,Attacking Midfield,"Mar 14, 1985 ",39,['Spain'],Spain,Cádiz,,"1,75",-
+,Aitor Martínez,Midfielder,Attacking Midfield,"Jan 10, 1985 ",39,['Spain'],Spain,Terrassa,,"1,81",-
+15,Mariano Hernández,Midfielder,Attacking Midfield,"Sep 10, 1986 ",37,['Spain'],Spain,Alcalá de Henares,CM,,-
+,Alberto Padilla,Midfielder,Attacking Midfield,"Nov 20, 1986 ",37,['Spain'],Spain,Barcelona,CM,,-
+,Toni Espinosa,Midfielder,Attacking Midfield,"Feb 21, 1986 ",38,['Spain'],Spain,Vilamarxant,CM,"1,80",-
+,Cristian Arcega,Midfielder,Attacking Midfield,"Jun 10, 1986 ",38,['Spain'],Spain,Zaragoza,RW,"1,79",-
+,Miguel Bedoya,Midfielder,Attacking Midfield,"Apr 15, 1986 ",38,['Spain'],Spain,Madrid,CM,"1,74",-
+,Joaquín García,Midfielder,Attacking Midfield,"Oct 12, 1986 ",37,['Spain'],Spain,Barcelona,CM,"1,74",-
+,Iñaki Segura,Midfielder,Attacking Midfield,"Apr 12, 1986 ",38,['Spain'],Spain,Albacete,CM,"1,76",-
+,Rayo,Midfielder,Attacking Midfield,"Jun 21, 1986 ",38,['Spain'],Spain,Elche,LW   RW,"1,76",-
+,Jairo Álvarez,Midfielder,Attacking Midfield,"Mar 21, 1986 ",38,['Spain'],Spain,Avilés,,"1,80",-
+,Sisi González,Midfielder,Attacking Midfield,"Apr 22, 1986 ",38,['Spain'],Spain,Albacete,RW,"1,68",-
+,José Manuel Jurado,Midfielder,Attacking Midfield,"Jun 29, 1986 ",38,['Spain'],Spain,Sanlúcar de Barrameda (Cádiz),LW   CM,N/A,-
+,Salvador Carrasco,Midfielder,Attacking Midfield,"Mar 24, 1986 ",38,['Spain'],Portugal,Algeciras,LW   RW,"1,74",-
+,Félix Sánchez Ahufinger,Midfielder,Attacking Midfield,"Jan 30, 1986 ",38,"['Germany', 'Spain']",Portugal,Carboneros,CF   SS,"1,83",-
+,Rubén Blanco,Midfielder,Attacking Midfield,"Jan 31, 1986 ",38,['Spain'],Portugal,Madrid,RW   LW,"1,80",-
+,Alex Mañas,Midfielder,Attacking Midfield,"Apr 12, 1986 ",38,['Spain'],Portugal,Badajoz,,"1,74",-
+,Sergio Ortiz,Midfielder,Attacking Midfield,"Aug 24, 1986 ",37,['Spain'],Portugal,Córdoba,CM,"1,80",-
+,Rubén Pardo,Midfielder,Attacking Midfield,"Apr 14, 1986 ",38,['Spain'],Portugal,Ortigueira,,"1,78",-
+,José María Cases,Midfielder,Attacking Midfield,"Nov 23, 1986 ",37,['Spain'],Portugal,Orihuela,LW   RW,"1,75",-
+,Antxon Muneta,Midfielder,Attacking Midfield,"Jun 1, 1986 ",38,['Spain'],Portugal,Bilbao,,"1,68",-
+,Javi Flores,Midfielder,Attacking Midfield,"Feb 9, 1986 ",38,['Spain'],Portugal,Córdoba,CM,"1,70",-
+,David Silva,Midfielder,Attacking Midfield,"Jan 8, 1986 ",38,['Spain'],Portugal,Arguineguín,LW   CM,"1,70",-
+,Víctor Vázquez,Midfielder,Attacking Midfield,"Jan 20, 1987 ",37,['Spain'],Spain,Barcelona,CM,"1,80",€125k
+7,Vianney Nieto,Midfielder,Attacking Midfield,"Sep 4, 1987 ",36,['Spain'],Spain,Las Palmas de Gran Canaria,LW   RW,,€25k
+10,Pablo Prieto,Midfielder,Attacking Midfield,"Apr 21, 1987 ",37,['Spain'],Spain,Arenas de Cabrales,RW,,-
+,Adrián Abasolo,Midfielder,Attacking Midfield,"Jun 24, 1987 ",37,['Spain'],Spain,Durango,,,-
+,Dany Cadena,Midfielder,Attacking Midfield,"Feb 9, 1987 ",37,"['Nicaragua', 'Spain']",Spain,Sanlúcar de Barrameda,CF,,-
+,Javi Sánchez,Midfielder,Attacking Midfield,"May 7, 1987 ",37,['Spain'],Spain,Oviedo,,,-
+,Quique Vázquez,Midfielder,Attacking Midfield,"Feb 7, 1987 ",37,['Spain'],Spain,Madrid,,"1,84",-
+,Alberto del Olmo,Midfielder,Attacking Midfield,"Jan 26, 1987 ",37,['Spain'],Spain,Santander,,"1,71",-
+,Chus del Prado,Midfielder,Attacking Midfield,"Oct 17, 1987 ",36,['Spain'],Spain,Santander,,"1,76",-
+,Álvaro Santos,Midfielder,Attacking Midfield,"Dec 8, 1987 ",36,['Spain'],Spain,Granada,CB   RB,"1,76",-
+21,Borja Sánchez,Midfielder,Attacking Midfield,"Feb 14, 1987 ",37,['Spain'],Spain,Talavera de la Reina,RW   CM,"1,79",-
+,Carlinos,Midfielder,Attacking Midfield,"Feb 17, 1987 ",37,['Spain'],Spain,Noreña,CM,"1,65",-
+,Gerardo Carrera,Midfielder,Attacking Midfield,"Mar 5, 1987 ",37,['Spain'],Spain,Gijón,,"1,76",-
+10,Mateo Míguez,Midfielder,Attacking Midfield,"May 11, 1987 ",37,['Spain'],Spain,Redondela,CM,"1,75",€50k
+,Sidi,Midfielder,Attacking Midfield,"Mar 11, 1987 ",37,"['Spain', 'Morocco']",Spain,Melilla,CM,,-
+,Chema Martín,Midfielder,Attacking Midfield,"Dec 5, 1987 ",36,['Spain'],Spain,Coria,,,-
+,Rubén Sánchez,Midfielder,Attacking Midfield,"Dec 16, 1987 ",36,['Spain'],Spain,Sevilla,RM   LM,"1,85",-
+,Vitaka Rodríguez,Midfielder,Attacking Midfield,"Aug 6, 1987 ",36,['Spain'],Spain,Santa Cruz de Tenerife,LW,"1,79",-
+21,Ignacio Martínez,Midfielder,Attacking Midfield,"Jul 16, 1987 ",37,['Spain'],Spain,Palma de Mallorca,,,-
+,Fran Piera,Midfielder,Attacking Midfield,"Dec 19, 1987 ",36,['Spain'],Spain,Barcelona,LW   RW,"1,77",-
+14,David Álvarez,Midfielder,Attacking Midfield,"Feb 24, 1987 ",37,['Spain'],Spain,Ponferrada,RW   LW,"1,74",-
+,Rubén Sánchez,Midfielder,Attacking Midfield,"Jul 3, 1987 ",37,['Spain'],Spain,Madrid,,"1,92",-
+,David Gámiz,Midfielder,Attacking Midfield,"Aug 27, 1987 ",36,['Spain'],Spain,Loja,,"1,65",-
+,José Luis Miñano,Midfielder,Attacking Midfield,"May 22, 1987 ",37,['Spain'],Spain,Alicante,CM,"1,74",-
+,Arman Imaz,Midfielder,Attacking Midfield,"Dec 18, 1987 ",36,['Spain'],Spain,Bilbao,LW,"1,63",-
+,José Carlos,Midfielder,Attacking Midfield,"Jul 17, 1987 ",37,['Spain'],Spain,Minas de Ríotinto,LW   RW,"1,82",-
+,Javi Lara,Midfielder,Attacking Midfield,"Aug 23, 1987 ",36,['Spain'],Spain,Esplugues de Llobregat,CM,"1,78",-
+,Miguel Palanca,Midfielder,Attacking Midfield,"Dec 18, 1987 ",36,['Spain'],Spain,Tarragona,RW   LW,"1,71",-
+,Dani Quintana,Midfielder,Attacking Midfield,"Mar 8, 1987 ",37,['Spain'],Spain,Las Palmas de Gran Canaria,LW   RW,"1,73",-
+,Ricardo Zamora,Midfielder,Attacking Midfield,"May 15, 1987 ",37,['Spain'],Spain,Burgos,RW,"1,78",-
+,Toti,Midfielder,Attacking Midfield,"Sep 21, 1987 ",36,['Spain'],Spain,Salamanca,RW   CF,"1,76",-
+,Francis Suárez,Midfielder,Attacking Midfield,"Jan 6, 1987 ",37,['Spain'],Spain,Las Palmas de Gran Canaria,CM   LW,"1,83",-
+10,Marquitos,Midfielder,Attacking Midfield,"Mar 21, 1987 ",37,['Spain'],Spain,Sant Antoni de Portmany,RW   LW,"1,74",-
+,Dani Calleja,Midfielder,Attacking Midfield,"Apr 13, 1987 ",37,['Spain'],Portugal,Íscar,,"1,81",-
+,Jesús Rubio,Midfielder,Attacking Midfield,"Feb 4, 1987 ",37,['Spain'],Portugal,Plasencia,,"1,79",-
+,Miguel Jiménez,Midfielder,Attacking Midfield,"Jan 12, 1987 ",37,['Spain'],Portugal,Granada,,,-
+,Cristian García,Midfielder,Attacking Midfield,"May 16, 1987 ",37,['Spain'],Portugal,Valencia,,"1,80",-
+,Óscar Vega,Midfielder,Attacking Midfield,"Jan 27, 1987 ",37,['Spain'],Portugal,Pamplona,RW   LW,"1,75",-
+7,Sergio Suárez,Midfielder,Attacking Midfield,"Jan 6, 1987 ",37,['Spain'],Portugal,Las Palmas de Gran Canaria,,"1,85",-
+,Julián López de Lerma,Midfielder,Attacking Midfield,"Feb 27, 1987 ",37,['Spain'],Portugal,Badajoz,,"1,78",-
+22,Sito Riera,Midfielder,Attacking Midfield,"Jan 5, 1987 ",37,['Spain'],Portugal,Manacor,CM,"1,84",-
+14,Dani Rodríguez,Midfielder,Attacking Midfield,"Jun 6, 1988 ",36,['Spain'],Spain,Betanzos,RW   LW,"1,78",€1.00m
+,Eloy Gila,Midfielder,Attacking Midfield,"Jun 21, 1988 ",36,['Spain'],Spain,Sabadell,RW   LW,"1,75",€50k
+8,Fernando Pino,Midfielder,Attacking Midfield,"Jul 14, 1988 ",36,['Spain'],Spain,Brozas,CM,"1,87",-
+,Moisés Pérez,Midfielder,Attacking Midfield,"Jul 13, 1988 ",36,['Spain'],Spain,Tenerife,SS,"1,92",-
+,Ezequiel García,Midfielder,Attacking Midfield,"Jun 2, 1988 ",36,['Spain'],Spain,Écija,,"1,74",-
+,Mikel Abaroa,Midfielder,Attacking Midfield,"Oct 2, 1988 ",35,['Spain'],Spain,Lekeitio,CM,"1,85",-
+,Alejandro Alonso,Midfielder,Attacking Midfield,"May 22, 1988 ",36,['Spain'],Spain,Langreo,,"1,85",-
+,Esteban Capelo,Midfielder,Attacking Midfield,"Jun 6, 1988 ",36,['Spain'],Spain,A Coruña,,"1,88",-
+,Adrián Mouriño,Midfielder,Attacking Midfield,"Feb 1, 1988 ",36,['Spain'],Spain,Porriño,RW   LW,"1,70",-
+,Fran Heredia,Midfielder,Attacking Midfield,"Feb 16, 1988 ",36,['Spain'],Spain,Granada,,"1,79",-
+,José de la Puente,Midfielder,Attacking Midfield,"Feb 22, 1988 ",36,['Spain'],Spain,Caborana,LM   RM,"1,88",-
+,Popo,Midfielder,Attacking Midfield,"Jan 25, 1988 ",36,['Spain'],Spain,Torre del Mar,LW,"1,65",-
+,Juan Mata,Midfielder,Attacking Midfield,"Apr 28, 1988 ",36,['Spain'],Portugal,Burgos,RW   LW,"1,70",€800k
+,Daniel De la Cal,Midfielder,Attacking Midfield,"Nov 9, 1988 ",35,['Spain'],Portugal,Valencia,,"1,83",-
+,Txutxi,Midfielder,Attacking Midfield,"Dec 24, 1988 ",35,['Spain'],Portugal,Vitoria-Gasteiz,,"1,77",-
+,Chapi,Midfielder,Attacking Midfield,"Mar 20, 1988 ",36,['Spain'],Portugal,Sevilla,CM,"1,81",-
+,Pepín,Midfielder,Attacking Midfield,"Nov 4, 1988 ",35,['Spain'],Portugal,Torrelavega,RW   CM,"1,78",-
+,Pedro Barrancos,Midfielder,Attacking Midfield,"Mar 10, 1988 ",36,['Spain'],Portugal,Sangonera la Verde,,"1,81",-
+,Igor Salutregui,Midfielder,Attacking Midfield,"Jul 12, 1988 ",36,['Spain'],Portugal,Gernika,,"1,76",-
+,Guillermo Uruñuela,Midfielder,Attacking Midfield,"Nov 8, 1988 ",35,['Spain'],Portugal,Avilés,,,-
+,Adrien Goñi,Midfielder,Attacking Midfield,"Aug 25, 1988 ",35,['Spain'],Portugal,Pamplona,CM,"1,76",-
+,Eloy Villodrés,Midfielder,Attacking Midfield,"Jan 30, 1988 ",36,['Spain'],Portugal,Fuengirola,,"1,73",-
+,Omar Ramos,Midfielder,Attacking Midfield,"Jan 26, 1988 ",36,['Spain'],Portugal,Santa Cruz de Tenerife,LW   RW,"1,76",-
+,Jonathan Viera,Midfielder,Attacking Midfield,"Oct 21, 1989 ",34,['Spain'],Spain,Las Palmas de Gran Canaria,LW   RW,"1,71",€1.00m
+,Javi Hernández,Midfielder,Attacking Midfield,"Jun 6, 1989 ",35,['Spain'],Spain,Salamanca,LW   RW,"1,84",€250k
+,Víctor Rodríguez,Midfielder,Attacking Midfield,"Jul 23, 1989 ",34,['Spain'],Spain,Sabadell,LW   RW,"1,70",€175k
+,Héctor Ayodele,Midfielder,Attacking Midfield,"Jul 9, 1989 ",35,['Spain'],Spain,Alicante,RW   LW,,€50k
+22,Adrián Lois,Midfielder,Attacking Midfield,"Feb 12, 1989 ",35,['Spain'],Spain,Valencia,CM,"1,76",€25k
+10,Valentín Morales,Midfielder,Attacking Midfield,"Sep 23, 1989 ",34,['Spain'],Spain,Palma de Mallorca,,,-
+8,Edu,Midfielder,Attacking Midfield,"Dec 20, 1989 ",34,['Spain'],Spain,A Coruña,CM,"1,99",-
+,Gonzalo Guardiola,Midfielder,Attacking Midfield,"Sep 14, 1989 ",34,['Spain'],Spain,Jumilla,LW   RW,"1,78",-
+,Airam Benito,Midfielder,Attacking Midfield,"Sep 23, 1989 ",34,['Spain'],Spain,Santa Cruz de Tenerife,CM,"1,74",-
+,Jacobo Millán,Midfielder,Attacking Midfield,"Feb 17, 1989 ",35,['Spain'],Spain,Vigo,LW,"1,78",-
+22,Diego Berdún,Midfielder,Attacking Midfield,"Apr 12, 1989 ",35,['Spain'],Spain,Zaragoza,,,-
+10,Maikel,Midfielder,Attacking Midfield,"Dec 2, 1989 ",34,['Spain'],Spain,Las Palmas de Gran Canaria,CM   CF,"1,82",-
+,Juanse,Midfielder,Attacking Midfield,"Apr 19, 1989 ",35,['Spain'],Spain,Jaén,RW   LW,"1,77",-
+,Roberto Torres,Midfielder,Attacking Midfield,"Mar 7, 1989 ",35,['Spain'],Spain,Arre,RW   LW,"1,78",€800k
+10,Alberto Noguera,Midfielder,Attacking Midfield,"Sep 24, 1989 ",34,['Spain'],Spain,Madrid,CM,"1,75",€175k
+,Álex Arias,Midfielder,Attacking Midfield,"Jun 13, 1989 ",35,['Spain'],Spain,Avilés,LW   RW,"1,70",€100k
+10,Marcos Sáez,Midfielder,Attacking Midfield,"Oct 6, 1989 ",34,['Spain'],Spain,Santa María de Cayón,,"1,83",€25k
+,Alfonso Benítez,Midfielder,Attacking Midfield,"Feb 18, 1989 ",35,['Spain'],Spain,La Linea de la Concepción,CM   RW,,-
+,Javi Navarro,Midfielder,Attacking Midfield,"Jun 23, 1989 ",35,['Spain'],Spain,Las Palmas de Gran Canaria,,,-
+,Carlos Terol,Midfielder,Attacking Midfield,"Jun 13, 1989 ",35,['Spain'],Spain,Jumilla,CM,"1,82",-
+,Fernando Calleja,Midfielder,Attacking Midfield,"Aug 9, 1989 ",34,['Spain'],Spain,Madrid,CM,,-
+20,Adán Pérez,Midfielder,Attacking Midfield,"Oct 24, 1989 ",34,['Spain'],Spain,Zaragoza,LW   CF,"1,80",-
+10,Néstor Gordillo,Midfielder,Attacking Midfield,"Aug 28, 1989 ",34,['Spain'],Spain,La Atalaya,LW   RW,"1,69",-
+,Cúper,Midfielder,Attacking Midfield,"Feb 10, 1989 ",35,['Spain'],Spain,Santander,,"1,80",-
+,Diego Peláez,Midfielder,Attacking Midfield,"May 18, 1989 ",35,['Spain'],Spain,Santiago de Compostela,LW,"1,72",-
+,Dieguito,Midfielder,Attacking Midfield,"Mar 20, 1989 ",35,['Spain'],Spain,Puerto Real,CF,"1,72",-
+,Aarón Aguado,Midfielder,Attacking Midfield,"Jan 7, 1989 ",35,['Spain'],Spain,Valladolid,,"1,85",-
+,Canario,Midfielder,Attacking Midfield,"May 5, 1989 ",35,['Spain'],Spain,Santa Lucía de Tirajana,RW   CM,"1,72",-
+,Carlos Andújar,Midfielder,Attacking Midfield,"Apr 11, 1989 ",35,['Spain'],Spain,Villagonzalo,LW   RW,"1,72",-
+,Borja Cortés,Midfielder,Attacking Midfield,"Feb 8, 1989 ",35,['Spain'],Spain,Alicante,,"1,78",-
+,Rubén Ramos,Midfielder,Attacking Midfield,"Jan 31, 1989 ",35,['Spain'],Spain,Fuenlabrada,CM,"1,78",-
+,Christian Alfonso,Midfielder,Attacking Midfield,"May 2, 1989 ",35,['Spain'],Portugal,Barcelona,RW   LW,"1,77",-
+,José Vega,Midfielder,Attacking Midfield,"Jun 11, 1989 ",35,['Spain'],Portugal,Madrid,,,-
+,Nacho Méndez,Midfielder,Attacking Midfield,"Jan 27, 1989 ",35,['Spain'],Portugal,Oviedo,,,-
+,David Bandera,Midfielder,Attacking Midfield,"Feb 14, 1989 ",35,['Spain'],Portugal,León,CM   LW,"1,80",-
+,Dani Galán,Midfielder,Attacking Midfield,"Mar 21, 1989 ",35,['Spain'],Portugal,Alboraya,,"1,72",-
+,Igor Martínez,Midfielder,Attacking Midfield,"Jul 19, 1989 ",34,['Spain'],Portugal,Vitoria-Gasteiz,RW   LW,"1,70",-
+,Borja García,Midfielder,Attacking Midfield,"Nov 2, 1990 ",33,['Spain'],Spain,Torremocha de Jarama,LW   RW,"1,75",€800k
+14,Fernando Llorente,Midfielder,Attacking Midfield,"Sep 18, 1990 ",33,['Spain'],Spain,Segovia,CM,"1,79",€175k
+12,Tana,Midfielder,Attacking Midfield,"Sep 20, 1990 ",33,['Spain'],Spain,Las Palmas de Gran Canaria,RW   LW,"1,69",€100k
+,Manuel Romay,Midfielder,Attacking Midfield,"Jul 29, 1990 ",33,['Spain'],Spain,Malpica de Bergantiños,CM,"1,84",€100k
+22,Josu Rodriguez,Midfielder,Attacking Midfield,"Jan 2, 1990 ",34,['Spain'],Spain,Barcelona,LW   RW,"1,82",€50k
+,Oriol Molins,Midfielder,Attacking Midfield,"Jul 19, 1990 ",33,['Spain'],Spain,Barcelona,CM,"1,85",-
+,Javi Crespo,Midfielder,Attacking Midfield,"Dec 19, 1990 ",33,['Spain'],Spain,Madrid,SS,"1,88",-
+,Jorge Pulido,Midfielder,Attacking Midfield,"Apr 29, 1990 ",34,['Spain'],Spain,Las Palmas de Gran Canaria,,,-
+,Álex Cano,Midfielder,Attacking Midfield,"Jan 1, 1990 ",34,['Spain'],Spain,Barcelona,SS,,-
+,Lolo Armario,Midfielder,Attacking Midfield,"Feb 26, 1990 ",34,['Spain'],Spain,Cádiz,CM,"1,83",-
+,Sandro Rodríguez,Midfielder,Attacking Midfield,"May 26, 1990 ",34,['Spain'],Spain,Tenerife,RW   LW,,-
+,Didac Devesa,Midfielder,Attacking Midfield,"Dec 30, 1990 ",33,['Spain'],Spain,Esporles,CM   SS,"1,73",-
+,Mané,Midfielder,Attacking Midfield,"Feb 22, 1990 ",34,['Spain'],Spain,Posadas,,"1,77",-
+11,Jesús Imaz,Midfielder,Attacking Midfield,"Sep 26, 1990 ",33,['Spain'],Spain,Lleida,SS   CF,"1,74",€500k
+10,Borja Díaz,Midfielder,Attacking Midfield,"Nov 2, 1990 ",33,['Spain'],Spain,Madrid,RW   LW,"1,80",€125k
+11,Edu García,Midfielder,Attacking Midfield,"Apr 24, 1990 ",34,['Spain'],Spain,Zaragoza,LM   RM,"1,82",€100k
+7,Jorge Fernández,Midfielder,Attacking Midfield,"Jan 28, 1990 ",34,['Spain'],Spain,Avilés,CM   RW,"1,70",€100k
+7,Carlos Cagigas,Midfielder,Attacking Midfield,"Oct 16, 1990 ",33,['Spain'],Spain,Rubayo,LW,"1,90",€25k
+,Luigi Moreno,Midfielder,Attacking Midfield,"Aug 23, 1990 ",33,['Spain'],Spain,Lebrija,,,-
+,Adrián Núñez,Midfielder,Attacking Midfield,"Nov 14, 1990 ",33,['Spain'],Spain,,,,-
+,Alfons Serra,Midfielder,Attacking Midfield,"Dec 10, 1990 ",33,['Spain'],Spain,Tarragona,CM,"1,75",-
+,Juanito Benítez,Midfielder,Attacking Midfield,"Mar 10, 1990 ",34,['Spain'],Spain,Jerez de la Frontera,,"1,78",-
+,Pedrito,Midfielder,Attacking Midfield,"Dec 16, 1990 ",33,['Spain'],Spain,Vilches,CM,,-
+,Roberto Jiménez,Midfielder,Attacking Midfield,"Sep 29, 1990 ",33,['Spain'],Spain,Madrid,,"1,66",-
+20,Juan Fresno,Midfielder,Attacking Midfield,"Jul 19, 1990 ",33,['Spain'],Spain,Santander,CM,"1,85",-
+,Óscar Fondevila,Midfielder,Attacking Midfield,"Jul 21, 1990 ",33,['Spain'],Spain,Vigo,CM,"1,80",-
+,Eder Vilarchao,Midfielder,Attacking Midfield,"Feb 9, 1990 ",34,['Spain'],Spain,Barakaldo,,"1,83",-
+,Javi Amaya,Midfielder,Attacking Midfield,"Jan 3, 1990 ",34,['Spain'],Spain,Torremolinos,CF   LW,"1,86",-
+,Xavi Boniquet,Midfielder,Attacking Midfield,"May 29, 1990 ",34,['Spain'],Spain,Terrassa,CM   LW,"1,73",-
+,Marc Serramitja,Midfielder,Attacking Midfield,"Aug 4, 1990 ",33,['Spain'],Spain,La Cellera de Ter,,"1,73",-
+14,Jorge Sáez,Midfielder,Attacking Midfield,"May 5, 1990 ",34,['Spain'],Spain,Madrid,RW,"1,65",-
+,Lucas Porcar,Midfielder,Attacking Midfield,"Feb 18, 1990 ",34,['Spain'],Spain,Sant Cugat del Vallés,RW   LW,"1,81",-
+,Fran Sota,Midfielder,Attacking Midfield,"Oct 30, 1990 ",33,['Spain'],Portugal,Aldeanueva de Ebro,RW   LW,"1,72",-
+,Cuqui,Midfielder,Attacking Midfield,"Jan 15, 1990 ",34,['Spain'],Portugal,Talavera de la Reina,CM   LW,"1,78",-
+,Miguelito,Midfielder,Attacking Midfield,"Dec 1, 1990 ",33,['Spain'],Portugal,Huelva,CM,"1,77",-
+,Antonio Campillo,Midfielder,Attacking Midfield,"Dec 16, 1990 ",33,['Spain'],Portugal,Madrid,,"1,76",-
+,Migue García,Midfielder,Attacking Midfield,"Aug 26, 1990 ",33,['Spain'],Portugal,Écija,RW   LW,"1,78",-
+,Alexis Rodríguez,Midfielder,Attacking Midfield,"Jan 23, 1990 ",34,['Spain'],Portugal,Santa Cruz de Tenerife,CM,"1,86",-
+10,Sergio Canales,Midfielder,Attacking Midfield,"Feb 16, 1991 ",33,['Spain'],Spain,Santander,RW   CM,"1,78",€10.00m
+11,Maikel Mesa,Midfielder,Attacking Midfield,"Jun 4, 1991 ",33,['Spain'],Spain,Santa Cruz de Tenerife,CM,"1,88",€700k
+10,Josep Señé,Midfielder,Attacking Midfield,"Dec 10, 1991 ",32,['Spain'],Spain,Sant Cugat del Vallès,CM,"1,84",€400k
+21,Juan Carlos Menudo,Midfielder,Attacking Midfield,"Jun 18, 1991 ",33,['Spain'],Spain,Sevilla,RW   LW,"1,67",€125k
+10,Tyronne,Midfielder,Attacking Midfield,"Jan 27, 1991 ",33,['Spain'],Spain,Las Palmas de Gran Canaria,RW   LW,"1,80",€125k
+10,Alberto Cuesta,Midfielder,Attacking Midfield,"Jan 16, 1991 ",33,['Spain'],Spain,Almuñécar,,,-
+,Saúl Díaz,Midfielder,Attacking Midfield,"Feb 18, 1991 ",33,['Spain'],Spain,Sa Pobla,,,-
+8,Paquito Morales,Midfielder,Attacking Midfield,"Nov 9, 1991 ",32,['Spain'],Spain,Mairena del Alcor,RW,,-
+,Unai Gutiérrez,Midfielder,Attacking Midfield,"Feb 15, 1991 ",33,['Spain'],Spain,,CM,,-
+,Yosu,Midfielder,Attacking Midfield,"Oct 4, 1991 ",32,['Spain'],Spain,Langreo,CM   RW,,-
+,Adrián Algarra,Midfielder,Attacking Midfield,"Mar 1, 1991 ",33,['Spain'],Spain,Cuenca,RW   LW,,-
+,Ander Sánchez,Midfielder,Attacking Midfield,"Feb 22, 1991 ",33,['Spain'],Spain,Irún,RW   LW,"1,78",-
+,Álex Biendi,Midfielder,Attacking Midfield,"Aug 15, 1991 ",32,['Spain'],Spain,Benavente,,"1,76",-
+17,Alejandro Pozuelo,Midfielder,Attacking Midfield,"Sep 20, 1991 ",32,['Spain'],Spain,Sevilla,CM   LW,"1,72",€1.50m
+11,Juan Carlos Real,Midfielder,Attacking Midfield,"Mar 15, 1991 ",33,['Spain'],Spain,A Coruña,LW   RW,"1,84",€600k
+10,Samu Saiz,Midfielder,Attacking Midfield,"Jan 22, 1991 ",33,['Spain'],Spain,Madrid,LW   RW,"1,74",€400k
+,Omar Santana,Midfielder,Attacking Midfield,"Apr 14, 1991 ",33,['Spain'],Spain,Las Palmas de Gran Canaria,CM,"1,75",€125k
+10,David Rodríguez,Midfielder,Attacking Midfield,"Sep 27, 1991 ",32,['Spain'],Spain,Madrid,CM,,€100k
+,Diego Ortiz,Midfielder,Attacking Midfield,"May 5, 1991 ",33,['Spain'],Spain,Santander,,,-
+,Estiven,Midfielder,Attacking Midfield,"Feb 16, 1991 ",33,['Spain'],Spain,La Linea de la Concepción,,"1,78",-
+,Álvaro Navarro,Midfielder,Attacking Midfield,"Apr 14, 1991 ",33,['Spain'],Spain,Algeciras,RM   LM,,-
+6,Álvaro Pozo,Midfielder,Attacking Midfield,"Nov 28, 1991 ",32,['Spain'],Spain,Mieres,,,-
+,Raúl Segura,Midfielder,Attacking Midfield,"Apr 11, 1991 ",33,['Spain'],Spain,Ronda,LW   RW,"1,69",-
+,Jorge Merino,Midfielder,Attacking Midfield,"Jun 10, 1991 ",33,['Spain'],Spain,Santander,RW   CM,"1,79",-
+11,Juan Menéndez,Midfielder,Attacking Midfield,"Dec 29, 1991 ",32,['Spain'],Spain,Avilés,LW,"1,82",-
+,Chevi,Midfielder,Attacking Midfield,"Oct 5, 1991 ",32,['Spain'],Spain,Madrid,CM,"1,80",-
+7,Aitor Villar,Midfielder,Attacking Midfield,"Jan 26, 1991 ",33,['Spain'],Spain,Barakaldo,CM   RW,"1,70",-
+,Juan José Guerra,Midfielder,Attacking Midfield,"Mar 8, 1991 ",33,['Spain'],Spain,Sevilla,,"1,79",-
+,José Ángel Bueno,Midfielder,Attacking Midfield,"Feb 7, 1991 ",33,['Spain'],Portugal,Tarragona,,"1,74",-
+,Nico Cháfer,Midfielder,Attacking Midfield,"Feb 11, 1991 ",33,['Spain'],Portugal,Gandía,CM   RW,"1,70",-
+,David Vidal,Midfielder,Attacking Midfield,"Nov 5, 1991 ",32,['Spain'],Portugal,Segovia,,"1,79",-
+22,Isco,Midfielder,Attacking Midfield,"Apr 21, 1992 ",32,['Spain'],Spain,Benalmádena,LW   CM,"1,76",€8.00m
+10,Carles Gil,Midfielder,Attacking Midfield,"Nov 22, 1992 ",31,['Spain'],Spain,Valencia,RW   SS,"1,71",€3.00m
+,Ñito González,Midfielder,Attacking Midfield,"Nov 26, 1992 ",31,['Spain'],Spain,Algeciras,CM,"1,69",€250k
+11,Pedro Astray,Midfielder,Attacking Midfield,"Mar 18, 1992 ",32,['Spain'],Spain,Vitoria-Gasteiz,CM,"1,84",€100k
+,Aitor Ortega,Midfielder,Attacking Midfield,"Aug 13, 1992 ",31,['Spain'],Spain,Ermua,CM,"1,82",€50k
+,Carlos de Dios,Midfielder,Attacking Midfield,"Oct 9, 1992 ",31,['Spain'],Spain,Maceda,,,-
+,Chico,Midfielder,Attacking Midfield,"Dec 4, 1992 ",31,['Spain'],Spain,Alagón del Rio,,,-
+,Juan Maza,Midfielder,Attacking Midfield,"Jan 4, 1992 ",32,['Spain'],Spain,,,,-
+,Kity,Midfielder,Attacking Midfield,"Nov 12, 1992 ",31,['Spain'],Spain,Parla,CM,"1,72",-
+14,José Antonio Parada,Midfielder,Attacking Midfield,"May 13, 1992 ",32,['Spain'],Spain,Sanlúcar de Barrameda,CM,"1,70",-
+,Álex Ares,Midfielder,Attacking Midfield,"Jun 27, 1992 ",32,['Spain'],Spain,Pontedeume,,,-
+,Pablo Coutado,Midfielder,Attacking Midfield,"Feb 22, 1992 ",32,['Spain'],Spain,Mieres,,"1,74",-
+,Bicho,Midfielder,Attacking Midfield,"Dec 2, 1992 ",31,['Spain'],Spain,Puerto Real,,"1,82",-
+,Iker Muniain,Midfielder,Attacking Midfield,"Dec 19, 1992 ",31,['Spain'],Spain,Pamplona,LW   RW,"1,69",€5.00m
+20,Juan Muñiz,Midfielder,Attacking Midfield,"Mar 14, 1992 ",32,['Spain'],Spain,Gijón,LW   RW,"1,75",€400k
+7,Sergio Moyita,Midfielder,Attacking Midfield,"Sep 11, 1992 ",31,['Spain'],Spain,Osuna (Sevilla),CM   RW,"1,74",€200k
+,Manu Caballero,Midfielder,Attacking Midfield,"Apr 10, 1992 ",32,['Spain'],Spain,Jerez de la Frontera,,,€50k
+,Cristian Ceballos,Midfielder,Attacking Midfield,"Dec 3, 1992 ",31,['Spain'],Spain,Santander,LW   SS,"1,73",€50k
+,Javi Alonso,Midfielder,Attacking Midfield,"Apr 21, 1992 ",32,['Spain'],Spain,Oviedo,,,-
+,Alain Petxa,Midfielder,Attacking Midfield,"Sep 8, 1992 ",31,['Spain'],Spain,Donostia-San Sebastián,,,-
+14,Álex González,Midfielder,Attacking Midfield,"Feb 14, 1992 ",32,['Spain'],Spain,Badajoz,,"1,65",-
+,Borja Gómez,Midfielder,Attacking Midfield,"Aug 13, 1992 ",31,['Spain'],Spain,La Línea de la Concepción,RW   LW,,-
+7,Nacho Maganto,Midfielder,Attacking Midfield,"Jan 2, 1992 ",32,['Spain'],Spain,Madrid,RW   CF,"1,72",-
+10,Marcos Remeseiro,Midfielder,Attacking Midfield,"Jul 21, 1992 ",31,['Spain'],Spain,A Coruña,LW   CF,"1,80",-
+,Javi Medina,Midfielder,Attacking Midfield,"Jan 9, 1992 ",32,['Spain'],Spain,Valencina de la Concepción (Sevilla),LW   RW,"1,68",-
+10,Yoel Sola,Midfielder,Attacking Midfield,"Apr 10, 1992 ",32,['Spain'],Spain,Pamplona,CM,"1,85",-
+,José María Barril,Midfielder,Attacking Midfield,"Apr 25, 1992 ",32,['Spain'],Spain,Madrid,CM,"1,83",-
+,Marcos Torres,Midfielder,Attacking Midfield,"Nov 13, 1992 ",31,['Spain'],Spain,Vigo,RW   LW,,-
+,Sergio Domínguez,Midfielder,Attacking Midfield,"Feb 11, 1992 ",32,['Spain'],Spain,Arnedo,,,-
+,Juan Quiles,Midfielder,Attacking Midfield,"Oct 28, 1992 ",31,['Spain'],Spain,El Prat de Llobregat,,,-
+10,Sergio Campoy,Midfielder,Attacking Midfield,"Mar 24, 1992 ",32,['Spain'],Portugal,Palma de Mallorca,,"1,76",-
+,Robert Martínez,Midfielder,Attacking Midfield,"Sep 30, 1992 ",31,['Spain'],Portugal,Gijón,LW   RW,"1,74",-
+,Sergio Rodríguez,Midfielder,Attacking Midfield,"Sep 7, 1992 ",31,['Spain'],Portugal,Sevilla,RW   LW,"1,69",-
+,Abian Serrano,Midfielder,Attacking Midfield,"May 12, 1992 ",32,['Spain'],Portugal,Las Palmas de Gran Canaria,,,-
+,Ager Aketxe,Midfielder,Attacking Midfield,"Dec 30, 1993 ",30,['Spain'],Spain,Bilbao,RW,"1,74",€1.80m
+10,Luis Fernández,Midfielder,Attacking Midfield,"Sep 27, 1993 ",30,['Spain'],Spain,Burela,CF   SS,"1,75",€350k
+,Rubén Díez,Midfielder,Attacking Midfield,"Aug 18, 1993 ",30,['Spain'],Spain,Zaragoza,CM   RW,"1,70",€300k
+10,Joan Román,Midfielder,Attacking Midfield,"May 18, 1993 ",31,['Spain'],Spain,Reus,RW   LW,"1,75",€300k
+,Pablo González,Midfielder,Attacking Midfield,"May 12, 1993 ",31,['Spain'],Spain,Almuñécar,RW   LW,"1,73",€200k
+,Carlos de la Nava,Midfielder,Attacking Midfield,"Apr 21, 1993 ",31,['Spain'],Spain,Salamanca,CF,"1,87",€200k
+,Jorge García,Midfielder,Attacking Midfield,"Mar 8, 1993 ",31,['Spain'],Spain,Getxo,CM,"1,84",€150k
+8,Carlos García,Midfielder,Attacking Midfield,"Sep 17, 1993 ",30,['Spain'],Spain,Sevilla,CM,"1,81",€125k
+,Jorge Barba,Midfielder,Attacking Midfield,"May 3, 1993 ",31,['Spain'],Spain,Campillos,CM,,€50k
+8,Pablo Mogollón,Midfielder,Attacking Midfield,"Aug 26, 1993 ",30,['Spain'],Spain,Córdoba,,"1,72",-
+,Javier Meana,Midfielder,Attacking Midfield,"Nov 30, 1993 ",30,['Spain'],Spain,Gijón,,,-
+,Alberto Cabanyes,Midfielder,Attacking Midfield,"Jun 21, 1993 ",31,['Spain'],Spain,Madrid,,,-
+,Rubén Alonso,Midfielder,Attacking Midfield,"Nov 20, 1993 ",30,['Spain'],Spain,Vigo,,,-
+30,Víctor Ruiz,Midfielder,Attacking Midfield,"Nov 2, 1993 ",30,['Spain'],Spain,Valencia,CM   LM,"1,73",€500k
+,Borja Herrera,Midfielder,Attacking Midfield,"Jan 8, 1993 ",31,['Spain'],Spain,Las Palmas de Gran Canaria,CM   LW,"1,78",€300k
+8,Borja Galán,Midfielder,Attacking Midfield,"Apr 26, 1993 ",31,['Spain'],Spain,Madrid,LW   RW,"1,82",€300k
+7,Gil Muntadas,Midfielder,Attacking Midfield,"Sep 25, 1993 ",30,['Spain'],Spain,Vic,LW   RW,"1,79",€200k
+8,José Artiles,Midfielder,Attacking Midfield,"Jun 10, 1993 ",31,['Spain'],Spain,Las Palmas de Gran Canaria,CM,"1,69",€200k
+20,Miguel Ángel Sainz-Maza,Midfielder,Attacking Midfield,"Jan 6, 1993 ",31,['Spain'],Spain,Santoña,LW   CM,"1,83",€200k
+,Pablo Pérez,Midfielder,Attacking Midfield,"Aug 2, 1993 ",30,['Spain'],Spain,Gijón,,"1,87",€150k
+10,Juan Carlos Camacho,Midfielder,Attacking Midfield,"Aug 6, 1993 ",30,['Spain'],Spain,Lepe,,,€100k
+,António Pinheiro,Midfielder,Attacking Midfield,"Jun 10, 1993 ",31,['Portugal'],Spain,Badajoz,RW   LW,"1,80",-
+11,Quino,Midfielder,Attacking Midfield,"Apr 17, 1993 ",31,['Spain'],Spain,Segovia,,"1,78",-
+5,Brais Calvo,Midfielder,Attacking Midfield,"Mar 12, 1993 ",31,['Spain'],Spain,Milladoiro,,,-
+,Richy Hurtado,Midfielder,Attacking Midfield,"Nov 13, 1993 ",30,"['Spain', 'Peru']",Spain,Valencia,RM   CF,"1,80",-
+,Isra Castillo,Midfielder,Attacking Midfield,"Jul 31, 1993 ",30,['Spain'],Spain,La Línea de la Concepción,RM   CF,"1,69",-
+,Álex Ortega,Midfielder,Attacking Midfield,"Dec 1, 1993 ",30,['Spain'],Spain,Láchar,CM,,-
+,Álvaro Alonso,Midfielder,Attacking Midfield,"Jul 13, 1993 ",31,['Spain'],Spain,Vigo,SS,"1,71",-
+,Alvaro Mérida,Midfielder,Attacking Midfield,"Mar 30, 1993 ",31,['Spain'],Spain,Madrid,,"1,80",-
+17,Iván Agudo,Midfielder,Attacking Midfield,"Jun 28, 1993 ",31,['Spain'],Spain,Castellón,RW   LW,"1,76",-
+,Carlos Carrasco,Midfielder,Attacking Midfield,"Feb 14, 1993 ",31,['Spain'],Spain,Alicante,RW   LW,,-
+,Cristófol Torres,Midfielder,Attacking Midfield,"Dec 29, 1993 ",30,['Spain'],Spain,Inca,,"1,75",-
+,Guillermo Palacios,Midfielder,Attacking Midfield,"Apr 12, 1993 ",31,['Spain'],Spain,Madrid,,"1,82",-
+,Juanma,Midfielder,Attacking Midfield,"Jan 23, 1993 ",31,['Spain'],Spain,Sevilla,,,-
+,Néstor Salinas,Midfielder,Attacking Midfield,"Feb 28, 1993 ",31,['Spain'],Spain,Cabanillas,CM,"1,88",-
+,Sam Gilroy,Midfielder,Attacking Midfield,"Jun 27, 1993 ",31,"['Gibraltar', 'Spain']",Portugal,Marbella,CM   RW,"1,82",-
+10,Carri,Midfielder,Attacking Midfield,"Apr 14, 1993 ",31,['Spain'],Portugal,San Fernando,,"1,74",-
+,Javier Prieto-Castro,Midfielder,Attacking Midfield,N/A ,30,[],Portugal,,,N/A,-
+,Diego Godoy,Midfielder,Attacking Midfield,"Jul 8, 1993 ",31,['Spain'],Portugal,Torremolinos,,,-
+16,Pepe Delgado,Midfielder,Attacking Midfield,"Sep 4, 1993 ",30,['Spain'],Portugal,Santa Cruz de Tenerife,CM   LW,"1,75",-
+,Edu Alarte,Midfielder,Attacking Midfield,"Jul 6, 1993 ",31,['Spain'],Portugal,Caravaca,,,-
+,Daniel Vadillo,Midfielder,Attacking Midfield,"May 6, 1993 ",31,['Spain'],Portugal,Madrid,,"1,77",-
+,Miguel Herranz,Midfielder,Attacking Midfield,"Jul 6, 1993 ",31,['Spain'],Portugal,Las Rozas,CM,"1,76",-
+,Xabi Calvo,Midfielder,Attacking Midfield,"Jan 8, 1993 ",31,['Spain'],Portugal,Tafalla,,,-
+10,Ivi López,Midfielder,Attacking Midfield,"Jun 29, 1994 ",30,['Spain'],Spain,Madrid,LW   RW,"1,74",€1.50m
+,Fede Vico,Midfielder,Attacking Midfield,"Jul 4, 1994 ",30,['Spain'],Spain,Córdoba,LW,"1,79",€600k
+,Cristian Benavente,Midfielder,Attacking Midfield,"May 19, 1994 ",30,"['Peru', 'Spain']",Spain,Alcalá de Henares,SS   RW,"1,72",€325k
+,Israel Suero,Midfielder,Attacking Midfield,"Apr 12, 1994 ",30,['Spain'],Spain,Madrid,RW   LW,"1,72",€200k
+,Asier Etxaburu,Midfielder,Attacking Midfield,"Apr 7, 1994 ",30,['Spain'],Spain,Ondarroa,CM,"1,81",€150k
+,Nando Quesada,Midfielder,Attacking Midfield,"Jan 5, 1994 ",30,['Spain'],Spain,Sabadell,CM,"1,79",€150k
+,Emiliano Franco,Midfielder,Attacking Midfield,"Oct 21, 1994 ",29,"['Argentina', 'Italy']",Spain,Zaragoza,RW   LW,"1,82",€125k
+,Miguel Díaz,Midfielder,Attacking Midfield,"Jan 24, 1994 ",30,['Spain'],Spain,Pamplona,CM,"1,85",€100k
+,Christian Guijarro,Midfielder,Attacking Midfield,"Dec 13, 1994 ",29,['Spain'],Spain,Andoain,RW   LW,,-
+,David Fernández,Midfielder,Attacking Midfield,"Nov 2, 1994 ",29,['Spain'],Spain,Burgos,,,-
+,Javier Rodríguez,Midfielder,Attacking Midfield,"Jan 4, 1994 ",30,['Spain'],Spain,San Roque,LM,,-
+20,Gonzalo Sáiz,Midfielder,Attacking Midfield,"Feb 3, 1994 ",30,['Spain'],Spain,Requena,LW,,-
+,Jorge Junco,Midfielder,Attacking Midfield,"Apr 14, 1994 ",30,['Spain'],Spain,Córdoba,RW   LW,"1,77",-
+22,Denis Suárez,Midfielder,Attacking Midfield,"Jan 6, 1994 ",30,['Spain'],Spain,Salceda de Caselas,LW   CM,"1,76",€1.50m
+,Jorge Pombo,Midfielder,Attacking Midfield,"Feb 22, 1994 ",30,['Spain'],Spain,Zaragoza,CF   LW,"1,77",€400k
+,Nili Perdomo,Midfielder,Attacking Midfield,"Feb 18, 1994 ",30,['Spain'],Spain,Las Palmas de Gran Canaria,RB   RW,"1,76",€250k
+26,Víctor Alonso,Midfielder,Attacking Midfield,"Dec 23, 1994 ",29,['Spain'],Spain,Barcelona,CM,"1,83",€200k
+,Martín Bengoa,Midfielder,Attacking Midfield,"Nov 21, 1994 ",29,['Spain'],Spain,Otxandio,CM   RW,"1,76",€150k
+,Juan Cámara,Midfielder,Attacking Midfield,"Feb 13, 1994 ",30,['Spain'],Spain,Jaén,LW   RW,"1,84",€150k
+,Sergio Nanclares,Midfielder,Attacking Midfield,"Jun 3, 1994 ",30,['Spain'],Spain,Madrid,LW   RW,"1,80",€100k
+,José Cascales,Midfielder,Attacking Midfield,"May 6, 1994 ",30,['Spain'],Spain,Murcia,CM,"1,75",-
+,Carlos Gómez,Midfielder,Attacking Midfield,"Feb 21, 1994 ",30,['Spain'],Spain,Madrid,LW   RW,"1,75",-
+,Christo,Midfielder,Attacking Midfield,"Oct 30, 1994 ",29,"['Dominican Republic', 'Spain']",Spain,Tortosa,LM   LB,"1,64",-
+15,Aleixo Cabral,Midfielder,Attacking Midfield,"Dec 1, 1994 ",29,"['Spain', 'Cape Verde']",Spain,Ponferrada,,,-
+10,Carlos Meseguer,Midfielder,Attacking Midfield,"Jul 22, 1994 ",29,['Spain'],Spain,Castellón,CM,,-
+,Fran Oller,Midfielder,Attacking Midfield,"Apr 22, 1994 ",30,['Spain'],Spain,Cantoria,CM,"1,78",-
+9,Ale González,Midfielder,Attacking Midfield,"Dec 18, 1994 ",29,['Spain'],Spain,Las Palmas de Gran Canaria,LW   RW,"1,76",-
+,Álex Jiménez,Midfielder,Attacking Midfield,"Jan 14, 1994 ",30,['Spain'],Spain,Sanlúcar de Barrameda,,,-
+6,José Manuel Ruiz,Midfielder,Attacking Midfield,"Dec 19, 1994 ",29,['Spain'],Spain,Caudete,CM,"1,75",-
+,Cristian González,Midfielder,Attacking Midfield,"Jun 30, 1994 ",30,['Spain'],Spain,Las Palmas de Gran Canaria,,,-
+,Ayub,Midfielder,Attacking Midfield,"Aug 26, 1994 ",29,"['Morocco', 'Spain']",Spain,Barcelona,CM,,-
+21,Juanra Martínez,Midfielder,Attacking Midfield,"Jan 21, 1994 ",30,['Spain'],Spain,Beniaján,CM,"1,86",-
+,José Manuel Pavón,Midfielder,Attacking Midfield,"Feb 8, 1994 ",30,['Spain'],Spain,Sevilla,,N/A,-
+,Alberto Lozano,Midfielder,Attacking Midfield,"May 14, 1994 ",30,['Spain'],Spain,Madrid,RW   LW,"1,71",-
+7,Xavi Pluvins,Midfielder,Attacking Midfield,"Jul 7, 1994 ",30,['Spain'],Portugal,Barcelona,,,-
+,Mia Guasch,Midfielder,Attacking Midfield,"May 30, 1994 ",30,['Spain'],Portugal,Torredembarra,CM,"1,73",-
+,Marcel Serramitja,Midfielder,Attacking Midfield,"Jul 27, 1994 ",29,['Spain'],Portugal,La Cellera de Ter,RW,,-
+,Ander Alday,Midfielder,Attacking Midfield,"Aug 27, 1994 ",29,['Spain'],Portugal,Vitoria-Gasteiz,,"1,69",-
+,Mon,Midfielder,Attacking Midfield,"Sep 2, 1994 ",29,['Spain'],Portugal,Santiago de Compostela,,,-
+8,Ale Pipo,Midfielder,Attacking Midfield,"Aug 19, 1994 ",29,['Spain'],Portugal,Las Palmas de Gran Canaria,,"1,77",-
+,Ismael César,Midfielder,Attacking Midfield,"Nov 15, 1994 ",29,['Spain'],Portugal,Las Cabezas,,"1,65",-
+,Borja Lasso,Midfielder,Attacking Midfield,"Jan 1, 1994 ",30,['Spain'],Portugal,Sevilla,LW,"1,78",-
+,Sergio Jerez,Midfielder,Attacking Midfield,"May 30, 1994 ",30,['Spain'],Portugal,Madrid,RW   LW,"1,74",-
+,Jon Toral,Midfielder,Attacking Midfield,"Feb 5, 1995 ",29,"['Spain', 'England']",Spain,Reus,LM   RM,"1,84",€700k
+8,Luis Alcalde,Midfielder,Attacking Midfield,"May 6, 1995 ",29,['Spain'],Spain,Roquetas de Mar,CM,"1,84",€250k
+11,Marc Fraile,Midfielder,Attacking Midfield,"May 17, 1995 ",29,['Spain'],Spain,Sant Antoni de Portmany,LW   RW,,€200k
+,José Antonio González,Midfielder,Attacking Midfield,"Oct 20, 1995 ",28,['Spain'],Spain,Puente Genil,CM,"1,83",€200k
+,Eneko Capilla,Midfielder,Attacking Midfield,"Jun 13, 1995 ",29,['Spain'],Spain,San Sebastián,CM,"1,67",€150k
+,Antonio Cintas,Midfielder,Attacking Midfield,"May 11, 1995 ",29,['Spain'],Spain,San Roque,RW   RM,,€25k
+,José Manuel González,Midfielder,Attacking Midfield,"May 29, 1995 ",29,['Spain'],Spain,Bembibre,CM,,-
+,Adrián Freire,Midfielder,Attacking Midfield,"Sep 18, 1995 ",28,['Spain'],Spain,Cangas do Morrazo,,,-
+,Julio Rey,Midfielder,Attacking Midfield,"Mar 18, 1995 ",29,['Spain'],Spain,Vilagarcía de Arousa,RW   CM,,-
+,Jesús Sosa,Midfielder,Attacking Midfield,"Apr 10, 1995 ",29,['Spain'],Spain,Mairena del Alcor,,,-
+,Unai Arguiarro,Midfielder,Attacking Midfield,"Apr 9, 1995 ",29,['Spain'],Spain,Erandio,,,-
+21,Fran Sabaté,Midfielder,Attacking Midfield,"Oct 18, 1995 ",28,['Spain'],Spain,Sevilla,LW   CM,"1,83",-
+10,Juanca González,Midfielder,Attacking Midfield,"Jul 6, 1995 ",29,['Spain'],Spain,Jaén,LW,"1,68",-
+,Xemi Fernández,Midfielder,Attacking Midfield,"Feb 2, 1995 ",29,['Spain'],Spain,Barcelona,CM   CF,"1,84",€400k
+10,Diego Gregori,Midfielder,Attacking Midfield,"Jul 26, 1995 ",28,['Spain'],Spain,Valencia,CM,"1,74",€225k
+,Jaime Santos,Midfielder,Attacking Midfield,"Apr 27, 1995 ",29,['Spain'],Spain,Oviedo,CM   LW,"1,80",€200k
+10,Juan López,Midfielder,Attacking Midfield,"Aug 1, 1995 ",28,['Spain'],Spain,Oviedo,CM   RW,,€150k
+10,Vicent Albert,Midfielder,Attacking Midfield,"Sep 9, 1995 ",28,['Spain'],Spain,Silla,CM,,€50k
+,Kike Rausell,Midfielder,Attacking Midfield,"Sep 7, 1995 ",28,['Spain'],Spain,Calatayud,,"1,82",€25k
+11,Rubén Riesco,Midfielder,Attacking Midfield,"Jan 11, 1995 ",29,['Spain'],Spain,Oviedo,LW   CF,"1,77",-
+,Edu,Midfielder,Attacking Midfield,"Jun 17, 1995 ",29,['Spain'],Spain,,RW,"1,86",-
+,Koke,Midfielder,Attacking Midfield,"Nov 28, 1995 ",28,['Spain'],Spain,Écija,CM,"1,76",-
+,Aarón Parra,Midfielder,Attacking Midfield,"Jan 1, 1995 ",29,['Spain'],Spain,L'Hospitalet de Llobregat,CM,,-
+,Javi Collado,Midfielder,Attacking Midfield,"Apr 22, 1995 ",29,['Spain'],Spain,Valladolid,,,-
+,Gabri Vidal,Midfielder,Attacking Midfield,"Aug 8, 1995 ",28,['Spain'],Spain,Reus,RW   LW,"1,78",-
+,José Aguinaga,Midfielder,Attacking Midfield,"May 11, 1995 ",29,['Spain'],Spain,Madrid,,"1,78",-
+10,Nacho Fernández,Midfielder,Attacking Midfield,"May 29, 1995 ",29,['Spain'],Spain,Écija,CM   RW,,-
+14,Eloy Jiménez,Midfielder,Attacking Midfield,"Jan 30, 1995 ",29,['Spain'],Spain,Hellín,RW   LW,"1,74",-
+,Míchel González,Midfielder,Attacking Midfield,"Jul 18, 1995 ",28,['Spain'],Spain,Ribafrecha,,"1,83",-
+,Jordi Oribe,Midfielder,Attacking Midfield,"Jun 1, 1995 ",29,['Spain'],Spain,Reus,,"1,77",-
+8,Óscar Oliva,Midfielder,Attacking Midfield,"Apr 10, 1995 ",29,['Spain'],Spain,San Fernando,RW,"1,66",-
+,Kevin Pérez,Midfielder,Attacking Midfield,"Jan 17, 1995 ",29,['Spain'],Spain,Vigo,,"1,73",-
+8,Pau Morer,Midfielder,Attacking Midfield,"Oct 10, 1995 ",28,['Spain'],Spain,Blanes,LW   RW,"1,71",-
+,Raúl Godoy,Midfielder,Attacking Midfield,"Feb 22, 1995 ",29,['Spain'],Portugal,La Aldea de San Nicolás,CM,,-
+,Kevin Sedeño,Midfielder,Attacking Midfield,N/A ,29,[],Portugal,Ceuta,,N/A,-
+,Antonio Domínguez,Midfielder,Attacking Midfield,"Dec 31, 1995 ",28,['Spain'],Portugal,Sanlúcar de Barrameda,CM,"1,78",-
+17,Fábio Polido,Midfielder,Attacking Midfield,"Jul 9, 1995 ",29,"['Portugal', 'Spain']",Portugal,Segóvia,CM,"1,74",-
+15,Álvaro Prada,Midfielder,Attacking Midfield,"May 23, 1995 ",29,['Spain'],Portugal,Santander,CM   RW,"1,74",-
+,Tomás Abelleira,Midfielder,Attacking Midfield,"Mar 2, 1995 ",29,['Spain'],Portugal,Vigo,,,-
+,Sevilla,Midfielder,Attacking Midfield,"Dec 31, 1995 ",28,['Spain'],Portugal,La Roda,CM,,-
+,Nacho Buil,Midfielder,Attacking Midfield,"Jan 17, 1995 ",29,['Spain'],Portugal,Leganés,,"1,86",-
+18,Pablo Fornals,Midfielder,Attacking Midfield,"Feb 22, 1996 ",28,['Spain'],Spain,Castelló de la Plana,CM   LM,"1,78",€14.00m
+,Pep Biel,Midfielder,Attacking Midfield,"Sep 5, 1996 ",27,['Spain'],Spain,Sant Joan,RW   LW,"1,72",€3.00m
+,Óscar Pinchi,Midfielder,Attacking Midfield,"Jan 17, 1996 ",28,['Spain'],Spain,A Coruña,RW   LW,"1,71",€500k
+17,Hugo Rama,Midfielder,Attacking Midfield,"Nov 22, 1996 ",27,['Spain'],Spain,Oroso,CM   LW,"1,77",€400k
+,Abdel Al-Badaoui,Midfielder,Attacking Midfield,"May 25, 1996 ",28,"['Morocco', 'Spain']",Spain,,LW   RW,"1,79",€250k
+14,Bicho,Midfielder,Attacking Midfield,"Feb 20, 1996 ",28,['Spain'],Spain,Sada,CM,"1,75",€250k
+,Manu Ramírez,Midfielder,Attacking Midfield,"Mar 8, 1996 ",28,['Spain'],Spain,Lepe,CM   LW,"1,77",€200k
+22,Víctor Barroso,Midfielder,Attacking Midfield,"Dec 2, 1996 ",27,['Spain'],Spain,Huelva,RW,"1,70",€150k
+,Albert Torras,Midfielder,Attacking Midfield,"Jun 13, 1996 ",28,['Spain'],Spain,Vallgorguina,CM,"1,83",€150k
+,Adrià Arjona,Midfielder,Attacking Midfield,"Feb 28, 1996 ",28,['Spain'],Spain,Vila-Seca,,"1,75",€50k
+14,Champi,Midfielder,Attacking Midfield,"May 17, 1996 ",28,['Spain'],Spain,Cangas de Morrazo,,,-
+10,Albert Valero,Midfielder,Attacking Midfield,"Jan 1, 1996 ",28,['Spain'],Spain,Cheste,,,-
+10,Salva Vegas,Midfielder,Attacking Midfield,"Sep 18, 1996 ",27,['Spain'],Spain,Alameda,,,-
+20,Kirian Rodríguez,Midfielder,Attacking Midfield,"Mar 5, 1996 ",28,['Spain'],Spain,Santa Cruz de Tenerife,CM   RW,"1,78",€12.00m
+,José Pozo,Midfielder,Attacking Midfield,"Mar 15, 1996 ",28,['Spain'],Spain,Málaga,LW   RW,"1,71",€1.00m
+7,Adrián Riera,Midfielder,Attacking Midfield,"Apr 19, 1996 ",28,['Spain'],Spain,Murcia,RW   LW,"1,78",€450k
+20,Luismi Gutiérrez,Midfielder,Attacking Midfield,"Feb 19, 1996 ",28,['Spain'],Spain,Moriles,LW   RW,,€250k
+11,Arturo Molina,Midfielder,Attacking Midfield,"Jul 18, 1996 ",27,['Spain'],Spain,Abarán,CM   RW,"1,83",€250k
+,Jon Bakero,Midfielder,Attacking Midfield,"Nov 5, 1996 ",27,['Spain'],Spain,Sitges,CM   CF,"1,89",€200k
+10,Gorka Marcos,Midfielder,Attacking Midfield,"Jan 2, 1996 ",28,['Spain'],Spain,Lasarte-Oria,CM,,€150k
+,Ale Hernández,Midfielder,Attacking Midfield,"Jan 9, 1996 ",28,['Spain'],Spain,Santa Cruz de Tenerife,,"1,87",€150k
+8,Borja Pascual,Midfielder,Attacking Midfield,"Jan 15, 1996 ",28,['Spain'],Spain,Madrid,CM,,€50k
+,Alberto Chust,Midfielder,Attacking Midfield,"Feb 17, 1996 ",28,['Spain'],Spain,Chiclana de la Frontera,,,-
+6,Guillermo Almirall,Midfielder,Attacking Midfield,"Apr 18, 1996 ",28,['Spain'],Spain,Los Rozas de Madrid,DM   CM,"1,79",-
+,Ismael Córdoba Tomillero,Midfielder,Attacking Midfield,"Jun 5, 1996 ",28,['Spain'],Spain,La Linea de la Concepcion,,,-
+,Kike Fajarnes,Midfielder,Attacking Midfield,"Mar 15, 1996 ",28,['Spain'],Spain,Ibiza,CM,,-
+,Joseba García,Midfielder,Attacking Midfield,"Oct 22, 1996 ",27,['Spain'],Spain,Vitoria,,,-
+,Fran Sánchez,Midfielder,Attacking Midfield,"Jan 1, 1996 ",28,['Spain'],Spain,Bejar,,"1,68",-
+,Álvaro Belizón,Midfielder,Attacking Midfield,"May 14, 1996 ",28,['Spain'],Spain,San Fernando,RW   LW,"1,78",-
+,Yeyo,Midfielder,Attacking Midfield,"Nov 29, 1996 ",27,['Spain'],Spain,,CM,,-
+,Nacho Martín,Midfielder,Attacking Midfield,"Jun 18, 1996 ",28,['Spain'],Spain,Écija,,"1,70",-
+,Diego Puig,Midfielder,Attacking Midfield,"Mar 2, 1996 ",28,['Spain'],Spain,Zaragoza,,,-
+19,Pancho Cotos,Midfielder,Attacking Midfield,"Mar 28, 1996 ",28,['Spain'],Spain,O Seijal,,,-
+,Víctor Badiola,Midfielder,Attacking Midfield,"Jan 3, 1996 ",28,['Spain'],Spain,Santoña,,"1,74",-
+,Juanlu Maldonado,Midfielder,Attacking Midfield,"Jun 24, 1996 ",28,['Spain'],Spain,Miajadas,LW,"1,67",-
+17,Nadjib Mengoud,Midfielder,Attacking Midfield,"May 25, 1996 ",28,"['Spain', 'Algeria']",Spain,Barcelona,RW   LW,,-
+4,Rubén Sánchez,Midfielder,Attacking Midfield,"May 31, 1996 ",28,['Spain'],Spain,Torrelavega,CM,"1,83",-
+,Federico Prieto,Midfielder,Attacking Midfield,"Apr 12, 1996 ",28,['Spain'],Spain,Madrid,CM,,-
+,Manu Jiménez,Midfielder,Attacking Midfield,"Dec 16, 1996 ",27,['Spain'],Spain,Badia del Vallés,,"1,74",-
+,Carlos Puyi,Midfielder,Attacking Midfield,"Oct 31, 1996 ",27,['Spain'],Spain,Pozoblanco,CM,"1,80",-
+,Carajito,Midfielder,Attacking Midfield,"Jun 23, 1996 ",28,['Spain'],Spain,Manilva,,"1,70",-
+,Germán Ruiz,Midfielder,Attacking Midfield,"Mar 13, 1996 ",28,['Spain'],Spain,Ronda,CF,"1,81",-
+,Alfonso Caravaca,Midfielder,Attacking Midfield,"Oct 30, 1996 ",27,['Spain'],Spain,Spanien,,,-
+21,Alfredo Vega,Midfielder,Attacking Midfield,"Mar 14, 1996 ",28,['Spain'],Spain,Las Palmas de Gran Canaria,CM,"1,80",-
+,Omar Toure,Midfielder,Attacking Midfield,"Feb 22, 1996 ",28,['Spain'],Spain,La Línea de la Concepción,SS   CF,,-
+,Sergio Paredes,Midfielder,Attacking Midfield,"Jun 25, 1996 ",28,['Spain'],Spain,Mancha Real,,,-
+22,Oscar Lozano,Midfielder,Attacking Midfield,"Jun 14, 1996 ",28,['Spain'],Spain,Motril,RW   LW,,-
+,Chico,Midfielder,Attacking Midfield,"Jul 11, 1996 ",28,['Spain'],Spain,La Línea de la Concepción,RW,,-
+,Iván Cifuentes,Midfielder,Attacking Midfield,"Jan 10, 1996 ",28,['Spain'],Spain,Albacete,CM,"1,79",-
+11,Ángel Fernández,Midfielder,Attacking Midfield,"Mar 30, 1996 ",28,['Spain'],Spain,Betanzos,CM,,-
+,Ramón Saavedra,Midfielder,Attacking Midfield,"Jan 17, 1996 ",28,['Spain'],Spain,Elche,RW   LW,,-
+,Ander Mediavilla,Midfielder,Attacking Midfield,"Mar 22, 1996 ",28,['Spain'],Spain,Bilbao,,"1,77",-
+,Gonzalo Merchán,Midfielder,Attacking Midfield,"Apr 19, 1996 ",28,['Spain'],Portugal,Madrid,,"1,72",-
+23,Brais Méndez,Midfielder,Attacking Midfield,"Jan 7, 1997 ",27,['Spain'],Spain,Mos,CM   RW,"1,84",€40.00m
+8,Riki Rodríguez,Midfielder,Attacking Midfield,"Sep 25, 1997 ",26,['Spain'],Spain,Oviedo,CM,"1,75",€900k
+10,Christian Montes,Midfielder,Attacking Midfield,"Aug 10, 1997 ",26,['Spain'],Spain,Santa Cruz de Tenerife,LW   RW,"1,63",€400k
+,Sergio Montero,Midfielder,Attacking Midfield,"Mar 17, 1997 ",27,['Spain'],Spain,Ripollet,RW   LW,,€300k
+38,Imanol Arana,Midfielder,Attacking Midfield,"May 20, 1997 ",27,['Spain'],Spain,Pamplona,CM,,€250k
+19,Pitu Doncel,Midfielder,Attacking Midfield,"Dec 2, 1997 ",26,['Spain'],Spain,Vigo,CM   RW,"1,73",€200k
+,Luis Castillo,Midfielder,Attacking Midfield,"Apr 10, 1997 ",27,['Spain'],Spain,Benidorm,LW   RW,"1,76",€150k
+,Pablo Haro,Midfielder,Attacking Midfield,"Jun 17, 1997 ",27,['Spain'],Spain,Segovia,RW   LW,"1,78",€100k
+,Asier Parra,Midfielder,Attacking Midfield,"May 4, 1997 ",27,['Spain'],Spain,Abanto,CM   LW,"1,81",€100k
+6,Goma,Midfielder,Attacking Midfield,"Aug 24, 1997 ",26,['Spain'],Spain,Jerez de la Frontera,CM,,€50k
+,Arturo Lías,Midfielder,Attacking Midfield,"Aug 23, 1997 ",26,['Spain'],Spain,Santa Cruz de Tenerife,CM,"1,88",-
+,Pablo Rivero,Midfielder,Attacking Midfield,"Nov 27, 1997 ",26,['Spain'],Spain,Lanzarote,RW   LW,"1,77",-
+,Óscar Contreras,Midfielder,Attacking Midfield,"Dec 3, 1997 ",26,['Spain'],Spain,,RW   CM,"1,76",-
+21,Óscar Melendo,Midfielder,Attacking Midfield,"Aug 23, 1997 ",26,['Spain'],Spain,Barcelona,RW   CM,"1,67",€2.00m
+,Chuca,Midfielder,Attacking Midfield,"Jun 10, 1997 ",27,['Spain'],Spain,Jacarilla,DM   CM,"1,81",€500k
+23,Xabi Auzmendi,Midfielder,Attacking Midfield,"May 1, 1997 ",27,['Spain'],Spain,Segura,LM   RM,"1,80",€300k
+10,Julen Ekiza,Midfielder,Attacking Midfield,"Sep 29, 1997 ",26,['Spain'],Spain,Pamplona,CM,"1,75",€250k
+10,Chema Núñez,Midfielder,Attacking Midfield,"Sep 16, 1997 ",26,['Spain'],Spain,La Puebla del Río,RW   LW,"1,75",€250k
+,Antonio Salado,Midfielder,Attacking Midfield,"Jan 29, 1997 ",27,['Spain'],Spain,Sestao,LW   LB,"1,80",€200k
+8,Alain Ribeiro,Midfielder,Attacking Midfield,"Jul 8, 1997 ",27,['Spain'],Spain,Sopela,CM,"1,89",€150k
+20,Júnior,Midfielder,Attacking Midfield,"Jul 4, 1997 ",27,"['Dominican Republic', 'Spain']",Spain,Madrid,LW   RW,"1,72",€100k
+10,Pitu Viera,Midfielder,Attacking Midfield,"Jul 14, 1997 ",27,['Spain'],Spain,Las Palmas de Gran Canaria,LW,,€75k
+20,Josiño,Midfielder,Attacking Midfield,"Jun 17, 1997 ",27,['Spain'],Spain,Bueu,CM,"1,69",€25k
+,Mohamed El Azouan,Midfielder,Attacking Midfield,"Oct 1, 1997 ",26,"['Spain', 'Morocco']",Spain,Madryt,,"1,85",-
+14,David González,Midfielder,Attacking Midfield,"May 5, 1997 ",27,['Spain'],Spain,Ribeira,CF   RW,"1,87",-
+15,Ignasi Varona,Midfielder,Attacking Midfield,"Jun 7, 1997 ",27,['Spain'],Spain,Barcelona,,,-
+,Raúl Tresgallo,Midfielder,Attacking Midfield,"Jul 26, 1997 ",26,['Spain'],Spain,Santander,CM,,-
+,Jony,Midfielder,Attacking Midfield,"Feb 9, 1997 ",27,['Spain'],Spain,La Alcudia de Crespins,LW   SS,"1,7",-
+,Luismi Bueno,Midfielder,Attacking Midfield,"Jun 20, 1997 ",27,['Spain'],Spain,Puerto Real,CF   LW,"1,82",-
+10,Kevin Alarcón,Midfielder,Attacking Midfield,"Mar 6, 1997 ",27,['Spain'],Spain,Barcelona,CM,"1,72",-
+,Fran Álvarez,Midfielder,Attacking Midfield,"Jan 17, 1997 ",27,['Spain'],Spain,Malagón,CF,,-
+,Álex Mayans,Midfielder,Attacking Midfield,"Sep 19, 1997 ",26,['Spain'],Spain,Formentera,,,-
+11,Dieguito,Midfielder,Attacking Midfield,"Nov 29, 1997 ",26,['Spain'],Spain,Palma de Mallorca,RW   LW,"1,78",-
+,Alex De Flaviis,Midfielder,Attacking Midfield,"Jan 1, 1997 ",27,['Italy'],Spain,,SS   LW,"1,72",-
+10,Buben,Midfielder,Attacking Midfield,"Jun 2, 1997 ",27,['Spain'],Spain,Malpartida de Plasencia,LW   CF,"1,76",-
+11,Diego García,Midfielder,Attacking Midfield,"Jul 29, 1997 ",26,['Spain'],Spain,Sevilla,CM,"1,72",-
+,Omar Rodríguez,Midfielder,Attacking Midfield,"Nov 28, 1997 ",26,['Spain'],Spain,Arucas,CM   CF,"1,73",-
+20,José García,Midfielder,Attacking Midfield,"Jan 13, 1997 ",27,['Spain'],Spain,Pamplona,,"1,69",-
+,Enrique Gómez,Midfielder,Attacking Midfield,"Aug 26, 1997 ",26,['Spain'],Spain,Cehegín,,"1,85",-
+,Alberto Escudero,Midfielder,Attacking Midfield,"Feb 21, 1997 ",27,['Spain'],Spain,Villarrobledo,RW   RB,,-
+,Francisco Gomez Portela,Midfielder,Attacking Midfield,"May 25, 1997 ",27,['Spain'],Spain,Algeciras,RW   LW,,-
+,Andy,Midfielder,Attacking Midfield,"Oct 10, 1997 ",26,['Spain'],Spain,,LW   RW,"1,84",-
+,Nacho Callejón,Midfielder,Attacking Midfield,"Jul 26, 1997 ",26,['Spain'],Spain,La Linea de la Concepcion,,,-
+8,Adrián Gómez,Midfielder,Attacking Midfield,"Mar 31, 1997 ",27,['Spain'],Spain,Logroño,CM,,-
+,Otman Mechhidan,Midfielder,Attacking Midfield,"Sep 26, 1997 ",26,"['Spain', 'Morocco']",Spain,Terrassa,CM   RW,"1,76",-
+22,Christian Bueno,Midfielder,Attacking Midfield,"Mar 18, 1997 ",27,['Spain'],Spain,,,,-
+,Youssef Ali,Midfielder,Attacking Midfield,"Apr 23, 1997 ",27,"['Spain', 'Morocco']",Spain,Zaragoza,,,-
+51,Francisco Roldán,Midfielder,Attacking Midfield,"Aug 10, 1997 ",26,['Spain'],Spain,Granada,,"1,75",-
+14,Jesús Mena,Midfielder,Attacking Midfield,"May 3, 1997 ",27,['Spain'],Spain,Alcorcón,CM,"1,80",-
+10,Rubén Bas,Midfielder,Attacking Midfield,"Jan 13, 1997 ",27,['Spain'],Spain,Madrid,,"1,72",-
+,Hugo Pintos,Midfielder,Attacking Midfield,"Jan 21, 1997 ",27,['Spain'],Spain,Vigo,LW   RW,"1,77",-
+7,Dani Olmo,Midfielder,Attacking Midfield,"May 7, 1998 ",26,['Spain'],Spain,Terrassa,LW   RW,"1,79",€50.00m
+6,Manu García,Midfielder,Attacking Midfield,"Jan 2, 1998 ",26,['Spain'],Spain,Oviedo,LW   CM,"1,69",€2.50m
+,Joni Montiel,Midfielder,Attacking Midfield,"Sep 3, 1998 ",25,['Spain'],Spain,Madrid,LW   CM,"1,73",€1.20m
+9,Luismi Redondo,Midfielder,Attacking Midfield,"Feb 4, 1998 ",26,['Spain'],Spain,Plasencia,RW   LW,"1,72",€400k
+,Pepe Mena,Midfielder,Attacking Midfield,"May 15, 1998 ",26,['Spain'],Spain,Utrera,CM,"1,75",€250k
+,Mario González,Midfielder,Attacking Midfield,"Jun 25, 1998 ",26,['Spain'],Spain,Madrid,CM,"1,75",€200k
+,Aarón Rey,Midfielder,Attacking Midfield,"May 19, 1998 ",26,['Spain'],Spain,Ferrol,RW   LW,"1,73",€200k
+19,Bittor Isuskiza,Midfielder,Attacking Midfield,"Dec 17, 1998 ",25,['Spain'],Spain,Güeñes,CM   RW,"1,85",€150k
+,Álex Machuca,Midfielder,Attacking Midfield,"Jan 15, 1998 ",26,['Spain'],Spain,Móstoles,LW   RW,"1,77",€50k
+48,Carlos Pinedo Texidor,Midfielder,Attacking Midfield,"May 30, 1998 ",26,['Spain'],Spain,Madrid,RW   RB,"1,79",-
+,Manu García,Midfielder,Attacking Midfield,"Apr 12, 1998 ",26,['Spain'],Spain,Cangas do Morrazo,,,-
+14,Josemi Alarcón,Midfielder,Attacking Midfield,"Apr 4, 1998 ",26,['Spain'],Spain,Villarrobledo,RM   CM,"1,85",-
+7,Joel Lasso,Midfielder,Attacking Midfield,"Jun 28, 1998 ",26,['Spain'],Spain,Igualada,,,-
+,Óscar Rodríguez,Midfielder,Attacking Midfield,"Jun 28, 1998 ",26,['Spain'],Spain,Talavera de la Reina,CM   LW,"1,74",€2.50m
+14,Fran Villalba,Midfielder,Attacking Midfield,"May 11, 1998 ",26,['Spain'],Spain,Valencia,RW   CM,"1,68",€1.50m
+10,Fran Álvarez,Midfielder,Attacking Midfield,"Jan 21, 1998 ",26,['Spain'],Spain,Socovos,CM   RW,"1,78",€600k
+,Alberto Solís,Midfielder,Attacking Midfield,"Jan 1, 1998 ",26,['Spain'],Spain,Tomares,CM,"1,78",€350k
+11,David Valero,Midfielder,Attacking Midfield,"Feb 22, 1998 ",26,['Spain'],Spain,Alicante,LW   RW,"1,78",€200k
+,Iago Novo,Midfielder,Attacking Midfield,"Oct 23, 1998 ",25,['Spain'],Spain,Fene,CM,,€200k
+14,Urki Txoperena,Midfielder,Attacking Midfield,"Oct 6, 1998 ",25,['Spain'],Spain,Lesaka,LW   RW,"1,72",€150k
+8,Albertito,Midfielder,Attacking Midfield,"Sep 11, 1998 ",25,['Spain'],Spain,Barcelona,RW,,€150k
+,Roberto Sierra,Midfielder,Attacking Midfield,"Jan 8, 1998 ",26,['Spain'],Spain,Sierra de Yeguas,,,€50k
+,Fernando Albín,Midfielder,Attacking Midfield,"Jun 27, 1998 ",26,['Spain'],Spain,Salamanca,CM   LW,"1,72",-
+,Alejandro Maillet,Midfielder,Attacking Midfield,"May 10, 1998 ",26,"['Denmark', 'Spain']",Spain,Alicante,LW   CF,"1,77",-
+,Nene,Midfielder,Attacking Midfield,"Jan 1, 1998 ",26,['Spain'],Spain,Huelva,,,-
+,Chipu,Midfielder,Attacking Midfield,"Jan 24, 1998 ",26,['Spain'],Spain,Sevilla,,,-
+,Dani Liñares,Midfielder,Attacking Midfield,"May 16, 1998 ",26,['Spain'],Spain,Barberà del Vallés,RW   LW,"1,73",-
+,Gerard Vergé,Midfielder,Attacking Midfield,"Feb 17, 1998 ",26,['Spain'],Spain,La Sénia,CM,"1,70",-
+28,Carlos Heredia,Midfielder,Attacking Midfield,"Sep 28, 1998 ",25,"['Dominican Republic', 'Spain']",Spain,Barcelona,RW   SS,"1,72",-
+,Bryan Porras,Midfielder,Attacking Midfield,"Sep 23, 1998 ",25,['Spain'],Spain,Marbella,,,-
+,Nebai Hernández,Midfielder,Attacking Midfield,"Jul 3, 1998 ",26,['Spain'],Spain,Santa Cruz de Tenerife,LW   CM,"1,72",-
+10,Dawid Polkowski,Midfielder,Attacking Midfield,"Aug 21, 1998 ",25,['Poland'],Spain,Madrid,CM   RM,"1,85",-
+,Filip Cermelj,Midfielder,Attacking Midfield,"Sep 28, 1998 ",25,['Serbia'],Spain,Mérida,CM,"1,79",-
+,Gerard Nolla,Midfielder,Attacking Midfield,"Sep 2, 1998 ",25,['Spain'],Spain,Barcelona,RW   LW,"1,67",-
+,Alberto Novoa,Midfielder,Attacking Midfield,"Sep 16, 1998 ",25,['Spain'],Portugal,Ourense,,"1,84",-
+,Daniel Andrés Dellwig Jerez,Midfielder,Attacking Midfield,"Nov 17, 1998 ",25,"['Germany', 'Spain']",Portugal,Marbella,,,-
+14,Javier Alonso,Midfielder,Attacking Midfield,"Jan 14, 1998 ",26,['Spain'],Portugal,Tafalla,CM,,-
+70,Adrián Balboa,Midfielder,Attacking Midfield,"May 13, 1998 ",26,['Spain'],Portugal,Lugo,SS   CF,"1,81",-
+,Nano,Midfielder,Attacking Midfield,"Mar 2, 1998 ",26,['Spain'],Portugal,Las Palmas de Gran Canaria,LW   RW,"1,74",-
+,Alberto Beato,Midfielder,Attacking Midfield,"Dec 7, 1998 ",25,['Spain'],Portugal,Trujillo,,,-
+,Nicolás Garmendia,Midfielder,Attacking Midfield,"Feb 1, 1998 ",26,"['Spain', 'Argentina']",Portugal,Madrid,LW   LM,"1,76",-
+,Toni Segura,Midfielder,Attacking Midfield,"Mar 31, 1998 ",26,['Spain'],Portugal,Las Palmas de Gran Canaria,,"1,75",-
+21,Brahim Díaz,Midfielder,Attacking Midfield,"Aug 3, 1999 ",24,"['Morocco', 'Spain']",Spain,Málaga,RW   SS,"1,70",€40.00m
+,Javi Martínez,Midfielder,Attacking Midfield,"Dec 22, 1999 ",24,['Spain'],Spain,Ólvega,RW   LW,"1,81",€1.20m
+,Vicente Esquerdo,Midfielder,Attacking Midfield,"Jan 2, 1999 ",25,['Spain'],Spain,Calp,CM,"1,80",€400k
+,Alberto Fuentes,Midfielder,Attacking Midfield,"Aug 26, 1999 ",24,['Spain'],Spain,Algeciras,,,€200k
+18,Jorge Jiménez,Midfielder,Attacking Midfield,"May 20, 1999 ",25,['Spain'],Spain,Madrid,RW   LW,"1,70",€150k
+,Alberto Guti,Midfielder,Attacking Midfield,"Apr 30, 1999 ",25,['Spain'],Spain,Móstoles,RW   CM,"1,81",€150k
+,Antonio Crespo,Midfielder,Attacking Midfield,"Jun 6, 1999 ",25,['Spain'],Spain,Benamejí,CM,,€100k
+,Iván Elena,Midfielder,Attacking Midfield,"Apr 27, 1999 ",25,['Spain'],Spain,Palma de Mallorca,CM,"1,78",€100k
+30,Carlos Cid,Midfielder,Attacking Midfield,"Dec 12, 1999 ",24,['Spain'],Spain,Gijón,RW,,€50k
+,Sufian Mohamed,Midfielder,Attacking Midfield,"Oct 6, 1999 ",24,"['Spain', 'Morocco']",Spain,Ceuta,,,-
+6,Iván Quivira,Midfielder,Attacking Midfield,"Nov 18, 1999 ",24,['Spain'],Spain,,CM   LW,"1,77",-
+10,Raúl Peláez,Midfielder,Attacking Midfield,"Jan 6, 1999 ",25,['Spain'],Spain,Valladolid,RW,"1,75",-
+,David Giráldez,Midfielder,Attacking Midfield,"Apr 7, 1999 ",25,['Spain'],Spain,Vigo,CM,,-
+23,Iván Martín,Midfielder,Attacking Midfield,"Feb 14, 1999 ",25,['Spain'],Spain,Bilbao,RW   CM,"1,78",€15.00m
+17,Óscar Clemente,Midfielder,Attacking Midfield,"Mar 26, 1999 ",25,['Spain'],Spain,Adeje,RW   LW,"1,76",€800k
+,Andy Escudero,Midfielder,Attacking Midfield,"Jul 10, 1999 ",25,['Spain'],Spain,Alicante,LW   RW,,€300k
+,Diego González,Midfielder,Attacking Midfield,"May 19, 1999 ",25,['Spain'],Spain,Santibáñez de Béjar,CM   RW,,€200k
+,Roberto Abreu,Midfielder,Attacking Midfield,"Aug 14, 1999 ",24,['Spain'],Spain,Villablanca,CM,,€150k
+19,Jesús Carrillo,Midfielder,Attacking Midfield,"May 11, 1999 ",25,['Spain'],Spain,Alcantarilla,LW   RW,"1,73",€150k
+,Joaquín Rodríguez,Midfielder,Attacking Midfield,"Jul 30, 1999 ",24,['Spain'],Spain,Villajoyosa,CM,"1,82",€100k
+,Mauro Bravo,Midfielder,Attacking Midfield,"Jul 30, 1999 ",24,['Spain'],Spain,Madrid,RW   LW,"1,72",€50k
+6,Manuel Robles,Midfielder,Attacking Midfield,"May 22, 1999 ",25,['Spain'],Spain,Conil de la Frontera,,,-
+10,Ismael Martínez,Midfielder,Attacking Midfield,"Aug 10, 1999 ",24,['Spain'],Spain,Ourense,,,-
+,Luca Giovanella,Midfielder,Attacking Midfield,"Feb 27, 1999 ",25,"['Brazil', 'Spain']",Spain,Salamanca,,"1,70",-
+,Juanan Martínez,Midfielder,Attacking Midfield,"Jul 25, 1999 ",24,['Spain'],Spain,Murcia,RW,,-
+,Pipo,Midfielder,Attacking Midfield,"Jun 1, 1999 ",25,['Spain'],Spain,Carrizal de Ingenio,LW,,-
+14,Miki Puerto,Midfielder,Attacking Midfield,"Feb 6, 1999 ",25,['Spain'],Spain,Barcelona,CM,,-
+,Nacho Altadill,Midfielder,Attacking Midfield,"Dec 15, 1999 ",24,['Spain'],Spain,Santander,RW   LW,,-
+,Manu Mosquera,Midfielder,Attacking Midfield,"Jan 26, 1999 ",25,['Spain'],Spain,A Coruña,CF,,-
+8,Gorka Estrada,Midfielder,Attacking Midfield,"Apr 18, 1999 ",25,['Spain'],Spain,Barakaldo,CM,"1,86",-
+14,Pablo Margallo,Midfielder,Attacking Midfield,"Mar 1, 1999 ",25,['Spain'],Spain,Montánchez,,,-
+10,Álex Puertas,Midfielder,Attacking Midfield,"Feb 2, 1999 ",25,['Spain'],Spain,Zaragoza,RW   LW,"1,80",-
+17,Pablo Muñoz,Midfielder,Attacking Midfield,"Dec 19, 1999 ",24,['Spain'],Spain,Valladolid,,,-
+,Carlos Fraile,Midfielder,Attacking Midfield,"Jun 18, 1999 ",25,['Spain'],Spain,Olivares,CM,,-
+10,Iván Pascual,Midfielder,Attacking Midfield,"Jan 23, 1999 ",25,['Spain'],Portugal,Arnedo,,,-
+,Santi Real,Midfielder,Attacking Midfield,"Jan 1, 1999 ",25,['Spain'],Portugal,O Barco,,,-
+,Fran Segura,Midfielder,Attacking Midfield,"Aug 5, 1999 ",24,['Spain'],Portugal,Madrid,,,-
+,Jose Muñoz Moreno,Midfielder,Attacking Midfield,"Jul 3, 1999 ",25,['Spain'],Portugal,La Línea de la Concepción,,,-
+,Edu Calvo,Midfielder,Attacking Midfield,"Jan 5, 1999 ",25,"['Spain', 'United States']",Portugal,Madrid,CM,"1,68",-
+,Marcos Corral,Midfielder,Attacking Midfield,"Apr 2, 1999 ",25,['Spain'],Portugal,Baza,,,-
+21,Luis García,Midfielder,Attacking Midfield,"May 28, 1999 ",25,['Spain'],Portugal,Las Palmas de Gran Canaria,CM   LW,"1,78",-
+10,Charaf Taoualy,Midfielder,Attacking Midfield,"Mar 14, 1999 ",25,"['Morocco', 'Spain']",Portugal,Los Palacios,CM   RW,"1,80",-
+,Óscar Martinez,Midfielder,Attacking Midfield,"Apr 23, 1999 ",25,['Spain'],Portugal,Redondela,,"1,66",-
+8,Oihan Sancet,Midfielder,Attacking Midfield,"Apr 25, 2000 ",24,['Spain'],Spain,Pamplona,CM,"1,88",€35.00m
+17,Rodri Sánchez,Midfielder,Attacking Midfield,"May 16, 2000 ",24,['Spain'],Spain,Talayuela,LW   RW,"1,75",€3.00m
+11,César Gelabert,Midfielder,Attacking Midfield,"Oct 31, 2000 ",23,['Spain'],Spain,Palencia,LW   RW,"1,82",€1.50m
+,Miguel Baeza,Midfielder,Attacking Midfield,"Mar 27, 2000 ",24,['Spain'],Spain,Córdoba,LW   RW,"1,77",€400k
+,Alex Basurto,Midfielder,Attacking Midfield,"Aug 3, 2000 ",23,['Spain'],Spain,Torrelavega,LW,"1,82",€200k
+,Antonio Aranda,Midfielder,Attacking Midfield,"Oct 7, 2000 ",23,['Spain'],Spain,Huétor Vega,RW   LW,"1,72",€200k
+10,Julen Pérez,Midfielder,Attacking Midfield,"Jun 28, 2000 ",24,['Spain'],Spain,Gáldar,CM,"1,82",€175k
+,Álex Claverías,Midfielder,Attacking Midfield,"Jul 1, 2000 ",24,['Spain'],Spain,Madrid,RW   CM,,€100k
+,Carlos Pérez,Midfielder,Attacking Midfield,"Feb 5, 2000 ",24,['Spain'],Spain,Almàssera,CM   RW,"1,86",€100k
+19,Mario Benedet,Midfielder,Attacking Midfield,"Oct 25, 2000 ",23,['Spain'],Spain,Zaragoza,CM   LW,,€50k
+18,Dani Albiar,Midfielder,Attacking Midfield,"Jan 8, 2000 ",24,['Spain'],Spain,Cartagena,,"1,73",€50k
+,Miguel Gómez,Midfielder,Attacking Midfield,"Nov 19, 2000 ",23,['Spain'],Spain,Palomares,CM,"1,79",€10k
+,Manu Martín,Midfielder,Attacking Midfield,"Aug 26, 2000 ",23,['Spain'],Spain,,CM   SS,"1,86",-
+17,Iván Jaime,Midfielder,Attacking Midfield,"Sep 26, 2000 ",23,['Spain'],Spain,Málaga,LW   CM,"1,80",€8.00m
+,Roberto López,Midfielder,Attacking Midfield,"Apr 24, 2000 ",24,['Spain'],Spain,Zaragoza,LW   RW,"1,79",€2.50m
+,Iván Gil,Midfielder,Attacking Midfield,"Jan 18, 2000 ",24,['Spain'],Spain,Viladecans,CM   LW,"1,68",€1.00m
+,Pascu,Midfielder,Attacking Midfield,"Apr 2, 2000 ",24,['Spain'],Spain,Santa Pola,RW   CM,"1,84",€250k
+,Nacho Castillo,Midfielder,Attacking Midfield,"Jul 3, 2000 ",24,['Spain'],Spain,Miranda de Ebro,LW   CM,"1,83",€200k
+,Antonio Moyano,Midfielder,Attacking Midfield,"Jul 13, 2000 ",24,['Spain'],Spain,Montilla,CM,"1,78",€200k
+,Juan Serrano,Midfielder,Attacking Midfield,"Apr 10, 2000 ",24,['Spain'],Spain,Algeciras,LW   RW,"1,77",€150k
+,Dani Garrido,Midfielder,Attacking Midfield,"Jan 19, 2000 ",24,['Spain'],Spain,Logroño,CM,"1,70",€100k
+,Fran Cano,Midfielder,Attacking Midfield,"Apr 4, 2000 ",24,['Spain'],Spain,Palma del Río,,,€50k
+10,Martín Lapeña,Midfielder,Attacking Midfield,"Mar 11, 2000 ",24,['Spain'],Spain,Alcoy,LW   RW,"1,70",€50k
+23,Samuel Ramos,Midfielder,Attacking Midfield,"Aug 18, 2000 ",23,['Spain'],Spain,Santa Cruz de Tenerife,RW   CF,"1,84",€25k
+,Sergio Cases,Midfielder,Attacking Midfield,"Jan 1, 2000 ",24,['Spain'],Spain,,LW   CF,,-
+,Kevin Laosa,Midfielder,Attacking Midfield,"Aug 14, 2000 ",23,['Spain'],Spain,Yecla,CM   LW,"1,80",-
+,Carlos Dueñas,Midfielder,Attacking Midfield,"Aug 6, 2000 ",23,['Spain'],Spain,Málaga,,,-
+,Guti,Midfielder,Attacking Midfield,"Dec 30, 2000 ",23,['Spain'],Spain,Leganés,CM,,-
+22,Mario Vallejos,Midfielder,Attacking Midfield,"Aug 3, 2000 ",23,['Spain'],Spain,Murcia,CM,"1,70",-
+,Joel Bustamante,Midfielder,Attacking Midfield,"Oct 27, 2000 ",23,"['United States', 'Spain']",Spain,Barcelona,LW   SS,"1,75",-
+,Alex Ligero,Midfielder,Attacking Midfield,"Jan 4, 2000 ",24,['Spain'],Spain,El Grao de Castellón,,"1,72",-
+,Rodrigo Otero,Midfielder,Attacking Midfield,"Mar 9, 2000 ",24,['Spain'],Spain,Vigo,CF,"1,89",-
+21,Álex Ramos,Midfielder,Attacking Midfield,"Apr 11, 2000 ",24,['Spain'],Spain,Arteixo,,"1,93",-
+,Víctor Guedes,Midfielder,Attacking Midfield,"Jun 24, 2000 ",24,['Spain'],Spain,Aguimes (Las Palmas),CM,,-
+,Carlos Torres,Midfielder,Attacking Midfield,"Sep 20, 2000 ",23,['Spain'],Spain,Málaga,,"1,78",-
+,Sergio Cordovín,Midfielder,Attacking Midfield,"Feb 29, 2000 ",24,['Spain'],Spain,Mendavia,RW,"1,72",-
+16,Andoni Pérez,Midfielder,Attacking Midfield,"Jul 14, 2000 ",24,['Spain'],Spain,Sestao,CM,,-
+,Rober Aguilera,Midfielder,Attacking Midfield,"Sep 24, 2000 ",23,['Spain'],Spain,Jerez de la Frontera,RW   LW,,-
+,Sebi Bancalero,Midfielder,Attacking Midfield,"Jan 1, 2000 ",24,['Spain'],Spain,Jerez de los Caballeros,,,-
+14,David Pérez,Midfielder,Attacking Midfield,"Mar 13, 2000 ",24,['Spain'],Spain,València,LW   RW,"1,70",-
+8,Guille Solis,Midfielder,Attacking Midfield,"Aug 4, 2000 ",23,['Spain'],Spain,Tomares,CM,,-
+,Airam Vega,Midfielder,Attacking Midfield,"May 31, 2000 ",24,['Spain'],Spain,Las Palmas de Gran Canaria,LW,"1,74",-
+,Xurde Méndez,Midfielder,Attacking Midfield,"Sep 16, 2000 ",23,['Spain'],Spain,Oviedo,CM,,-
+8,Javier Aijón,Midfielder,Attacking Midfield,"Nov 25, 2000 ",23,['Spain'],Spain,Marbella,,"1,65",-
+,Zidane Vaz,Midfielder,Attacking Midfield,"Jun 13, 2000 ",24,"['Spain', 'Senegal']",Spain,Almería,CF,"1,84",-
+,Elian de la Nuez,Midfielder,Attacking Midfield,"Jun 4, 2000 ",24,['Spain'],Spain,Las Palmas,LW   RW,"1,80",-
+,Kuni,Midfielder,Attacking Midfield,"Feb 13, 2000 ",24,['Spain'],Spain,Málaga,,"1,79",-
+,Dani Gómez,Midfielder,Attacking Midfield,"Jun 4, 2000 ",24,['Spain'],Spain,Escobedo,,"1,72",-
+17,Mikel Cubillo,Midfielder,Attacking Midfield,"Feb 26, 2000 ",24,['Spain'],Spain,Pamplona,LW,"1,81",-
+,Álex Osorio,Midfielder,Attacking Midfield,"Mar 21, 2000 ",24,['Spain'],Spain,Barcelona,SS   LW,,-
+8,Alex René Reyes,Midfielder,Attacking Midfield,"Jan 1, 2000 ",24,['Spain'],Spain,Torre Pacheco,RW   LW,,-
+,Robert García,Midfielder,Attacking Midfield,"Aug 21, 2000 ",23,['Spain'],Spain,Betxi,RW   LW,"1,75",-
+12,Iván Riveiro,Midfielder,Attacking Midfield,"Dec 2, 2000 ",23,['Spain'],Portugal,A Coruña,,"1,77",-
+11,Álvaro Chumilla,Midfielder,Attacking Midfield,"Apr 12, 2000 ",24,['Spain'],Portugal,Jaén,CM,,-
+16,Álex Baena,Midfielder,Attacking Midfield,"Jul 20, 2001 ",22,['Spain'],Spain,Roquetas de Mar,LW   RW,"1,74",€40.00m
+19,Sergio Arribas,Midfielder,Attacking Midfield,"Sep 30, 2001 ",22,['Spain'],Spain,Madrid,RW   LW,"1,74",€10.00m
+8,Carlo García,Midfielder,Attacking Midfield,"Feb 12, 2001 ",23,['Spain'],Spain,Villarreal,CM   LW,"1,82",€1.00m
+,Pablo Gozálbez,Midfielder,Attacking Midfield,"Apr 30, 2001 ",23,['Spain'],Spain,Valencia,LW   RW,,€800k
+,Oriol Soldevila,Midfielder,Attacking Midfield,"Mar 26, 2001 ",23,['Spain'],Spain,Barcelona,LW   RW,"1,85",€300k
+18,Alejandro Fidalgo,Midfielder,Attacking Midfield,"May 15, 2001 ",23,['Spain'],Spain,Ourense,CM,"1,85",€250k
+8,Josu Gallastegui,Midfielder,Attacking Midfield,"Dec 10, 2001 ",22,['Spain'],Spain,Otxandio,LW   RW,"1,75",€200k
+,Marcos Bustillo,Midfielder,Attacking Midfield,"Jan 12, 2001 ",23,['Spain'],Spain,Bilbao,CM,"1,84",€200k
+,Miguel Capitas,Midfielder,Attacking Midfield,"Mar 6, 2001 ",23,['Spain'],Spain,Mairena del Alcor,CM   RW,"1,75",€200k
+,Neskes,Midfielder,Attacking Midfield,"Nov 22, 2001 ",22,['Spain'],Spain,Granada,,,€100k
+15,Chus Ruiz,Midfielder,Attacking Midfield,"Jan 1, 2001 ",23,['Spain'],Spain,Luanco,LW   CF,,€100k
+8,Eneko Delgado,Midfielder,Attacking Midfield,"Jan 18, 2001 ",23,['Spain'],Spain,Galdakao,LW   CM,"1,73",€100k
+,Álex Vela,Midfielder,Attacking Midfield,"Mar 28, 2001 ",23,['Spain'],Spain,,CM,"1,73",€50k
+10,Aimar Oroz,Midfielder,Attacking Midfield,"Nov 27, 2001 ",22,['Spain'],Spain,Pamplona,CM   LW,"1,77",€15.00m
+,Nico Melamed,Midfielder,Attacking Midfield,"Apr 11, 2001 ",23,"['Spain', 'Argentina']",Spain,Castelldefels,LW   RW,"1,73",€4.00m
+11,Jon Magunazelaia,Midfielder,Attacking Midfield,"Jul 13, 2001 ",23,['Spain'],Spain,Eibar,RW   LW,"1,80",€1.00m
+,Raúl Blanco,Midfielder,Attacking Midfield,"Jul 31, 2001 ",22,['Spain'],Spain,Moaña,CF   LW,"1,73",€350k
+7,Aisar Ahmed,Midfielder,Attacking Midfield,"Jul 2, 2001 ",23,"['Spain', 'Morocco']",Spain,Ceuta,CM   RB,,€250k
+,Nacho Quintana,Midfielder,Attacking Midfield,"Feb 23, 2001 ",23,['Spain'],Spain,Seseña,LW   CM,"1,78",€250k
+,Santi García,Midfielder,Attacking Midfield,"Aug 29, 2001 ",22,['Spain'],Spain,Madrid,LW   RW,"1,84",€200k
+14,Xabi Huarte,Midfielder,Attacking Midfield,"Feb 25, 2001 ",23,['Spain'],Spain,Pamplona,CM   RW,"1,72",€200k
+20,Alberto Soto,Midfielder,Attacking Midfield,"Mar 17, 2001 ",23,['Spain'],Spain,Málaga,LW   RW,"1,70",€200k
+,Diego Iglesias,Midfielder,Attacking Midfield,"May 25, 2001 ",23,['Spain'],Spain,A Coruña,,,€100k
+,Javier Albín,Midfielder,Attacking Midfield,"Sep 10, 2001 ",22,['Spain'],Spain,Salamanca,RW   CM,"1,77",€100k
+,Marino Illescas,Midfielder,Attacking Midfield,"Jan 9, 2001 ",23,['Spain'],Spain,Écija,CM,"1,76",€100k
+,Álex Barba,Midfielder,Attacking Midfield,"Aug 11, 2001 ",22,['Spain'],Spain,A Coruña,CM,,€50k
+12,Josemi García,Midfielder,Attacking Midfield,"Jan 1, 2001 ",23,['Spain'],Spain,Las Palmas de Gran Canaria,,,€25k
+,Gerard Puerto,Midfielder,Attacking Midfield,"Feb 24, 2001 ",23,['Spain'],Spain,Barcelona,,"1,70",-
+18,Sergio Barroso,Midfielder,Attacking Midfield,"Apr 8, 2001 ",23,['Spain'],Spain,Alcalá del Valle,RW   LW,"1,78",-
+10,Javi Martínez,Midfielder,Attacking Midfield,"Dec 26, 2001 ",22,['Spain'],Spain,Las Palmas de Gran Canaria,,,-
+,Sergio Soler,Midfielder,Attacking Midfield,"Apr 18, 2001 ",23,['Spain'],Spain,Benimàmet,CM,,-
+16,José Misffut,Midfielder,Attacking Midfield,"Jan 16, 2001 ",23,['Spain'],Spain,Los Palacios y Villafranca,RW   LW,"1,79",-
+,Mario López,Midfielder,Attacking Midfield,"Jul 10, 2001 ",23,['Spain'],Spain,Oviedo,,,-
+,Álvaro Morillo,Midfielder,Attacking Midfield,"Apr 24, 2001 ",23,['Spain'],Spain,Córdoba,,,-
+18,Álvaro Rodríguez,Midfielder,Attacking Midfield,"Jul 21, 2001 ",22,['Spain'],Spain,Madrid,CM,"1,84",-
+19,Álvaro Durán,Midfielder,Attacking Midfield,"Jan 25, 2001 ",23,['Spain'],Spain,Jédula,LW   RW,,-
+10,Jandro,Midfielder,Attacking Midfield,"Mar 21, 2001 ",23,['Spain'],Spain,Tordera,,,-
+20,Julen Álvarez,Midfielder,Attacking Midfield,"Feb 19, 2001 ",23,['Spain'],Spain,Barcelona,,"1,75",-
+,Lolo Baeza,Midfielder,Attacking Midfield,"Jan 13, 2001 ",23,['Spain'],Spain,Sevilla,RW   LW,,€50k
+,Miguel Ángel Herenas,Midfielder,Attacking Midfield,"Jan 21, 2001 ",23,['Spain'],Spain,Madrid,LW   RW,,-
+10,Rubén Vallejo,Midfielder,Attacking Midfield,"Aug 12, 2001 ",22,['Spain'],Spain,,RW   LW,,-
+,Marcos Mella,Midfielder,Attacking Midfield,"Mar 1, 2001 ",23,['Spain'],Spain,Santiago de Compostela,CM,,-
+27,Gabriel Quintero,Midfielder,Attacking Midfield,"Jun 3, 2001 ",23,['Spain'],Spain,Santa Cruz de Tenerife,LW   RW,"1,72",-
+,David Sánchez,Midfielder,Attacking Midfield,"Apr 7, 2001 ",23,['Spain'],Spain,Badajoz,SS,"1,86",-
+,Cristian Rubio,Midfielder,Attacking Midfield,"Jan 1, 2001 ",23,['Spain'],Spain,Langreo,,,-
+20,Aitor Aguirre,Midfielder,Attacking Midfield,"Dec 15, 2001 ",22,['Spain'],Spain,Tolosa,CM,,-
+19,José Vivas,Midfielder,Attacking Midfield,"Jul 11, 2001 ",23,['Spain'],Spain,Teruel,RW   LW,"1,68",-
+,Óscar Baldomero,Midfielder,Attacking Midfield,"Sep 24, 2001 ",22,['Spain'],Spain,Cádiz,,,-
+9,Manuel Manzorro,Midfielder,Attacking Midfield,"Jul 10, 2001 ",23,['Spain'],Spain,Algeciras,,,-
+8,Miguel Rodrigáñez,Midfielder,Attacking Midfield,"Feb 5, 2001 ",23,['Spain'],Spain,Argamasilla de Alba,CM,,-
+14,Genís Cargol,Midfielder,Attacking Midfield,"Oct 10, 2001 ",22,['Spain'],Spain,Girona,,,-
+,Julián Nieto,Midfielder,Attacking Midfield,"Jan 28, 2001 ",23,['Spain'],Spain,Ferrol,,,-
+,Carlos Palacios,Midfielder,Attacking Midfield,"Mar 21, 2001 ",23,['Spain'],Spain,Huelva,,,-
+,Jorge Deli,Midfielder,Attacking Midfield,"Mar 16, 2001 ",23,['Spain'],Spain,Alpera,,"1,74",-
+,Aldán Naval,Midfielder,Attacking Midfield,"Apr 11, 2001 ",23,['Spain'],Spain,Viveiro,,,-
+,Óscar Rodríguez,Midfielder,Attacking Midfield,"Feb 8, 2001 ",23,['Spain'],Portugal,Loja,,,-
+19,Jorge Maceira,Midfielder,Attacking Midfield,"Jan 27, 2001 ",23,['Spain'],Portugal,Vigo,,,-
+23,Alonso Soler,Midfielder,Attacking Midfield,"Aug 27, 2001 ",22,['Spain'],Portugal,Almería,SS,"1,78",-
+10,Jordi García,Midfielder,Attacking Midfield,"Mar 4, 2001 ",23,['Spain'],Portugal,San Joan de Vilatorrada,,"1,87",-
+,Elías Chentouf,Midfielder,Attacking Midfield,"Jan 18, 2001 ",23,"['Morocco', 'Spain']",Portugal,Palma de Mallorca,,,-
+,Robert Navarro,Midfielder,Attacking Midfield,"Apr 12, 2002 ",22,['Spain'],Spain,Barcelona,LW   RW,"1,78",€6.00m
+11,Jawad El Jemili,Midfielder,Attacking Midfield,"Sep 4, 2002 ",21,"['Spain', 'Morocco']",Spain,Barcelona,LW   RW,"1,86",€900k
+17,Borja Calvo,Midfielder,Attacking Midfield,"Jan 29, 2002 ",22,['Spain'],Spain,Benidorm,CM,"1,77",€200k
+8,Pedro Alemañ,Midfielder,Attacking Midfield,"Mar 21, 2002 ",22,['Spain'],Spain,Elche,,"1,82",€150k
+10,Jesús Martín,Midfielder,Attacking Midfield,"Aug 27, 2002 ",21,['Spain'],Spain,Aguadulce,RW   LW,"1,79",€100k
+,Jaume Piñol,Midfielder,Attacking Midfield,"Nov 2, 2002 ",21,['Spain'],Spain,Cardedeu,RB   RW,,€50k
+,Gori Gracia,Midfielder,Attacking Midfield,"May 15, 2002 ",22,['Spain'],Spain,Arenys de Munt,CM,,€50k
+,Ayoub Yousfi,Midfielder,Attacking Midfield,"Dec 30, 2002 ",21,"['Spain', 'Morocco']",Spain,Lleida,LW   RW,"1,79",€25k
+10,Lluis Felipe,Midfielder,Attacking Midfield,"Sep 18, 2002 ",21,['Spain'],Spain,Ontinyent,CM,,-
+,Ale Espeso,Midfielder,Attacking Midfield,"Nov 28, 2002 ",21,['Spain'],Spain,Las Palmas de Gran Canaria,RW   LW,"1,70",-
+,Pedracas,Midfielder,Attacking Midfield,"Jan 1, 2002 ",22,['Spain'],Spain,Murcia,CF,,-
+,Guille Cueto,Midfielder,Attacking Midfield,"Jun 3, 2002 ",22,['Spain'],Spain,Gijón,,"1,71",-
+,David Alonso,Midfielder,Attacking Midfield,"May 7, 2002 ",22,"['Spain', 'Mexico']",Spain,Madrid,RW   LW,,-
+,Mario Soriano,Midfielder,Attacking Midfield,"Apr 22, 2002 ",22,['Spain'],Spain,Alcalá de Henares,LW   RW,"1,63",€1.80m
+11,Brian Peña,Midfielder,Attacking Midfield,"Jun 20, 2002 ",22,['Spain'],Spain,Vilafranca del Penedès,LW   CF,"1,72",€350k
+,Fabio Conte,Midfielder,Attacking Midfield,"Jan 29, 2002 ",22,"['Spain', 'Italy']",Spain,Zaragoza,CM,"1,87",€150k
+,Javi Feria,Midfielder,Attacking Midfield,"Aug 3, 2002 ",21,['Spain'],Spain,Montilla,CM,,€100k
+,Kepa Uriarte,Midfielder,Attacking Midfield,"Feb 23, 2002 ",22,['Spain'],Spain,Fruiz,CM   LW,"1,84",€100k
+,Izan Gutiérrez,Midfielder,Attacking Midfield,"Mar 1, 2002 ",22,['Spain'],Spain,Vitoria,CM   LW,"1,82",€50k
+,Javier Esteban-Silgo,Midfielder,Attacking Midfield,"Mar 15, 2002 ",22,['Spain'],Spain,Cabanillas,CM   LW,"1,70",€25k
+18,Iñaki Telletxea,Midfielder,Attacking Midfield,"Apr 20, 2002 ",22,['Spain'],Spain,Burlada,CM,"1,82",€25k
+23,David Mellado,Midfielder,Attacking Midfield,"Feb 20, 2002 ",22,['Spain'],Spain,Salamanca,CM,,-
+,Adrián Fatahnai,Midfielder,Attacking Midfield,"Jul 24, 2002 ",21,['Spain'],Spain,Vitoria-Gasteiz,CM   RM,"1,72",-
+18,David Doval,Midfielder,Attacking Midfield,"Feb 12, 2002 ",22,['Spain'],Spain,Lugo,LW   RW,"1,68",-
+22,Víctor Piochi,Midfielder,Attacking Midfield,"Aug 4, 2002 ",21,['Spain'],Spain,Peñarroya-Pueblonuevo,LW   RW,"1,75",-
+14,Víctor del Monte,Midfielder,Attacking Midfield,"Nov 25, 2002 ",21,['Spain'],Spain,Cebreros,CM,,-
+11,Sergio Fuentes,Midfielder,Attacking Midfield,"Jan 8, 2002 ",22,['Spain'],Spain,,LW   RW,"1,70",-
+,Roberto Porcel,Midfielder,Attacking Midfield,"Apr 24, 2002 ",22,['Spain'],Spain,Madrid,,,-
+6,Víctor Revert,Midfielder,Attacking Midfield,"May 31, 2002 ",22,['Spain'],Spain,Ontinyent,RW,,-
+21,Dani Crespo,Midfielder,Attacking Midfield,"Jun 14, 2002 ",22,['Spain'],Spain,Leganés,CM,"1,75",-
+6,Raúl Gómez,Midfielder,Attacking Midfield,"Aug 27, 2002 ",21,['Spain'],Spain,Caldas de Reis,LW   RW,,-
+,Noel Álvarez,Midfielder,Attacking Midfield,"Oct 20, 2002 ",21,['Spain'],Spain,Vigo,,,-
+,Jesús Carrillo,Midfielder,Attacking Midfield,"Mar 4, 2002 ",22,['Spain'],Spain,Talavera de la Reina,CF,"1,74",-
+6,Ander Madariaga,Midfielder,Attacking Midfield,"Mar 11, 2002 ",22,['Spain'],Spain,Berango,CM,,-
+14,Javi Tudela,Midfielder,Attacking Midfield,"Jan 2, 2002 ",22,['Spain'],Spain,Remolinos,CM   CB,,-
+11,Neco Rubayo,Midfielder,Attacking Midfield,"Dec 2, 2002 ",21,['Spain'],Spain,Santander,CM,"1,70",-
+,Jan Reixach,Midfielder,Attacking Midfield,"Feb 16, 2002 ",22,['Spain'],Spain,El Masnou,,"1,83",-
+,Galderic Hugue,Midfielder,Attacking Midfield,"Jan 1, 2002 ",22,['Spain'],Portugal,Cornellà,CM,,-
+18,Santi Molina,Midfielder,Attacking Midfield,"Dec 25, 2002 ",21,"['Spain', 'Argentina']",Portugal,Estella,LW,"1,82",-
+23,Marc Cintas,Midfielder,Attacking Midfield,"Apr 7, 2002 ",22,['Spain'],Portugal,Terrassa,CM,"1,70",-
+10,Ekhiotz Orobio,Midfielder,Attacking Midfield,"May 5, 2002 ",22,['Spain'],Portugal,Vitoria-Gasteiz,RW   LW,"1,82",-
+,Neki,Midfielder,Attacking Midfield,"Jan 7, 2002 ",22,['Spain'],Portugal,Andújar,CM,,-
+,David Acosta,Midfielder,Attacking Midfield,"Jan 29, 2002 ",22,['Spain'],Portugal,Dos Hermanas,,"1,71",-
+,Diego Tejón,Midfielder,Attacking Midfield,"Jan 13, 2002 ",22,['Spain'],Portugal,Oviedo,CM,"1,72",-
+,Javi Jiménez,Midfielder,Attacking Midfield,"Mar 7, 2002 ",22,['Spain'],Portugal,Albacete,CM,"1,93",-
+,Albert Garrido,Midfielder,Attacking Midfield,"Jan 29, 2002 ",22,['Spain'],Portugal,Sabadell,CM,,-
+,Julio Insa,Midfielder,Attacking Midfield,"Aug 7, 2002 ",21,['Spain'],Portugal,Valencia,,,-
+,Pau Russo,Midfielder,Attacking Midfield,"Mar 4, 2002 ",22,"['Spain', 'Italy']",Portugal,Tarragona,,"1,78",-
+10,Alberto Moleiro,Midfielder,Attacking Midfield,"Sep 30, 2003 ",20,"['Spain', 'Cuba']",Spain,Santa Cruz de Tenerife,LW   RW,"1,71",€15.00m
+8,Pablo Marín,Midfielder,Attacking Midfield,"Jul 3, 2003 ",21,['Spain'],Spain,Logroño,CM,"1,78",€1.50m
+,Jairo Noriega,Midfielder,Attacking Midfield,"Aug 14, 2003 ",20,['Spain'],Spain,A Coruña,CM,"1,82",€200k
+,Alex Cerdá,Midfielder,Attacking Midfield,"Jan 29, 2003 ",21,['Spain'],Spain,Alcoi,CM,"1,84",€200k
+,Bruno Iglesias,Midfielder,Attacking Midfield,"May 1, 2003 ",21,['Spain'],Spain,Salamanca,CM   LW,"1,81",€150k
+,Ander Cubillas,Midfielder,Attacking Midfield,"May 10, 2003 ",21,['Spain'],Spain,Estella,CM,,€100k
+,Pablo Muñoz,Midfielder,Attacking Midfield,"Sep 4, 2003 ",20,['Spain'],Spain,San Sebastián de los Reyes,RW   LW,"1,70",€50k
+17,Diego Fuentes,Midfielder,Attacking Midfield,"Sep 1, 2003 ",20,['Spain'],Spain,Medio Cudeyo,LW   RW,"1,75",€50k
+,Dani Cervera,Midfielder,Attacking Midfield,"Mar 15, 2003 ",21,['Spain'],Spain,Ripollet,CM,,€50k
+11,Hugo García,Midfielder,Attacking Midfield,"Mar 7, 2003 ",21,['Spain'],Spain,Madrid,CM   LW,,€25k
+,Javi Soto,Midfielder,Attacking Midfield,"Feb 11, 2003 ",21,['Spain'],Spain,Águilas,CM,"1,68",€25k
+,Xabier Garzón,Midfielder,Attacking Midfield,"Mar 3, 2003 ",21,['Spain'],Spain,Donostia-San Sebastián,RW   CF,,€25k
+17,Pol Cuatrecases,Midfielder,Attacking Midfield,"Jan 1, 2003 ",21,['Spain'],Spain,Barcelona,CM,,-
+30,Unai Gómez,Midfielder,Attacking Midfield,"May 25, 2003 ",21,['Spain'],Spain,Bermeo,CM,"1,83",€6.00m
+37,Carlos Álvarez,Midfielder,Attacking Midfield,"Aug 6, 2003 ",20,['Spain'],Spain,Sanlúcar la Mayor,LW   RW,"1,68",€1.20m
+,Álex Cardero,Midfielder,Attacking Midfield,"Aug 25, 2003 ",20,['Spain'],Spain,Oviedo,,"1,74",€200k
+7,Mario Nájera,Midfielder,Attacking Midfield,"Feb 23, 2003 ",21,['Spain'],Spain,Logroño,RW   LW,"1,77",€150k
+,Ferrer,Midfielder,Attacking Midfield,"Jun 1, 2003 ",21,['Spain'],Spain,,,,€100k
+37,Javi Currás,Midfielder,Attacking Midfield,"Feb 16, 2003 ",21,['Spain'],Spain,Móstoles,CM,"1,75",€100k
+12,Ale Morales,Midfielder,Attacking Midfield,"Nov 18, 2003 ",20,['Spain'],Spain,Aldeanueva de Ebro,LW   RW,"1,77",€50k
+,Gonzalo Guzmán,Midfielder,Attacking Midfield,"Nov 25, 2003 ",20,['Spain'],Spain,Camas,LW   RW,"1,76",€50k
+,Samuel Nakov,Midfielder,Attacking Midfield,"Oct 16, 2003 ",20,"['Spain', 'Bulgaria']",Spain,Villarreal,CM,"1,73",€25k
+,Juan Casar,Midfielder,Attacking Midfield,"Jan 1, 2003 ",21,['Spain'],Spain,Liendres,CM   RW,"1,78",€25k
+22,Diego Parrado,Midfielder,Attacking Midfield,"Apr 28, 2003 ",21,"['Bolivia', 'Spain']",Spain,Madrid,RW   LW,,€25k
+16,Adrián Toledo,Midfielder,Attacking Midfield,"Jan 1, 2003 ",21,"['Dominican Republic', 'Spain']",Spain,Santa Cruz de Tenerife,,,-
+,Kike Romero,Midfielder,Attacking Midfield,"May 9, 2003 ",21,['Spain'],Spain,Murcia,LW   RW,,-
+,Galo Huelga,Midfielder,Attacking Midfield,"Nov 27, 2003 ",20,['Spain'],Spain,Pola de Siero,,,-
+21,Francisco Gallego,Midfielder,Attacking Midfield,"Sep 12, 2003 ",20,['Spain'],Spain,Málaga,,,-
+16,Manu Martínez,Midfielder,Attacking Midfield,"Aug 15, 2003 ",20,['Spain'],Spain,Guadalajara,,,-
+,Gaizka Soler,Midfielder,Attacking Midfield,"Jan 5, 2003 ",21,['Spain'],Spain,Vitoria-Gasteiz,LW   RW,"1,75",-
+,Alex Hernández,Midfielder,Attacking Midfield,"Apr 22, 2003 ",21,['Spain'],Spain,,CM   LW,,-
+8,Óscar Gallego,Midfielder,Attacking Midfield,"May 11, 2003 ",21,['Spain'],Spain,,,"1,86",-
+,Marc Pelaz,Midfielder,Attacking Midfield,"Sep 19, 2003 ",20,['Spain'],Spain,Barcelona,CM,,-
+19,Toni Florit,Midfielder,Attacking Midfield,"May 21, 2003 ",21,['Spain'],Spain,Palma de Mallorca,RW   LW,,-
+10,Dylan Perera,Midfielder,Attacking Midfield,"May 11, 2003 ",21,['Spain'],Spain,Tenerife,,"1,75",-
+,Víctor Esquerdo,Midfielder,Attacking Midfield,"Jul 15, 2003 ",21,['Spain'],Spain,Benidorm,LW   RW,"1,86",-
+26,Alonso Sánchez,Midfielder,Attacking Midfield,"Mar 27, 2003 ",21,['Spain'],Spain,Villarrubia de los Ojos,LW   RW,,-
+7,Álex Torres,Midfielder,Attacking Midfield,"Oct 1, 2003 ",20,['Spain'],Spain,Alicante,,,-
+,Iván Sima,Midfielder,Attacking Midfield,"Jan 1, 2003 ",21,"['Spain', 'Equatorial Guinea']",Portugal,Móstoles,,,-
+,José Carlos Sempere,Midfielder,Attacking Midfield,"Jan 2, 2003 ",21,['Spain'],Portugal,Orihuela,,,-
+,Daniel Mariscal,Midfielder,Attacking Midfield,"Apr 18, 2003 ",21,['Spain'],Portugal,Jerez de La Frontera,,,-
+,Adrián Galindo,Midfielder,Attacking Midfield,"Sep 23, 2003 ",20,['Spain'],Portugal,Tarifa,,"1,80",-
+,Juan Muiños,Midfielder,Attacking Midfield,"Jan 14, 2003 ",21,['Spain'],Portugal,Ourense,,,-
+15,Arman Heidari,Midfielder,Attacking Midfield,"Jul 2, 2003 ",21,"['Iran', 'Spain']",Portugal,Madrid,SS   RM,"1,72",-
+,David García,Midfielder,Attacking Midfield,"Sep 15, 2003 ",20,['Spain'],Portugal,,CM,"1,83",-
+22,Osama Dellal,Midfielder,Attacking Midfield,"May 10, 2003 ",21,"['Morocco', 'Spain']",Portugal,Granollers,LM,"1,65",-
+16,Ricard Artero,Midfielder,Attacking Midfield,"Feb 5, 2003 ",21,['Spain'],Portugal,La Bisbal d'Empordà,CM   RW,"1,81",-
+8,Álex Olmedo,Midfielder,Attacking Midfield,"Mar 29, 2003 ",21,['Spain'],Portugal,San Fernando de Henares,LW   RW,"1,82",-
+17,Adrián Amaro,Midfielder,Attacking Midfield,"Nov 27, 2003 ",20,['Spain'],Portugal,Valencia,RW   LW,"1,73",-
+,Luis Dopico,Midfielder,Attacking Midfield,"Feb 6, 2003 ",21,['Spain'],Portugal,Ferrol,,,-
+10,Nico Paz,Midfielder,Attacking Midfield,"Sep 8, 2004 ",19,"['Argentina', 'Spain']",Spain,Santa Cruz de Tenerife,CM   RW,"1,86",€10.00m
+22,César Palacios,Midfielder,Attacking Midfield,"Nov 11, 2004 ",19,['Spain'],Spain,Soria,CM,"1,82",€500k
+15,Fer López,Midfielder,Attacking Midfield,"May 24, 2004 ",20,['Spain'],Spain,Madrid,,"1,88",€300k
+12,Ibon Sánchez,Midfielder,Attacking Midfield,"Mar 8, 2004 ",20,['Spain'],Spain,Getxo,LW,,€300k
+15,Julen Jon Guerrero,Midfielder,Attacking Midfield,"Apr 14, 2004 ",20,['Spain'],Spain,Bilbao,LW   CF,"1,87",€250k
+7,Mario González,Midfielder,Attacking Midfield,"Feb 5, 2004 ",20,['Spain'],Spain,Málaga,CM,"1,74",€150k
+10,Martín Tejón,Midfielder,Attacking Midfield,"Apr 12, 2004 ",20,['Spain'],Spain,Villamarchante,RW   LW,"1,65",€100k
+20,Alex Fairlie,Midfielder,Attacking Midfield,"Sep 27, 2004 ",19,"['Scotland', 'Spain']",Spain,Palma de Mallorca,,,€50k
+18,Alonso García,Midfielder,Attacking Midfield,"Jul 21, 2004 ",19,['Spain'],Spain,Salamanca,CM,,€25k
+16,Azael García,Midfielder,Attacking Midfield,"Apr 25, 2004 ",20,['Spain'],Spain,Lugo,,,€25k
+,Isra García,Midfielder,Attacking Midfield,"Jan 29, 2004 ",20,['Spain'],Spain,Fuenlabrada,,"1,83",€25k
+14,Manu de la Lama,Midfielder,Attacking Midfield,"Jan 5, 2004 ",20,['Spain'],Spain,Marbella,CM,"1,75",€25k
+,Álvaro Martín,Midfielder,Attacking Midfield,"May 21, 2004 ",20,['Spain'],Spain,Granada,LW   RW,,-
+8,Asier Osambela,Midfielder,Attacking Midfield,"Oct 30, 2004 ",19,['Spain'],Spain,Pamplona,CM,"1,86",€500k
+10,Mohamed Salah,Midfielder,Attacking Midfield,"May 27, 2004 ",20,"['Belgium', 'Morocco']",Spain,,RW   LW,"1,80",€350k
+11,Neco Celorio,Midfielder,Attacking Midfield,"Mar 7, 2004 ",20,['Spain'],Spain,Torrelavega,CM,"1,72",€300k
+,Chuki,Midfielder,Attacking Midfield,"Apr 29, 2004 ",20,['Spain'],Spain,Valladolid,RW   LW,,€300k
+19,Alejandro Mestanza,Midfielder,Attacking Midfield,"Dec 7, 2004 ",19,['Spain'],Spain,Madrid,LW   RW,"1,77",€200k
+22,Carlos Reina,Midfielder,Attacking Midfield,"Aug 10, 2004 ",19,['Spain'],Spain,Sevilla,LW   RW,"1,76",€100k
+,Luisao Macías,Midfielder,Attacking Midfield,"Dec 28, 2004 ",19,"['Ecuador', 'Spain']",Spain,Esplugas de Llobregat,LW   RW,"1,75",€50k
+,Samu Expósito,Midfielder,Attacking Midfield,"Aug 7, 2004 ",19,['Spain'],Spain,Sierra de Fuentes,,"1,66",€50k
+18,Hugo Martín,Midfielder,Attacking Midfield,"Nov 19, 2004 ",19,['Spain'],Spain,Urnieta,CM,,€25k
+19,Miguel Gómez,Midfielder,Attacking Midfield,"Feb 19, 2004 ",20,['Spain'],Spain,Santiago de Cartes,,"1,86",€25k
+19,Imad Salhi,Midfielder,Attacking Midfield,"Feb 5, 2004 ",20,"['Spain', 'Morocco']",Spain,Madrid,RW,,€25k
+,Lázaro Rubio,Midfielder,Attacking Midfield,"Jan 27, 2004 ",20,['Spain'],Spain,Cartagena,LW   RW,,-
+,Álex Albajara,Midfielder,Attacking Midfield,"Mar 27, 2004 ",20,['Spain'],Spain,El Puerto de Santamaría,,,-
+9,Marcos Arriola,Midfielder,Attacking Midfield,"Aug 18, 2004 ",19,['Spain'],Spain,Miranda de Ebro,LW   RW,,-
+14,Octavio Fresneda,Midfielder,Attacking Midfield,"Sep 10, 2004 ",19,['Spain'],Spain,Albacete,,,-
+18,Edu Llorente,Midfielder,Attacking Midfield,"Jan 28, 2004 ",20,['Spain'],Spain,Madrid,,,-
+21,Ander Barck,Midfielder,Attacking Midfield,"Apr 4, 2004 ",20,"['Spain', 'Argentina']",Spain,Gernika,CM   LW,"1,84",-
+18,Dani Sánchez,Midfielder,Attacking Midfield,"Feb 24, 2004 ",20,['Spain'],Spain,Ferrol,LW   RW,"1,74",-
+,Bobby Battison,Midfielder,Attacking Midfield,"Jan 31, 2004 ",20,"['England', 'Spain']",Spain,Malaga,RM,,-
+,Roque,Midfielder,Attacking Midfield,"Jan 5, 2004 ",20,['Spain'],Spain,,,,-
+34,David Hyjek,Midfielder,Attacking Midfield,"Feb 10, 2004 ",20,"['Poland', 'Spain']",Spain,Madrid,CM   RB,"1,80",-
+20,Younes Saifi,Midfielder,Attacking Midfield,"Mar 22, 2004 ",20,"['Morocco', 'Spain']",Spain,Almería,LW   RW,"1,72",-
+,José Antonio Bozada,Midfielder,Attacking Midfield,"Mar 20, 2004 ",20,['Spain'],Spain,Utrera,RW   CF,"1,80",-
+12,Marcelo Laviada,Midfielder,Attacking Midfield,"Nov 28, 2004 ",19,['Spain'],Portugal,Santander,,,-
+18,Iker Punzano,Midfielder,Attacking Midfield,"Jul 29, 2004 ",19,['Spain'],Portugal,Onda,LW   SS,"1,86",-
+,Pablo Martínez,Midfielder,Attacking Midfield,"May 30, 2004 ",20,['Spain'],Portugal,,CM,,-
+8,Joan Gázquez,Midfielder,Attacking Midfield,"May 17, 2004 ",20,['Spain'],Portugal,Sant Pere de Ribes,CM,"1,74",-
+21,José Manuel Romera,Midfielder,Attacking Midfield,"Mar 26, 2004 ",20,['Spain'],Portugal,Almería,LW   RW,,-
+,Iván Pérez,Midfielder,Attacking Midfield,"Jun 8, 2004 ",20,['Spain'],Portugal,Logroño,,"1,85",-
+10,Moustapha Zarouali,Midfielder,Attacking Midfield,"Aug 9, 2004 ",19,"['Spain', 'Morocco']",Portugal,Lodosa,,"1,70",-
+6,Hugo Baldomar,Midfielder,Attacking Midfield,"Feb 8, 2004 ",20,['Spain'],Portugal,Fisterra,,"1,71",-
+,Basilio Rieno,Midfielder,Attacking Midfield,"Nov 16, 2004 ",19,"['Equatorial Guinea', 'Spain']",Portugal,Fuenlabrada,CM,,-
+18,Mario Peregrina,Midfielder,Attacking Midfield,"Feb 8, 2004 ",20,['Spain'],Portugal,Minas de Riotinto,LW   RW,,-
+,Dani Pérez,Midfielder,Attacking Midfield,"Jul 26, 2005 ",18,['Spain'],Spain,Sevilla,CM   LW,"1,73",€500k
+41,Luis Morales,Midfielder,Attacking Midfield,"Feb 16, 2005 ",19,['Spain'],Spain,Granada,,,€50k
+,Cristo Muñoz,Midfielder,Attacking Midfield,"Feb 1, 2005 ",19,['Spain'],Spain,Almería,CM,,€50k
+,Dani del Cerro,Midfielder,Attacking Midfield,"Mar 24, 2005 ",19,['Spain'],Spain,Toledo,LW   RW,,-
+10,Fredy Junior Suárez,Midfielder,Attacking Midfield,"Jan 1, 2005 ",19,"['Cuba', 'Spain']",Spain,,,,-
+14,Iker Prudencio,Midfielder,Attacking Midfield,N/A ,18,"['Spain', 'Germany']",Spain,Madrid,CM   RM,"1,85",-
+,Nico Sánchez,Midfielder,Attacking Midfield,"Jun 16, 2005 ",19,['Spain'],Spain,Alpedrete,RB,,-
+,Paolo Romero,Midfielder,Attacking Midfield,"Feb 12, 2005 ",19,['Spain'],Spain,Chucena,,,-
+,Mario Solórzano,Midfielder,Attacking Midfield,"Feb 8, 2005 ",19,['Spain'],Spain,Bezana,CM,"1,70",-
+,Nico Escarabajal,Midfielder,Attacking Midfield,"Sep 24, 2005 ",18,['Spain'],Spain,Águilas,CM,,-
+,Álvaro Sánchez,Midfielder,Attacking Midfield,"Feb 16, 2005 ",19,['Spain'],Spain,Etxebarri,RW   LW,"1,70",-
+,Andrés Palacios,Midfielder,Attacking Midfield,"Jun 13, 2005 ",19,['Spain'],Spain,Ibiza,LW   RW,"1,78",-
+,Matias Racino,Midfielder,Attacking Midfield,"Jan 14, 2005 ",19,"['Spain', 'Argentina']",Spain,,CM,,-
+80,Giovani Ghimfuș,Midfielder,Attacking Midfield,"Jul 12, 2005 ",19,"['Romania', 'Spain']",Spain,Granada,CM,,€150k
+,Miguel Carrillo,Midfielder,Attacking Midfield,"Jan 3, 2005 ",19,['Spain'],Spain,Jaén,CM,,€50k
+,Pablo Muñoz,Midfielder,Attacking Midfield,"Apr 16, 2005 ",19,['Spain'],Spain,Villarrasa,,,-
+,Alberto Risco,Midfielder,Attacking Midfield,"Aug 30, 2005 ",18,['Spain'],Spain,Córdoba,,,-
+,Juan Valverde,Midfielder,Attacking Midfield,"Apr 10, 2005 ",19,['Spain'],Spain,Barcelona,RM,"1,76",-
+,Erik Baena Saavedra,Midfielder,Attacking Midfield,"Jul 19, 2005 ",18,['Spain'],Spain,Barcelona,LW   RW,"1,80",-
+,Sergio Ruiz,Midfielder,Attacking Midfield,"Jan 8, 2005 ",19,['Spain'],Spain,Santander,LW   RW,"1,75",-
+,Dani Cobo,Midfielder,Attacking Midfield,"Nov 6, 2005 ",18,['Spain'],Spain,Camargo,,"1,82",-
+16,Julen Vicuña,Midfielder,Attacking Midfield,"Jun 21, 2005 ",19,['Spain'],Spain,Barañáin,CF,"1,71",-
+,Carlos Martin,Midfielder,Attacking Midfield,"May 10, 2005 ",19,['Spain'],Spain,Arucas,RW   LW,"1,74",-
+,Nico Font,Midfielder,Attacking Midfield,"Feb 18, 2005 ",19,['Spain'],Spain,Segorbe,SS   RW,"1,71",-
+,Ihab Goudani,Midfielder,Attacking Midfield,"Apr 21, 2005 ",19,"['Spain', 'Morocco']",Spain,Pamplona,RW   LW,"1,75",-
+,Enrique Peña,Midfielder,Attacking Midfield,"Apr 25, 2005 ",19,"['Peru', 'Spain']",Spain,Toledo,RW   LW,"1,71",-
+,Alejandro Bueso,Midfielder,Attacking Midfield,"Jan 26, 2005 ",19,['Spain'],Spain,Castellón,CM,"1,82",-
+20,Alejandro Serrano,Midfielder,Attacking Midfield,"Jan 1, 2005 ",19,['Spain'],Portugal,Murcia,,"1,65",-
