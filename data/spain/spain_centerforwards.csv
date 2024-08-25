@@ -1,0 +1,1561 @@
+Number,Name,Main Position,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+,Álvaro Negredo,Striker,Centre-Forward,"Aug 20, 1985 ",39,['Spain'],Spain,Madrid,,"1,86",€300k
+,Bugui,Striker,Centre-Forward,"Oct 13, 1985 ",38,['Spain'],Spain,Zaragoza,AM,"1,82",-
+,José Mari García,Striker,Centre-Forward,"Sep 12, 1985 ",38,['Spain'],Spain,Palma,,,-
+,Nene,Striker,Centre-Forward,"Feb 2, 1985 ",39,['Spain'],Spain,Cádiz,,"1,75",-
+,Rafa Carvajal,Striker,Centre-Forward,"Nov 11, 1985 ",38,['Spain'],Spain,Almendralejo,,"1,90",-
+,Jordi Martí,Striker,Centre-Forward,"Apr 23, 1985 ",39,['Spain'],Spain,Lleida,,"1,81",-
+9,David Mainz,Striker,Centre-Forward,"Jun 21, 1985 ",39,['Spain'],Spain,Sádaba,,"1,78",-
+,Ibán García,Striker,Centre-Forward,"Nov 15, 1985 ",38,['Spain'],Spain,Zarautz,,"1,80",-
+,Pablo Rodríguez,Striker,Centre-Forward,"Jul 20, 1985 ",39,['Spain'],Spain,Valencia,,"1,90",-
+21,Marcos de la Espada,Striker,Centre-Forward,"Nov 3, 1985 ",38,['Spain'],Spain,Pollença,,"1,86",-
+,Alfi Conteh-Lacalle,Striker,Centre-Forward,"Jan 18, 1985 ",39,"['Sierra Leone', 'Spain']",Spain,Barcelona,SS,"1,80",-
+,Álvaro Líbano,Striker,Centre-Forward,"Oct 21, 1985 ",38,['Spain'],Spain,Bilbao,,"1,87",-
+,Alberto Criado,Striker,Centre-Forward,"Mar 24, 1985 ",39,['Spain'],Spain,Sant Joan de Vilatorrada,,"1,89",-
+,Dani Segovia,Striker,Centre-Forward,"May 23, 1985 ",39,['Spain'],Spain,Madrid,,"1,90",€50k
+,Keke,Striker,Centre-Forward,"Jun 25, 1985 ",39,['Spain'],Spain,Santa Cruz de Mieres,,,-
+,Carenote,Striker,Centre-Forward,"Mar 5, 1985 ",39,['Spain'],Spain,La Línea de la Concepción,,"1,78",-
+,Óscar Briz,Striker,Centre-Forward,"Jul 30, 1985 ",39,['Spain'],Spain,Vega de Villafufre,,"1,77",-
+,Balduino Real,Striker,Centre-Forward,"Nov 25, 1985 ",38,['Spain'],Spain,Santa Cruz de Tenerife,,"1,80",-
+,Héctor Gómez,Striker,Centre-Forward,"Sep 11, 1985 ",38,['Spain'],Spain,Madrid,SS   RW,"1,82",-
+,Raúl Salcedo,Striker,Centre-Forward,"Jan 11, 1985 ",39,['Spain'],Spain,Vitoria-Gasteiz,RW   LW,"1,71",-
+,Guillem Martí,Striker,Centre-Forward,"Sep 5, 1985 ",38,['Spain'],Spain,Es Mercadal,,"1,80",-
+,Dani López,Striker,Centre-Forward,"Oct 25, 1985 ",38,['Spain'],Spain,Madrid,,"1,87",-
+,Marcos Linares,Striker,Centre-Forward,"Aug 17, 1985 ",39,['Spain'],Spain,,,,-
+,Alberto Palacios,Striker,Centre-Forward,"Jan 3, 1985 ",39,['Spain'],Spain,Madrid,,"1,81",-
+,Juan Carlos Ortiz,Striker,Centre-Forward,"Jun 28, 1985 ",39,['Spain'],Spain,Córdoba,,"1,82",-
+,Carlos Gazapo,Striker,Centre-Forward,"Jan 3, 1985 ",39,['Spain'],Spain,Madrid,,N/A,-
+,José Arenas,Striker,Centre-Forward,"Feb 21, 1985 ",39,['Spain'],Spain,Ponteareas,,"1,89",-
+,José Carlos Gallego,Striker,Centre-Forward,"Apr 23, 1985 ",39,['Spain'],Spain,Calatayud,SS   RW,"1,77",-
+,Juanjo,Striker,Centre-Forward,"Oct 3, 1985 ",38,['Spain'],Spain,Calamonte,,"1,84",-
+,Quini Pérez,Striker,Centre-Forward,"Oct 29, 1985 ",38,['Spain'],Spain,Sevilla,,"1,80",-
+,Ion Vélez,Striker,Centre-Forward,"Feb 17, 1985 ",39,['Spain'],Spain,Tafalla,,"1,83",-
+,Rufino Segovia,Striker,Centre-Forward,"Mar 1, 1985 ",39,['Spain'],Spain,Madrid,SS   LW,"1,78",-
+,Fernando Llorente,Striker,Centre-Forward,"Feb 26, 1985 ",39,['Spain'],Spain,Pamplona,,"1,95",-
+,Juanjo Expósito,Striker,Centre-Forward,"Oct 28, 1985 ",38,['Spain'],Spain,Santander,,"1,87",-
+,Roberto Soldado,Striker,Centre-Forward,"May 27, 1985 ",39,['Spain'],Spain,Valencia,,"1,80",-
+,Braulio Nóbrega,Striker,Centre-Forward,"Sep 18, 1985 ",38,['Spain'],Spain,Puerto del Rosario,,"1,78",-
+,Jonathan Soriano,Striker,Centre-Forward,"Sep 24, 1985 ",38,['Spain'],Spain,El Pont de Vilomara i Rocafort,,"1,80",-
+,Pedro Muñoz,Striker,Centre-Forward,"Jul 14, 1985 ",39,['Spain'],Spain,Algeciras,,"1,81",-
+,Sergio Arias,Striker,Centre-Forward,"Sep 19, 1985 ",38,['Spain'],Spain,Portomarín,,"1,88",-
+,Rubén Cruz,Striker,Centre-Forward,"Oct 13, 1985 ",38,['Spain'],Spain,Utrera,LW,"1,84",-
+,Carlos Saura,Striker,Centre-Forward,"Jul 23, 1985 ",39,['Spain'],Spain,Cartagena,,"1,81",-
+,Gabriel Gómez,Striker,Centre-Forward,"Apr 4, 1985 ",39,['Spain'],Spain,Barcelona,,"1,74",-
+,Rubén Rivera,Striker,Centre-Forward,"May 3, 1985 ",39,['Spain'],Spain,La Coruña,,"1,82",-
+,David Lizoain,Striker,Centre-Forward,"Mar 23, 1985 ",39,['Spain'],Spain,Pamplona,,"1,87",-
+,Víctor Casadesús,Striker,Centre-Forward,"Feb 28, 1985 ",39,['Spain'],Spain,Algaida,SS   RW,"1,80",-
+,Albert Yagüe,Striker,Centre-Forward,"Mar 27, 1985 ",39,['Spain'],Spain,Vilassar de Mar,,"1,74",-
+,Ador,Striker,Centre-Forward,"Sep 2, 1985 ",38,['Spain'],Spain,Málaga,,"1,84",-
+,David Álvarez,Striker,Centre-Forward,"Aug 2, 1985 ",39,['Spain'],Spain,Albacete,,"1,71",-
+,Javier Henares,Striker,Centre-Forward,"Jan 17, 1985 ",39,['Spain'],Spain,Malaga,,"1,84",-
+18,Enric Gallego,Striker,Centre-Forward,"Sep 12, 1986 ",37,['Spain'],Spain,Bon Pastor,,"1,89",€400k
+9,Manu Barreiro,Striker,Centre-Forward,"Jul 8, 1986 ",38,['Spain'],Spain,Santiago de Compostela,,"1,89",€100k
+9,Sascha Andreu,Striker,Centre-Forward,"Aug 12, 1986 ",38,['Spain'],Spain,Barcelona,,"1,86",€50k
+,Barriles,Striker,Centre-Forward,"Sep 15, 1986 ",37,['Spain'],Spain,Molina de Segura,,"1,82",-
+,Emilio,Striker,Centre-Forward,"Jun 1, 1986 ",38,['Spain'],Spain,Las Palmas de Gran Canaria (Las Palmas),,"1,84",-
+,Pablo Carrascosa,Striker,Centre-Forward,"Oct 28, 1986 ",37,['Spain'],Spain,Valencia,,"1,76",-
+,Murci,Striker,Centre-Forward,"May 24, 1986 ",38,['Spain'],Spain,Jiménez de Jamuz,,"1,88",-
+,Ginés Gil,Striker,Centre-Forward,"Apr 13, 1986 ",38,['Spain'],Spain,Las Torres de Cotillas,,"1,78",-
+,Tajamata,Striker,Centre-Forward,"Sep 10, 1986 ",37,['Spain'],Spain,Cuenca,,"1,76",-
+,Pekas,Striker,Centre-Forward,"Apr 8, 1986 ",38,['Spain'],Spain,Burgos,,"1,84",-
+,Aitor Gómez,Striker,Centre-Forward,"Feb 21, 1986 ",38,['Spain'],Spain,Redondela,,"1,76",-
+,Francisco Bautista,Striker,Centre-Forward,"Jun 23, 1986 ",38,['Spain'],Spain,Cartagena,,"1,80",-
+,Mikel Suarez,Striker,Centre-Forward,"Sep 28, 1986 ",37,['Spain'],Spain,Bilbao,,"1,88",-
+9,Rufo Sánchez,Striker,Centre-Forward,"Dec 27, 1986 ",37,['Spain'],Spain,Madrid,,"1,82",€100k
+,David Rodríguez,Striker,Centre-Forward,"Feb 14, 1986 ",38,['Spain'],Spain,Talavera de la Reina,,"1,79",€100k
+,Hugo Soto,Striker,Centre-Forward,"Jan 26, 1986 ",38,['Spain'],Spain,Vilagarcía de Arousa,,"1,89",-
+10,Mohamed El Madaghri,Striker,Centre-Forward,"Apr 27, 1986 ",38,"['Morocco', 'Réunion']",Spain,Melilla,,"1,76",-
+,Adrián Felis,Striker,Centre-Forward,"Mar 7, 1986 ",38,['Spain'],Spain,Lleida,,"1,83",-
+,Diego Silva,Striker,Centre-Forward,"Jul 28, 1986 ",38,['Spain'],Spain,Tomiño,,"1,85",-
+,Iker Zárate,Striker,Centre-Forward,"Jul 12, 1986 ",38,['Spain'],Spain,Sestao,SS,"1,91",-
+,Roberto Puente,Striker,Centre-Forward,"Dec 28, 1986 ",37,['Spain'],Spain,Quintana de Fuseros,,"1,80",-
+,Pablo Valencia,Striker,Centre-Forward,"Jun 8, 1986 ",38,['Spain'],Spain,Cádiz,,N/A,-
+,Nacho Fernández,Striker,Centre-Forward,"May 7, 1986 ",38,['Spain'],Spain,Santiago de Compostela,,"1,79",-
+,José Luis Armario,Striker,Centre-Forward,"Dec 15, 1986 ",37,['Spain'],Spain,,,,-
+,Loren Román,Striker,Centre-Forward,"Sep 29, 1986 ",37,['Spain'],Spain,Madrid,,,-
+,Rubén Jurado,Striker,Centre-Forward,"Apr 25, 1986 ",38,['Spain'],Spain,Sevilla,,"1,78",-
+,Carlos Martínez,Striker,Centre-Forward,"Jun 27, 1986 ",38,['Spain'],Spain,Mataró,,"1,85",-
+,Chema Gutiérrez,Striker,Centre-Forward,"Feb 12, 1986 ",38,['Spain'],Spain,Santander,,"1,87",-
+,Roberto Platero,Striker,Centre-Forward,"Dec 31, 1986 ",37,['Spain'],Spain,Santoña,,"1,73",-
+,Oriol Santos,Striker,Centre-Forward,"Oct 29, 1986 ",37,['Spain'],Spain,Olot,,"1,69",-
+,José Manuel Pérez,Striker,Centre-Forward,"Oct 15, 1986 ",37,['Spain'],Spain,Córdoba,,"1,83",-
+,Oriol Riera,Striker,Centre-Forward,"Jul 3, 1986 ",38,['Spain'],Spain,Vic,,"1,86",-
+,Roberto Batres,Striker,Centre-Forward,"Jan 8, 1986 ",38,['Spain'],Spain,Villaviciosa de Odón,SS,"1,88",-
+,Sergio Prendes,Striker,Centre-Forward,"Jul 15, 1986 ",38,['Spain'],Spain,Gijón,LW   RW,"1,82",-
+,Kike Sola,Striker,Centre-Forward,"Feb 25, 1986 ",38,['Spain'],Spain,Cascante,,"1,84",-
+,Xisco,Striker,Centre-Forward,"Jun 26, 1986 ",38,['Spain'],Spain,Santa Ponça,,"1,88",-
+,Baby,Striker,Centre-Forward,"Mar 7, 1986 ",38,['Spain'],Spain,Barcelona,,"1,74",-
+,David Torres,Striker,Centre-Forward,"Jun 16, 1986 ",38,['Spain'],Spain,Petrel,,"1,83",-
+,Chus Seco,Striker,Centre-Forward,"Jun 24, 1986 ",38,['Spain'],Spain,Palma de Mallorca,,"1,81",-
+,José Suanes,Striker,Centre-Forward,"Jun 25, 1986 ",38,['Spain'],Spain,La Carlota,,"1,80",-
+,Vicente Pascual,Striker,Centre-Forward,"Aug 21, 1986 ",38,['Spain'],Spain,Argente,,"1,75",-
+,Alejandro Peraza,Striker,Centre-Forward,"May 8, 1986 ",38,['Spain'],Spain,Las Palmas de Gran Canaria,,"1,72",-
+,Enrique Carreño,Striker,Centre-Forward,"Nov 27, 1986 ",37,['Spain'],Spain,Utrera,RW,"1,83",-
+,Juanma Ortiz,Striker,Centre-Forward,"May 28, 1986 ",38,['Spain'],Spain,Atarfe,,"1,73",-
+,Carlos Álvarez,Striker,Centre-Forward,"Apr 23, 1986 ",38,['Spain'],Spain,Oviedo,,"1,82",-
+,Raúl García,Striker,Centre-Forward,"Jul 11, 1986 ",38,['Spain'],Spain,Zizur Mayor,AM   SS,"1,84",-
+,Antonio Fiore,Striker,Centre-Forward,N/A ,38,"['Italy', 'Spain']",Spain,Madrid,,"1,74",-
+10,Iago Aspas,Striker,Centre-Forward,"Aug 1, 1987 ",37,['Spain'],Spain,Moaña,RW,"1,76",€3.00m
+9,Ángel Rodríguez,Striker,Centre-Forward,"Apr 26, 1987 ",37,['Spain'],Spain,Santa Cruz de Tenerife,,"1,71",€400k
+9,Borjas Martín,Striker,Centre-Forward,"Jun 28, 1987 ",37,['Spain'],Spain,La Villa y Puerto de Tazacorte,RW   LW,"1,69",€50k
+,Edgar Hernández,Striker,Centre-Forward,"Feb 2, 1987 ",37,['Spain'],Spain,Gavà,,"1,89",€50k
+9,Eder Díez,Striker,Centre-Forward,"Jul 15, 1987 ",37,['Spain'],Spain,Barakaldo,,"1,87",€50k
+7,Dani Martínez,Striker,Centre-Forward,"Jun 18, 1987 ",37,['Spain'],Spain,Madrid,,,-
+,Pepo,Striker,Centre-Forward,"Jun 18, 1987 ",37,['Spain'],Spain,Almeria,,,-
+,Dani García,Striker,Centre-Forward,"Jan 3, 1987 ",37,['Spain'],Spain,Madrid,,,-
+,Francesc Vidal,Striker,Centre-Forward,"Sep 4, 1987 ",36,['Spain'],Spain,Xàtiva,,,-
+,Yeray Pérez,Striker,Centre-Forward,"Jan 31, 1987 ",37,['Spain'],Spain,Santa Cruz de La Palma,,,-
+,Óscar Muñoz,Striker,Centre-Forward,"Mar 4, 1987 ",37,['Spain'],Spain,Granollers,,,-
+,Alfonso Rivera,Striker,Centre-Forward,"Dec 20, 1987 ",36,['Spain'],Spain,Madrid,,"1,83",-
+7,Alberto Dorronsoro,Striker,Centre-Forward,"Jul 10, 1987 ",37,['Spain'],Spain,Torrelavega,,"1,82",-
+11,José Luis Morales,Striker,Centre-Forward,"Jul 23, 1987 ",37,['Spain'],Spain,Madrid,LW   RW,"1,80",€1.50m
+,Airam Cabrera,Striker,Centre-Forward,"Oct 21, 1987 ",36,['Spain'],Spain,Puerto de la Cruz,,"1,78",€100k
+,Víctor Bernat,Striker,Centre-Forward,"May 17, 1987 ",37,"['Andorra', 'Spain']",Spain,Barcelona,,,€50k
+,Aridane Santana,Striker,Centre-Forward,"Mar 31, 1987 ",37,['Spain'],Spain,Vecindario,,"1,91",€50k
+,César Díaz,Striker,Centre-Forward,"Jan 5, 1987 ",37,['Spain'],Spain,Villamalea,,"1,71",€25k
+17,Sergio Pancorbo,Striker,Centre-Forward,"Jan 18, 1987 ",37,['Spain'],Spain,Madrid,CB,,-
+10,Álvaro Portero,Striker,Centre-Forward,"Jun 30, 1987 ",37,['Spain'],Spain,Madrid,,,-
+,Christian Mena,Striker,Centre-Forward,"Jul 1, 1987 ",37,['Spain'],Spain,La Linea de la Concepcion,,,-
+,Rubén Rodríguez,Striker,Centre-Forward,"Feb 12, 1987 ",37,['Spain'],Spain,Alcalá de Guadaira,,"1,77",-
+,Borja Bandera,Striker,Centre-Forward,"Jan 22, 1987 ",37,['Spain'],Spain,León,,"1,88",-
+,Alejandro Abarca,Striker,Centre-Forward,"Oct 8, 1987 ",36,['Spain'],Spain,Valencia,,"1,84",-
+,José Maria Carrillo,Striker,Centre-Forward,"Sep 5, 1987 ",36,['Spain'],Spain,Martos,,"1,80",-
+,Manolo,Striker,Centre-Forward,"May 29, 1987 ",37,['Spain'],Spain,Melilla,SS,,-
+,Kike Espinosa,Striker,Centre-Forward,"Jul 25, 1987 ",37,['Spain'],Spain,Bigastro,,"1,82",-
+,Robert,Striker,Centre-Forward,"Jun 5, 1987 ",37,['Spain'],Spain,Madrid,,"1,83",-
+9,Nico Rubio,Striker,Centre-Forward,"Nov 2, 1987 ",36,['Spain'],Spain,Manacor,,"1,79",-
+,Ayrton Cabral,Striker,Centre-Forward,"Nov 16, 1987 ",36,"['Spain', 'Cape Verde']",Spain,Ponferrada,,"1,83",-
+,Iñaki Zarandona,Striker,Centre-Forward,"Sep 24, 1987 ",36,['Spain'],Spain,Elantxobe,,"1,80",-
+,Antonio Trujillo,Striker,Centre-Forward,"Oct 11, 1987 ",36,['Spain'],Spain,Calvià,,"1,87",-
+,Benja,Striker,Centre-Forward,"Aug 23, 1987 ",37,['Spain'],Spain,Terrassa,,"1,87",-
+,Carlos López,Striker,Centre-Forward,"Jan 1, 1987","Jan 1, 1987",['Spain'],Spain,Palamós,,"1,82",-
+,Urko Vera,Striker,Centre-Forward,"May 14, 1987 ",37,['Spain'],Spain,Barakaldo,,"1,89",-
+,Iván Vila,Striker,Centre-Forward,"May 26, 1987 ",37,['Spain'],Spain,Eibar,,"1,92",-
+,Jaime Jornet,Striker,Centre-Forward,"Jan 6, 1987 ",37,['Spain'],Spain,Elda,,"1,82",-
+,Pablo Pallarés,Striker,Centre-Forward,"Jan 12, 1987 ",37,['Spain'],Spain,Gandía,,"1,88",-
+,Melik,Striker,Centre-Forward,"Sep 20, 1987 ",36,"['Spain', 'Morocco']",Spain,Melilla,,,-
+,Marco Adaggio,Striker,Centre-Forward,"Oct 6, 1987 ",36,"['Italy', 'England']",Spain,Malaga,,"1,73",-
+,Vitu,Striker,Centre-Forward,"Jan 15, 1987 ",37,['Spain'],Spain,Úbeda,,"1,81",-
+,Antonio Pino,Striker,Centre-Forward,"Jun 19, 1987 ",37,['Spain'],Spain,Córdoba,,"1,82",-
+,Jon Uriarte,Striker,Centre-Forward,"Dec 28, 1987 ",36,['Spain'],Spain,Elda,,"1,82",-
+9,Adrián Gallardo,Striker,Centre-Forward,"Nov 20, 1987 ",36,['Spain'],Spain,San Fernando,,"1,75",-
+,Carles Ruzafa,Striker,Centre-Forward,"Apr 7, 1987 ",37,['Spain'],Spain,Oliva,,"1,81",-
+,Jordi Benet,Striker,Centre-Forward,"Apr 1, 1987 ",37,['Spain'],Spain,Lleida,,"1,83",-
+,Koeman,Striker,Centre-Forward,"Jul 9, 1987 ",37,['Spain'],Spain,Cartagena,,"1,80",-
+,Salvador García,Striker,Centre-Forward,"Feb 17, 1987 ",37,['Spain'],Spain,Rincón de la Victoria,,"1,85",-
+,Francesc Guitart,Striker,Centre-Forward,"May 27, 1987 ",37,['Spain'],Spain,Barcelona,,,-
+9,Fernando Rodríguez,Striker,Centre-Forward,"May 11, 1987 ",37,['Spain'],Spain,Pilas,,"1,83",-
+,José Antonio Prieto,Striker,Centre-Forward,"Jan 8, 1987 ",37,['Spain'],Spain,Ceuta,RW,"1,75",-
+,David Pino,Striker,Centre-Forward,"May 7, 1987 ",37,['Spain'],Spain,Vélez-Málaga,,"1,76",-
+,Joselu,Striker,Centre-Forward,"Jun 10, 1987 ",37,['Spain'],Spain,Ribeira,,"1,88",-
+,Borja Viguera,Striker,Centre-Forward,"Mar 26, 1987 ",37,['Spain'],Spain,Logroño,,"1,84",-
+,Luis Morán,Striker,Centre-Forward,"Jul 26, 1987 ",37,['Spain'],Spain,Luanco,RW   LW,"1,72",-
+,Imanol Agirretxe,Striker,Centre-Forward,"Feb 24, 1987 ",37,['Spain'],Spain,Usurbil,,"1,87",-
+,Raúl Heredia,Striker,Centre-Forward,"Jul 20, 1987 ",37,['Spain'],Spain,Granada,,"1,80",-
+,Daniel Cabanillas,Striker,Centre-Forward,"Feb 1, 1987 ",37,['Spain'],Spain,Guadalajara,,"1,84",-
+,Esaú,Striker,Centre-Forward,"Jan 2, 1987 ",37,['Spain'],Spain,León,,"1,83",-
+,Nacho Casanova,Striker,Centre-Forward,"Feb 4, 1987 ",37,['Spain'],Spain,Las Palmas de Gran Canaria,AM,"1,84",-
+,Jonathan Pereira,Striker,Centre-Forward,"May 12, 1987 ",37,['Spain'],Spain,Vigo,RW   LW,"1,67",-
+17,Jaime Mata,Striker,Centre-Forward,"Oct 24, 1988 ",35,['Spain'],Spain,Madrid,LW   RW,"1,86",€900k
+99,Pedro Conde,Striker,Centre-Forward,"Jul 26, 1988 ",36,['Spain'],Spain,Villafranca de Córdoba,,"1,81",€150k
+,David Agudo,Striker,Centre-Forward,"Nov 12, 1988 ",35,['Spain'],Spain,Lobón,RW   LW,"1,78",€50k
+,Narcis Barrera,Striker,Centre-Forward,"Oct 28, 1988 ",35,['Spain'],Spain,Tordera,,,-
+,Antonio Martínez,Striker,Centre-Forward,"Jul 9, 1988 ",36,['Spain'],Spain,Cartagena,,"1,94",-
+,Gerardo Reyes,Striker,Centre-Forward,"Jun 23, 1988 ",36,['Spain'],Spain,Madrid,,"1,83",-
+,Rubén Moreno,Striker,Centre-Forward,"Jan 1, 1988 ",36,['Spain'],Spain,Leganés,,"1,78",-
+,Daniel del Rio,Striker,Centre-Forward,"Oct 2, 1988 ",35,['Spain'],Spain,Zaragoza,SS   RW,"1,90",-
+20,Braulio López,Striker,Centre-Forward,"May 17, 1988 ",36,['Spain'],Spain,Santa Brígida,,"1,86",-
+,Francisco Pineda,Striker,Centre-Forward,"Mar 23, 1988 ",36,['Spain'],Spain,Málaga,,"1,82",-
+,Alejandro Chacopino,Striker,Centre-Forward,"Nov 5, 1988 ",35,['Spain'],Spain,Alicante,,"1,90",-
+,Boris Garrós,Striker,Centre-Forward,"Jun 22, 1988 ",36,['Spain'],Spain,Barcelona,,"1,85",-
+,Antonio Román,Striker,Centre-Forward,"Jul 8, 1988 ",36,['Spain'],Spain,Jaén,,"1,81",-
+7,Lucas Pérez,Striker,Centre-Forward,"Sep 10, 1988 ",35,['Spain'],Spain,A Coruña,SS   RW,"1,80",€600k
+7,Hugo Díaz,Striker,Centre-Forward,"Feb 9, 1988 ",36,['Spain'],Spain,Almodóvar del Río,LW   RW,"1,74",€150k
+16,Dani López,Striker,Centre-Forward,"Nov 27, 1988 ",35,['Spain'],Spain,Logroño,,,-
+,Paquito,Striker,Centre-Forward,"Dec 24, 1988 ",35,['Spain'],Spain,Almeria,,"1,78",-
+11,Raúl Gordo,Striker,Centre-Forward,"Nov 18, 1988 ",35,['Spain'],Spain,Navalmoral de la Mata,LW,"1,75",-
+,Esaú Rojo,Striker,Centre-Forward,"Aug 27, 1988 ",35,['Spain'],Spain,Guadalajara,,"1,94",-
+,Juanfran,Striker,Centre-Forward,"Oct 5, 1988 ",35,['Spain'],Spain,Granada,,"1,82",-
+,Adolfo Sanz,Striker,Centre-Forward,"Mar 17, 1988 ",36,['Spain'],Spain,Valencia,,"1,84",-
+,Chendo,Striker,Centre-Forward,"Jan 21, 1988 ",36,['Spain'],Spain,Torreblascopedro,,"1,83",-
+,Carmelo Sota,Striker,Centre-Forward,"Mar 9, 1988 ",36,['Spain'],Spain,Calahorra,,"1,87",-
+,Héctor Figueroa,Striker,Centre-Forward,"Oct 30, 1988 ",35,['Spain'],Spain,Las Palmas de Gran Canaria,RW,"1,82",-
+,Juan Ayala,Striker,Centre-Forward,"Aug 15, 1988 ",36,['Spain'],Spain,La Línea de la Concepción,,"1,75",-
+,Dani López,Striker,Centre-Forward,"May 14, 1988 ",36,['Spain'],Spain,Santa Cruz de Tenerife,,"1,65",-
+,David Verdú,Striker,Centre-Forward,"Sep 25, 1988 ",35,['Spain'],Spain,Silla,,"1,79",-
+,Javier Patiño,Striker,Centre-Forward,"Feb 14, 1988 ",36,"['Philippines', 'Spain']",Spain,San Sebastián de los Reyes,LW   RW,"1,83",-
+,Bacari,Striker,Centre-Forward,"Mar 14, 1988 ",36,"['The Gambia', 'Spain']",Spain,Mataró,,"1,78",-
+,Julen Colinas,Striker,Centre-Forward,"Apr 16, 1988 ",36,['Spain'],Spain,Donostia-San Sebastián,RW,"1,72",-
+,Óscar García,Striker,Centre-Forward,"Jul 12, 1988 ",36,['Spain'],Spain,Granada,LW   RW,"1,71",-
+,Saúl Alvarez,Striker,Centre-Forward,"Sep 5, 1988 ",35,['Spain'],Spain,Callosa de Segura,,"1,81",-
+,Perujo,Striker,Centre-Forward,"Jun 2, 1988 ",36,['Spain'],Spain,Cabezón de la Sal,LW   RW,"1,75",-
+,Hugo López,Striker,Centre-Forward,"May 15, 1988 ",36,['Spain'],Spain,Gijón,SS,"1,75",-
+,Adrián Ramos,Striker,Centre-Forward,"Apr 9, 1988 ",36,['Spain'],Spain,Las Palmas de Gran Canaria,,"1,79",-
+9,Andrés Carrasco,Striker,Centre-Forward,"Mar 23, 1988 ",36,['Spain'],Spain,Murcia,,"1,86",-
+,Romario,Striker,Centre-Forward,"Jun 11, 1988 ",36,['Spain'],Spain,Las Palmas de Gran Canaria,,"1,72",-
+,Tanausú Rodríguez,Striker,Centre-Forward,"Apr 19, 1988 ",36,['Spain'],Spain,Puerto del Rosario,,"1,73",-
+,Alfredo Pérez,Striker,Centre-Forward,"Apr 12, 1988 ",36,['Spain'],Spain,Pamplona,LW   RW,"1,73",-
+,Borja Lázaro,Striker,Centre-Forward,"Apr 5, 1988 ",36,['Spain'],Spain,Madrid,,"1,88",-
+,Sergio Poveda,Striker,Centre-Forward,"Nov 18, 1988 ",35,['Spain'],Spain,Aspe,,"1,89",-
+,Juan Rosillo,Striker,Centre-Forward,"Apr 10, 1988 ",36,['Spain'],Spain,Jerez de la Frontera,LW   RW,"1,70",-
+10,Chema,Striker,Centre-Forward,"Jan 11, 1988 ",36,['Spain'],Spain,Badajoz,SS,"1,76",-
+,Rubén Fonte,Striker,Centre-Forward,"May 20, 1988 ",36,['Spain'],Spain,Burriana,,"1,85",-
+,Aarón,Striker,Centre-Forward,"Jan 11, 1988 ",36,['Spain'],Spain,Santander,,"1,79",-
+9,Rubén Pérez,Striker,Centre-Forward,"Jul 27, 1988 ",36,['Spain'],Spain,Miranda de Ebro,,"1,82",-
+,Miguel,Striker,Centre-Forward,"Aug 26, 1988 ",35,['Spain'],Spain,Roquetas de Mar,,"1,83",-
+,Manu Onwu,Striker,Centre-Forward,"Jan 11, 1988 ",36,['Spain'],Spain,Tudela,RW   LW,"1,87",-
+,Pedro Baños,Striker,Centre-Forward,"Oct 14, 1988 ",35,['Spain'],Spain,Lorca,,"1,80",-
+,Reyes,Striker,Centre-Forward,"Jan 13, 1988 ",36,['Spain'],Spain,Sabadell,,"1,90",-
+,Diego Piquero,Striker,Centre-Forward,"Oct 10, 1988 ",35,['Spain'],Spain,Puente San Miguel,,"1,78",-
+,Antonio Matas,Striker,Centre-Forward,"May 27, 1988 ",36,['Spain'],Spain,Madrid,,"1,85",-
+,David Ferrandis,Striker,Centre-Forward,"Sep 29, 1988 ",35,['Spain'],Spain,Valencia,,"1,68",-
+,Albert Manteca,Striker,Centre-Forward,"Jun 10, 1988 ",36,['Spain'],Spain,Barcelona,,"1,84",-
+,Pau Franch,Striker,Centre-Forward,"May 27, 1988 ",36,['Spain'],Spain,Betxí,,"1,85",-
+,Adrián López,Striker,Centre-Forward,"Jan 8, 1988 ",36,['Spain'],Spain,San Martín de Teverga,LW   RW,"1,83",-
+,Miguel Ángel Espinar,Striker,Centre-Forward,"Apr 18, 1988 ",36,['Spain'],Spain,Lora del Río,,"1,82",-
+9,Eduardo Ubis,Striker,Centre-Forward,"Apr 10, 1988 ",36,['Spain'],Spain,Logroño,,"1,79",-
+,Roger Matamala,Striker,Centre-Forward,"May 3, 1988 ",36,['Spain'],Spain,Granollers,,"1,80",-
+,Pablo Carnero,Striker,Centre-Forward,"Jan 3, 1988 ",36,['Spain'],Spain,Vigo,,"1,90",-
+,Carletes,Striker,Centre-Forward,"May 26, 1988 ",36,['Spain'],Spain,Albacete,,"1,72",-
+,Sergio Ariel Escudero,Striker,Centre-Forward,"Sep 1, 1988 ",35,['Japan'],Spain,Granada,LW   RW,"1,72",-
+17,Kike García,Striker,Centre-Forward,"Nov 25, 1989 ",34,['Spain'],Spain,Motilla de Palancar,,"1,86",€1.00m
+17,Dioni,Striker,Centre-Forward,"Dec 21, 1989 ",34,['Spain'],Spain,Málaga,SS   RW,"1,84",€400k
+9,Francis Ferrón,Striker,Centre-Forward,"Sep 7, 1989 ",34,['Spain'],Spain,Algeciras,,"1,84",€100k
+,Arturo Rodríguez,Striker,Centre-Forward,"Apr 30, 1989 ",35,['Spain'],Spain,Cartagena,,"1,88",€100k
+,Mariano Sanz,Striker,Centre-Forward,"Nov 11, 1989 ",34,['Spain'],Spain,Benidorm,,"1,83",€100k
+,Cristian López,Striker,Centre-Forward,"Apr 27, 1989 ",35,['Spain'],Spain,Elche,,"1,85",€100k
+,Manu Peñas,Striker,Centre-Forward,"Sep 30, 1989 ",34,['Spain'],Spain,Alcantarilla,,"1,90",-
+,Sergi Arranz,Striker,Centre-Forward,"Dec 1, 1989 ",34,['Spain'],Spain,Figueres,,,-
+21,David Vinatea,Striker,Centre-Forward,"Aug 16, 1989 ",35,['Spain'],Spain,Laredo,,,-
+,Maero,Striker,Centre-Forward,"Feb 18, 1989 ",35,['Spain'],Spain,Estepa,,"1,82",-
+,Jonathan Quintero,Striker,Centre-Forward,"Nov 12, 1989 ",34,['Spain'],Spain,Las Palmas de Gran Canaria,,"1,92",-
+,Alberto Castro,Striker,Centre-Forward,"Nov 19, 1989 ",34,['Spain'],Spain,Écija,,"1,81",-
+,Alberto Zapata,Striker,Centre-Forward,"May 17, 1989 ",35,['Spain'],Spain,Albacete,,,-
+,Sergio León,Striker,Centre-Forward,"Jan 6, 1989 ",35,['Spain'],Spain,La Palma del Río,,"1,76",€800k
+8,Emilio Nsue,Striker,Centre-Forward,"Sep 30, 1989 ",34,"['Spain', 'Equatorial Guinea']",Spain,Palma de Mallorca,RB   RW,"1,81",€250k
+10,Gerard Oliva,Striker,Centre-Forward,"Oct 7, 1989 ",34,['Spain'],Spain,Riudecanyes,,"1,90",€100k
+15,Juanfri,Striker,Centre-Forward,"Oct 1, 1989 ",34,['Spain'],Spain,Fuengirola,,"1,80",€100k
+38,Álex Sánchez,Striker,Centre-Forward,"Jun 6, 1989 ",35,['Spain'],Spain,Zaragoza,LW,"1,80",€100k
+,Juanito,Striker,Centre-Forward,"Oct 7, 1989 ",34,['Spain'],Spain,Vilagarcía de Arousa,,,-
+,Adrián Real,Striker,Centre-Forward,"Dec 14, 1989 ",34,['Spain'],Spain,Palencia,,"1,70",-
+9,Eros Delgado,Striker,Centre-Forward,"Apr 11, 1989 ",35,['Spain'],Spain,Las Palmas de Gran Canaria,,,-
+,Adrián Roldán,Striker,Centre-Forward,"Feb 19, 1989 ",35,['Spain'],Spain,Valencia,SS   AM,,-
+,Aday López,Striker,Centre-Forward,"Jul 4, 1989 ",35,['Spain'],Spain,Mogán,,,-
+,David Camps,Striker,Centre-Forward,"Apr 25, 1989 ",35,['Spain'],Spain,Ciutadella de Menorca,,"1,75",-
+,Alejandro Corbacho,Striker,Centre-Forward,"Aug 28, 1989 ",34,['Spain'],Spain,Ronda,,"1,78",-
+,Asier Alonso,Striker,Centre-Forward,"Jul 22, 1989 ",35,['Spain'],Spain,Miranda de Ebro,,,-
+,Hugo García,Striker,Centre-Forward,"Jul 6, 1989 ",35,['Spain'],Spain,Ourense,,,-
+,Javi Manín,Striker,Centre-Forward,"Dec 17, 1989 ",34,['Spain'],Spain,Villaviciosa,,,-
+,Mario Navia,Striker,Centre-Forward,"Sep 8, 1989 ",34,['Spain'],Spain,Lobón,GK,"1,88",-
+,Christian Perales,Striker,Centre-Forward,"Jul 28, 1989 ",35,['Spain'],Spain,Enguera,,"1,81",-
+,Javi Martínez,Striker,Centre-Forward,"Sep 5, 1989 ",34,['Spain'],Spain,Nájera,,"1,82",-
+,Nene,Striker,Centre-Forward,"Dec 26, 1989 ",34,['Spain'],Spain,Palma de Mallorca,,"1,82",-
+,Jon Martín,Striker,Centre-Forward,"Mar 1, 1989 ",35,['Spain'],Spain,Barakaldo,RW   LW,"1,79",-
+,David Terleira,Striker,Centre-Forward,"Aug 7, 1989 ",35,['Spain'],Spain,Cebreros,,"1,89",-
+,José Antonio Naya,Striker,Centre-Forward,"Oct 18, 1989 ",34,['Spain'],Spain,Gijón,,,-
+,Javi Camochu,Striker,Centre-Forward,"Apr 13, 1989 ",35,['Spain'],Spain,Boal,,"1,84",-
+,Alberto Abengózar,Striker,Centre-Forward,"Jul 5, 1989 ",35,['Spain'],Spain,Alcázar de San Juan,,"1,84",-
+,Carlos García,Striker,Centre-Forward,"Jul 4, 1989 ",35,['Spain'],Spain,La Alberca (Murcia),,,-
+,Kuku,Striker,Centre-Forward,"Aug 27, 1989 ",34,"['Spain', 'The Gambia']",Spain,Barcelona,LW,"1,85",-
+9,Javi Bolo,Striker,Centre-Forward,"Jul 8, 1989 ",35,['Spain'],Spain,La Roda,,"1,86",-
+,Antoni Forner,Striker,Centre-Forward,"Dec 29, 1989 ",34,['Spain'],Spain,Alicante,,,-
+,Omar Chamadoira,Striker,Centre-Forward,"Aug 15, 1989 ",35,['Spain'],Spain,Arnedo,,"1,82",-
+,Ayoze Santana,Striker,Centre-Forward,"Oct 10, 1989 ",34,['Spain'],Spain,Telde,,,-
+,Javi Torres,Striker,Centre-Forward,"Apr 19, 1989 ",35,['Spain'],Spain,Logroño,,,-
+19,Chumbi,Striker,Centre-Forward,"May 5, 1989 ",35,['Spain'],Spain,Águilas,,"1,75",-
+,Álvaro Montero,Striker,Centre-Forward,"Nov 5, 1989 ",34,['Spain'],Spain,Madrid,,"1,90",-
+,Jokin López,Striker,Centre-Forward,"Oct 10, 1989 ",34,['Spain'],Spain,Mutriku,,,-
+,Ruymán Arbelo,Striker,Centre-Forward,"Jul 17, 1989 ",35,['Spain'],Spain,Las Palmas de Gran Canaria,,"1,85",-
+,Mono,Striker,Centre-Forward,"Mar 1, 1989 ",35,['Spain'],Spain,Valencia,,"1,76",-
+,Josu Santamaría,Striker,Centre-Forward,"Sep 4, 1989 ",34,['Spain'],Spain,Bilbao,RW   LW,"1,79",-
+,José David Sánchez,Striker,Centre-Forward,"May 1, 1989 ",35,['Spain'],Spain,Águilas,,"1,83",-
+,Isaac Aketxe,Striker,Centre-Forward,"Jun 3, 1989 ",35,['Spain'],Spain,Bilbao,,"1,80",-
+,Felipe Moreno,Striker,Centre-Forward,"Jul 16, 1989 ",35,['Spain'],Spain,Leganés,,"1,82",-
+,Jona,Striker,Centre-Forward,"Jan 7, 1989 ",35,"['Honduras', 'Spain']",Spain,Málaga,,"1,83",-
+,Gorka Laborda,Striker,Centre-Forward,"Apr 13, 1989 ",35,['Spain'],Spain,Pamplona,,"1,80",-
+,Quique Cubas,Striker,Centre-Forward,"Apr 18, 1989 ",35,['Spain'],Spain,Pontevedra,,"1,80",-
+,Roberto Bernal,Striker,Centre-Forward,"Mar 23, 1989 ",35,['Spain'],Spain,Salamanca,,,-
+,Pablo Morgado,Striker,Centre-Forward,"May 31, 1989 ",35,['Spain'],Spain,Valencia,LW   RW,"1,79",-
+,Urtain,Striker,Centre-Forward,"Jun 19, 1989 ",35,['Spain'],Spain,Granada,,"1,75",-
+,Juan Antonio Osado,Striker,Centre-Forward,"Aug 7, 1989 ",35,['Spain'],Spain,Tarragona,,"1,82",-
+,Jorge Galán,Striker,Centre-Forward,"Jan 22, 1989 ",35,['Spain'],Spain,Pamplona,,"1,73",-
+,Iván Bolado,Striker,Centre-Forward,"Jul 3, 1989 ",35,"['Equatorial Guinea', 'Spain']",Spain,Santander,,"1,80",-
+,Josele,Striker,Centre-Forward,"Oct 11, 1989 ",34,['Spain'],Spain,Terrassa,,"1,77",-
+,Cristian Bonilla,Striker,Centre-Forward,"May 25, 1989 ",35,['Spain'],Spain,Barakaldo,,"1,77",-
+,Miguel Montes,Striker,Centre-Forward,"Oct 10, 1989 ",34,['Spain'],Spain,Pozo Alcón,,"1,83",-
+,Jorge Brazalez,Striker,Centre-Forward,"Jan 4, 1989 ",35,['Spain'],Spain,Madrid,,"1,84",-
+,Mikel Orbegozo,Striker,Centre-Forward,"Apr 15, 1989 ",35,['Spain'],Spain,Donostia-San Sebastián,,"1,85",-
+,Jonathan Reguero,Striker,Centre-Forward,"Mar 19, 1989 ",35,['Spain'],Spain,Vitoria-Gasteiz,,"1,83",-
+,Nacho Verdés,Striker,Centre-Forward,"Sep 30, 1989 ",34,['Spain'],Spain,Valencia,SS,"1,89",-
+,José Luis Plata,Striker,Centre-Forward,"Jul 19, 1989 ",35,['Spain'],Spain,Albolote,,"1,82",-
+,Joan Pons,Striker,Centre-Forward,"Aug 7, 1989 ",35,['Spain'],Spain,Barcelona,,"1,81",-
+,Arkaitz Ruiz,Striker,Centre-Forward,"Jul 18, 1989 ",35,['Spain'],Spain,Pamplona,RW   LW,"1,81",-
+,Rubén Rosquete,Striker,Centre-Forward,"Aug 17, 1989 ",35,['Spain'],Spain,Icod de los Vinos,,"1,75",-
+,Dani Bea,Striker,Centre-Forward,"Feb 12, 1989 ",35,['Spain'],Spain,Vilagarcía de Arousa,,"1,70",-
+,Quique González,Striker,Centre-Forward,"May 16, 1990 ",34,['Spain'],Spain,Valladolid,RW   LW,"1,77",€500k
+9,Rodri Ríos,Striker,Centre-Forward,"Jun 6, 1990 ",34,['Spain'],Spain,Soria,,"1,74",€350k
+10,Carlitos,Striker,Centre-Forward,"Jun 12, 1990 ",34,['Spain'],Spain,Alicante,SS   AM,"1,76",€250k
+,Juan Antonio Sánchez,Striker,Centre-Forward,"Dec 6, 1990 ",33,['Spain'],Spain,Coria del Río,,"1,89",€100k
+9,Pito Camacho,Striker,Centre-Forward,"Feb 27, 1990 ",34,['Spain'],Spain,Gádor,,"1,76",€100k
+,Manuel Bleda,Striker,Centre-Forward,"Jul 31, 1990 ",34,"['Hongkong', 'Spain']",Spain,Sagunt,,"1,85",€100k
+10,Manuel Salinas,Striker,Centre-Forward,"Feb 23, 1990 ",34,['Spain'],Spain,Granada,,,€100k
+,Ito,Striker,Centre-Forward,"Jun 1, 1990 ",34,['Spain'],Spain,Málaga,,"1,81",-
+,Boga,Striker,Centre-Forward,"Mar 13, 1990 ",34,['Spain'],Spain,Estepona,,"1,69",-
+,Juan Hernández,Striker,Centre-Forward,"Mar 11, 1990 ",34,['Spain'],Spain,Madrid,LW   AM,"1,80",-
+,Aitor Asensio,Striker,Centre-Forward,"Nov 24, 1990 ",33,['Spain'],Spain,Salamanca,LW   RW,"1,89",-
+,Elhadji Bandeh,Striker,Centre-Forward,"Aug 2, 1990 ",34,"['Spain', 'The Gambia']",Spain,Mataró,,"1,95",-
+,Guillermo Lamarca,Striker,Centre-Forward,"Jan 18, 1990 ",34,['Spain'],Spain,Madrid,SS   AM,"1,88",-
+9,Juanma Delgado,Striker,Centre-Forward,"Nov 17, 1990 ",33,['Spain'],Spain,Valencia,,"1,88",€450k
+9,Sergi Enrich,Striker,Centre-Forward,"Feb 26, 1990 ",34,['Spain'],Spain,Ciutadella de Menorca,,"1,83",€300k
+,Toni Gabarre,Striker,Centre-Forward,"May 26, 1990 ",34,['Spain'],Spain,Huesca,,"1,86",€150k
+,Álvaro Montejo,Striker,Centre-Forward,"Dec 12, 1990 ",33,['Spain'],Spain,Madrid,,"1,78",€100k
+,Lander Yurrebaso,Striker,Centre-Forward,"Jan 25, 1990 ",34,['Spain'],Spain,Bilbao,,"1,80",€100k
+9,David Cubillas,Striker,Centre-Forward,"Jun 19, 1990 ",34,['Spain'],Spain,Castelló de La Plana,,"1,91",€100k
+7,Ander Iriguibel,Striker,Centre-Forward,"May 29, 1990 ",34,['Spain'],Spain,Pamplona,RW   LW,"1,75",€50k
+9,Carlos Madeira,Striker,Centre-Forward,"Jul 11, 1990 ",34,['Spain'],Spain,Oviedo,,,-
+,Cuco,Striker,Centre-Forward,"Jul 27, 1990 ",34,['Spain'],Spain,La Alberca,,"1,84",-
+,Sergio Pérez,Striker,Centre-Forward,"Jan 16, 1990 ",34,['Spain'],Spain,Medina-Sidonia,RW   LW,"1,68",-
+,Raúl Gómez,Striker,Centre-Forward,"Feb 8, 1990 ",34,['Spain'],Spain,Cuenca,,,-
+,Marc Medina,Striker,Centre-Forward,"Oct 17, 1990 ",33,['Spain'],Spain,Castell-Platja d'Aro,,,-
+,Jon Ander Pérez,Striker,Centre-Forward,"Jan 16, 1990 ",34,['Spain'],Spain,Vitoria,,"1,84",-
+,David del Barco,Striker,Centre-Forward,"Apr 20, 1990 ",34,['Spain'],Spain,Madrid,,"1,80",-
+9,Carlos Cano,Striker,Centre-Forward,"Nov 30, 1990 ",33,['Spain'],Spain,Barcelona,,,-
+,Dani Varona,Striker,Centre-Forward,"Sep 3, 1990 ",33,['Spain'],Spain,Algeciras,RW,"1,67",-
+,Sergi Arimany,Striker,Centre-Forward,"Jan 31, 1990 ",34,['Spain'],Spain,Olot,,N/A,-
+7,Ramón López,Striker,Centre-Forward,"Apr 21, 1990 ",34,['Spain'],Spain,Sabiñánigo,RW   LW,"1,82",-
+,Edgar Agudo,Striker,Centre-Forward,"Mar 29, 1990 ",34,['Spain'],Spain,Madrid,,"1,88",-
+,Joshua Corrales,Striker,Centre-Forward,"Jan 24, 1990 ",34,['Spain'],Spain,Bembibre,,"1,85",-
+,Javier Torres,Striker,Centre-Forward,"May 23, 1990 ",34,['Spain'],Spain,Madrid,,"1,81",-
+,Titi,Striker,Centre-Forward,"Jul 28, 1990 ",34,['Spain'],Spain,Murcia,,"1,78",-
+9,Diego Sánchez,Striker,Centre-Forward,"May 4, 1990 ",34,['Spain'],Spain,Murcia,,"1,86",-
+9,Mateu Ferrer,Striker,Centre-Forward,"Nov 7, 1990 ",33,['Spain'],Spain,Inca,,"1,83",-
+,David Nogueira,Striker,Centre-Forward,"Nov 12, 1990 ",33,['Spain'],Spain,Santiago de Compostela,,"1,80",-
+,Uxío da Pena,Striker,Centre-Forward,"Aug 3, 1990 ",34,['Spain'],Spain,Lugo,,"1,87",-
+9,Nacho Martínez,Striker,Centre-Forward,"Apr 11, 1990 ",34,['Spain'],Spain,,SS,"1,85",-
+,Dani Figueroa,Striker,Centre-Forward,"May 11, 1990 ",34,['Spain'],Spain,,SS,,-
+,Samuel Pérez,Striker,Centre-Forward,"Mar 23, 1990 ",34,"['England', 'Spain']",Spain,Santa Cruz de Tenerife,,,-
+,Manu Rodriguez,Striker,Centre-Forward,"Mar 8, 1990 ",34,['Spain'],Spain,Rute,LW   RW,"1,76",-
+,Álex Chico,Striker,Centre-Forward,"Apr 19, 1990 ",34,['Spain'],Spain,Adra,,"1,80",-
+,Ismael Ruano,Striker,Centre-Forward,"Sep 27, 1990 ",33,['Spain'],Spain,Málaga,,,-
+,Héctor Marcos,Striker,Centre-Forward,"Sep 20, 1990 ",33,['Spain'],Spain,Santander,,"1,80",-
+,Galder Dwomoh,Striker,Centre-Forward,"Feb 24, 1990 ",34,"['Spain', 'Ghana']",Spain,Bilbao,,"1,94",-
+,Adán Pérez,Striker,Centre-Forward,"May 24, 1990 ",34,['Spain'],Spain,Las Galletas,,,-
+,José Kanté,Striker,Centre-Forward,"Sep 27, 1990 ",33,"['Guinea', 'Spain']",Spain,Sabadell,RW,"1,84",-
+,Bruno Pascua,Striker,Centre-Forward,"Feb 21, 1990 ",34,['Spain'],Spain,Santander,LW   AM,"1,75",-
+,Mariano Azcona,Striker,Centre-Forward,"Apr 23, 1990 ",34,['Spain'],Spain,Andosilla,,"1,82",-
+,Dani Arribas,Striker,Centre-Forward,"May 7, 1990 ",34,['Spain'],Spain,Segovia,,"1,80",-
+,Germán Sáenz,Striker,Centre-Forward,"Jul 25, 1990 ",34,['Spain'],Spain,Tenerife,RW   LW,"1,86",-
+,Manuel Raillo,Striker,Centre-Forward,"Aug 29, 1990 ",33,"['Spain', 'Switzerland']",Spain,Córdoba,,"1,82",-
+,Cristian Aleo,Striker,Centre-Forward,"Jan 10, 1990 ",34,['Spain'],Spain,Elche,,"1,84",-
+,Marcos Iglesias,Striker,Centre-Forward,"Jun 20, 1990 ",34,['Spain'],Spain,Gijón,,,-
+,Adrian Pujante Pérez,Striker,Centre-Forward,"Jan 23, 1990 ",34,['Spain'],Spain,Murcia,,"1,80",-
+,Ander Vitoria,Striker,Centre-Forward,"Jan 22, 1990 ",34,['Spain'],Spain,Igorre,,"1,79",-
+,Diego Antón,Striker,Centre-Forward,"May 18, 1990 ",34,['Spain'],Spain,Soria,,"1,78",-
+,José Collado,Striker,Centre-Forward,"Mar 24, 1990 ",34,['Spain'],Spain,Santa Lucía de Tirajana,,"1,91",-
+,Alex Cortell,Striker,Centre-Forward,"Nov 8, 1990 ",33,['Spain'],Spain,Valencia,,"1,79",-
+,Mara,Striker,Centre-Forward,"May 1, 1990 ",34,['Spain'],Spain,Mazarrón,,"1,80",-
+,Salva Chamorro,Striker,Centre-Forward,"May 8, 1990 ",34,['Spain'],Spain,Orihuela,,"1,89",-
+,Abraham Gomis,Striker,Centre-Forward,"Mar 5, 1990 ",34,['Spain'],Spain,Villena,,"1,73",-
+,Javi Zurbano,Striker,Centre-Forward,"Mar 6, 1990 ",34,['Spain'],Spain,Pamplona,,"1,93",-
+9,Marc Mas,Striker,Centre-Forward,"Jun 1, 1990 ",34,['Spain'],Spain,Sils,,"1,76",-
+,Álex Ruiz,Striker,Centre-Forward,"Aug 30, 1990 ",33,['Spain'],Spain,Málaga,,"1,80",-
+,Iker Uribarren,Striker,Centre-Forward,"Jan 15, 1990 ",34,['Spain'],Spain,Arrasate,,"1,78",-
+,Jonathan Sánchez,Striker,Centre-Forward,"Jan 24, 1990 ",34,['Spain'],Spain,Marbella,,"1,94",-
+,Borja Navarro,Striker,Centre-Forward,"May 14, 1990 ",34,['Spain'],Spain,Gijón,,"1,75",-
+,Eduardo Silva,Striker,Centre-Forward,"Apr 11, 1990 ",34,['Spain'],Spain,Zaragoza,,"1,80",-
+,Albert Coll,Striker,Centre-Forward,"Nov 11, 1990 ",33,['Spain'],Spain,Santanyí,,"1,87",-
+9,Roger Martí,Striker,Centre-Forward,"Jan 3, 1991 ",33,['Spain'],Spain,Torrent,,"1,79",€1.20m
+9,Alfredo Ortuño,Striker,Centre-Forward,"Jan 21, 1991 ",33,['Spain'],Spain,Yecla,,"1,84",€600k
+,Cristian Herrera,Striker,Centre-Forward,"Mar 13, 1991 ",33,['Spain'],Spain,Las Palmas de Gran Canaria,LW   RW,"1,82",€300k
+,Raúl González,Striker,Centre-Forward,"Apr 25, 1991 ",33,['Spain'],Spain,Alicante,,"1,81",€125k
+,Aitor Pons,Striker,Centre-Forward,"Jan 24, 1991 ",33,['Spain'],Spain,Mahón,LW,"1,77",€100k
+,Boro,Striker,Centre-Forward,"May 4, 1991 ",33,['Spain'],Spain,Puerto Real,SS   RW,"1,85",€50k
+,Iván Aguilar,Striker,Centre-Forward,"Jun 12, 1991 ",33,['Spain'],Spain,Benalmádena,,"1,80",€25k
+,Felipe Vega,Striker,Centre-Forward,"Oct 5, 1991 ",32,['Spain'],Spain,Las Palmas de Gran Canaria,,,-
+,Cesareo Suárez,Striker,Centre-Forward,"Mar 22, 1991 ",33,['Spain'],Spain,Vecindario,,,-
+,Salvador Mancilla,Striker,Centre-Forward,"Nov 18, 1991 ",32,['Spain'],Spain,Marbella,LW,"1,81",-
+,Fernando Cuesta,Striker,Centre-Forward,"Jul 20, 1991 ",33,"['Spain', 'Morocco']",Spain,La Línea de la Concepción,,"1,80",-
+,José Mari Díaz,Striker,Centre-Forward,"Feb 26, 1991 ",33,['Spain'],Spain,Algeciras,,"1,77",-
+,José Miguel Sánchez,Striker,Centre-Forward,"Jul 2, 1991 ",33,['Spain'],Spain,Algeciras,,"1,78",-
+,Sergi Guardiola,Striker,Centre-Forward,"May 29, 1991 ",33,['Spain'],Spain,Manacor,LW,"1,85",€800k
+20,Álvaro Giménez,Striker,Centre-Forward,"May 19, 1991 ",33,['Spain'],Spain,Elche,LW   RW,"1,83",€500k
+,Chuli,Striker,Centre-Forward,"Jan 25, 1991 ",33,['Spain'],Spain,Huelva,RW   LW,"1,70",€175k
+11,Ion Etxaniz,Striker,Centre-Forward,"Jan 10, 1991 ",33,['Spain'],Spain,Elorrio,,"1,82",€125k
+,Antonio Sánchez,Striker,Centre-Forward,"Apr 6, 1991 ",33,['Spain'],Spain,Sevilla,,"1,81",€50k
+9,Adrià de Mesa,Striker,Centre-Forward,"May 11, 1991 ",33,['Spain'],Spain,Lleida,,"1,87",€50k
+,Iván Robles Puertas,Striker,Centre-Forward,"Jul 2, 1991 ",33,['Spain'],Spain,La Linea de la Concepción,,,-
+,Jako,Striker,Centre-Forward,"Jul 19, 1991 ",33,['Spain'],Spain,Murcia,,"1,70",-
+,Manu López,Striker,Centre-Forward,"Nov 26, 1991 ",32,['Andorra'],Spain,Barcelona,,,-
+17,Mario Sánchez,Striker,Centre-Forward,"Jul 21, 1991 ",33,['Spain'],Spain,Madrid,,"1,85",-
+,David Soto,Striker,Centre-Forward,"Jul 18, 1991 ",33,['Spain'],Spain,Antequera,,,-
+,José Gabriel Piñera,Striker,Centre-Forward,"Sep 16, 1991 ",32,['Spain'],Spain,Murcia,,"1,80",-
+,Omar Saura,Striker,Centre-Forward,"Jul 3, 1991 ",33,['Spain'],Spain,Murcia,,,-
+,Adrián Alarcón,Striker,Centre-Forward,"Aug 18, 1991 ",33,['Spain'],Spain,Cuenca,,,-
+,Javi Tamayo,Striker,Centre-Forward,"Feb 26, 1991 ",33,['Spain'],Spain,Jerez,LW   RW,"1,85",-
+11,David Grande,Striker,Centre-Forward,"Feb 8, 1991 ",33,['Spain'],Spain,Torrejón de Ardoz,,"1,82",-
+7,Asdrúbal Padrón,Striker,Centre-Forward,"Mar 13, 1991 ",33,['Spain'],Spain,Las Palmas de Gran Canaria,RW   SS,"1,73",-
+,Álex Rodríguez,Striker,Centre-Forward,"Feb 11, 1991 ",33,['Spain'],Spain,Hellín,,,-
+,Julen Iriarte,Striker,Centre-Forward,"Nov 26, 1991 ",32,['Spain'],Spain,Azkoitia,,"1,87",-
+19,Dani Bardolet,Striker,Centre-Forward,"Aug 16, 1991 ",33,['Spain'],Spain,Palma de Mallorca,,"1,85",-
+,Iñaki Eguileor,Striker,Centre-Forward,"Aug 13, 1991 ",33,['Spain'],Spain,Zamora,,"1,76",-
+,Javi Oncina,Striker,Centre-Forward,"May 14, 1991 ",33,['Spain'],Spain,Alicante,,"1,80",-
+,Carlitos,Striker,Centre-Forward,"Feb 9, 1991 ",33,['Spain'],Spain,Jerez de la Frontera,,"1,73",-
+14,Carlos Fernández,Striker,Centre-Forward,"Feb 7, 1991 ",33,['Spain'],Spain,Úbeda,,"1,90",-
+,Aday Benítez,Striker,Centre-Forward,"Jan 18, 1991 ",33,['Spain'],Spain,Las Palmas de Gran Canaria,,"1,74",-
+,Joselu,Striker,Centre-Forward,"May 1, 1991 ",33,['Spain'],Spain,Talarrubias,,"1,74",-
+11,Álex Fernández,Striker,Centre-Forward,"Feb 4, 1991 ",33,['Spain'],Spain,Boadilla del Monte,,"1,82",-
+,Josele,Striker,Centre-Forward,"Feb 17, 1991 ",33,['Spain'],Spain,Sant Vicenç dels Horts,,,-
+,Isaac Manjón,Striker,Centre-Forward,"Feb 10, 1991 ",33,['Spain'],Spain,Barañáin,,"1,81",-
+,Jordi Aumatell,Striker,Centre-Forward,"Jun 28, 1991 ",33,['Spain'],Spain,Manlleu,,,-
+,Alberto Mateo,Striker,Centre-Forward,"Sep 24, 1991 ",32,['Spain'],Spain,Ejea de los Caballeros,SS,,-
+20,Ezequiel Lamarca,Striker,Centre-Forward,"May 23, 1991 ",33,['Spain'],Spain,Córdoba,SS   RW,"1,81",-
+,Grego,Striker,Centre-Forward,"Jul 20, 1991 ",33,['Spain'],Spain,Fuerte del Rey,,"1,69",-
+,Daniel Domené,Striker,Centre-Forward,"Nov 27, 1991 ",32,['Spain'],Spain,Alicante,,"1,72",-
+,Joan Grasa,Striker,Centre-Forward,"Dec 12, 1991 ",32,['Spain'],Spain,Barcelona,LW   RW,"1,78",-
+9,Samuel López,Striker,Centre-Forward,"Oct 23, 1991 ",32,['Spain'],Spain,Murcia,,"1,87",-
+,Jesús Romero,Striker,Centre-Forward,"Jun 22, 1991 ",33,['Spain'],Spain,Llerena,,,-
+,Benja,Striker,Centre-Forward,"Jul 6, 1991 ",33,['Spain'],Spain,Nigrán,,"1,67",-
+,Alejandro Rodríguez,Striker,Centre-Forward,"Jul 30, 1991 ",33,['Spain'],Spain,Terrassa,RW   LW,"1,83",-
+,Álvaro Castiella,Striker,Centre-Forward,"Apr 18, 1991 ",33,['Spain'],Spain,Pamplona,,,-
+,Marc Cosme,Striker,Centre-Forward,"Nov 27, 1991 ",32,['Spain'],Spain,Faura,,,-
+,Álvaro Vázquez,Striker,Centre-Forward,"Apr 27, 1991 ",33,['Spain'],Spain,Badalona,,"1,82",-
+,Kike Tortosa,Striker,Centre-Forward,"Feb 10, 1991 ",33,['Spain'],Spain,Valencia,RW   LW,"1,74",-
+,Marin Vrnoga de Gregorio,Striker,Centre-Forward,"Jan 28, 1991 ",33,"['Croatia', 'Spain']",Spain,Barcelona,,"1,88",-
+,Sergi Mut,Striker,Centre-Forward,"Jan 20, 1991 ",33,['Spain'],Spain,Manacor,SS   LW,"1,80",-
+,Diego García,Striker,Centre-Forward,"Apr 10, 1991 ",33,['Spain'],Spain,Avilés,,"1,78",-
+,Íñigo Rodríguez,Striker,Centre-Forward,"Apr 29, 1991 ",33,['Spain'],Spain,Hernani,,"1,81",-
+,Alex Permuy,Striker,Centre-Forward,"May 3, 1991 ",33,['Spain'],Spain,Ares,,"1,84",-
+,Joselu Moreno,Striker,Centre-Forward,"Mar 3, 1991 ",33,['Spain'],Spain,Cartaya,RW   LW,"1,70",-
+,Vázquez,Striker,Centre-Forward,"May 28, 1991 ",33,['Spain'],Spain,Écija,,"1,86",-
+,Valentino Fiévet,Striker,Centre-Forward,"Feb 14, 1991 ",33,['Spain'],Spain,Huesca,,"1,84",-
+,Ángel Gómez,Striker,Centre-Forward,"Aug 16, 1991 ",33,['Spain'],Spain,Linares,,"1,80",-
+9,Manuel Gavilán,Striker,Centre-Forward,"Jul 12, 1991 ",33,['Spain'],Spain,Mairena del Aljarafe,RW   SS,"1,81",-
+7,Álvaro Morata,Striker,Centre-Forward,"Oct 23, 1992 ",31,['Spain'],Spain,Madrid,LW,"1,89",€16.00m
+9,Borja Bastón,Striker,Centre-Forward,"Aug 25, 1992 ",32,['Spain'],Spain,Madrid,,"1,86",€2.50m
+7,Rubén Sobrino,Striker,Centre-Forward,"Jun 1, 1992 ",32,['Spain'],Spain,Daimiel,LW   RW,"1,85",€1.40m
+11,Juanto Ortuño,Striker,Centre-Forward,"Feb 11, 1992 ",32,['Spain'],Spain,Yecla,,"1,77",€400k
+10,Borja Valle,Striker,Centre-Forward,"Jul 9, 1992 ",32,['Spain'],Spain,Ponferrada,LW   SS,"1,77",€400k
+,Víctor Bertomeu,Striker,Centre-Forward,"Oct 19, 1992 ",31,['Spain'],Spain,"Tarragona, Amposta",RW,"1,83",€200k
+9,Rubén Mesa,Striker,Centre-Forward,"Jan 16, 1992 ",32,['Spain'],Spain,Badajoz,,"1,84",€200k
+,Manel Martínez,Striker,Centre-Forward,"Mar 25, 1992 ",32,['Spain'],Spain,Cabrera de Mar,,"1,85",€150k
+14,Samuel Corral,Striker,Centre-Forward,"Apr 3, 1992 ",32,['Spain'],Spain,Alicún de Ortega,,"1,84",€125k
+77,Rober,Striker,Centre-Forward,"Sep 19, 1992 ",31,['Spain'],Spain,Leganés,RW   LW,"1,78",€100k
+9,Marc Nierga,Striker,Centre-Forward,"Apr 15, 1992 ",32,['Spain'],Spain,Olot,,"1,84",€100k
+9,Álex Alegría,Striker,Centre-Forward,"Oct 10, 1992 ",31,['Spain'],Spain,Plasencia,,"1,91",€50k
+,Jamie Belsue,Striker,Centre-Forward,"Sep 12, 1992 ",31,['Spain'],Spain,La Linea de la Concepción,,,-
+7,Gerard Moreno,Striker,Centre-Forward,"Apr 7, 1992 ",32,['Spain'],Spain,Santa Perpètua de Mogoda,RW,"1,80",€10.00m
+9,Abdón Prats,Striker,Centre-Forward,"Dec 7, 1992 ",31,['Spain'],Spain,Artà,,"1,81",€1.80m
+9,Fran Sol,Striker,Centre-Forward,"Mar 13, 1992 ",32,['Spain'],Spain,Madrid,SS,"1,82",€900k
+,Sabin Merino,Striker,Centre-Forward,"Jan 4, 1992 ",32,['Spain'],Spain,Urduliz,RW   LW,"1,87",€400k
+9,Mario Barco,Striker,Centre-Forward,"Dec 23, 1992 ",31,['Spain'],Spain,Estella-Lizarra,,"1,85",€375k
+18,Chema Moreno,Striker,Centre-Forward,"Oct 11, 1992 ",31,['Spain'],Spain,Madrid,,"1,90",€200k
+9,Alberto Górriz,Striker,Centre-Forward,"Nov 10, 1992 ",31,['Spain'],Spain,Irún,,"1,93",€150k
+,Guille Andrés,Striker,Centre-Forward,"Oct 13, 1992 ",31,['Spain'],Spain,Xátiva,,"1,80",€150k
+17,Pedro Martín,Striker,Centre-Forward,"Jan 16, 1992 ",32,['Spain'],Spain,Málaga,,"1,89",€125k
+19,Nando Copete,Striker,Centre-Forward,"Apr 9, 1992 ",32,['Spain'],Spain,Almendralejo,RW   LW,"1,83",€100k
+,Jaime Isuardi,Striker,Centre-Forward,"Feb 2, 1992 ",32,['Spain'],Spain,Santander,SS,"1,71",€50k
+9,Adrián Hernández,Striker,Centre-Forward,"Feb 21, 1992 ",32,['Spain'],Spain,Las Palmas de Gran Canaria,SS   LW,"1,81",€25k
+,Brais Suárez,Striker,Centre-Forward,"Feb 18, 1992 ",32,['Spain'],Spain,Madrid,,,-
+10,Manu Daza,Striker,Centre-Forward,"Jan 12, 1992 ",32,['Spain'],Spain,Huétor Tajar,SS,"1,84",-
+,Lalo Pulgar,Striker,Centre-Forward,"Jan 15, 1992 ",32,['Spain'],Spain,Tres Cantos,,,-
+,Maka,Striker,Centre-Forward,"Nov 5, 1992 ",31,['Spain'],Spain,Barakaldo,,,-
+9,Pepe Capitán,Striker,Centre-Forward,"Feb 21, 1992 ",32,['Spain'],Spain,Rincón de la Victoria,,"1,84",-
+,Luis Olalla,Striker,Centre-Forward,"Jun 10, 1992 ",32,['Spain'],Spain,Granada,,"1,83",-
+,Alberto Baztán,Striker,Centre-Forward,"Sep 6, 1992 ",31,['Spain'],Spain,Vitoria-Gasteiz,,,-
+,David Toro,Striker,Centre-Forward,"Dec 16, 1992 ",31,['Spain'],Spain,Sant Boi de Llobregat,,"1,83",-
+,Juanma González,Striker,Centre-Forward,"Oct 4, 1992 ",31,['Spain'],Spain,Lleida,SS,,-
+,Pepe,Striker,Centre-Forward,"Oct 2, 1992 ",31,['Spain'],Spain,La Línea de la Concepción,AM,,-
+,Adán Guerrero,Striker,Centre-Forward,"Jul 18, 1992 ",32,['Spain'],Spain,La Línea de la Concepción,AM   CM,"1,75",-
+,José Luis Romero,Striker,Centre-Forward,"Jul 19, 1992 ",32,['Spain'],Spain,Algeciras,,,-
+,Marcos Campos,Striker,Centre-Forward,"Jan 25, 1992 ",32,['Spain'],Spain,L'Alcudia,,"1,79",-
+,Hulk,Striker,Centre-Forward,"May 22, 1992 ",32,['Spain'],Spain,Linares,,"1,86",-
+,Riki,Striker,Centre-Forward,"Mar 8, 1992 ",32,['Spain'],Spain,Jerez de la Frontera,RW,,-
+,Adrià Casanova,Striker,Centre-Forward,"Nov 1, 1992 ",31,['Spain'],Spain,Girona,,,-
+18,Zara,Striker,Centre-Forward,"Apr 29, 1992 ",32,['Spain'],Spain,Villanueva de Córdoba,,,-
+,Alfonso Faus,Striker,Centre-Forward,"Nov 1, 1992 ",31,['Spain'],Spain,Benaguasil,,"1,78",-
+,Joseba Alkuaz,Striker,Centre-Forward,"Jul 2, 1992 ",32,['Spain'],Spain,Pamplona,,"1,76",-
+,Litri,Striker,Centre-Forward,"May 4, 1992 ",32,['Spain'],Spain,,,"1,76",-
+,Antonio López,Striker,Centre-Forward,"Jun 13, 1992 ",32,['Spain'],Spain,Granada,,"1,88",-
+,Pablo Haysham,Striker,Centre-Forward,"Mar 27, 1992 ",32,"['England', 'Spain']",Spain,Madrid,SS,"1,82",-
+,Luis Manuel Gallardo,Striker,Centre-Forward,"Jul 20, 1992 ",32,['Spain'],Spain,Algeciras,,"1,81",-
+,Juan José Pérez,Striker,Centre-Forward,"Apr 25, 1992 ",32,['Spain'],Spain,Los Barrios,,,-
+99,Cristian Gilés,Striker,Centre-Forward,"Oct 18, 1992 ",31,['Spain'],Spain,Pamplona,LW   RW,"1,81",-
+,Diego Pantoja,Striker,Centre-Forward,"May 22, 1992 ",32,['Spain'],Spain,Badajoz,,"1,90",-
+22,Rodrigo Alonso,Striker,Centre-Forward,"Apr 9, 1992 ",32,['Spain'],Spain,Ponferrada,,,-
+,David Barca,Striker,Centre-Forward,"Sep 24, 1992 ",31,['Spain'],Spain,Madrid,,,-
+,Guti,Striker,Centre-Forward,"Jul 14, 1992 ",32,['Spain'],Spain,Burgos,,,-
+,Cristian Píriz,Striker,Centre-Forward,"Aug 25, 1992 ",32,['Spain'],Spain,Zamora,,"1,83",-
+,Fran Cortés,Striker,Centre-Forward,"Jun 26, 1992 ",32,['Spain'],Spain,Cartagena,RW   LW,"1,85",-
+10,Luismi,Striker,Centre-Forward,"Apr 22, 1992 ",32,['Spain'],Spain,Vigo,RW   LW,,-
+9,Jairo Cárcaba,Striker,Centre-Forward,"May 27, 1992 ",32,['Spain'],Spain,Gijón,,"1,84",-
+,Sergio Sanz,Striker,Centre-Forward,"Mar 24, 1992 ",32,['Spain'],Spain,Palma de Mallorca,,"1,85",-
+,Cristian Mora,Striker,Centre-Forward,"Sep 2, 1992 ",31,['Spain'],Spain,Madrid,,,-
+,Quique Cameo,Striker,Centre-Forward,"May 2, 1992 ",32,['Spain'],Spain,Zaragoza,,,-
+11,Manu Dimas,Striker,Centre-Forward,"Apr 18, 1992 ",32,['Spain'],Spain,Las Palmas de Gran Canaria,,,-
+,Rafa Pérez,Striker,Centre-Forward,"Jan 24, 1992 ",32,['Spain'],Spain,Salceda de Caselas,RW   LW,,-
+,Víctor Rodríguez,Striker,Centre-Forward,"Oct 30, 1992 ",31,['Spain'],Spain,Las Palmas de Gran Canaria,,"1,88",-
+,Juan Esnáider,Striker,Centre-Forward,"Jan 31, 1992 ",32,"['Spain', 'Argentina']",Spain,Madrid,RW,"1,83",-
+,Mikel Uriarte,Striker,Centre-Forward,"Oct 30, 1992 ",31,['Spain'],Spain,Elda,,"1,86",-
+,Alberto Requena,Striker,Centre-Forward,"Feb 6, 1992 ",32,['Spain'],Spain,Elche,,"1,86",-
+,Vicente Caballero,Striker,Centre-Forward,"Sep 11, 1992 ",31,['Spain'],Spain,Cebreros,,"1,89",-
+10,Cristian García,Striker,Centre-Forward,"Jun 1, 1992 ",32,['Spain'],Spain,Oviedo,,,-
+,Tito,Striker,Centre-Forward,"Mar 13, 1992 ",32,['Spain'],Spain,Mallorca,,"1,73",-
+15,Ito,Striker,Centre-Forward,"Apr 21, 1992 ",32,['Spain'],Spain,Avilés,RW   LW,"1,80",-
+,Carlos Contreras,Striker,Centre-Forward,"Nov 28, 1992 ",31,['Spain'],Spain,Les Roquetes,LW   RW,,-
+,Carlos Esteve,Striker,Centre-Forward,"Jan 9, 1992 ",32,['Spain'],Spain,Castellón de la Plana,,"1,83",-
+,Diego Vicedo,Striker,Centre-Forward,"Mar 6, 1992 ",32,['Spain'],Spain,Alcoi,,,-
+9,Iván Argos,Striker,Centre-Forward,"Feb 3, 1992 ",32,['Spain'],Spain,Isla (Cantabria),,"1,85",-
+,Alejandro Borrueco,Striker,Centre-Forward,"Jun 20, 1992 ",32,['Spain'],Spain,Écija,,"1,72",-
+,Parri,Striker,Centre-Forward,"Jan 16, 1992 ",32,['Spain'],Spain,Badajoz,SS,"1,80",-
+,Juanfran,Striker,Centre-Forward,"Feb 13, 1992 ",32,['Spain'],Spain,Villanueva del Río y Minas (Sevilla),,"1,80",-
+,Dani Gómez,Striker,Centre-Forward,"Jun 15, 1992 ",32,['Spain'],Spain,La Unión,,"1,82",-
+9,Gorka Luariz,Striker,Centre-Forward,"Dec 20, 1992 ",31,"['Equatorial Guinea', 'Spain']",Spain,Zaragoza,,"1,80",-
+,William Guillén,Striker,Centre-Forward,"Jan 7, 1992 ",32,['Spain'],Spain,Santa Cruz de Tenerife,LW,"1,76",-
+,Mauro Melo,Striker,Centre-Forward,"Feb 17, 1992 ",32,['Spain'],Spain,Gandia,,"1,76",-
+,Sergi Moreno,Striker,Centre-Forward,"May 28, 1992 ",32,['Spain'],Spain,Tarragona,,,-
+,Patriot Hajdinaj-Caballero,Striker,Centre-Forward,N/A ,32,"['Kosovo', 'Spain']",Spain,Torremolinos-Málaga,RW   LW,"1,73",-
+,Asier Salgado,Striker,Centre-Forward,"Feb 26, 1992 ",32,['Spain'],Spain,Altsasu,SS,,-
+,Guillermo Méndez,Striker,Centre-Forward,"Jan 31, 1992 ",32,['Spain'],Spain,San Esteban de Pravia,,"1,77",-
+7,Borja Iglesias,Striker,Centre-Forward,"Jan 17, 1993 ",31,['Spain'],Spain,Santiago de Compostela,,"1,87",€5.00m
+80,Loren Morón,Striker,Centre-Forward,"Dec 30, 1993 ",30,['Spain'],Spain,Marbella,,"1,85",€3.00m
+19,Kenan Kodro,Striker,Centre-Forward,"Aug 19, 1993 ",31,"['Bosnia-Herzegovina', 'Spain']",Spain,Donostia-San Sebastián,LW,"1,88",€1.20m
+11,Jesús Jiménez,Striker,Centre-Forward,"Nov 5, 1993 ",30,['Spain'],Spain,Leganés,AM   LW,"1,83",€900k
+11,Youssef Ezzejjari,Striker,Centre-Forward,"May 10, 1993 ",31,"['Spain', 'Morocco']",Spain,Santa Coloma de Gramanet,,"1,85",€300k
+9,Caye Quintana,Striker,Centre-Forward,"Dec 20, 1993 ",30,['Spain'],Spain,Huelva,,"1,80",€250k
+,Iñigo Orozco,Striker,Centre-Forward,"Jul 16, 1993 ",31,['Spain'],Spain,San Sebastián,RW,"1,93",€200k
+,Claudio Medina,Striker,Centre-Forward,"Sep 4, 1993 ",30,['Spain'],Spain,León,,"1,86",€200k
+9,Mika,Striker,Centre-Forward,"Mar 18, 1993 ",31,['Spain'],Spain,Santander,LW   SS,"1,77",€200k
+9,Ernest Forgàs,Striker,Centre-Forward,"Jul 20, 1993 ",31,['Spain'],Spain,Barcelona,,"1,88",€150k
+,Ian González,Striker,Centre-Forward,"Feb 11, 1993 ",31,['Spain'],Spain,Madrid,,"1,93",€150k
+7,Sergio Mendigutxia,Striker,Centre-Forward,"Jun 12, 1993 ",31,['Spain'],Spain,Avilés,,"1,83",€150k
+,Mikel Bueno,Striker,Centre-Forward,"Dec 24, 1993 ",30,['Spain'],Spain,Vitoria-Gasteiz,SS,"1,85",€50k
+9,Paco Alcácer,Striker,Centre-Forward,"Aug 30, 1993 ",30,['Spain'],Spain,Torrent,LW   RW,"1,75",€5.00m
+,Mariano Díaz,Striker,Centre-Forward,"Aug 1, 1993 ",31,"['Dominican Republic', 'Spain']",Spain,Premià de Mar,,"1,80",€1.50m
+9,Higinio Marín,Striker,Centre-Forward,"Oct 19, 1993 ",30,['Spain'],Spain,Calasparra,,"1,84",€1.00m
+10,Jefté Betancor,Striker,Centre-Forward,"Jul 6, 1993 ",31,['Spain'],Spain,Las Palmas de Gran Canaria,AM   LW,"1,86",€750k
+9,Guillermo Fernández,Striker,Centre-Forward,"May 23, 1993 ",31,['Spain'],Spain,Bilbao,,"1,81",€300k
+17,Roni,Striker,Centre-Forward,"Aug 2, 1993 ",31,['Spain'],Spain,Oviedo,SS,"1,83",€225k
+9,Álvaro Sánchez,Striker,Centre-Forward,"May 7, 1993 ",31,['Spain'],Spain,Madrid,,"1,85",€200k
+,Koldo Obieta,Striker,Centre-Forward,"Oct 8, 1993 ",30,['Spain'],Spain,Gernika,,"1,87",€200k
+17,Primo,Striker,Centre-Forward,"Jun 24, 1993 ",31,['Spain'],Spain,San Pantaleón de Aras,,"1,78",€150k
+7,Nuha Marong,Striker,Centre-Forward,"Jun 16, 1993 ",31,"['The Gambia', 'Spain']",Spain,Santa Coloma de Farners,,"1,93",€150k
+7,Rubén Solano,Striker,Centre-Forward,"Jan 19, 1993 ",31,['Spain'],Spain,Alicante,,"1,81",€150k
+,Xabi Cortezón,Striker,Centre-Forward,"Mar 24, 1993 ",31,['Spain'],Spain,Bilbao,,"1,90",€100k
+,Iago Beceiro,Striker,Centre-Forward,"Mar 15, 1993 ",31,['Spain'],Spain,A Coruña,,"1,84",€50k
+9,Javier Orodea,Striker,Centre-Forward,"Nov 15, 1993 ",30,['Spain'],Spain,Nájera,SS,"1,81",€25k
+,Casti,Striker,Centre-Forward,"Dec 15, 1993 ",30,['Spain'],Spain,Elda,,,-
+,Jopi,Striker,Centre-Forward,"Oct 21, 1993 ",30,['Spain'],Spain,Jódar,,,-
+,Joni Magisano,Striker,Centre-Forward,"Sep 2, 1993 ",30,['Spain'],Spain,Carballeda de Avia,RW,,-
+20,Luis Delgado,Striker,Centre-Forward,"Jul 7, 1993 ",31,['Spain'],Spain,Malpartida de Plasencia,,,-
+19,Javi López,Striker,Centre-Forward,"Dec 12, 1993 ",30,['Spain'],Spain,Mutilva,,,-
+,Óscar García,Striker,Centre-Forward,"Sep 30, 1993 ",30,['Spain'],Spain,Albacete,SS,"1,93",-
+10,Carlos Rodríguez,Striker,Centre-Forward,"Jul 18, 1993 ",31,['Spain'],Spain,Murcia,,"1,74",-
+18,Santi Fernández,Striker,Centre-Forward,"Oct 18, 1993 ",30,['Spain'],Spain,Navia,,"1,85",-
+,Juanma Barbero,Striker,Centre-Forward,"Dec 22, 1993 ",30,['Spain'],Spain,Plasencia,,,-
+,Sidi Mahamud Buna,Striker,Centre-Forward,"May 5, 1993 ",31,['Spain'],Spain,,,"1,82",-
+,Andrés Espada,Striker,Centre-Forward,"Jun 6, 1993 ",31,['Spain'],Spain,Ginés,,,-
+11,Pirri,Striker,Centre-Forward,"Nov 9, 1993 ",30,['Spain'],Spain,Icod de los Vinos,LW,,€25k
+77,Crístofer Rolín,Striker,Centre-Forward,"Sep 3, 1993 ",30,"['Equatorial Guinea', 'Spain']",Spain,Alcalá de Henares,,"1,83",€10k
+11,Juan Monroy,Striker,Centre-Forward,"Apr 1, 1993 ",31,['Spain'],Spain,Badajoz,,,-
+,Cristian Coll,Striker,Centre-Forward,"Jul 30, 1993 ",31,['Spain'],Spain,Murcia,,"1,80",-
+,Churre,Striker,Centre-Forward,"Nov 3, 1993 ",30,['Spain'],Spain,Marbella,,"1,71",-
+,Javi Urrutia,Striker,Centre-Forward,"Oct 20, 1993 ",30,['Spain'],Spain,Elizondo,,,-
+9,Nacho Navajas,Striker,Centre-Forward,"Jul 31, 1993 ",31,['Spain'],Spain,,,"1,75",-
+,Iago Blanco,Striker,Centre-Forward,"Nov 27, 1993 ",30,['Spain'],Spain,A Coruña,,,-
+,Nono,Striker,Centre-Forward,"Nov 3, 1993 ",30,['Spain'],Spain,,,"1,80",-
+9,Javi Pazos,Striker,Centre-Forward,"Mar 21, 1993 ",31,['Spain'],Spain,Marín,SS,,-
+,Antonio Cerezo,Striker,Centre-Forward,"Aug 20, 1993 ",31,['Spain'],Spain,Manilva,,,-
+,Marc Vilajosana,Striker,Centre-Forward,"Jan 3, 1993 ",31,['Spain'],Spain,Ullastrell,,,-
+,Alberto Rodriguez,Striker,Centre-Forward,"Feb 25, 1993 ",31,['Spain'],Spain,Elche,RW,,-
+,Jorge García,Striker,Centre-Forward,"Oct 13, 1993 ",30,['Spain'],Spain,,SS,"1,82",-
+,Dani Carballo,Striker,Centre-Forward,"Jun 6, 1993 ",31,['Spain'],Spain,Arona (Tenerife),,,-
+,Joan Salvá,Striker,Centre-Forward,"Aug 24, 1993 ",31,['Spain'],Spain,Palma de Mallorca,,,-
+,Diego Buitrago,Striker,Centre-Forward,"Apr 8, 1993 ",31,['Spain'],Spain,Daimiel,,"1,89",-
+,David López,Striker,Centre-Forward,"Dec 8, 1993 ",30,['Spain'],Spain,Valencia,,"1,69",-
+11,Borja Mir,Striker,Centre-Forward,"Sep 9, 1993 ",30,['Spain'],Spain,Elche,,,-
+,Cayetano,Striker,Centre-Forward,"Jan 22, 1993 ",31,['Spain'],Spain,Mula,,"1,80",-
+,Juan Sampedro,Striker,Centre-Forward,"Sep 17, 1993 ",30,['Spain'],Spain,Palma de Mallorca,,,-
+,Samuel Pérez,Striker,Centre-Forward,"Jan 12, 1993 ",31,['Spain'],Spain,San Fernando,,"1,79",-
+,Carlos Paramio,Striker,Centre-Forward,"Jul 27, 1993 ",31,['Spain'],Spain,La Fresneda,LW,,-
+,Carlos Hernando,Striker,Centre-Forward,"Apr 24, 1993 ",31,['Spain'],Spain,Madrid,,,-
+9,Iker Hurtado,Striker,Centre-Forward,"Oct 27, 1993 ",30,['Spain'],Spain,Lalín,,"1,78",-
+,Jesús Evuy,Striker,Centre-Forward,"Apr 20, 1993 ",31,"['Spain', 'Equatorial Guinea']",Spain,Móstoles,RW   LW,"1,92",-
+,Juan Manuel Balsalobre,Striker,Centre-Forward,"Jun 24, 1993 ",31,['Spain'],Spain,Los Alcázares,,,-
+,José Cazorla,Striker,Centre-Forward,"Jan 30, 1993 ",31,['Spain'],Spain,Ventas de Zafarraya (Granada),,"1,75",-
+,Xavi Civil,Striker,Centre-Forward,"Sep 16, 1993 ",30,['Spain'],Spain,Barcelona,,,-
+,David Cruz,Striker,Centre-Forward,"Jan 1, 1993 ",31,['Spain'],Spain,Mérida,,,-
+,Tabala,Striker,Centre-Forward,"Feb 10, 1993 ",31,['Spain'],Spain,Alicante,,"1,80",-
+,Miquel Ripoll,Striker,Centre-Forward,"Jun 15, 1993 ",31,['Spain'],Spain,Alcúdia,RW,"1,76",-
+,Rubén Díaz,Striker,Centre-Forward,"Dec 11, 1993 ",30,['Spain'],Spain,Motril,,"1,85",-
+,Jaume Vidal,Striker,Centre-Forward,"Feb 24, 1993 ",31,['Spain'],Spain,Palma de Mallorca,,"1,90",-
+,Crístofer Martín,Striker,Centre-Forward,"Jul 13, 1993 ",31,['Spain'],Spain,Sonseca (Toledo),RW   LW,"1,78",-
+,David González,Striker,Centre-Forward,"May 12, 1993 ",31,['Spain'],Spain,Ribaforada,,"1,79",-
+,Glory Monday Ajayi,Striker,Centre-Forward,"Jan 20, 1993 ",31,"['Spain', 'Nigeria']",Spain,Sevilla,LW,"1,80",-
+11,Rubén Peña,Striker,Centre-Forward,"Nov 8, 1993 ",30,['Spain'],Spain,Logroño,,"1,85",-
+9,Adrián Güemes,Striker,Centre-Forward,"Feb 10, 1993 ",31,['Spain'],Spain,Barakaldo,RW   LW,"1,77",-
+,Lolo Plá,Striker,Centre-Forward,"Apr 7, 1993 ",31,['Spain'],Spain,Mérida,RW   LW,"1,80",-
+,Álex Rubio,Striker,Centre-Forward,"Jul 23, 1993 ",31,['Spain'],Spain,San Fernando,,"1,85",-
+,Casi,Striker,Centre-Forward,"Jun 8, 1993 ",31,['Spain'],Spain,Jumilla,,"1,84",-
+,Álex López,Striker,Centre-Forward,"Sep 18, 1993 ",30,['Spain'],Spain,Barcelona,,"1,86",-
+,Jairo Morillas,Striker,Centre-Forward,"Jul 2, 1993 ",31,['Spain'],Spain,Gilena,,"1,87",-
+,Pedro Mérida,Striker,Centre-Forward,"Nov 8, 1993 ",30,['Spain'],Spain,Fuengirola,,"1,90",-
+,Javier Pereda,Striker,Centre-Forward,"Apr 22, 1993 ",31,['Spain'],Spain,Tanos,,"1,82",-
+,Antonio Jalao,Striker,Centre-Forward,"Jan 31, 1993 ",31,['Spain'],Spain,Lucena,,"1,74",-
+,Rubo,Striker,Centre-Forward,"Jun 15, 1993 ",31,['Spain'],Spain,Madrid,,"1,84",-
+,Javi Hernández,Striker,Centre-Forward,"May 20, 1993 ",31,['Spain'],Spain,Salamanca,,"1,81",-
+,Jorge Ortí,Striker,Centre-Forward,"Apr 28, 1993 ",31,['Spain'],Spain,Zaragoza,RW   LW,"1,80",-
+9,Raúl de Tomás,Striker,Centre-Forward,"Oct 17, 1994 ",29,"['Spain', 'Dominican Republic']",Spain,Madrid,,"1,80",€2.00m
+19,Edu Espiau,Striker,Centre-Forward,"Dec 19, 1994 ",29,['Spain'],Spain,Las Palmas de Gran Canaria,,"1,85",€600k
+20,Adrián Dalmau,Striker,Centre-Forward,"Mar 23, 1994 ",30,['Spain'],Spain,Palma de Mallorca,,"1,82",€350k
+9,Rubén Sánchez,Striker,Centre-Forward,"Nov 25, 1994 ",29,['Spain'],Spain,Sonseca (Toledo),RW   LW,"1,85",€300k
+9,Kaxe,Striker,Centre-Forward,"Jan 21, 1994 ",30,['Spain'],Spain,Azpeitia,SS   RW,"1,83",€150k
+23,Juan Delgado,Striker,Centre-Forward,"Jan 3, 1994 ",30,['Spain'],Spain,Elda,,"1,83",€150k
+,Marco Siverio,Striker,Centre-Forward,"Oct 4, 1994 ",29,['Spain'],Spain,El Rosario,,"1,84",€100k
+,Javi Boix Garcia,Striker,Centre-Forward,"Jan 4, 1994 ",30,['Spain'],Spain,Valencia,LW   RW,"1,87",€75k
+,Germán Cortés,Striker,Centre-Forward,"Feb 3, 1994 ",30,['Spain'],Spain,La Linea de la Concepcion,,"1,86",€25k
+9,Falu Aranda,Striker,Centre-Forward,"Jan 5, 1994 ",30,['Spain'],Spain,Málaga,,"1,87",€25k
+,Héctor Gutiérrez,Striker,Centre-Forward,"Apr 22, 1994 ",30,['Spain'],Spain,Santander,,"1,83",-
+,Borja Pimentel,Striker,Centre-Forward,"Jul 27, 1994 ",30,['Spain'],Spain,Girona,RW,"1,74",-
+,Leandro Izquierdo,Striker,Centre-Forward,"Apr 13, 1994 ",30,['Spain'],Spain,Almendralejo,LW   RW,,-
+,Gerard Deulofeu,Striker,Centre-Forward,"Mar 13, 1994 ",30,['Spain'],Spain,Riudarenes,LW   RW,"1,77",€1.00m
+9,Jordi Sánchez,Striker,Centre-Forward,"Nov 11, 1994 ",29,['Spain'],Spain,Barcelona,,"1,90",€500k
+11,José Ángel Carrillo,Striker,Centre-Forward,"Jan 7, 1994 ",30,"['Spain', 'Philippines']",Spain,Murcia,RW   LW,"1,91",€300k
+7,Rodrigo Escudero,Striker,Centre-Forward,"Mar 31, 1994 ",30,['Spain'],Spain,Simancas,SS   LW,"1,81",€250k
+9,Kike Gómez,Striker,Centre-Forward,"May 4, 1994 ",30,"['Spain', 'Philippines']",Spain,Sevilla,,"1,70",€150k
+9,Carlos Tobar,Striker,Centre-Forward,"Feb 2, 1994 ",30,['Spain'],Spain,Burgos,,,€100k
+9,Iker Hernández,Striker,Centre-Forward,"Apr 8, 1994 ",30,['Spain'],Spain,Urnieta,,"1,81",€100k
+,Imanol Etxeberría,Striker,Centre-Forward,"Dec 9, 1994 ",29,['Spain'],Spain,Arróniz,,"1,81",€50k
+,Imanol Arellano,Striker,Centre-Forward,"Aug 2, 1994 ",30,['Spain'],Spain,Mutilva,,,€25k
+11,Mikel Prieto,Striker,Centre-Forward,"Dec 21, 1994 ",29,['Spain'],Spain,Palencia,LW   RW,"1,85",-
+,Gonzalo Leal,Striker,Centre-Forward,"Oct 1, 1994 ",29,['Spain'],Spain,Valladolid,,,-
+9,Guille Martínez,Striker,Centre-Forward,"Apr 24, 1994 ",30,['Spain'],Spain,Crevillente,,,-
+,Carlos Capelo,Striker,Centre-Forward,"Apr 15, 1994 ",30,['Spain'],Spain,Villa de don Fadrique,,,-
+10,Iván Roldán,Striker,Centre-Forward,"Jul 20, 1994 ",30,['Spain'],Spain,Miguelturra,LW   RW,,-
+,Antonio Revidiego,Striker,Centre-Forward,"Jan 11, 1994 ",30,['Spain'],Spain,Zamora,,"1,87",-
+,Ricky Rojo,Striker,Centre-Forward,"Mar 3, 1994 ",30,['Spain'],Spain,Estepona,,"1,76",-
+,Miki,Striker,Centre-Forward,"Feb 17, 1994 ",30,['Spain'],Spain,Córdoba,,"1,78",-
+,Joan Roldán,Striker,Centre-Forward,"Mar 19, 1994 ",30,['Spain'],Spain,Terrassa,,"1,87",-
+,Kevin Ruiz,Striker,Centre-Forward,"Jun 6, 1994 ",30,['Spain'],Spain,La Linea de la Concepcion,,,-
+20,Cristo García,Striker,Centre-Forward,"Aug 27, 1994 ",29,['Spain'],Spain,Ocaña (Toledo),,"1,79",-
+,Chiño,Striker,Centre-Forward,"Apr 13, 1994 ",30,"['Spain', 'Venezuela']",Spain,Santiago de Compostela,,,-
+,Alexander Satrústegui,Striker,Centre-Forward,"Jan 1, 1994 ",30,['Spain'],Spain,Donostia,RW,"1,83",-
+7,Iván Limón,Striker,Centre-Forward,"Jul 22, 1994 ",30,['Spain'],Spain,Fuencaliente,LW,,-
+9,Fernando Cuadrado,Striker,Centre-Forward,"Jan 19, 1994 ",30,['Spain'],Spain,Lugo,,"1,83",-
+,José Manuel Molina,Striker,Centre-Forward,"Mar 31, 1994 ",30,['Spain'],Spain,Jaén,,,-
+,Roberto Morales,Striker,Centre-Forward,"Jul 5, 1994 ",30,['Spain'],Spain,Sanlúcar de Barrameda,,"1,78",-
+,Nacho López,Striker,Centre-Forward,"Feb 3, 1994 ",30,['Spain'],Spain,Alcantarilla,RW,"1,83",-
+,Samuel Goñi,Striker,Centre-Forward,"Feb 10, 1994 ",30,['Spain'],Spain,Marcilla,LW   RW,"1,73",-
+,Juanito Bazo,Striker,Centre-Forward,"Dec 20, 1994 ",29,['Spain'],Spain,El Puerto de Santa María,,,-
+,Brian Triviño,Striker,Centre-Forward,"Aug 11, 1994 ",30,['Spain'],Spain,Valencia,,"1,79",-
+,Guillermo Delgado,Striker,Centre-Forward,"Jul 7, 1994 ",30,['Spain'],Spain,Madrid,,"1,73",-
+,Javi Trujillo,Striker,Centre-Forward,"Feb 25, 1994 ",30,['Spain'],Spain,Las Palmas de Gran Canaria,,,-
+,Manolo Picón,Striker,Centre-Forward,"Oct 5, 1994 ",29,['Spain'],Spain,Málaga,,"1,72",-
+,Iñigo Pradera,Striker,Centre-Forward,"Apr 26, 1994 ",30,['Spain'],Spain,Mallabia,,"1,80",-
+,Jaime Soto,Striker,Centre-Forward,"Jan 7, 1994 ",30,['Spain'],Spain,Sevilla,,,-
+,Daniel Suárez,Striker,Centre-Forward,"Jul 25, 1994 ",30,['Spain'],Spain,Las Palmas de Gran Canaria,,,-
+,Álvaro Colino,Striker,Centre-Forward,"Oct 7, 1994 ",29,['Spain'],Spain,Valladolid,,"1,82",-
+,Álvaro Fernández,Striker,Centre-Forward,"Apr 3, 1994 ",30,['Spain'],Spain,Fuengirola,,,-
+,Álvaro Rodríguez,Striker,Centre-Forward,"Jan 23, 1994 ",30,['Spain'],Spain,Las Palmas de Gran Canaria,,,-
+,Dario Soucase,Striker,Centre-Forward,"Jun 28, 1994 ",30,['Spain'],Spain,Valencia,,"1,84",-
+,Juan Delgado,Striker,Centre-Forward,"Jun 26, 1994 ",30,['Spain'],Spain,Écija,,"1,86",-
+,Adrián Wojcik,Striker,Centre-Forward,"Apr 26, 1994 ",30,"['Poland', 'Spain']",Spain,Benalmádena,,"1,84",-
+,Hugo Sánchez,Striker,Centre-Forward,"Jan 22, 1994 ",30,['Spain'],Spain,,SS,"1,75",-
+,Víctor Manquillo,Striker,Centre-Forward,"May 5, 1994 ",30,['Spain'],Spain,Madrid,,,-
+,Daniel Mauri,Striker,Centre-Forward,"Mar 23, 1994 ",30,['Spain'],Spain,Fuengirola,,"1,75",-
+,Yeray El-Arass,Striker,Centre-Forward,"Aug 12, 1994 ",30,['Spain'],Spain,Barcelona,,"1,78",-
+,Txema Pan,Striker,Centre-Forward,"Jun 7, 1994 ",30,['Spain'],Spain,Vitoria-Gasteiz,,"1,90",-
+,Diego Abad,Striker,Centre-Forward,"Apr 15, 1994 ",30,['Spain'],Spain,Burgos,,,-
+,Darío Guti,Striker,Centre-Forward,"Sep 27, 1994 ",29,['Spain'],Spain,Vícar,RW   LW,"1,77",-
+18,Pablo Aguilera,Striker,Centre-Forward,"Jun 2, 1994 ",30,['Spain'],Spain,Los Palacios (Sevilla),,"1,87",-
+,Jagoba Borja,Striker,Centre-Forward,"Aug 1, 1994 ",30,['Spain'],Spain,Bilbao,,,-
+,Álex García,Striker,Centre-Forward,"May 6, 1994 ",30,['Spain'],Spain,Avilés,SS   RW,"1,79",-
+,Gonzalo Suárez,Striker,Centre-Forward,"Apr 22, 1994 ",30,['Spain'],Spain,Sevilla,,"1,84",-
+,Fran Pastor,Striker,Centre-Forward,"Jan 6, 1994 ",30,['Spain'],Spain,Torrejón de Ardoz,LW   RW,"1,68",-
+18,Jon Bautista,Striker,Centre-Forward,"Jul 3, 1995 ",29,['Spain'],Spain,Mahón,,"1,80",€2.20m
+71,Brandon Thomas,Striker,Centre-Forward,"Feb 4, 1995 ",29,"['Spain', 'England']",Spain,Santanyí,SS   LW,"1,73",€1.80m
+9,Marc Cardona,Striker,Centre-Forward,"Jul 8, 1995 ",29,['Spain'],Spain,Lleida,LW   RW,"1,82",€1.40m
+21,Alberto Quiles,Striker,Centre-Forward,"Apr 27, 1995 ",29,['Spain'],Spain,Huelva,RW,"1,88",€1.00m
+25,Sergio Castel,Striker,Centre-Forward,"Feb 22, 1995 ",29,['Spain'],Spain,Las Rozas,SS,"1,88",€800k
+,Sekou Gassama,Striker,Centre-Forward,"May 6, 1995 ",29,"['Senegal', 'Spain']",Spain,Granollers,,"1,89",€500k
+23,Dani Romera,Striker,Centre-Forward,"Aug 23, 1995 ",29,['Spain'],Spain,Almería,LW   RW,"1,72",€300k
+9,Aythami Perera,Striker,Centre-Forward,"Jun 5, 1995 ",29,['Spain'],Spain,Telde,,"1,87",€250k
+22,Agüero,Striker,Centre-Forward,"Oct 24, 1995 ",28,['Spain'],Spain,Málaga,RW   LW,"1,75",€200k
+22,Gorka Santamaría,Striker,Centre-Forward,"Jul 3, 1995 ",29,['Spain'],Spain,Bilbao,,"1,76",€200k
+9,Christian Dieste,Striker,Centre-Forward,"Sep 4, 1995 ",28,['Spain'],Spain,Zaragoza,LW   SS,"1,85",€150k
+,Dopi,Striker,Centre-Forward,"Mar 18, 1995 ",29,['Spain'],Spain,Erandio,,"1,82",€150k
+9,Labra,Striker,Centre-Forward,"Jun 24, 1995 ",29,['Spain'],Spain,La Línea de la Concepción,,"1,79",€100k
+,Héctor Hernández,Striker,Centre-Forward,"Sep 14, 1995 ",28,['Spain'],Spain,Las Palmas de Gran Canaria,RW   LW,"1,80",€2.00m
+19,Sandro Ramírez,Striker,Centre-Forward,"Jul 9, 1995 ",29,['Spain'],Spain,Las Palmas de Gran Canaria,LW   RW,"1,74",€1.50m
+77,Keita Baldé,Striker,Centre-Forward,"Mar 8, 1995 ",29,"['Senegal', 'Spain']",Spain,Arbùcies,RW   LW,"1,78",€1.20m
+,Santi Mina,Striker,Centre-Forward,"Dec 7, 1995 ",28,['Spain'],Spain,Vigo,RW   LW,"1,81",€1.00m
+19,Elvir Koljic,Striker,Centre-Forward,"Jul 8, 1995 ",29,['Bosnia-Herzegovina'],Spain,Valladolid,,"1,94",€800k
+9,Juan Muñoz,Striker,Centre-Forward,"Nov 12, 1995 ",28,['Spain'],Spain,Utrera,,"1,80",€350k
+9,Javi Delgado,Striker,Centre-Forward,"Dec 28, 1995 ",28,['Spain'],Spain,Cabezón de la Sal,LW,"1,88",€250k
+23,José Enrique,Striker,Centre-Forward,"Aug 26, 1995 ",28,['Spain'],Spain,Almería,,"1,86",€200k
+,Mikel Pradera,Striker,Centre-Forward,"Oct 12, 1995 ",28,['Spain'],Spain,Zaldivar,,"1,90",€200k
+9,Mikel Arzalluz,Striker,Centre-Forward,"Jan 10, 1995 ",29,['Spain'],Spain,Azkoitia,LW,"1,85",€150k
+9,Asier Benito,Striker,Centre-Forward,"Feb 11, 1995 ",29,['Spain'],Spain,Amurrio,RW,"1,83",€150k
+7,Jesús Sillero,Striker,Centre-Forward,"Dec 28, 1995 ",28,['Spain'],Spain,Sevilla,RW   LW,"1,79",€150k
+,Rubio,Striker,Centre-Forward,"Jun 24, 1995 ",29,['Spain'],Spain,Alicante,LW,"1,85",€100k
+6,Javi Anaya,Striker,Centre-Forward,"Jul 12, 1995 ",29,['Spain'],Spain,Algeciras,CB,"1,80",€25k
+,Niki Díaz,Striker,Centre-Forward,"Aug 19, 1995 ",29,['Spain'],Spain,Motril,,,-
+,Manu Vilán,Striker,Centre-Forward,"Mar 7, 1995 ",29,['Spain'],Spain,Nigrán,,,-
+,Mario González,Striker,Centre-Forward,"Jul 19, 1995 ",29,['Spain'],Spain,,SS,,-
+9,Joel Paredes,Striker,Centre-Forward,"May 3, 1995 ",29,['Spain'],Spain,Barcelona,,"1,79",-
+,Diego Polo,Striker,Centre-Forward,"Mar 26, 1995 ",29,['Spain'],Spain,Avilés,,"1,80",-
+,Luis Carlos Martínez,Striker,Centre-Forward,"Jun 17, 1995 ",29,['Spain'],Spain,Madrid,,"1,91",-
+,Javier Salinas,Striker,Centre-Forward,"Jun 11, 1995 ",29,['Spain'],Spain,Murcia,,,-
+,Ángelo Sosa,Striker,Centre-Forward,"Oct 25, 1995 ",28,['Spain'],Spain,San Bartolome de Tirajana,LW,"1,87",-
+,Eric Sosa Clavero,Striker,Centre-Forward,"Nov 4, 1995 ",28,['Spain'],Spain,Madrid,LW   RW,,-
+20,Denzell Mora,Striker,Centre-Forward,"Jan 6, 1995 ",29,['Spain'],Spain,Santa Cruz de Tenerife,SS   RW,"1,88",-
+,Pablo Sanz,Striker,Centre-Forward,"Apr 9, 1995 ",29,['Spain'],Spain,Soria,LW   RW,"1,84",-
+11,Javi Forján,Striker,Centre-Forward,"May 5, 1995 ",29,['Spain'],Spain,La Barca de la Florida,,"1,78",€50k
+10,Iván Martín,Striker,Centre-Forward,"Mar 4, 1995 ",29,['Spain'],Spain,Villaverde del Río,SS,"1,85",€25k
+11,Adrián Otero,Striker,Centre-Forward,"Mar 29, 1995 ",29,['Spain'],Spain,Arteixo,LW   RW,,-
+32,Mikel Abando,Striker,Centre-Forward,"Mar 22, 1995 ",29,['Spain'],Spain,Bilbao,LW   RW,"1,90",-
+19,Sanku Jabbie,Striker,Centre-Forward,"Jun 2, 1995 ",29,"['The Gambia', 'Spain']",Spain,Girona,,,-
+,Miguel Ángel Ballesta,Striker,Centre-Forward,"Oct 10, 1995 ",28,['Spain'],Spain,Murcia,,"1,85",-
+,Sergi Monsó,Striker,Centre-Forward,"Feb 26, 1995 ",29,['Spain'],Spain,Barcelona,,,-
+,Javi Heranz,Striker,Centre-Forward,"Apr 26, 1995 ",29,['Spain'],Spain,Guadalajara,RW,"1,90",-
+,Eulogio Vico,Striker,Centre-Forward,"May 4, 1995 ",29,['Spain'],Spain,Peal de Becerro,,,-
+,Basilio Jordán,Striker,Centre-Forward,"May 30, 1995 ",29,['Spain'],Spain,Lorca,,"1,85",-
+,Iván Vidal,Striker,Centre-Forward,"Aug 8, 1995 ",29,['Spain'],Spain,Reus,RW   LW,"1,78",-
+,Juan Ureba,Striker,Centre-Forward,"Aug 10, 1995 ",29,['Spain'],Spain,Conil de la Frontera,,"1,74",-
+,Diego Canty,Striker,Centre-Forward,"Feb 22, 1995 ",29,['Spain'],Spain,Arcos de la Frontera,,,-
+,Jaime Siaj,Striker,Centre-Forward,"Dec 16, 1995 ",28,"['Jordan', 'Spain']",Spain,Madrid,LW,"1,88",-
+,Ibrahim Touali,Striker,Centre-Forward,"Sep 30, 1995 ",28,['Spain'],Spain,Santa Cruz de Tenerife,SS   AM,"1,85",-
+,Martí Just,Striker,Centre-Forward,"Apr 2, 1995 ",29,['Spain'],Spain,Igualada,,,-
+,Diego Merchán,Striker,Centre-Forward,"Jan 5, 1995 ",29,['Spain'],Spain,Córdoba,RW   LW,"1,81",-
+,Borja Acha,Striker,Centre-Forward,"Jan 30, 1995 ",29,['Spain'],Spain,Madrid,,,-
+,Manuel Román,Striker,Centre-Forward,"Aug 2, 1995 ",29,['Spain'],Spain,Chiclana de la Frontera,,"1,67",-
+10,Fran Adéva,Striker,Centre-Forward,"Sep 15, 1995 ",28,['Spain'],Spain,Talavera de la Reina,,"1,80",-
+,Ramón Murillo,Striker,Centre-Forward,"Mar 21, 1995 ",29,['Spain'],Spain,Huesca,SS   RW,"1,75",-
+,Miguel Ángel Lobo,Striker,Centre-Forward,"Mar 1, 1995 ",29,['Spain'],Spain,La Rinconada,,,-
+,Vicente Sánchez,Striker,Centre-Forward,N/A ,29,[],Spain,Navalmoral de La Mata,SS   RW,N/A,-
+,Antonio Ruedas,Striker,Centre-Forward,"Aug 9, 1995 ",29,['Spain'],Spain,Figueres,,,-
+,Nano Mesa,Striker,Centre-Forward,"Feb 5, 1995 ",29,['Spain'],Spain,La Laguna,RW   LW,"1,78",-
+,Gerard Artigas,Striker,Centre-Forward,"Jan 10, 1995 ",29,['Spain'],Spain,Barcelona,LW,"1,82",-
+,Jordi Martínez,Striker,Centre-Forward,"Jan 9, 1995 ",29,['Spain'],Spain,Lleida,SS,"1,80",-
+,Alberto Rodríguez,Striker,Centre-Forward,"Jan 18, 1995 ",29,['Spain'],Spain,El Puerto de Santa María,SS,"1,83",-
+,Jonathan Toledo,Striker,Centre-Forward,"Mar 1, 1995 ",29,['Spain'],Spain,Zaragoza,,,-
+,Germán Marijuán,Striker,Centre-Forward,"Mar 2, 1995 ",29,['Spain'],Spain,Burgos,,,-
+,Víctor Pino,Striker,Centre-Forward,"May 3, 1995 ",29,['Spain'],Spain,Castellón,,"1,74",-
+,Ioritz Feijoo,Striker,Centre-Forward,"Nov 22, 1995 ",28,['Spain'],Spain,Getxo,,"1,75",-
+,Francisco Ruiz Plata,Striker,Centre-Forward,N/A ,28,[],Spain,Albolote,SS,N/A,-
+18,Valentín Prieto,Striker,Centre-Forward,"Jul 1, 1995 ",29,['Spain'],Spain,León,SS   LW,"1,79",-
+,Augusto Garrido,Striker,Centre-Forward,N/A ,29,[],Spain,Armilla,SS   RW,N/A,-
+,Joel Méndez,Striker,Centre-Forward,"May 1, 1995 ",29,['Spain'],Spain,Sabadell,SS   LW,"1,75",-
+,Sergio Sánchez,Striker,Centre-Forward,"Oct 30, 1995 ",28,['Spain'],Spain,Ansó (Huesca),,"1,86",-
+,Guillermo Torres,Striker,Centre-Forward,"Dec 8, 1995 ",28,['Spain'],Spain,Barcelona,,"1,90",-
+,Pirulo,Striker,Centre-Forward,"Feb 26, 1995 ",29,['Spain'],Spain,Málaga,,"1,86",-
+,Chino,Striker,Centre-Forward,"May 19, 1995 ",29,['Spain'],Spain,Zamora,RW,,-
+,Edu,Striker,Centre-Forward,"Jan 26, 1995 ",29,['Spain'],Spain,Ares,,,-
+9,Álvaro Viña,Striker,Centre-Forward,"Sep 3, 1995 ",28,['Spain'],Spain,Candás,,,-
+,Pepelu Vidal,Striker,Centre-Forward,"Aug 27, 1995 ",28,['Spain'],Spain,Lebrija,,,-
+,Juan Arcas,Striker,Centre-Forward,"Jan 21, 1995 ",29,"['Spain', 'Venezuela']",Spain,Lorca,,"1,81",-
+,Carlos Castro,Striker,Centre-Forward,"Jun 1, 1995 ",29,['Spain'],Spain,Mieres,SS,"1,77",-
+,Adrián Saballs,Striker,Centre-Forward,"Jul 7, 1995 ",29,['Spain'],Spain,Madrid,,,-
+12,Gorka Guruzeta,Striker,Centre-Forward,"Sep 12, 1996 ",27,['Spain'],Spain,Donostia-San Sebastián,,"1,88",€18.00m
+,Mario González,Striker,Centre-Forward,"Feb 25, 1996 ",28,['Spain'],Spain,Villarcayo,RW   LW,"1,83",€2.50m
+28,Marc Gual,Striker,Centre-Forward,"Mar 13, 1996 ",28,['Spain'],Spain,Badalona,AM   RW,"1,86",€1.30m
+7,Christian Borrego,Striker,Centre-Forward,"Oct 5, 1996 ",27,['Spain'],Spain,Madrid,RW   LW,"1,70",€500k
+9,Manu Justo,Striker,Centre-Forward,"Feb 9, 1996 ",28,['Spain'],Spain,Vigo,SS   RW,"1,74",€400k
+21,Carlos López,Striker,Centre-Forward,"Feb 9, 1996 ",28,['Spain'],Spain,Ares,AM   CM,,€300k
+9,Nané García,Striker,Centre-Forward,"Jan 3, 1996 ",28,['Spain'],Spain,Belmez,RW,,€200k
+9,Jack Harper,Striker,Centre-Forward,"Feb 28, 1996 ",28,"['Scotland', 'Spain']",Spain,Málaga,RW   SS,"1,87",€200k
+17,Jacobo Alcalde,Striker,Centre-Forward,"Nov 28, 1996 ",27,['Spain'],Spain,Madrid,,,€150k
+,Dani Muñoz,Striker,Centre-Forward,"Mar 11, 1996 ",28,['Spain'],Spain,Alcalá de Guadaíra,,,€75k
+,Mamadou Tounkara,Striker,Centre-Forward,"Jan 19, 1996 ",28,"['Senegal', 'Spain']",Spain,Blanes,,"1,86",€75k
+9,Berto Arias,Striker,Centre-Forward,"Dec 24, 1996 ",27,['Spain'],Spain,Oviedo,,"1,87",-
+,Aitor Lorá,Striker,Centre-Forward,"Dec 17, 1996 ",27,"['Equatorial Guinea', 'Spain']",Spain,Móstoles,RW   LW,"1,73",-
+10,Erik Expósito,Striker,Centre-Forward,"Jun 23, 1996 ",28,['Spain'],Spain,Santa Cruz de Tenerife,,"1,90",€2.50m
+9,Carlos Fernández,Striker,Centre-Forward,"May 22, 1996 ",28,['Spain'],Spain,Castilleja de Guzmán,RW   SS,"1,85",€1.50m
+9,Jesús de Miguel,Striker,Centre-Forward,"Sep 21, 1996 ",27,['Spain'],Spain,Madrid,,"1,89",€600k
+9,Eneko Jauregi,Striker,Centre-Forward,"Jul 13, 1996 ",28,['Spain'],Spain,Muxika,,"1,84",€500k
+17,Pablo Fernández,Striker,Centre-Forward,"Sep 17, 1996 ",27,['Spain'],Spain,Candás,AM   RW,"1,92",€300k
+19,Adrián Fuentes,Striker,Centre-Forward,"Jul 17, 1996 ",28,['Spain'],Spain,Madrid,RW   SS,"1,86",€200k
+11,Sergio Buenacasa,Striker,Centre-Forward,"Apr 19, 1996 ",28,['Spain'],Spain,Zaragoza,,"1,82",€200k
+11,José Jáquez,Striker,Centre-Forward,"Oct 6, 1996 ",27,"['Dominican Republic', 'Spain']",Spain,Madrid,RW,"1,71",€175k
+,Joan Piera,Striker,Centre-Forward,"Feb 3, 1996 ",28,['Spain'],Spain,Pego,SS,"1,91",€100k
+,Canillas,Striker,Centre-Forward,"Sep 29, 1996 ",27,['Spain'],Spain,Málaga,,"1,88",€75k
+,Aaron Sánchez,Striker,Centre-Forward,"Jun 5, 1996 ",28,['Andorra'],Spain,Salamanca,RW   LW,"1,83",€50k
+9,Pablo Nogueiras,Striker,Centre-Forward,"Nov 19, 1996 ",27,['Spain'],Spain,Vilar de Santos,,,-
+,Rubio,Striker,Centre-Forward,"Jun 24, 1995 ",29,['Spain'],Spain,Alicante,LW,"1,85",€100k
+6,Javi Anaya,Striker,Centre-Forward,"Jul 12, 1995 ",29,['Spain'],Spain,Algeciras,CB,"1,80",€25k
+,Niki Díaz,Striker,Centre-Forward,"Aug 19, 1995 ",29,['Spain'],Spain,Motril,,,-
+,Manu Vilán,Striker,Centre-Forward,"Mar 7, 1995 ",29,['Spain'],Spain,Nigrán,,,-
+,Mario González,Striker,Centre-Forward,"Jul 19, 1995 ",29,['Spain'],Spain,,SS,,-
+9,Joel Paredes,Striker,Centre-Forward,"May 3, 1995 ",29,['Spain'],Spain,Barcelona,,"1,79",-
+,Diego Polo,Striker,Centre-Forward,"Mar 26, 1995 ",29,['Spain'],Spain,Avilés,,"1,80",-
+,Luis Carlos Martínez,Striker,Centre-Forward,"Jun 17, 1995 ",29,['Spain'],Spain,Madrid,,"1,91",-
+,Javier Salinas,Striker,Centre-Forward,"Jun 11, 1995 ",29,['Spain'],Spain,Murcia,,,-
+,Ángelo Sosa,Striker,Centre-Forward,"Oct 25, 1995 ",28,['Spain'],Spain,San Bartolome de Tirajana,LW,"1,87",-
+,Eric Sosa Clavero,Striker,Centre-Forward,"Nov 4, 1995 ",28,['Spain'],Spain,Madrid,LW   RW,,-
+20,Denzell Mora,Striker,Centre-Forward,"Jan 6, 1995 ",29,['Spain'],Spain,Santa Cruz de Tenerife,SS   RW,"1,88",-
+,Pablo Sanz,Striker,Centre-Forward,"Apr 9, 1995 ",29,['Spain'],Spain,Soria,LW   RW,"1,84",-
+11,Javi Forján,Striker,Centre-Forward,"May 5, 1995 ",29,['Spain'],Spain,La Barca de la Florida,,"1,78",€50k
+10,Iván Martín,Striker,Centre-Forward,"Mar 4, 1995 ",29,['Spain'],Spain,Villaverde del Río,SS,"1,85",€25k
+11,Adrián Otero,Striker,Centre-Forward,"Mar 29, 1995 ",29,['Spain'],Spain,Arteixo,LW   RW,,-
+32,Mikel Abando,Striker,Centre-Forward,"Mar 22, 1995 ",29,['Spain'],Spain,Bilbao,LW   RW,"1,90",-
+19,Sanku Jabbie,Striker,Centre-Forward,"Jun 2, 1995 ",29,"['The Gambia', 'Spain']",Spain,Girona,,,-
+,Miguel Ángel Ballesta,Striker,Centre-Forward,"Oct 10, 1995 ",28,['Spain'],Spain,Murcia,,"1,85",-
+,Sergi Monsó,Striker,Centre-Forward,"Feb 26, 1995 ",29,['Spain'],Spain,Barcelona,,,-
+,Javi Heranz,Striker,Centre-Forward,"Apr 26, 1995 ",29,['Spain'],Spain,Guadalajara,RW,"1,90",-
+,Eulogio Vico,Striker,Centre-Forward,"May 4, 1995 ",29,['Spain'],Spain,Peal de Becerro,,,-
+,Basilio Jordán,Striker,Centre-Forward,"May 30, 1995 ",29,['Spain'],Spain,Lorca,,"1,85",-
+,Iván Vidal,Striker,Centre-Forward,"Aug 8, 1995 ",29,['Spain'],Spain,Reus,RW   LW,"1,78",-
+,Juan Ureba,Striker,Centre-Forward,"Aug 10, 1995 ",29,['Spain'],Spain,Conil de la Frontera,,"1,74",-
+,Anderson Cayola,Striker,Centre-Forward,"Sep 16, 1996 ",27,"['Bolivia', 'Spain']",Spain,Barcelona,,,-
+,Juan Fraile,Striker,Centre-Forward,"Jan 4, 1996 ",28,['Spain'],Spain,Valladolid,,"1,96",-
+,Luis Casas,Striker,Centre-Forward,"May 6, 1996 ",28,['Spain'],Spain,La Línea de la Concepción,,"1,88",-
+,Ache,Striker,Centre-Forward,"May 23, 1996 ",28,['Spain'],Spain,,LW   RW,"1,83",-
+,Joserra,Striker,Centre-Forward,"Aug 24, 1996 ",28,['Spain'],Spain,Jaén,,"1,70",-
+,José Sánchez,Striker,Centre-Forward,"Aug 26, 1996 ",27,"['Dominican Republic', 'Spain']",Spain,Almería,,"1,88",-
+,Ángel Lerma,Striker,Centre-Forward,"Mar 25, 1996 ",28,['Spain'],Spain,Salamanca,,,-
+,Manuel Ledesma,Striker,Centre-Forward,"Jan 25, 1996 ",28,['Spain'],Spain,San Roque,,,-
+,Luis Ruiz,Striker,Centre-Forward,"Sep 7, 1996 ",27,['Spain'],Spain,Huelva,,"1,76",-
+9,Salva Moya,Striker,Centre-Forward,"Oct 20, 1996 ",27,['Spain'],Spain,"Tomares, Sevilla",,,-
+8,Jorge Shafa,Striker,Centre-Forward,"May 28, 1996 ",28,['Spain'],Spain,Madrid,,"1,79",-
+,Raúl Juliá,Striker,Centre-Forward,"Apr 5, 1996 ",28,['Spain'],Spain,,SS   LW,"1,82",-
+,Jesús Sánchez,Striker,Centre-Forward,"Feb 25, 1996 ",28,['Spain'],Spain,Alcázar de San Juan,,"1,86",-
+,Miguel Sánchez,Striker,Centre-Forward,"Aug 30, 1996 ",27,['Spain'],Spain,Elda,,"1,86",-
+9,Francisco Rotellar,Striker,Centre-Forward,"Dec 23, 1996 ",27,['Spain'],Spain,,,"1,86",-
+,Ismael García,Striker,Centre-Forward,"Sep 30, 1996 ",27,['Spain'],Spain,Murcia,,"1,82",-
+,Eric Zárate,Striker,Centre-Forward,"Jun 18, 1996 ",28,['Spain'],Spain,Sant Vicenç dels Horts,,,-
+,Javier Ontiveros,Striker,Centre-Forward,"Apr 1, 1996 ",28,['Spain'],Spain,Madrid,,"1,83",-
+19,Adrián Rodríguez,Striker,Centre-Forward,"Jul 29, 1996 ",28,['Spain'],Spain,Vigo,,,-
+17,Ismael Casado,Striker,Centre-Forward,"Apr 17, 1996 ",28,['Spain'],Spain,Valladolid,,,-
+,Sergio Navarro,Striker,Centre-Forward,"Mar 18, 1996 ",28,['Spain'],Spain,,RW,,-
+,Ángel Toribio,Striker,Centre-Forward,"Feb 9, 1996 ",28,['Spain'],Spain,La Roda,,,-
+9,Javi González,Striker,Centre-Forward,"Jan 6, 1996 ",28,['Spain'],Spain,Vitoria-Gasteiz,LW   RW,"1,86",-
+7,Isaac Padilla,Striker,Centre-Forward,"Mar 23, 1996 ",28,['Spain'],Spain,L'Hospitalet de Llobregat,RW,"1,78",-
+9,Matías Aquino,Striker,Centre-Forward,"May 27, 1996 ",28,"['Spain', 'Argentina']",Spain,Murcia,,"1,72",-
+11,Borja Domingo,Striker,Centre-Forward,"Feb 15, 1996 ",28,['Spain'],Spain,Requena,,"1,87",-
+,Dani Pedrosa,Striker,Centre-Forward,"Sep 4, 1996 ",27,['Spain'],Spain,Ribadeo,,"1,82",-
+,Carlos Huertas,Striker,Centre-Forward,"Jan 2, 1996 ",28,['Spain'],Spain,Quintanar de la Orden,,"1,82",-
+9,Roberto Núñez,Striker,Centre-Forward,"Jan 3, 1996 ",28,['Spain'],Spain,Talavera de la Reina,,"1,82",-
+,Joselito Cornejo,Striker,Centre-Forward,"Dec 3, 1996 ",27,['Spain'],Spain,Chiclana de la Frontera,,,-
+,Iker Olaizola,Striker,Centre-Forward,"Feb 15, 1996 ",28,['Spain'],Spain,San Sebastián,LW   RW,"1,79",-
+,Gabri Salazar,Striker,Centre-Forward,"Jun 18, 1996 ",28,['Spain'],Spain,Madrid,,"1,79",-
+9,Josep Ramón,Striker,Centre-Forward,"Mar 2, 1996 ",28,['Spain'],Spain,Reus,,"1,78",-
+,Lander Hernández,Striker,Centre-Forward,"Dec 25, 1996 ",27,['Spain'],Spain,Donostia-San Sebastián,,,-
+10,Mikel Oyarzabal,Striker,Centre-Forward,"Apr 21, 1997 ",27,['Spain'],Spain,Eibar,LW   RW,"1,81",€45.00m
+29,Toni Martínez,Striker,Centre-Forward,"Jun 30, 1997 ",27,['Spain'],Spain,Barrio del Progreso,,"1,87",€5.00m
+11,Rafa Mir,Striker,Centre-Forward,"Jun 18, 1997 ",27,['Spain'],Spain,Cartagena,RW   LW,"1,91",€2.50m
+11,Víctor Campuzano,Striker,Centre-Forward,"May 31, 1997 ",27,['Spain'],Spain,Barcelona,LW   RW,"1,74",€1.00m
+9,Ángel Rodado,Striker,Centre-Forward,"Mar 7, 1997 ",27,['Spain'],Spain,Palma de Mallorca,RW   LW,"1,79",€700k
+27,Miguel Berry,Striker,Centre-Forward,"Sep 16, 1997 ",26,"['Spain', 'United States']",Spain,Barcelona,,"1,90",€350k
+19,Mario Losada,Striker,Centre-Forward,"May 13, 1997 ",27,['Spain'],Spain,Madrid,,"1,75",€250k
+7,Amin Bouzaig,Striker,Centre-Forward,"Jun 1, 1997 ",27,"['Morocco', 'Spain']",Spain,Adeje,,"1,81",€250k
+19,Alberto Toril,Striker,Centre-Forward,"Jun 1, 1997 ",27,['Spain'],Spain,Palma de Mallorca,LW   RW,"1,87",€200k
+9,Alex Valiño,Striker,Centre-Forward,"Aug 25, 1997 ",27,['Spain'],Spain,Jaca,LW   RW,"1,85",€200k
+,Óscar Siafa,Striker,Centre-Forward,"Sep 12, 1997 ",26,"['Equatorial Guinea', 'Spain']",Spain,Madrid,,"1,91",€150k
+24,Pipo,Striker,Centre-Forward,"Jul 16, 1997 ",27,['Spain'],Spain,La Alberca,RW   LW,,€150k
+9,Pablo Rodríguez,Striker,Centre-Forward,"Dec 28, 1997 ",26,['Spain'],Spain,Iznalloz,SS   RW,"1,86",€125k
+9,Borja Mayoral,Striker,Centre-Forward,"Apr 5, 1997 ",27,['Spain'],Spain,Parla,,"1,82",€15.00m
+16,Chris Ramos,Striker,Centre-Forward,"Jan 18, 1997 ",27,"['Spain', 'United States']",Spain,Cádiz,LW   RW,"1,90",€4.00m
+9,Asier Villalibre,Striker,Centre-Forward,"Sep 30, 1997 ",26,['Spain'],Spain,Gernika,,"1,82",€2.50m
+7,Mario Soberón,Striker,Centre-Forward,"May 18, 1997 ",27,['Spain'],Spain,Unquera,LW,"1,78",€900k
+14,Darío Poveda,Striker,Centre-Forward,"Mar 13, 1997 ",27,['Spain'],Spain,Alicante,,"1,87",€500k
+9,Javi Siverio,Striker,Centre-Forward,"Nov 14, 1997 ",26,['Spain'],Spain,Santa Cruz de Tenerife,SS,"1,82",€325k
+,Manuel Calvo,Striker,Centre-Forward,"May 16, 1997 ",27,['Spain'],Spain,Logroño,,,€250k
+9,Álex Altube,Striker,Centre-Forward,"Jul 8, 1997 ",27,['Spain'],Spain,Valladolid,,,€200k
+11,Nacho Heras,Striker,Centre-Forward,"Mar 23, 1997 ",27,['Spain'],Spain,Leganés,,"1,77",€200k
+11,Adrián Revilla,Striker,Centre-Forward,"Sep 30, 1997 ",26,['Spain'],Spain,Santander,LW,,€150k
+9,Francisco Panadero,Striker,Centre-Forward,"Dec 3, 1997 ",26,['Spain'],Spain,Ubrique,,"1,84",€150k
+,Simón Moreno,Striker,Centre-Forward,"Jul 2, 1997 ",27,['Spain'],Spain,Cartaya,,"1,74",€150k
+,Javi López,Striker,Centre-Forward,"Aug 9, 1997 ",27,['Spain'],Spain,El Pont de Vilomara,,"1,86",€100k
+,Álvaro Iglesias,Striker,Centre-Forward,"Nov 7, 1997 ",26,['Spain'],Spain,Galdakao,,,€50k
+,Steven Prieto,Striker,Centre-Forward,"Jul 30, 1997 ",27,"['Spain', 'Colombia']",Spain,Oviedo,,"1,81",€50k
+,Adrián Pascual,Striker,Centre-Forward,"Dec 17, 1997 ",26,['Spain'],Spain,Chiclana de la Frontera,,,-
+12,Ximo,Striker,Centre-Forward,"Mar 28, 1997 ",27,['Spain'],Spain,Gandía,LW   RW,,-
+,Omar Toure Bernal,Striker,Centre-Forward,"Sep 9, 1997 ",26,['Spain'],Spain,La Linea de la Concepción,,,-
+,Adri Expósito,Striker,Centre-Forward,"Jun 17, 1997 ",27,['Spain'],Spain,Blanes,,,-
+,Adán Cabrera,Striker,Centre-Forward,"Mar 21, 1997 ",27,['Spain'],Spain,Santa Cruz de Tenerife,,,-
+,José Fernández,Striker,Centre-Forward,"Jan 1, 1997 ",27,['Spain'],Spain,Murcia,,"1,75",-
+,Jesús Burdalo,Striker,Centre-Forward,"Jan 1, 1997 ",27,['Spain'],Spain,Miajadas,,,-
+18,Aritz Hernández,Striker,Centre-Forward,"Oct 22, 1997 ",26,['Spain'],Spain,Bilbao,,"1,91",-
+10,Beñat Barberena,Striker,Centre-Forward,"Apr 10, 1997 ",27,['Spain'],Spain,Lekunberri,,"1,81",-
+14,Antoni Abolafio,Striker,Centre-Forward,"Oct 30, 1997 ",26,['Spain'],Spain,Lloseta,RW,"1,80",-
+,Álvaro Rivero,Striker,Centre-Forward,"Apr 17, 1997 ",27,['Spain'],Spain,Madrid,LW,"1,71",€100k
+9,Adrián Flaqué,Striker,Centre-Forward,"Aug 12, 1997 ",27,['Spain'],Spain,Palma de Mallorca,RW   LW,"1,87",€50k
+,Simest,Striker,Centre-Forward,"Feb 9, 1997 ",27,['Spain'],Spain,Hoyos (Cáceres),RW   LW,"1,74",-
+10,Chatún,Striker,Centre-Forward,"Dec 1, 1997 ",26,['Spain'],Spain,Navas de Oro,,"1,89",-
+16,Pablo Calvo,Striker,Centre-Forward,"Nov 2, 1997 ",26,['Spain'],Spain,Candás,,,-
+,Sergio Cordero,Striker,Centre-Forward,"Sep 3, 1997 ",26,['Spain'],Spain,Santa Amalia,,,-
+,Álvaro Cordero,Striker,Centre-Forward,"Jul 5, 1997 ",27,['Spain'],Spain,Murcia,,,-
+10,Iker Narváez,Striker,Centre-Forward,"Dec 22, 1997 ",26,['Spain'],Spain,Pamplona,,"1,80",-
+,Mario Monasterio,Striker,Centre-Forward,"Aug 14, 1997 ",27,['Spain'],Spain,Mieres,,,-
+,Manu Ruiz,Striker,Centre-Forward,"Jun 8, 1997 ",27,['Spain'],Spain,Madrid,,,-
+,Adil Azarkan,Striker,Centre-Forward,"May 2, 1997 ",27,"['Spain', 'Morocco']",Spain,Ceuta,,"1,87",-
+,Peri,Striker,Centre-Forward,"May 28, 1997 ",27,['Spain'],Spain,El Palmar,,"1,90",-
+,Adrián Molina,Striker,Centre-Forward,"Mar 27, 1997 ",27,['Spain'],Spain,Elda,,,-
+,Álex Melgar,Striker,Centre-Forward,"Jan 30, 1997 ",27,['Spain'],Spain,Murcia,,"1,90",-
+,Galo Rodríguez,Striker,Centre-Forward,"Aug 24, 1997 ",27,['Spain'],Spain,Madrid,,,-
+,Alejandro Muñoz,Striker,Centre-Forward,"Dec 6, 1997 ",26,"['Venezuela', 'Spain']",Spain,,AM,"1,82",-
+,Xavi Lao,Striker,Centre-Forward,"Apr 9, 1997 ",27,['Spain'],Spain,,,"1,80",-
+,David Toro,Striker,Centre-Forward,"May 28, 1997 ",27,['Spain'],Spain,La Algaba,,,-
+,Ander Quintana,Striker,Centre-Forward,"Jan 27, 1997 ",27,['Spain'],Spain,Basauri,,"1,87",-
+,Carlos Martínez,Striker,Centre-Forward,"Jul 3, 1997 ",27,['Spain'],Spain,Barcelona,SS   RW,"1,87",-
+,Francisco Cantero,Striker,Centre-Forward,"Mar 26, 1997 ",27,['Spain'],Spain,Jaén,,"1,77",-
+,Alejandro Tarí,Striker,Centre-Forward,"Jan 16, 1997 ",27,['Spain'],Spain,Alicante,,"1,86",-
+,Adrián Golpe,Striker,Centre-Forward,"Jan 23, 1997 ",27,['Spain'],Spain,Ciudad Real,,"1,80",-
+,Raúl Garrido,Striker,Centre-Forward,"Apr 21, 1997 ",27,['Spain'],Spain,Santa Cruz de La Palma,,,-
+,Carlos Cano,Striker,Centre-Forward,"Feb 21, 1997 ",27,['Spain'],Spain,Mataró,,"1,90",-
+9,Pime,Striker,Centre-Forward,"Mar 1, 1997 ",27,['Spain'],Spain,Santa Llogaia de Àlguema,,"1,83",-
+,Álex Salvador,Striker,Centre-Forward,"Mar 13, 1997 ",27,['Spain'],Spain,Valencia,,,-
+,Adrian Orozco,Striker,Centre-Forward,"Jan 18, 1997 ",27,['Spain'],Spain,Algeciras,SS   AM,,-
+,Santi Bernal,Striker,Centre-Forward,"Jan 25, 1997 ",27,['Spain'],Spain,Murcia,,"1,79",-
+,Antonio Alba,Striker,Centre-Forward,"Sep 28, 1997 ",26,['Spain'],Spain,San Fernando,,"1,65",-
+9,Anselm Pasquina,Striker,Centre-Forward,"May 5, 1997 ",27,['Spain'],Spain,Barcelona,RW   LW,"1,76",-
+,Sergio Rios,Striker,Centre-Forward,"Aug 25, 1997 ",27,['Spain'],Spain,Avilés,,"1,88",-
+,Iván García,Striker,Centre-Forward,"May 27, 1997 ",27,['Spain'],Spain,Segovia,,"1,71",-
+,Francisco Luque,Striker,Centre-Forward,"May 9, 1997 ",27,['Spain'],Spain,Fernán Núñez,,,-
+,Jaime Carrascosa,Striker,Centre-Forward,"Sep 17, 1997 ",26,['Spain'],Spain,Mallorca,RW   LW,"1,87",-
+,Rubén Fernández,Striker,Centre-Forward,"Jan 22, 1997 ",27,['Spain'],Spain,,,,-
+9,Pekes,Striker,Centre-Forward,"Sep 16, 1997 ",26,['Spain'],Spain,Úbeda,,"1,82",-
+,Raúl Uche,Striker,Centre-Forward,"Oct 8, 1997 ",26,['Spain'],Spain,Madrid,,"1,79",-
+28,David Costa,Striker,Centre-Forward,"Mar 28, 1997 ",27,['Spain'],Spain,Barcelona,LW   RW,"1,84",-
+,Miguel Martín,Striker,Centre-Forward,"Oct 1, 1997 ",26,['Spain'],Spain,Motril,,"1,84",-
+,Alex Larrayoz,Striker,Centre-Forward,"Mar 16, 1997 ",27,['Spain'],Spain,Pamplona,,"1,85",-
+,Marcos Celorrio,Striker,Centre-Forward,"Feb 19, 1997 ",27,['Spain'],Spain,Logroño,,"1,83",-
+20,Chuma,Striker,Centre-Forward,"Feb 13, 1997 ",27,['Spain'],Spain,Sevilla,,"1,76",-
+,Iván Zubiri,Striker,Centre-Forward,"Jul 3, 1997 ",27,['Spain'],Spain,Tafalla,,,-
+,Samuel Ayala,Striker,Centre-Forward,"Oct 5, 1997 ",26,['Spain'],Spain,Jerez de la Frontera,,,-
+19,Sergio Reyes,Striker,Centre-Forward,"Oct 7, 1997 ",26,['Spain'],Spain,Puertollano,LW   RW,"1,75",-
+,Marc Río,Striker,Centre-Forward,"Jan 21, 1997 ",27,['Spain'],Spain,Barcelona,LW,,-
+,Ángel Torres,Striker,Centre-Forward,"Apr 21, 1997 ",27,['Spain'],Spain,Cádiz,,"1,78",-
+17,Rafa Mujica,Striker,Centre-Forward,"Oct 29, 1998 ",25,['Spain'],Spain,Las Palmas de Gran Canaria,RW   LW,"1,83",€8.00m
+10,Dani Escriche,Striker,Centre-Forward,"Mar 24, 1998 ",26,['Spain'],Spain,Burriana,SS   LW,"1,78",€1.20m
+19,Mourad El Ghezouani,Striker,Centre-Forward,"May 27, 1998 ",26,"['Morocco', 'Spain']",Spain,Balsapintada,,"1,89",€800k
+9,Manu Nieto,Striker,Centre-Forward,"Mar 29, 1998 ",26,['Spain'],Spain,Villa del Río,LW   RW,"1,83",€500k
+99,Iker Unzueta,Striker,Centre-Forward,"Aug 4, 1998 ",26,['Spain'],Spain,Abadiño,LW,"1,84",€300k
+,Carlos Cinta,Striker,Centre-Forward,"Aug 19, 1998 ",26,['Spain'],Spain,Mérida,,"1,82",€250k
+9,Andrei Lupu,Striker,Centre-Forward,"Jan 27, 1998 ",26,"['Romania', 'Spain']",Spain,Logroño,,"1,77",€250k
+18,Rubén Enri,Striker,Centre-Forward,"Apr 10, 1998 ",26,['Spain'],Spain,Barcelona,,"1,78",€200k
+9,Joel Rodríguez,Striker,Centre-Forward,"Sep 25, 1998 ",25,['Spain'],Spain,Algemesí,RW   LW,"1,78",€200k
+,Julen Madariaga,Striker,Centre-Forward,"Dec 15, 1998 ",25,['Spain'],Spain,Zizur Mayor,,"1,86",€150k
+,Alberto Ródenas,Striker,Centre-Forward,"Sep 26, 1998 ",25,['Spain'],Spain,Petrer (Alicante),SS,"1,87",€150k
+,Gabri Palmás,Striker,Centre-Forward,"Dec 8, 1998 ",25,['Spain'],Spain,Moaña,RW   LW,"1,78",€100k
+20,Eneko Ezcurra,Striker,Centre-Forward,"Apr 11, 1998 ",26,['Spain'],Spain,Pamplona,,,€50k
+21,Fran Navarro,Striker,Centre-Forward,"Feb 3, 1998 ",26,['Spain'],Spain,Valencia,SS,"1,79",€8.00m
+17,Dani Gómez,Striker,Centre-Forward,"Jul 30, 1998 ",26,['Spain'],Spain,Alcorcón,,"1,78",€1.20m
+9,Iván Barbero,Striker,Centre-Forward,"Aug 17, 1998 ",26,['Spain'],Spain,Roquetas de Mar,,"1,86",€500k
+19,Antón Escobar,Striker,Centre-Forward,"Jun 16, 1998 ",26,['Spain'],Spain,Nigrán,,"1,79",€300k
+17,Dani García,Striker,Centre-Forward,"Dec 20, 1998 ",25,['Spain'],Spain,Almería,LW   RW,"1,80",€300k
+9,Jaume Tovar,Striker,Centre-Forward,"Nov 6, 1998 ",25,['Spain'],Spain,Palma de Mallorca,SS,"1,91",€250k
+16,Pablo García,Striker,Centre-Forward,"May 16, 1998 ",26,['Spain'],Spain,Benacazón,LW   RW,,€200k
+19,Alfredo Sualdea,Striker,Centre-Forward,"Nov 30, 1998 ",25,['Spain'],Spain,Aranda de Duero,,"1,83",€200k
+,Raúl Asencio,Striker,Centre-Forward,"May 20, 1998 ",26,"['Spain', 'Brazil']",Spain,Villarreal,LW   RW,"1,85",€175k
+,Maikel Villajos,Striker,Centre-Forward,"Oct 4, 1998 ",25,['Spain'],Spain,Porzuna,,,€150k
+,Daniel Villanueva,Striker,Centre-Forward,"Feb 1, 1998 ",26,['Spain'],Spain,Cártama,LW   SS,"1,70",€150k
+98,David Loera,Striker,Centre-Forward,"Sep 10, 1998 ",25,"['United States', 'Spain']",Spain,Zaragoza,,"1,65",€100k
+21,Seth Vega,Striker,Centre-Forward,"Jul 1, 1998 ",26,['Spain'],Spain,Las Palmas,,"1,77",€50k
+9,Eduardo Navas Gómez,Striker,Centre-Forward,"Jan 1, 1998 ",26,['Spain'],Spain,Algeciras,,,€25k
+,Álvaro Ruiz González,Striker,Centre-Forward,"Dec 31, 1998 ",25,['Spain'],Spain,Ronda,,"1,76",-
+,Borja Míguez,Striker,Centre-Forward,"Nov 28, 1998 ",25,['Spain'],Spain,Santiago de Compostela,,,-
+,Rafael Vacas,Striker,Centre-Forward,"Jan 13, 1998 ",26,"['Spain', 'United States']",Spain,Baena,,"1,71",-
+,Dani Franco,Striker,Centre-Forward,"May 8, 1998 ",26,['Spain'],Spain,Murcia,,"1,90",-
+,Oscar Fernández,Striker,Centre-Forward,"Aug 16, 1998 ",26,['Spain'],Spain,Gijón,,,-
+,Víctor Felip,Striker,Centre-Forward,"May 25, 1998 ",26,['Spain'],Spain,Almazora,,,-
+17,Javi Solsona,Striker,Centre-Forward,"Apr 4, 1998 ",26,['Spain'],Spain,Orihuela,,"1,94",-
+,Marvin Mbassy,Striker,Centre-Forward,N/A ,25,"['Gabon', 'France']",Spain,Madrid,LW,"1,88",-
+,Miguel Belando,Striker,Centre-Forward,"Jan 2, 1998 ",26,['Spain'],Spain,Murcia,,"1,85",-
+,Josemi Santos,Striker,Centre-Forward,"Nov 1, 1998 ",25,['Spain'],Spain,Utrera,SS,"1,90",-
+9,Abraham Gómez,Striker,Centre-Forward,"Feb 19, 1998 ",26,['Spain'],Spain,Málaga,LW,"1,83",-
+17,Saúl Sánchez,Striker,Centre-Forward,"Jan 2, 1998 ",26,['Spain'],Spain,Las Palmas de Gran Canaria,,,€50k
+,Miguel López,Striker,Centre-Forward,"Jan 1, 1998 ",26,['Spain'],Spain,Logroño,,,-
+,Raúl Calvo,Striker,Centre-Forward,"Jun 1, 1998 ",26,['Spain'],Spain,La Bóveda de Toro,RW,,-
+22,Jordi Ranera,Striker,Centre-Forward,"Nov 5, 1998 ",25,['Spain'],Spain,Sant Cugat del Vallès,RW   LW,"1,86",-
+,Zakaria Sarssar,Striker,Centre-Forward,N/A ,26,"['Spain', 'Morocco']",Spain,Barcelona,,"1,79",-
+7,Juan Alcaraz,Striker,Centre-Forward,"May 28, 1998 ",26,['Spain'],Spain,Mula,,,-
+,Germán Ortega,Striker,Centre-Forward,"Jan 27, 1998 ",26,['Spain'],Spain,Arcos de la Frontera,,"1,73",-
+7,Diego Domínguez,Striker,Centre-Forward,"Oct 6, 1998 ",25,['Spain'],Spain,Sevilla,,,-
+,Álvaro Mata,Striker,Centre-Forward,"Aug 23, 1998 ",26,['Spain'],Spain,Pamplona,,,-
+,Sergio Vargas,Striker,Centre-Forward,"Oct 2, 1998 ",25,['Spain'],Spain,La Pobla de Vallbona,,,-
+20,Antonio Fernández,Striker,Centre-Forward,"Apr 8, 1998 ",26,['Spain'],Spain,Manzanares,RW   LW,"1,80",-
+,Juanfri,Striker,Centre-Forward,"May 1, 1998 ",26,['Spain'],Spain,La Linea de la Concepcion,,,-
+,Miguel Ángel Gómez,Striker,Centre-Forward,"May 15, 1998 ",26,['Spain'],Spain,Casas Ibáñez (Albacete),,"1,91",-
+,Javi Valenzuela,Striker,Centre-Forward,"Feb 26, 1998 ",26,['Spain'],Spain,Jerez de la Frontera,,,-
+7,Aitor Zunzunegui,Striker,Centre-Forward,"Dec 10, 1998 ",25,['Spain'],Spain,Miranda de Ebro,RW   LW,,-
+,José Recalde,Striker,Centre-Forward,"Apr 5, 1998 ",26,['Spain'],Spain,Pamplona,,"1,83",-
+,Andoni Tascón,Striker,Centre-Forward,"Feb 27, 1998 ",26,['Spain'],Spain,Bilbao,RW,"1,75",-
+,David Romero,Striker,Centre-Forward,"Mar 24, 1998 ",26,['Spain'],Spain,Granada,,,-
+,Xabier Echarri,Striker,Centre-Forward,"May 13, 1998 ",26,['Spain'],Spain,Lekunberri,,,-
+,Víctor Díaz,Striker,Centre-Forward,"Mar 11, 1998 ",26,['Spain'],Spain,Córdoba,,"1,80",-
+8,Jony Martínez,Striker,Centre-Forward,"Apr 12, 1998 ",26,['Spain'],Spain,,,"1,70",-
+,Francisco Pedrosa,Striker,Centre-Forward,"Aug 15, 1998 ",26,['Spain'],Spain,Benamejí,,,-
+,Germán Torregrosa,Striker,Centre-Forward,"Dec 22, 1998 ",25,['Spain'],Spain,Novelda,,,-
+,Fernando Lezcano,Striker,Centre-Forward,"Oct 22, 1998 ",25,['Spain'],Spain,Vilagarcía de Arousa,RW,,-
+10,Javi Ruiz,Striker,Centre-Forward,"Apr 18, 1998 ",26,['Spain'],Spain,Sant Cugat del Vallés,RW   LW,"1,78",-
+,Isma Fagir,Striker,Centre-Forward,"Apr 8, 1998 ",26,['Spain'],Spain,Oviedo,,,-
+,Samuel Fernández,Striker,Centre-Forward,"Oct 31, 1998 ",25,['Spain'],Spain,La Linea de la Concepción,,,-
+8,Adri Castro,Striker,Centre-Forward,"Oct 12, 1998 ",25,['Spain'],Spain,A Coruña,,"1,81",-
+,Eloi Pena,Striker,Centre-Forward,"Jan 6, 1998 ",26,['Spain'],Spain,Alella,,,-
+,Adrián Socorro,Striker,Centre-Forward,"Mar 13, 1998 ",26,['Spain'],Spain,Telde,LW,"1,89",-
+21,José Campos,Striker,Centre-Forward,"May 6, 1998 ",26,['Spain'],Spain,Elda,,,-
+,Alejandro Penón,Striker,Centre-Forward,"Apr 29, 1998 ",26,['Spain'],Spain,Zaragoza,RW   LW,"1,82",-
+,Daniel de Frutos,Striker,Centre-Forward,"Apr 27, 1998 ",26,['Spain'],Spain,Aranda de Duero,,,-
+18,Joel Arimany,Striker,Centre-Forward,"May 28, 1998 ",26,['Spain'],Spain,Quart,,"1,90",-
+,Giovanni Rodríguez,Striker,Centre-Forward,"Aug 25, 1998 ",26,['Spain'],Spain,Candelaria,RW   LW,"1,66",-
+,Pablo Goñi,Striker,Centre-Forward,"Mar 10, 1998 ",26,['Spain'],Spain,Santander,,"1,75",-
+,Diego Vargas,Striker,Centre-Forward,"Jul 8, 1998 ",26,['Spain'],Spain,Huelva,,"1,80",-
+,Néstor Sánchez,Striker,Centre-Forward,"May 10, 1998 ",26,['Spain'],Spain,Las Palmas de Gran Canaria,RW   LW,"1,81",-
+,Vicente Lucas,Striker,Centre-Forward,"May 27, 1998 ",26,['Spain'],Spain,Utrera,LW   RW,,-
+9,Hugo Duro,Striker,Centre-Forward,"Nov 10, 1999 ",24,['Spain'],Spain,Getafe,RW   LW,"1,77",€16.00m
+9,Miguel de la Fuente,Striker,Centre-Forward,"Sep 3, 1999 ",24,['Spain'],Spain,Tudela de Duero (Valladolid),,"1,82",€2.50m
+9,Bojan Radulovic,Striker,Centre-Forward,"Dec 29, 1999 ",24,"['Serbia', 'Spain']",Spain,Lleida,,"1,92",€1.00m
+19,Javier Martón,Striker,Centre-Forward,"May 6, 1999 ",25,['Spain'],Spain,Villafranca,,"1,81",€500k
+9,Adrián Butzke,Striker,Centre-Forward,"Mar 30, 1999 ",25,['Spain'],Spain,Monachil,RW,"1,93",€300k
+9,Andreu Arasa,Striker,Centre-Forward,"May 21, 1999 ",25,['Spain'],Spain,Santa Bàrbara,RW   LW,"1,79",€250k
+,Sergio Benito,Striker,Centre-Forward,"Mar 23, 1999 ",25,['Spain'],Spain,Madrid,,"1,74",€200k
+,Ariel Herrero,Striker,Centre-Forward,"Jun 3, 1999 ",25,['Spain'],Spain,León,,"1,83",€150k
+,Nacho Ramón,Striker,Centre-Forward,"Mar 30, 1999 ",25,['Spain'],Spain,Elche,LW,,€150k
+22,Jorge Martínez,Striker,Centre-Forward,"Mar 10, 1999 ",25,['Spain'],Spain,Arnedo,,"1,96",€150k
+9,Diego Gómez,Striker,Centre-Forward,"Jun 13, 1999 ",25,['Spain'],Spain,Madrid,,,€150k
+32,Ibourahima Baldé,Striker,Centre-Forward,"Mar 23, 1999 ",25,"['Spain', 'Senegal']",Spain,Arbúcies,LW   SS,"1,79",€150k
+,Raúl Rubio,Striker,Centre-Forward,"Jul 4, 1999 ",25,['Spain'],Spain,Zaragoza,,,€100k
+9,Ferran Jutglà,Striker,Centre-Forward,"Feb 1, 1999 ",25,['Spain'],Spain,Sant Julià de Vilatorta,RW   LW,"1,75",€7.50m
+,Borja Garcés,Striker,Centre-Forward,"Aug 6, 1999 ",25,['Spain'],Spain,Melilla,SS,"1,83",€2.00m
+19,Álex Millán,Striker,Centre-Forward,"Nov 7, 1999 ",24,['Spain'],Spain,Zaragoza,RW   LW,"1,82",€800k
+17,Urko Izeta,Striker,Centre-Forward,"Sep 29, 1999 ",24,['Spain'],Spain,Aia,SS,"1,75",€500k
+19,Jonatan González,Striker,Centre-Forward,"Jul 29, 1999 ",25,['Spain'],Spain,Logroño,,"1,91",€250k
+,Sergio Moreno,Striker,Centre-Forward,"Jan 1, 1999 ",25,['Spain'],Spain,Pamplona,LW   RW,"1,78",€200k
+,Marcos Baselga,Striker,Centre-Forward,"Feb 15, 1999 ",25,['Spain'],Spain,Zaragoza,RW   SS,"1,77",€200k
+9,Álvaro García,Striker,Centre-Forward,"Oct 28, 1999 ",24,['Spain'],Spain,Colindres,RW   SS,"1,92",€150k
+9,Andrés Silvente,Striker,Centre-Forward,"Dec 5, 1999 ",24,['Spain'],Spain,Murcia,,"1,75",€150k
+19,Alejandro Cañizo,Striker,Centre-Forward,"Dec 25, 1999 ",24,['Spain'],Spain,Suances,,"1,84",€150k
+,Iñaki Elejalde,Striker,Centre-Forward,"Jan 20, 1999 ",25,['Spain'],Spain,Madrid,LW,"1,76",€150k
+9,Giovanni Navarro,Striker,Centre-Forward,"Jun 23, 1999 ",25,['Spain'],Spain,Las Palmas de Gran Canaria,,"1,74",€150k
+,Dani Salas,Striker,Centre-Forward,"Jun 24, 1999 ",25,['Spain'],Spain,Santander,,"1,79",€100k
+11,Carlos Gilbert,Striker,Centre-Forward,"Apr 16, 1999 ",25,['Spain'],Spain,Barcelona,RW   LW,,€50k
+7,Ismail El Harchi,Striker,Centre-Forward,"Jan 30, 1999 ",25,"['Morocco', 'Spain']",Spain,Santomera,,"1,90",€25k
+7,Zaca,Striker,Centre-Forward,"Oct 7, 1999 ",24,['Spain'],Spain,Palma del Río,LW   RW,,-
+,Adrián Biboum,Striker,Centre-Forward,"Oct 9, 1999 ",24,"['Spain', 'Cameroon']",Spain,Barcelona,,"1,85",-
+,Iván Acosta,Striker,Centre-Forward,"Aug 5, 1999 ",25,['Spain'],Spain,Dos Hermanas,LW   RW,"1,80",-
+16,Llorenç Busquets,Striker,Centre-Forward,"Jul 23, 1999 ",25,['Spain'],Spain,Girona,,,-
+,Roger Escamilla,Striker,Centre-Forward,"Nov 27, 1999 ",24,['Spain'],Spain,,SS,"1,88",-
+10,Fernando Amestoy,Striker,Centre-Forward,"Jan 1, 1999 ",25,['Spain'],Spain,Oyón,LW,,-
+20,Dani Homet,Striker,Centre-Forward,"Jul 7, 1999 ",25,['Spain'],Spain,Santa Coloma de Gramenet,,"1,85",-
+16,Alfonso Bernal,Striker,Centre-Forward,"Sep 2, 1999 ",24,['Spain'],Spain,Plasencia,,,-
+9,Roberto Andreu,Striker,Centre-Forward,"May 1, 1999 ",25,['Spain'],Spain,Cabezo de Torres,LW   SS,"1,79",-
+,Unai Arieta,Striker,Centre-Forward,"Jun 16, 1999 ",25,['Spain'],Spain,Bergara,,"1,85",-
+,Alberto Fernández,Striker,Centre-Forward,"May 6, 1999 ",25,['Spain'],Spain,Santa Margalida,,"1,78",€100k
+12,Suso Sayés,Striker,Centre-Forward,"May 22, 1999 ",25,['Spain'],Spain,Peralta,,,€25k
+,Dani Sandoval,Striker,Centre-Forward,"May 27, 1999 ",25,['Spain'],Spain,Oviedo,,"1,79",€25k
+7,David Bercedo,Striker,Centre-Forward,"May 16, 1999 ",25,['Spain'],Spain,Madrid,SS   AM,"1,72",-
+17,Iomar Ajouaou,Striker,Centre-Forward,"May 21, 1999 ",25,['Spain'],Spain,Alcoy,,,-
+,Julio Rengel,Striker,Centre-Forward,"Dec 28, 1999 ",24,['Spain'],Spain,Valladolid,,,-
+10,Luis Haverland,Striker,Centre-Forward,N/A ,25,"['Germany', 'Spain']",Spain,Pollensa,RW,"1,80",-
+7,Antonio Lara,Striker,Centre-Forward,"Jan 29, 1999 ",25,['Spain'],Spain,Quesada,LW   RW,"1,68",-
+,Alejandro Serralvo,Striker,Centre-Forward,"May 16, 1999 ",25,['Spain'],Spain,Marbella,,"1,79",-
+18,Aritz Pascual,Striker,Centre-Forward,"Jun 30, 1999 ",25,['Spain'],Spain,Berango,,"1,86",-
+10,Monas,Striker,Centre-Forward,"Jun 29, 1999 ",25,['Spain'],Spain,Murcia,SS   LW,"1,78",-
+,Javi Bernal,Striker,Centre-Forward,"May 13, 1999 ",25,['Spain'],Spain,Badajoz,RW,"1,90",-
+,Edu Mendy,Striker,Centre-Forward,"Jun 16, 1999 ",25,['Spain'],Spain,Almería,,"1,74",-
+9,David Martín,Striker,Centre-Forward,"May 31, 1999 ",25,['Spain'],Spain,Palencia,,,-
+,Tito Cabo,Striker,Centre-Forward,"Jun 25, 1999 ",25,['Spain'],Spain,Santa Cruz de Tenerife,SS   RW,,-
+,Iván Conceiçao,Striker,Centre-Forward,"Jan 20, 1999 ",25,['Spain'],Spain,El Berrón,,,-
+9,Jordi Ferrer,Striker,Centre-Forward,"Aug 22, 1999 ",25,['Spain'],Spain,Zaragoza,,"1,82",-
+,Xavier Cencillo,Striker,Centre-Forward,"May 9, 1999 ",25,['Spain'],Spain,Barcelona,,"1,84",-
+,Josema Vivancos,Striker,Centre-Forward,"Oct 1, 1999 ",24,['Spain'],Spain,Cartagena,,"1,82",-
+15,Pitu,Striker,Centre-Forward,"May 5, 1999 ",25,['Spain'],Spain,Madrid,RW   LW,"1,72",-
+,Xabi Mayordomo,Striker,Centre-Forward,"Jan 31, 1999 ",25,['Spain'],Spain,Portugalete,,"1,79",-
+,Josemi Rey,Striker,Centre-Forward,"Jan 25, 1999 ",25,['Spain'],Spain,Campanillas,,"1,80",-
+9,Mario Musy,Striker,Centre-Forward,"Jun 24, 1999 ",25,['Spain'],Spain,Santander,RW   LW,"1,91",-
+21,Iñigo Martin,Striker,Centre-Forward,"May 24, 1999 ",25,['Spain'],Spain,Bilbao,,,-
+9,Diego Hernández,Striker,Centre-Forward,"Nov 12, 1999 ",24,['Spain'],Spain,Salamanca,,"1,85",-
+,Alhagi Touray Sisay,Striker,Centre-Forward,"Dec 31, 1999 ",24,"['Spain', 'The Gambia']",Spain,Barcelona,,"1,93",-
+9,Beñat Eizagirre,Striker,Centre-Forward,"Aug 25, 1999 ",25,['Spain'],Spain,Zarautz,SS   LW,"1,72",-
+11,Pedro Chacón,Striker,Centre-Forward,"Apr 11, 1999 ",25,['Spain'],Spain,Palma del Río,,"1,90",-
+,Eñaut Mendia,Striker,Centre-Forward,"Jun 25, 1999 ",25,['Spain'],Spain,Lazkao,AM   RW,"1,79",-
+9,Marc Echarri,Striker,Centre-Forward,"Mar 4, 1999 ",25,['Spain'],Spain,Manzanares el Real,,"1,90",-
+,Adrián Llanos,Striker,Centre-Forward,"May 8, 1999 ",25,['Spain'],Spain,Santa Cruz de Tenerife,,,-
+,Andrés Navarro,Striker,Centre-Forward,"Mar 10, 1999 ",25,['Spain'],Spain,Lorca,,,-
+19,Adri Herrera,Striker,Centre-Forward,"Jan 3, 1999 ",25,['Spain'],Spain,Coria,,,-
+,Ferran Brugué,Striker,Centre-Forward,"May 18, 1999 ",25,['Spain'],Spain,Girona,,"1,75",-
+11,Borja Llarena,Striker,Centre-Forward,"May 17, 1999 ",25,['Spain'],Spain,Santa Cruz de Tenerife,RW   LW,"1,71",-
+,Nebil Ibáñez,Striker,Centre-Forward,"Dec 15, 1999 ",24,['Spain'],Spain,Alcoi,,,-
+10,David Nates,Striker,Centre-Forward,"Jun 25, 1999 ",25,['Spain'],Spain,Bilbao,,"1,76",-
+,Sergio Paredes,Striker,Centre-Forward,"Feb 16, 1999 ",25,['Spain'],Spain,Alicante,,,-
+10,Juan Pliego,Striker,Centre-Forward,"Jul 14, 1999 ",25,['Spain'],Spain,,LW   RW,"1,75",-
+,Samuel Saiz,Striker,Centre-Forward,"Feb 18, 1999 ",25,['Spain'],Spain,Valencia,,"1,75",-
+,Yeray Romero,Striker,Centre-Forward,"Jan 14, 1999 ",25,['Spain'],Spain,La Linea de la Concepcion,,,-
+,Borja Estepa,Striker,Centre-Forward,"May 24, 1999 ",25,['Spain'],Spain,Córdoba,,,-
+,Jacobo Castilla Fernandez,Striker,Centre-Forward,"Jan 15, 1999 ",25,['Spain'],Spain,Cangas del Narcea,,,-
+7,Isaac Romero,Striker,Centre-Forward,"May 18, 2000 ",24,['Spain'],Spain,Lebrija,LW   RW,"1,84",€18.00m
+9,Raúl García,Striker,Centre-Forward,"Nov 3, 2000 ",23,['Spain'],Spain,Olesa de Montserrat,,"1,92",€4.00m
+9,Fer Niño,Striker,Centre-Forward,"Oct 24, 2000 ",23,['Spain'],Spain,Rota,,"1,91",€2.00m
+20,Antonio Casas,Striker,Centre-Forward,"Mar 30, 2000 ",24,['Spain'],Spain,La Rambla (Córdoba),LW,"1,83",€500k
+9,Pedro Benito,Striker,Centre-Forward,"Mar 27, 2000 ",24,"['Spain', 'Ukraine']",Spain,Cádiz,RW   LW,"1,82",€300k
+9,Jorge Aguirre,Striker,Centre-Forward,"Jan 5, 2000 ",24,['Spain'],Spain,Lesaka,,"1,83",€300k
+99,Clau Mendes,Striker,Centre-Forward,"Dec 8, 2000 ",23,"['Guinea-Bissau', 'Spain']",Spain,Arrecife de Lanzarote,RW,"1,86",€250k
+10,Peque Polo,Striker,Centre-Forward,"Oct 2, 2000 ",23,['Spain'],Spain,Badalona,LW   RW,"1,79",€250k
+19,Davo,Striker,Centre-Forward,"Sep 2, 2000 ",23,['Spain'],Spain,Redondela,RW,"1,75",€200k
+9,Manin Gonzaga,Striker,Centre-Forward,"Jan 13, 2000 ",24,['Spain'],Spain,Jerez de la Frontera,RW   LW,,€200k
+9,Pablo Palacín,Striker,Centre-Forward,"Apr 22, 2000 ",24,['Spain'],Spain,Alzira,,,€150k
+9,Mario Rivas,Striker,Centre-Forward,"Mar 27, 2000 ",24,['Spain'],Spain,Albacete,,"1,91",€150k
+,Manu Garrido,Striker,Centre-Forward,"Oct 6, 2000 ",23,['Spain'],Spain,Madrid,,"1,90",€150k
+9,Abel Ruiz,Striker,Centre-Forward,"Jan 28, 2000 ",24,['Spain'],Spain,Almussafes,LW   RW,"1,82",€12.00m
+19,Diego García,Striker,Centre-Forward,"Apr 18, 2000 ",24,['Spain'],Spain,Madrid,,"1,88",€2.00m
+9,Juan Carlos Arana,Striker,Centre-Forward,"Feb 8, 2000 ",24,['Spain'],Spain,Las Palmas de Gran Canaria,,"1,82",€2.00m
+9,Gassan Ahadme,Striker,Centre-Forward,"Nov 17, 2000 ",23,"['Morocco', 'Spain']",Spain,Vic,SS,"1,87",€325k
+11,Faysal Chouaib,Striker,Centre-Forward,"Jan 7, 2000 ",24,"['Spain', 'Morocco']",Spain,Barcelona,LW   SS,"1,87",€300k
+9,Antoñín,Striker,Centre-Forward,"Apr 16, 2000 ",24,['Spain'],Spain,Málaga,RW   LW,"1,82",€300k
+77,Bernat Guiu,Striker,Centre-Forward,"Sep 20, 2000 ",23,['Spain'],Spain,Falset,SS,,€250k
+9,Fernando Harta,Striker,Centre-Forward,"Feb 9, 2000 ",24,['Spain'],Spain,Madrid,,,€200k
+11,Ibán Ribeiro,Striker,Centre-Forward,"Feb 15, 2000 ",24,['Spain'],Spain,Sopela,RW   LW,,€200k
+,Raúl Alcaina,Striker,Centre-Forward,"Jul 19, 2000 ",24,['Spain'],Spain,Museros,,"1,81",€200k
+20,Toni Paredes,Striker,Centre-Forward,"Mar 1, 2000 ",24,['Spain'],Spain,,SS,"1,80",€150k
+9,Guillem Naranjo,Striker,Centre-Forward,"Jul 1, 2000 ",24,['Spain'],Spain,El Prat de Llobregat,,"1,88",€150k
+9,Mohamed Mizzian,Striker,Centre-Forward,"Feb 10, 2000 ",24,"['Morocco', 'Spain']",Spain,Melilla,,"1,85",€150k
+20,Rafa Tresaco,Striker,Centre-Forward,"Aug 24, 2000 ",24,['Spain'],Spain,Sabiñánigo,RW,"1,80",€100k
+,Álex Pachón,Striker,Centre-Forward,"Jul 17, 2000 ",24,['Spain'],Spain,Vilafranca del Penedès,,"1,85",€100k
+21,Alberto Salido,Striker,Centre-Forward,"Jan 19, 2000 ",24,['Spain'],Spain,Palma de Mallorca,,"1,71",€100k
+,Lorenzo Gonzalez,Striker,Centre-Forward,"Apr 10, 2000 ",24,"['Switzerland', 'Spain']",Spain,Las Palmas,RW   SS,"1,70",€75k
+9,Christian Martínez,Striker,Centre-Forward,"Oct 13, 2000 ",23,['Spain'],Spain,A Coruña,,,€50k
+,Rafa Villanueva,Striker,Centre-Forward,"May 27, 2000 ",24,['Spain'],Spain,Getxo,,,€25k
+18,Moussa Touray,Striker,Centre-Forward,"Dec 19, 2000 ",23,"['Spain', 'Senegal']",Spain,Salt,LW   RW,,-
+,Gabri Peguero,Striker,Centre-Forward,"Sep 16, 2000 ",23,['Spain'],Spain,Santa Marta de los Barros,,"1,85",-
+,Enock Lusiama,Striker,Centre-Forward,"Jan 1, 2000 ",24,"['Spain', 'The Gambia']",Spain,Zaragoza,,"1,85",-
+,Pedro Dango,Striker,Centre-Forward,"Nov 13, 2000 ",23,"['Spain', 'Angola']",Spain,Aranda de Duero,LW   RW,"1,84",-
+,Alejandro Castilla,Striker,Centre-Forward,"Jan 1, 2000 ",24,['Spain'],Spain,La Linea de la concepción,,,-
+,Nasta,Striker,Centre-Forward,"Aug 14, 2000 ",24,['Spain'],Spain,Murcia,,,-
+9,José Naranjo,Striker,Centre-Forward,"Sep 26, 2000 ",23,['Spain'],Spain,,,"1,80",€100k
+22,Ewan Urain,Striker,Centre-Forward,"Mar 10, 2000 ",24,"['Scotland', 'Spain']",Spain,Durango,,"1,93",€100k
+,Pedro Ruiz,Striker,Centre-Forward,"Mar 30, 2000 ",24,['Spain'],Spain,Sevilla,,"1,98",€100k
+9,Samuel Benítez,Striker,Centre-Forward,"Jan 13, 2000 ",24,['Spain'],Spain,Benalmádena,,,€75k
+,César Gómez,Striker,Centre-Forward,"Apr 12, 2000 ",24,['Spain'],Spain,Madrid,RW,"1,80",€50k
+11,Bicho,Striker,Centre-Forward,"Aug 19, 2000 ",24,['Spain'],Spain,Estella,RW,,€50k
+19,Antonio Piqueras,Striker,Centre-Forward,"Apr 9, 2000 ",24,['Spain'],Spain,Murcia,,,-
+,Rafael Martínez,Striker,Centre-Forward,"Dec 7, 2000 ",23,['Spain'],Spain,Albacete,LW   SS,"1,88",-
+,David Valverde,Striker,Centre-Forward,"Jul 9, 2000 ",24,['Spain'],Spain,Murcia,,"1,84",-
+,Malano,Striker,Centre-Forward,"May 17, 2000 ",24,['Spain'],Spain,Guadahortuna,,"1,75",-
+,Marc Prat,Striker,Centre-Forward,"May 9, 2000 ",24,['Spain'],Spain,Barcelona,LW   RW,"1,83",-
+,Adama Keita,Striker,Centre-Forward,"Nov 9, 2000 ",23,"['Spain', 'Mali']",Spain,Madrid,LW   RW,,-
+,Luis Molina,Striker,Centre-Forward,"Jan 3, 2000 ",24,['Spain'],Spain,Madrid,RW   LW,"1,80",-
+,Alberto Vadillo,Striker,Centre-Forward,"Jan 1, 2000 ",24,['Spain'],Spain,Alagón del Rio,,,-
+,Antonio Sanlúcar,Striker,Centre-Forward,"Jul 13, 2000 ",24,['Spain'],Spain,Bornos,,,-
+,Alejandro Peiró,Striker,Centre-Forward,"Jul 24, 2000 ",24,['Spain'],Spain,Canals,,"1,75",-
+,José María Vicario,Striker,Centre-Forward,"Oct 8, 2000 ",23,['Spain'],Spain,Málaga,,"1,78",-
+,Simón Carrero,Striker,Centre-Forward,"Mar 19, 2000 ",24,['Spain'],Spain,Llanes,,,-
+,Sergio Ponte,Striker,Centre-Forward,"Jul 29, 2000 ",24,['Spain'],Spain,Málaga,,"1,76",-
+,Álex Rueda,Striker,Centre-Forward,"Jun 10, 2000 ",24,['Spain'],Spain,Jerez de la Frontera,,,-
+9,Juan Cambón,Striker,Centre-Forward,"Jun 13, 2000 ",24,['Spain'],Spain,A Coruña,,,-
+7,David Rojo,Striker,Centre-Forward,"Feb 2, 2000 ",24,['Spain'],Spain,A Coruña,,,-
+,Helder Martos,Striker,Centre-Forward,"Jun 17, 2000 ",24,['Spain'],Spain,Motril,,"1,76",-
+,Edorta Cabieces,Striker,Centre-Forward,"Mar 25, 2000 ",24,['Spain'],Spain,Bilbao,,"1,87",-
+,Oier Garai,Striker,Centre-Forward,"Nov 5, 2000 ",23,['Spain'],Spain,Amorebieta,,"1,88",-
+,Ángel Pérez,Striker,Centre-Forward,"Feb 3, 2000 ",24,"['Spain', 'Dominican Republic']",Spain,Zaragoza,SS,"1,90",-
+11,Víctor Charlez,Striker,Centre-Forward,"Oct 3, 2000 ",23,['Spain'],Spain,Zaragoza,,,-
+,Álvaro Mora,Striker,Centre-Forward,"Jun 12, 2000 ",24,['Spain'],Spain,Yecla,,"1,75",-
+,Iván Callado,Striker,Centre-Forward,"Jan 25, 2000 ",24,['Spain'],Spain,,,,-
+,Edu Alberola,Striker,Centre-Forward,"Feb 22, 2000 ",24,['Spain'],Spain,Tavernes de la Valldigna,,,-
+,Carlos Cañadas,Striker,Centre-Forward,"Apr 14, 2000 ",24,['Spain'],Spain,Melilla,,,-
+,Óscar González,Striker,Centre-Forward,"Jan 8, 2000 ",24,['Spain'],Spain,Valladolid,,"1,85",-
+,Marc Grau,Striker,Centre-Forward,"Apr 28, 2000 ",24,['Spain'],Spain,Figueres,,,-
+,Dani Real,Striker,Centre-Forward,"Mar 4, 2000 ",24,['Spain'],Spain,O Barco Valdeorras,AM,"1,85",-
+19,Toquero,Striker,Centre-Forward,"Jul 21, 2000 ",24,['Spain'],Spain,Oviedo,,,-
+,Gonzalo Arjona,Striker,Centre-Forward,"Mar 1, 2000 ",24,['Spain'],Spain,Guadiaro,,"1,88",-
+,Juanlu,Striker,Centre-Forward,"Oct 27, 2000 ",23,['Spain'],Spain,Zaragoza,SS   LW,"1,79",-
+9,Dani Salas,Striker,Centre-Forward,"Apr 6, 2000 ",24,['Spain'],Spain,Gallur,,,-
+,Jesús Jiménez,Striker,Centre-Forward,"Sep 13, 2000 ",23,['Spain'],Spain,Zaragoza,,,-
+,Wiwi,Striker,Centre-Forward,"Sep 25, 2000 ",23,['Spain'],Spain,San Fernando,,,-
+8,Samu Vilariño,Striker,Centre-Forward,"Jul 16, 2000 ",24,['Spain'],Spain,Vigo,SS,,-
+,José Manuel Merino,Striker,Centre-Forward,"Aug 13, 2000 ",24,['Spain'],Spain,Sanlúcar de Barrameda,,,-
+17,Eloi Sánchez,Striker,Centre-Forward,"Jun 22, 2000 ",24,['Spain'],Spain,Vic,,,-
+18,Dani Ribelles,Striker,Centre-Forward,"Jan 1, 2000 ",24,['Spain'],Spain,Barcelona,LW,,-
+,Sanse,Striker,Centre-Forward,"Jan 20, 2000 ",24,['Spain'],Spain,Valdemorillo,,"1,71",-
+9,Alvaro Pumareta,Striker,Centre-Forward,"May 10, 2000 ",24,['Spain'],Spain,Teruel,,"1,91",-
+,Daniel Siverio,Striker,Centre-Forward,"Mar 8, 2000 ",24,['Spain'],Spain,La Laguna,SS,,-
+19,Juan Andrés Gómez,Striker,Centre-Forward,"Mar 7, 2000 ",24,['Spain'],Spain,Córdoba,RW   LW,,-
+17,Josu Juste,Striker,Centre-Forward,"Apr 12, 2000 ",24,['Spain'],Spain,Leioa,LW,"1,83",-
+,Víctor De Baunbag,Striker,Centre-Forward,"Aug 5, 2000 ",24,"['Cameroon', 'Spain']",Spain,Madrid,RW,,-
+,Ricki Vidal,Striker,Centre-Forward,"Jun 27, 2000 ",24,['Spain'],Spain,Barcelona,LW   RW,"1,85",-
+20,Martín Diz,Striker,Centre-Forward,"Dec 12, 2000 ",23,['Spain'],Spain,Vilagarcía de Arousa,LW   RW,,-
+9,Adrià Mercadal,Striker,Centre-Forward,"Mar 21, 2000 ",24,['Spain'],Spain,Menorca,LW,,-
+,Rafa Jiménez,Striker,Centre-Forward,"Jan 11, 2000 ",24,['Spain'],Spain,Villacarrillo,,"1,90",-
+,Dani Moreno,Striker,Centre-Forward,"Mar 30, 2000 ",24,['Spain'],Spain,Algeciras,,"1,94",-
+,Óscar Gómez,Striker,Centre-Forward,"Jul 13, 2000 ",24,['Spain'],Spain,Tarragona,,"1,82",-
+8,Victor Socorro,Striker,Centre-Forward,"Oct 25, 2000 ",23,['Spain'],Spain,Las Palmas de Gran Canaria,,"1,75",-
+,Giuliano Dambone Sessa,Striker,Centre-Forward,N/A ,24,"['Italy', 'Spain']",Spain,Estepona,,"1,88",-
+,Marc Pitarch,Striker,Centre-Forward,"Aug 23, 2000 ",24,['Spain'],Spain,Ares del Maestre,,"1,90",-
+9,José del Valle,Striker,Centre-Forward,"Jan 14, 2000 ",24,['Spain'],Spain,Madrid,,"1,89",-
+,Juanma Bernal,Striker,Centre-Forward,"Feb 18, 2000 ",24,['Spain'],Spain,Sevilla,RW,"1,83",-
+,Nacho Díaz,Striker,Centre-Forward,"Jun 27, 2000 ",24,['Spain'],Spain,Jaén,SS,"1,73",-
+,Moisés Eboko,Striker,Centre-Forward,"Jan 2, 2000 ",24,"['Equatorial Guinea', 'Spain']",Spain,Valencia,RW   LW,"1,80",-
+23,Fabio Moreno Fell,Striker,Centre-Forward,N/A ,24,"['Germany', 'Spain']",Spain,Las Palmas de Gran Canaria,AM,"1,89",-
+14,Sergio Camello,Striker,Centre-Forward,"Feb 10, 2001 ",23,['Spain'],Spain,Madrid,,"1,82",€3.00m
+9,Kevin Carlos,Striker,Centre-Forward,"Apr 10, 2001 ",23,"['Spain', 'Nigeria']",Spain,Ceuta,,"1,86",€2.00m
+18,Pau Víctor,Striker,Centre-Forward,"Nov 26, 2001 ",22,['Spain'],Spain,San Cugat del Vallés,LW   RW,"1,84",€1.50m
+9,Iván Romero,Striker,Centre-Forward,"Apr 10, 2001 ",23,['Spain'],Spain,La Solana,RW   LW,"1,73",€800k
+,Iván Ayllón,Striker,Centre-Forward,"Apr 23, 2001 ",23,['Spain'],Spain,La Seca,RW   LW,"1,75",€400k
+9,Max Svensson,Striker,Centre-Forward,"Nov 8, 2001 ",22,"['Spain', 'Sweden']",Spain,Barcelona,LW,"1,82",€400k
+9,Diego Percan,Striker,Centre-Forward,"Nov 13, 2001 ",22,['Spain'],Spain,León,RW   LW,"1,79",€300k
+37,Musa Drammeh,Striker,Centre-Forward,"Nov 26, 2001 ",22,"['The Gambia', 'Spain']",Spain,Mataró,RW   LW,"1,88",€250k
+9,Álvaro Santamaría,Striker,Centre-Forward,"Nov 7, 2001 ",22,['Spain'],Spain,Gijón,,"1,84",€250k
+9,Maroan Sannadi,Striker,Centre-Forward,"Feb 1, 2001 ",23,"['Spain', 'Morocco']",Spain,Vitoria-Gasteiz,,"1,92",€200k
+17,Dani Fernández,Striker,Centre-Forward,"Aug 31, 2001 ",22,['Spain'],Spain,Soria,LW   RW,"1,77",€200k
+,Marc Tenas,Striker,Centre-Forward,"May 30, 2001 ",23,['Spain'],Spain,Vic,RW,"1,83",€200k
+10,Javi Cueto,Striker,Centre-Forward,"Jan 11, 2001 ",23,['Spain'],Spain,Gijón,,"1,82",€200k
+14,Juanmi Latasa,Striker,Centre-Forward,"Mar 23, 2001 ",23,['Spain'],Spain,Madrid,,"1,92",€2.80m
+9,Álex Forés,Striker,Centre-Forward,"Apr 12, 2001 ",23,['Spain'],Spain,Real de Montroi,,"1,79",€1.50m
+19,Alberto Marí,Striker,Centre-Forward,"Jul 11, 2001 ",23,['Spain'],Spain,Alicante,,"1,83",€1.50m
+9,Mateo Pellegrino,Striker,Centre-Forward,"Oct 22, 2001 ",22,"['Argentina', 'Spain']",Spain,Valencia,,"1,93",€700k
+,Iván Cédric,Striker,Centre-Forward,"Dec 22, 2001 ",22,"['Cameroon', 'Spain']",Spain,Madrid,,"1,87",€400k
+18,Pablo Durán,Striker,Centre-Forward,"May 25, 2001 ",23,['Spain'],Spain,Tomiño,RW   LW,"1,76",€300k
+19,Ekain Azkune,Striker,Centre-Forward,"Jan 26, 2001 ",23,['Spain'],Spain,Errenteria,RW   LW,"1,80",€300k
+16,Dorian Hanza,Striker,Centre-Forward,"May 12, 2001 ",23,"['Equatorial Guinea', 'Spain']",Spain,Fuenlabrada,,"1,89",€250k
+22,Simon Stehle,Striker,Centre-Forward,"Sep 17, 2001 ",22,"['Germany', 'Colombia']",Spain,Valladolid,AM   RW,"1,82",€250k
+11,Jalen Blesa,Striker,Centre-Forward,"Feb 5, 2001 ",23,"['Spain', 'England']",Spain,Barcelona,LW   RW,"1,87",€200k
+,Mati Castillo,Striker,Centre-Forward,"Jul 22, 2001 ",23,['Spain'],Spain,Santander,RW   LW,"1,69",€200k
+,Peru Ruiz,Striker,Centre-Forward,"May 15, 2001 ",23,['Spain'],Spain,Astigarraga,AM   LW,,€200k
+15,Nabil Touaizi,Striker,Centre-Forward,"Feb 1, 2001 ",23,"['Morocco', 'Spain']",Spain,Santomera,LW,"1,83",€200k
+22,Pablo Sáenz,Striker,Centre-Forward,"May 22, 2001 ",23,['Spain'],Spain,San Adrián,SS   LW,"1,75",€150k
+19,Iván Ramos,Striker,Centre-Forward,"Dec 3, 2001 ",22,['Spain'],Spain,Cervera,LW   RW,"1,81",€150k
+21,José Luis Cortés,Striker,Centre-Forward,"Aug 22, 2001 ",23,['Spain'],Spain,Móstoles,,,€150k
+,Kevin Soeiro,Striker,Centre-Forward,"Mar 22, 2001 ",23,['Spain'],Spain,Pitillas,,"1,79",€100k
+20,Carlos Jiménez,Striker,Centre-Forward,"Apr 4, 2001 ",23,['Spain'],Spain,Daimiel,RW   LW,,€50k
+,David Santisteban,Striker,Centre-Forward,"Jun 26, 2001 ",23,['Spain'],Spain,Murcia,,"1,81",€50k
+,Raúl Caballero,Striker,Centre-Forward,"Jan 16, 2001 ",23,['Spain'],Spain,Martos,,"1,78",€50k
+,Adrián Turmo,Striker,Centre-Forward,"Jan 24, 2001 ",23,['Spain'],Spain,Palma de Mallorca,,,€50k
+24,Tomás San Millán,Striker,Centre-Forward,"May 15, 2001 ",23,['Spain'],Spain,Rincón de la Victoria,LW,"1,83",€25k
+,Abdu Washington,Striker,Centre-Forward,"Aug 23, 2001 ",23,"['Spain', 'Liberia']",Spain,Madrid,,"1,83",€25k
+9,Álvaro Sánchez,Striker,Centre-Forward,"Dec 1, 2001 ",22,['Spain'],Spain,Fuengirola,,"1,80",-
+,Roberto Fernández,Striker,Centre-Forward,"Dec 12, 2001 ",22,['Spain'],Spain,Ibiza,RW   SS,,-
+7,Dani Selma,Striker,Centre-Forward,"Mar 1, 2001 ",23,['Spain'],Spain,L'Eliana,LW,"1,86",€150k
+,Jorge Padilla,Striker,Centre-Forward,"Apr 23, 2001 ",23,['Spain'],Spain,Fuerteventura,SS,"1,75",€150k
+,Enol Rodríguez,Striker,Centre-Forward,"Jul 28, 2001 ",23,['Spain'],Spain,Candás,,,€150k
+,Fermín Rodríguez,Striker,Centre-Forward,"Sep 5, 2001 ",22,['Spain'],Spain,València,SS,"1,85",€100k
+,Samu Pérez,Striker,Centre-Forward,"Jun 10, 2001 ",23,['Spain'],Spain,Gijón,,,€100k
+11,Marc Prat,Striker,Centre-Forward,"Apr 23, 2001 ",23,['Spain'],Spain,Huesca,LW   RW,"1,80",€50k
+7,Esteban Aparicio,Striker,Centre-Forward,"May 11, 2001 ",23,['Spain'],Spain,Madrid,RW   LW,"1,79",€50k
+,Ivan Breñé,Striker,Centre-Forward,"Jan 13, 2001 ",23,['Spain'],Spain,Cervera,SS,,€50k
+9,Rubén Azcona,Striker,Centre-Forward,"Mar 12, 2001 ",23,['Spain'],Spain,Andosilla,SS,"1,78",€50k
+,Raúl Tanque,Striker,Centre-Forward,"Jan 31, 2001 ",23,['Spain'],Spain,Navarrés,,,€25k
+9,Lorenzo Bianco,Striker,Centre-Forward,"Jan 18, 2001 ",23,['Spain'],Spain,Las Palmas de Gran Canaria,,,€25k
+9,Kosty,Striker,Centre-Forward,"Mar 28, 2001 ",23,"['Spain', 'Ukraine']",Spain,Madrid,,"1,88",-
+,Iker Villanueva,Striker,Centre-Forward,"Sep 8, 2001 ",22,['Spain'],Spain,Vigo,LW   RW,,-
+17,Roberto Michellod,Striker,Centre-Forward,"Feb 21, 2001 ",23,['Spain'],Spain,Madrid,,"1,88",-
+,Adri Menéndez,Striker,Centre-Forward,"Jun 25, 2001 ",23,['Spain'],Spain,,,,-
+,Nicolás Carlander-Reuterfelt Gallo,Striker,Centre-Forward,"Dec 9, 2001 ",22,"['Spain', 'Sweden']",Spain,Madrid,AM,"1,87",-
+11,Fran Martínez,Striker,Centre-Forward,"Jan 1, 2001 ",23,['Spain'],Spain,Murcia,,,-
+14,Álex García,Striker,Centre-Forward,"Jan 1, 2001 ",23,['Spain'],Spain,Algeciras,,,-
+,Raúl Sáenz,Striker,Centre-Forward,"Feb 21, 2001 ",23,['Spain'],Spain,Logroño,,,-
+,Jon Luna,Striker,Centre-Forward,"Jan 10, 2001 ",23,['Spain'],Spain,Barcelona,SS,"1,83",-
+,Jose Gomez Perez,Striker,Centre-Forward,"Sep 24, 2001 ",22,['Spain'],Spain,Algeciras,,,-
+,Borja Ballesteros,Striker,Centre-Forward,"Nov 19, 2001 ",22,['Spain'],Spain,Málaga,,"1,80",-
+18,Lucas Carbonell,Striker,Centre-Forward,"Apr 24, 2001 ",23,['Spain'],Spain,Silla,,,-
+,John Gopar,Striker,Centre-Forward,"Jul 5, 2001 ",23,['Spain'],Spain,Puerto del Rosario,LW   RW,,-
+,Alex Millán,Striker,Centre-Forward,"May 27, 2001 ",23,['Spain'],Spain,Vigo,LW   RW,,-
+7,Pepe Rincón,Striker,Centre-Forward,"Jun 16, 2001 ",23,['Spain'],Spain,Jerez de la Frontera,,,-
+,Eugenio Carruana,Striker,Centre-Forward,"Aug 13, 2001 ",23,['Spain'],Spain,Jabalquinto,,"1,75",-
+,Arturo Marti,Striker,Centre-Forward,"Feb 7, 2001 ",23,['Spain'],Spain,,SS,"1,85",-
+9,Diego Benito,Striker,Centre-Forward,"Jan 12, 2001 ",23,['Spain'],Spain,Valladolid,SS,,-
+,Miguel Ángel Bolívar,Striker,Centre-Forward,"Nov 21, 2001 ",22,['Spain'],Spain,Cenes de la Vega,,"1,81",-
+18,Óscar Jiménez,Striker,Centre-Forward,"Dec 23, 2001 ",22,['Spain'],Spain,Cádiz,,,-
+,Adri Delgado,Striker,Centre-Forward,"Sep 14, 2001 ",22,['Spain'],Spain,Quesada,,,-
+,Joan Palomino,Striker,Centre-Forward,"Jan 1, 2001 ",23,['Spain'],Spain,Barcelona,,,-
+,David Velázquez,Striker,Centre-Forward,"Sep 24, 2001 ",22,['Spain'],Spain,Alicante,,,-
+,Míchel Maestro,Striker,Centre-Forward,"Aug 12, 2001 ",23,['Spain'],Spain,Valencia,,,-
+,José Antonio Guarch,Striker,Centre-Forward,"Jan 1, 2001 ",23,['Spain'],Spain,Alcobendas,,,-
+9,Diego Fuentes,Striker,Centre-Forward,"Feb 11, 2001 ",23,['Spain'],Spain,Santiago de Compostela,,,-
+9,Martín García,Striker,Centre-Forward,"Jan 1, 2001 ",23,['Spain'],Spain,Quilmas (Carnota),,,-
+,Edu Taboada,Striker,Centre-Forward,"Mar 25, 2001 ",23,['Spain'],Spain,Vite,LW   RW,,-
+,Patri,Striker,Centre-Forward,"Jan 1, 2001 ",23,['Spain'],Spain,Utrera,,,-
+10,Álvaro Monroy,Striker,Centre-Forward,"May 1, 2001 ",23,['Spain'],Spain,Madrid,,"1,83",-
+,Pablo Sopale,Striker,Centre-Forward,"Jul 25, 2001 ",23,"['Equatorial Guinea', 'Spain']",Spain,Madrid,RW   LW,"1,75",-
+9,Jesús Torres,Striker,Centre-Forward,"Aug 29, 2001 ",22,['Spain'],Spain,Valladolid,LW,"1,74",-
+,Aitor Añibarro,Striker,Centre-Forward,"Aug 8, 2001 ",23,['Spain'],Spain,Bilbao,SS,"1,80",-
+,Marc Padilla,Striker,Centre-Forward,"Jul 30, 2001 ",23,['Spain'],Spain,Barcelona,LW,"1,78",-
+,Julián Mahicas,Striker,Centre-Forward,"Jul 14, 2001 ",23,['Spain'],Spain,Masquefa,,"1,80",-
+,Xoel Piñeiro,Striker,Centre-Forward,"Sep 18, 2001 ",22,['Spain'],Spain,Vigo,LW   RW,"1,78",-
+,Jesús Hoyos,Striker,Centre-Forward,"Feb 23, 2001 ",23,['Spain'],Spain,Tarifa,SS,"1,78",-
+20,Iker Burgos,Striker,Centre-Forward,"Oct 17, 2001 ",22,['Spain'],Spain,Bilbao,,"1,86",-
+,Álvaro Martín,Striker,Centre-Forward,"Mar 12, 2001 ",23,['Spain'],Spain,Deusto,SS   RW,"1,75",-
+8,Ernesto Ropa,Striker,Centre-Forward,"May 8, 2001 ",23,"['Equatorial Guinea', 'Spain']",Spain,A Coruña,RW,"1,83",-
+,Roberto Chiscano,Striker,Centre-Forward,"Aug 30, 2001 ",22,['Spain'],Spain,Zafra,RW,"1,77",-
+,Aitor Villar,Striker,Centre-Forward,"Jan 5, 2001 ",23,['Spain'],Spain,Madrid,,,-
+,Adrián Peláez,Striker,Centre-Forward,"Jan 18, 2001 ",23,['Spain'],Spain,Leganés,,"1,78",-
+,Manu Alonso,Striker,Centre-Forward,"Aug 11, 2001 ",23,['Spain'],Spain,Las Cabezas de San Juan,LW   RW,,-
+,Diego Llorente,Striker,Centre-Forward,"Oct 8, 2001 ",22,"['Dominican Republic', 'Spain']",Spain,Almería,,"1,80",-
+,Sergio Rodríguez,Striker,Centre-Forward,"Feb 6, 2001 ",23,['Spain'],Spain,Tarragona,SS   LW,"1,77",-
+,Pablo Ufano,Striker,Centre-Forward,"Apr 26, 2001 ",23,['Spain'],Spain,Barcelona,,,-
+,José Mari Marín,Striker,Centre-Forward,"Jan 17, 2001 ",23,['Spain'],Spain,La Línea de la Concepción,,"1,80",-
+,David Mosquera,Striker,Centre-Forward,"Nov 21, 2001 ",22,['Spain'],Spain,A Coruña,RW,,-
+9,David Cerrillo,Striker,Centre-Forward,"Apr 18, 2001 ",23,['Spain'],Spain,Talavera de la Reina,,"1,81",-
+,Adrián Navajas,Striker,Centre-Forward,"Jul 23, 2001 ",23,['Spain'],Spain,Donostia-San Sebastián,,"1,92",-
+14,Julen González,Striker,Centre-Forward,"Apr 5, 2001 ",23,['Spain'],Spain,Pamplona,,,-
+17,David Hernández,Striker,Centre-Forward,"Mar 29, 2001 ",23,['Spain'],Spain,Bilbao,LW,,-
+,Mario Sánchez,Striker,Centre-Forward,"Jul 20, 2001 ",23,['Spain'],Spain,Palma de Mallorca,,"1,92",-
+,Carlos Martín,Striker,Centre-Forward,"Apr 22, 2002 ",22,['Spain'],Spain,Madrid,RW   LW,"1,80",€3.50m
+19,Jon Karrikaburu,Striker,Centre-Forward,"Sep 19, 2002 ",21,['Spain'],Spain,Elizondo,,"1,83",€2.50m
+17,Pablo Moreno,Striker,Centre-Forward,"May 3, 2002 ",22,['Spain'],Spain,Granada,LW   RW,"1,78",€500k
+9,Jordi Escobar,Striker,Centre-Forward,"Feb 10, 2002 ",22,['Spain'],Spain,Sant Cebrià de Villalta,LW,"1,88",€250k
+10,Santi Miguélez,Striker,Centre-Forward,"Apr 5, 2002 ",22,['Spain'],Spain,Oviedo,LW,,€200k
+,Dani González,Striker,Centre-Forward,"Mar 18, 2002 ",22,['Spain'],Spain,Albacete,LW,"1,89",€200k
+,Gonzalo Serrano,Striker,Centre-Forward,"Apr 23, 2002 ",22,['Spain'],Spain,Requena,SS,"1,88",€150k
+9,Ethyan González,Striker,Centre-Forward,"Jun 6, 2002 ",22,['Spain'],Spain,Santa Cruz de Tenerife,,"1,85",€150k
+19,Álex Rubio,Striker,Centre-Forward,"Jul 25, 2002 ",22,['Spain'],Spain,Colmenar de Oreja,LW   RW,"1,75",€100k
+19,Xabier Sola,Striker,Centre-Forward,"Nov 19, 2002 ",21,['Spain'],Spain,Olite,,"1,82",€100k
+14,Iñigo López,Striker,Centre-Forward,"Apr 27, 2002 ",22,['Spain'],Spain,Derio,RW,"1,86",€100k
+20,Rayco Pérez,Striker,Centre-Forward,"Mar 2, 2002 ",22,['Spain'],Spain,Arrecife,,,€50k
+,Zaki,Striker,Centre-Forward,"Jul 2, 2002 ",22,"['Spain', 'Morocco']",Spain,Melilla,RW   LW,,€50k
+9,Iván Azón,Striker,Centre-Forward,"Dec 24, 2002 ",21,['Spain'],Spain,Zaragoza,,"1,82",€3.00m
+90,Roberto Fernández,Striker,Centre-Forward,"Jul 3, 2002 ",22,['Spain'],Spain,Puente Genil,LW   RW,"1,86",€600k
+27,Slavy,Striker,Centre-Forward,"May 5, 2002 ",22,"['Bulgaria', 'Spain']",Spain,Huesca,,"1,82",€300k
+,Jorge Delgado,Striker,Centre-Forward,"Nov 9, 2002 ",21,['Spain'],Spain,Móstoles,,"1,85",€200k
+9,Marcos Cuenca,Striker,Centre-Forward,"Nov 7, 2002 ",21,['Spain'],Spain,Zaragoza,RW   LW,"1,84",€200k
+9,Eric Iglesias,Striker,Centre-Forward,"Feb 19, 2002 ",22,['Spain'],Spain,Barcelona,,"1,86",€150k
+,Darío Germil,Striker,Centre-Forward,"Jun 27, 2002 ",22,['Spain'],Spain,Santiago de Compostela,,"1,96",€150k
+9,Mamor Niang,Striker,Centre-Forward,"Feb 4, 2002 ",22,['Senegal'],Spain,Madrid,,"1,91",€150k
+,Marcel Ruiz,Striker,Centre-Forward,"Jan 1, 2002 ",22,['Spain'],Spain,Mataró,,"1,72",€100k
+,Diego Talaverón,Striker,Centre-Forward,"Feb 27, 2002 ",22,['Spain'],Spain,Almería,,"1,81",€100k
+18,Victor Sánchez,Striker,Centre-Forward,"May 21, 2002 ",22,['Spain'],Spain,Sevilla,,"1,90",€50k
+9,Dani Sancho,Striker,Centre-Forward,"Jan 30, 2002 ",22,['Spain'],Spain,Pamplona,,"1,88",€50k
+,Diego Lorenzo,Striker,Centre-Forward,"Feb 7, 2002 ",22,['Spain'],Spain,Madrid,,,€50k
+,Sergio Pelayo,Striker,Centre-Forward,"Oct 22, 2002 ",21,['Spain'],Spain,Piélagos,,"1,83",€25k
+,Toni Penyafort,Striker,Centre-Forward,"Feb 20, 2002 ",22,['Spain'],Spain,Palma de Mallorca,RW,"1,84",€25k
+,Pablo Ortiz,Striker,Centre-Forward,"Jun 17, 2002 ",22,['Spain'],Spain,Tomares,RW   SS,"1,91",€25k
+19,Unai Gurpegui,Striker,Centre-Forward,"Jun 12, 2002 ",22,['Spain'],Spain,Mendillorri,,,-
+,Jorge Rodríguez,Striker,Centre-Forward,"Jan 1, 2002 ",22,['Spain'],Spain,Lepe,,,-
+19,José Menor,Striker,Centre-Forward,"Aug 20, 2002 ",22,['Spain'],Spain,Burgos,RW   LW,"1,82",-
+20,Ángel García,Striker,Centre-Forward,"Nov 17, 2002 ",21,['Spain'],Spain,Murcia,SS,"1,80",-
+,Pablo Madrid,Striker,Centre-Forward,"Feb 8, 2002 ",22,['Spain'],Spain,Alzira,LW,,-
+,Cato Santiago,Striker,Centre-Forward,"Mar 15, 2002 ",22,['Spain'],Spain,Roquetas de Mar,,"1,75",-
+,Isa Drammeh,Striker,Centre-Forward,"Jul 18, 2002 ",22,"['Spain', 'The Gambia']",Spain,Santa Coloma de Farners,,"1,98",-
+,Joselu Friaza,Striker,Centre-Forward,"Feb 15, 2002 ",22,['Spain'],Spain,Estepa,RW   LW,"1,92",-
+17,Airam Guzmán,Striker,Centre-Forward,"Jul 31, 2002 ",22,['Spain'],Spain,Santa Cruz de La Palma,RW   LW,,-
+26,Julian Del Rio,Striker,Centre-Forward,"Feb 15, 2002 ",22,"['Gibraltar', 'Spain']",Spain,Malaga,RW   AM,,€50k
+7,Óscar Muñoz,Striker,Centre-Forward,"Aug 3, 2002 ",22,['Spain'],Spain,Villanueva de la Serena,RW,,€25k
+11,Juanma Hernández,Striker,Centre-Forward,"Sep 9, 2002 ",21,['Spain'],Spain,Málaga,,"1,83",€25k
+,Fran López,Striker,Centre-Forward,"Jan 24, 2002 ",22,['Spain'],Spain,Ferrol,,,€25k
+,Daniel Almagro,Striker,Centre-Forward,"Jun 29, 2002 ",22,['Spain'],Spain,Pamplona,,,-
+19,Alejandro Belmonte,Striker,Centre-Forward,"Jul 28, 2002 ",22,['Spain'],Spain,Murcia,SS,"1,90",-
+,Marcos Díaz,Striker,Centre-Forward,"Feb 21, 2002 ",22,['Spain'],Spain,Yecla,SS   LW,"1,80",-
+,Mamobe,Striker,Centre-Forward,"May 3, 2002 ",22,['Spain'],Spain,Calamonte,RW,"1,85",-
+,Joselu Cano,Striker,Centre-Forward,"Jun 20, 2002 ",22,['Spain'],Spain,,SS   LW,,-
+9,Brandon Yarce,Striker,Centre-Forward,"Aug 23, 2002 ",22,['Spain'],Spain,Villar del Arzobispo,,"1,89",-
+9,Abel Calleja,Striker,Centre-Forward,"Feb 5, 2002 ",22,['Spain'],Spain,León,,,-
+,Ayman Amhot,Striker,Centre-Forward,"Jul 21, 2002 ",22,"['Spain', 'Morocco']",Spain,Ibiza,,"1,84",-
+,Izan García,Striker,Centre-Forward,"Dec 12, 2002 ",21,['Spain'],Spain,Gallur,SS,"1,80",-
+,Mohamed Mballo,Striker,Centre-Forward,"Dec 12, 2002 ",21,"['Spain', 'Senegal']",Spain,Breda,,"1,91",-
+,Raúl Fernández,Striker,Centre-Forward,"Sep 1, 2002 ",21,['Spain'],Spain,Maracena,,,-
+,Adrián García,Striker,Centre-Forward,"Apr 30, 2002 ",22,['Spain'],Spain,Salamanca,,"1,76",-
+20,Jerome-Eros Albera,Striker,Centre-Forward,N/A ,22,"['Germany', 'Spain']",Spain,Ibiza,SS,"1,94",-
+21,Diego Pozo,Striker,Centre-Forward,"Jan 7, 2002 ",22,['Spain'],Spain,Logroño,RW   LW,"1,82",-
+9,Manu Toledano,Striker,Centre-Forward,"Jun 5, 2002 ",22,['Spain'],Spain,La Línea de la Concepción,,,-
+,Etienne Eto'o,Striker,Centre-Forward,"Aug 18, 2002 ",22,"['Cameroon', 'Spain']",Spain,Palma de Mallorca,AM,"1,91",-
+,Aleksandar Isailovic,Striker,Centre-Forward,"Oct 1, 2002 ",21,"['Serbia', 'Spain']",Spain,Burgos,,"1,92",-
+19,Sergi Armero,Striker,Centre-Forward,"Apr 22, 2002 ",22,['Spain'],Spain,Lleida,,,-
+,Marvin Kombe,Striker,Centre-Forward,"Aug 5, 2002 ",22,"['Equatorial Guinea', 'Spain']",Spain,Zaragoza,SS,"1,70",-
+10,Dawda Camara,Striker,Centre-Forward,"Nov 4, 2002 ",21,"['Mauritania', 'Mali']",Spain,Banyoles,LW   RW,,-
+20,Rubén Kake,Striker,Centre-Forward,"Mar 1, 2002 ",22,"['Spain', 'Equatorial Guinea']",Spain,Zaragoza,,,-
+,Leandro Herrera,Striker,Centre-Forward,"Jul 10, 2002 ",22,['Spain'],Spain,Torrox,RW   RM,,-
+,Adrián Baroa,Striker,Centre-Forward,"Feb 21, 2002 ",22,['Spain'],Spain,Toledo,,,-
+,Saúl García,Striker,Centre-Forward,"Feb 6, 2002 ",22,['Spain'],Spain,Marbella,,,-
+19,David González,Striker,Centre-Forward,"Mar 8, 2002 ",22,['Spain'],Spain,Arnedo,,"1,86",-
+67,Pau Vidal,Striker,Centre-Forward,"Mar 24, 2002 ",22,['Spain'],Spain,Valencia,,,-
+11,Papi,Striker,Centre-Forward,"Jan 1, 2002 ",22,['Spain'],Spain,Murcia,RW,"1,70",-
+35,Òscar Romero,Striker,Centre-Forward,"Apr 9, 2002 ",22,['Spain'],Spain,Tarragona,,,-
+,Iván Zamorano,Striker,Centre-Forward,"Apr 13, 2002 ",22,['Spain'],Spain,Mallorca,SS   RW,,-
+,Ferran Giner,Striker,Centre-Forward,"Feb 25, 2002 ",22,['Spain'],Spain,Tavernes de la Valldigna,,,-
+19,Mateo Joseph,Striker,Centre-Forward,"Oct 19, 2003 ",20,"['Spain', 'England']",Spain,Santander,,"1,85",€1.20m
+,Diego Morcillo,Striker,Centre-Forward,"Jun 18, 2003 ",21,['Spain'],Spain,Madrid,SS,"1,85",€300k
+18,Aitor Mañas,Striker,Centre-Forward,"Jan 5, 2003 ",21,['Spain'],Spain,Madrid,,"1,85",€250k
+,Víctor Mingo,Striker,Centre-Forward,"Jul 25, 2003 ",21,['Spain'],Spain,Madrid,,,€200k
+,Noel López,Striker,Centre-Forward,"Mar 17, 2003 ",21,['Spain'],Spain,Silleda,RW,"1,82",€200k
+9,Sergi Baldrich,Striker,Centre-Forward,"May 20, 2003 ",21,['Spain'],Spain,Barcelona,SS,"1,80",€200k
+92,Israel Salazar,Striker,Centre-Forward,"May 10, 2003 ",21,['Spain'],Spain,Badajoz,RW   LW,"1,78",€200k
+19,Destiny Ilahude,Striker,Centre-Forward,"Dec 6, 2003 ",20,"['Nigeria', 'Spain']",Spain,Málaga,,"1,83",€150k
+9,Diego Aznar,Striker,Centre-Forward,"Sep 20, 2003 ",20,['Spain'],Spain,Zaragoza,,,€100k
+19,Aimar González,Striker,Centre-Forward,"Sep 4, 2003 ",20,['Spain'],Spain,Agurain,LW,"1,84",€100k
+,Lucas Antañón,Striker,Centre-Forward,"Jun 14, 2003 ",21,['Spain'],Spain,Vigo,,,€50k
+26,Paco Cantal,Striker,Centre-Forward,"Mar 9, 2003 ",21,['Spain'],Spain,Granada,,,€50k
+,Manu Morillo,Striker,Centre-Forward,"Aug 14, 2003 ",21,['Spain'],Spain,Sanlúcar la Mayor,LW   RW,"1,82",€50k
+11,Jorge Pascual,Striker,Centre-Forward,"Apr 9, 2003 ",21,['Spain'],Spain,Almería,,"1,87",€1.00m
+20,Roberto Arroyo,Striker,Centre-Forward,"Aug 25, 2003 ",21,['Spain'],Spain,Valladolid,LW   RW,"1,81",€300k
+29,Alan Godoy,Striker,Centre-Forward,"May 4, 2003 ",21,['Spain'],Spain,Las Palmas,LW   RW,"1,78",€250k
+21,Álvaro Marín,Striker,Centre-Forward,"May 1, 2003 ",21,['Spain'],Spain,Cintruénigo,,"1,87",€200k
+9,Leandro Antonetti,Striker,Centre-Forward,"Jan 13, 2003 ",21,"['Puerto Rico', 'Spain']",Spain,Murcia,LW,"1,89",€200k
+9,Mateo Mejía,Striker,Centre-Forward,"Mar 31, 2003 ",21,"['Colombia', 'Spain']",Spain,Zaragoza,RW,"1,81",€200k
+21,Adrián Peña,Striker,Centre-Forward,"Dec 10, 2003 ",20,"['Bolivia', 'Spain']",Spain,Valladolid,SS   LW,"1,84",€175k
+9,Ibai Sanz,Striker,Centre-Forward,"Aug 13, 2003 ",21,['Spain'],Spain,Barakaldo,,"1,83",€150k
+,Noé Ela,Striker,Centre-Forward,"Apr 17, 2003 ",21,"['Equatorial Guinea', 'Spain']",Spain,Madrid,,"1,85",€100k
+11,Luis Carbonell,Striker,Centre-Forward,"Apr 27, 2003 ",21,['Spain'],Spain,Zaragoza,LW,"1,69",€100k
+,Pimienta,Striker,Centre-Forward,"Sep 24, 2003 ",20,['Spain'],Spain,Tarifa,,,€50k
+,Andoni Arzak,Striker,Centre-Forward,"Feb 21, 2003 ",21,['Spain'],Spain,Donostia-San Sebastián,LW,,€50k
+,Leo dos Reis,Striker,Centre-Forward,"Jan 23, 2003 ",21,"['Spain', 'Brazil']",Spain,Barcelona,,,€50k
+,Izan Fernández,Striker,Centre-Forward,"Nov 19, 2003 ",20,['Spain'],Spain,Málaga,,"1,79",€25k
+9,Joshua Farrell,Striker,Centre-Forward,"Jun 27, 2003 ",21,"['Wales', 'Spain']",Spain,,LW,"1,82",€25k
+,Mario Genovés,Striker,Centre-Forward,"Jan 1, 2003 ",21,['Spain'],Spain,,,,-
+32,Fran Sabina,Striker,Centre-Forward,"Sep 22, 2003 ",20,['Spain'],Spain,Santa Cruz de Tenerife,,"1,80",-
+20,Álex Costa,Striker,Centre-Forward,"Jan 12, 2003 ",21,['Spain'],Spain,Madrid,,"1,89",-
+,Linchao Liu-Zhou,Striker,Centre-Forward,"Mar 20, 2003 ",21,['China'],Spain,,LW   RW,,-
+9,Alex Pérez,Striker,Centre-Forward,"Apr 12, 2003 ",21,['Spain'],Spain,Derio,SS,,-
+,Justo Mena,Striker,Centre-Forward,"Sep 27, 2003 ",20,['Spain'],Spain,Sevilla,RW,"1,88",-
+,Sergi Solans,Striker,Centre-Forward,"Feb 26, 2003 ",21,['Spain'],Spain,Lleida,RW,"1,85",-
+,Marc Perez,Striker,Centre-Forward,"Jun 3, 2003 ",21,['Spain'],Spain,Parets del Vallès,,,-
+,Iván García,Striker,Centre-Forward,"Dec 21, 2003 ",20,['Spain'],Spain,Las Palmas de Gran Canaria,RW   LW,,-
+9,Hugo Puertas Garcia,Striker,Centre-Forward,"Mar 25, 2003 ",21,['Spain'],Spain,Barcelona,SS,"1,86",-
+,Martí Alonso,Striker,Centre-Forward,"Jan 1, 2003 ",21,['Spain'],Spain,Barcelona,,,€25k
+,Iván Estrecha,Striker,Centre-Forward,"Feb 22, 2003 ",21,['Spain'],Spain,Rentería,,,€25k
+7,Alexandro Fernández,Striker,Centre-Forward,"Mar 3, 2003 ",21,['Spain'],Spain,Los Palacios y Villafranca,,"1,80",€25k
+,Jona Jiménez,Striker,Centre-Forward,"Jan 1, 2003 ",21,['Spain'],Spain,Madrid,,"1,83",-
+17,Víctor Gamarra,Striker,Centre-Forward,"Feb 1, 2003 ",21,['Spain'],Spain,Madrid,LW   RW,,-
+27,Viti,Striker,Centre-Forward,"Nov 9, 2003 ",20,['Spain'],Spain,Puerto de la Cruz,,"1,88",-
+,Narek Baghumyan,Striker,Centre-Forward,"Sep 24, 2003 ",20,"['Spain', 'Armenia']",Spain,Madrid,RW,"1,85",-
+,Miguel Barea,Striker,Centre-Forward,"Jul 2, 2003 ",21,['Spain'],Spain,Los Palacios y Villafranca,,,-
+,Hugo Espejo,Striker,Centre-Forward,"Jul 16, 2003 ",21,['Spain'],Spain,Sanlúcar de Barrameda,,,-
+,Luis Gutiérrez,Striker,Centre-Forward,"May 10, 2003 ",21,['Spain'],Spain,Jaén,,,-
+,Marco Gutiérrez,Striker,Centre-Forward,"Apr 27, 2003 ",21,['Spain'],Spain,Santa Cruz de Tenerife,,,-
+,Jesús Ares,Striker,Centre-Forward,"Feb 10, 2003 ",21,['Spain'],Spain,Boiro,,,-
+,Khalid Noureddine,Striker,Centre-Forward,"Mar 18, 2003 ",21,"['Spain', 'Morocco']",Spain,Figueres,,"1,87",-
+7,Hugo Suárez,Striker,Centre-Forward,"Feb 26, 2003 ",21,['Spain'],Spain,La Coruña,RW,,-
+,Adrià González,Striker,Centre-Forward,"Dec 29, 2003 ",20,['Spain'],Spain,Terrassa,,,-
+,Luis Prieto,Striker,Centre-Forward,"Jul 16, 2003 ",21,['Spain'],Spain,Azuaga,LW   RW,"1,87",-
+9,José Pérez,Striker,Centre-Forward,"Apr 28, 2003 ",21,['Spain'],Spain,Ourense,,,-
+,Junior,Striker,Centre-Forward,"Mar 15, 2003 ",21,['Spain'],Spain,Cardedeu,,"1,87",-
+,José Luis Montano,Striker,Centre-Forward,"Jun 9, 2003 ",21,['Spain'],Spain,Bétera,SS   LW,"1,75",-
+20,José Cambra,Striker,Centre-Forward,"Sep 28, 2003 ",20,['Spain'],Spain,Ontinyent,RW   LW,"1,79",-
+,Pablo Gil,Striker,Centre-Forward,"Jan 22, 2003 ",21,['Spain'],Spain,Marbella,,"1,79",-
+9,Xabi Souto,Striker,Centre-Forward,"Jul 28, 2003 ",21,['Spain'],Spain,A Coruña,,,-
+,Luismi de Alba,Striker,Centre-Forward,"Aug 3, 2003 ",21,['Spain'],Spain,Sevilla,,,-
+19,Loren Zúñiga,Striker,Centre-Forward,"Jan 18, 2003 ",21,"['Spain', 'Equatorial Guinea']",Spain,Puerto del Rosario,RW   LW,"1,80",-
+9,Lucas Ricoy,Striker,Centre-Forward,"Jan 18, 2003 ",21,['Spain'],Spain,Madrid,,,-
+,Fran Bolly,Striker,Centre-Forward,"May 28, 2003 ",21,['Spain'],Spain,Alcalá de los Gazules,,,-
+18,Gabriel Jimeno,Striker,Centre-Forward,"Dec 29, 2003 ",20,['Spain'],Spain,Elda,SS,"1,78",-
+18,Saúl Garrido,Striker,Centre-Forward,"Aug 5, 2003 ",21,['Spain'],Spain,,LW,,-
+,Alain Pintor,Striker,Centre-Forward,"Mar 4, 2003 ",21,['Spain'],Spain,,,"1,97",-
+,Samu Guillén,Striker,Centre-Forward,"Apr 16, 2003 ",21,['Spain'],Spain,Valdelacalzada,LW   RW,"1,72",-
+9,Pau Ferrer,Striker,Centre-Forward,"Oct 17, 2003 ",20,['Spain'],Spain,Benicarló,,,-
+11,Rubén Catalá,Striker,Centre-Forward,"Jan 31, 2003 ",21,['Spain'],Spain,Alcoi,RW   LW,"1,90",-
+,Daniel Obadia,Striker,Centre-Forward,"Feb 22, 2003 ",21,['Spain'],Spain,Malaga,RW   LW,"1,86",-
+,Hugo Padín,Striker,Centre-Forward,"Oct 26, 2003 ",20,['Spain'],Spain,Catoira,LW   RW,,-
+9,Loren Sánchez,Striker,Centre-Forward,"Feb 14, 2003 ",21,['Spain'],Spain,Madrid,,"1,87",-
+,Diego Rodríguez,Striker,Centre-Forward,"Nov 13, 2003 ",20,['Spain'],Spain,Jerez de la Frontera,SS,,-
+,Mario Caicedo,Striker,Centre-Forward,"Jun 7, 2003 ",21,['Spain'],Spain,Zaragoza,,"1,73",-
+11,Ismael Adejumo,Striker,Centre-Forward,"Dec 5, 2003 ",20,"['Spain', 'Nigeria']",Spain,León,RW,"1,92",-
+,Diego Alonso,Striker,Centre-Forward,"Jun 4, 2003 ",21,"['Australia', 'Spain']",Spain,,,,-
+18,Alex Jiménez,Striker,Centre-Forward,"Sep 21, 2003 ",20,['Spain'],Spain,Águilas,LW   RW,"1,82",-
+,Andrés García,Striker,Centre-Forward,"Apr 2, 2003 ",21,['Spain'],Spain,Inca,,"1,73",-
+,Erik Bugarín,Striker,Centre-Forward,"May 28, 2003 ",21,"['Spain', 'Colombia']",Spain,Mos,,"1,75",-
+,Erick Salguero,Striker,Centre-Forward,"Oct 26, 2003 ",20,['Spain'],Spain,Sabadell,,,-
+9,Samu Omorodion,Striker,Centre-Forward,"May 5, 2004 ",20,"['Spain', 'Nigeria']",Spain,Melilla,,"1,93",€35.00m
+19,Nacho Ferri,Striker,Centre-Forward,"Oct 5, 2004 ",19,['Spain'],Spain,Montaverner,,"1,92",€2.00m
+9,Adrián Niño,Striker,Centre-Forward,"Jun 19, 2004 ",20,['Spain'],Spain,Rota,LW   RW,"1,84",€500k
+19,Abde Raihani,Striker,Centre-Forward,"Feb 3, 2004 ",20,"['Morocco', 'Spain']",Spain,Barcelona,LW   RW,"1,87",€300k
+11,Pau Sans,Striker,Centre-Forward,"Nov 24, 2004 ",19,['Spain'],Spain,Zaragoza,,"1,77",€200k
+9,Mario Dominguez,Striker,Centre-Forward,"Feb 10, 2004 ",20,['Spain'],Spain,Granada,SS,"1,75",€200k
+9,Jakes Gorosabel,Striker,Centre-Forward,"Jun 29, 2004 ",20,['Spain'],Spain,Donostia-San Sebastián,,,€100k
+22,Fabián Luzzi,Striker,Centre-Forward,"May 18, 2004 ",20,"['Spain', 'Brazil']",Spain,Madrid,,"1,75",€100k
+,Adam Mulele,Striker,Centre-Forward,"Oct 14, 2004 ",19,"['Spain', 'DR Congo']",Spain,Valencia,RW   LW,"1,82",€75k
+18,Hugo Matos,Striker,Centre-Forward,"Feb 7, 2004 ",20,['Spain'],Spain,Santiago de Compostela,,"1,72",€50k
+,Carles Garrido,Striker,Centre-Forward,"Oct 4, 2004 ",19,['Spain'],Spain,Barcelona,,"1,83",€50k
+16,Pedro Méndez,Striker,Centre-Forward,"Jul 27, 2004 ",20,"['Spain', 'Uruguay']",Spain,Santander,,"1,88",€25k
+,Javi Baldobar,Striker,Centre-Forward,"Feb 22, 2004 ",20,['Spain'],Spain,Madrid,,,€25k
+,Álvaro Rodríguez,Striker,Centre-Forward,"Jul 14, 2004 ",20,"['Uruguay', 'Spain']",Spain,Palamós,LW,"1,93",€3.50m
+11,Víctor Barberá,Striker,Centre-Forward,"Aug 20, 2004 ",20,['Spain'],Spain,Barcelona,,"1,77",€700k
+9,Tiziano Correa,Striker,Centre-Forward,"Aug 31, 2004 ",19,"['Uruguay', 'Spain']",Spain,Madrid,,"1,75",€350k
+9,Victor Tellado,Striker,Centre-Forward,"Jan 13, 2004 ",20,['Spain'],Spain,Sevilla,LW   RW,"1,85",€250k
+17,Martín Ochoa,Striker,Centre-Forward,"Dec 20, 2004 ",19,['Spain'],Spain,Logroño,,"1,78",€200k
+,Yago Paredes,Striker,Centre-Forward,"Nov 1, 2004 ",19,['Spain'],Spain,Madrid,,"1,87",€150k
+19,Joselu Pérez,Striker,Centre-Forward,"Mar 12, 2004 ",20,['Spain'],Spain,Villalbilla,,"1,83",€100k
+,Marcos Denia,Striker,Centre-Forward,"Mar 23, 2004 ",20,['Spain'],Spain,Madrid,,,€100k
+,Marcos Sotelo,Striker,Centre-Forward,"Nov 16, 2004 ",19,['Spain'],Spain,Logroño,,,€50k
+9,Ekain Orobengoa,Striker,Centre-Forward,"Jun 17, 2004 ",20,['Spain'],Spain,Oiartzun,LW   RW,,€50k
+,Abraham Nobrega,Striker,Centre-Forward,"Apr 6, 2004 ",20,['Spain'],Spain,Getafe,,"1,79",€50k
+15,Álex Maroto,Striker,Centre-Forward,"Aug 26, 2004 ",19,['Spain'],Spain,Zamarramala,RW   LW,,€25k
+19,Toni Sánchez,Striker,Centre-Forward,"Jan 26, 2004 ",20,['Spain'],Spain,Málaga,,,€25k
+,Michael Borja,Striker,Centre-Forward,"Dec 6, 2004 ",19,['Spain'],Spain,Jimena de la Frontera,AM   LW,,€25k
+,Bil Dornol Nsongo Tonfack,Striker,Centre-Forward,"Sep 21, 2004 ",19,['Cameroon'],Spain,Yaoundé,,,-
+,Adri Villasana,Striker,Centre-Forward,"May 18, 2004 ",20,['Spain'],Spain,Maliaño,,"1,79",-
+,Álex Sánchez,Striker,Centre-Forward,"Sep 3, 2004 ",19,['Spain'],Spain,Ibi,,,-
+,Umaru Konare,Striker,Centre-Forward,"Aug 10, 2004 ",20,"['Spain', 'Mali']",Spain,Monforte del Cid,,,-
+19,Yosmel Zayas,Striker,Centre-Forward,"Apr 5, 2004 ",20,['Spain'],Spain,,,"1,85",-
+,David Cabezas,Striker,Centre-Forward,"Mar 16, 2004 ",20,['Spain'],Spain,Balaguer,,"1,92",-
+,Ian Martínez,Striker,Centre-Forward,"Mar 11, 2004 ",20,['Spain'],Spain,Manresa,,,-
+,Rubén Cortes,Striker,Centre-Forward,"Aug 31, 2004 ",19,['Spain'],Spain,Santoña,LW   RW,,-
+14,Alex Sánchez,Striker,Centre-Forward,"Mar 3, 2004 ",20,['Spain'],Spain,Ibiza,LW   RW,,-
+9,Ekaitz Redondo,Striker,Centre-Forward,"Dec 4, 2004 ",19,['Spain'],Spain,Bilbao,,"1,74",-
+7,Ethan Ventosa,Striker,Centre-Forward,"Feb 11, 2004 ",20,['Spain'],Spain,Burgos,,,-
+19,Aimar Peña,Striker,Centre-Forward,"Jan 6, 2004 ",20,['Spain'],Spain,Elorrio,,,€25k
+20,Denis Cabeza Aguera,Striker,Centre-Forward,"Jun 19, 2004 ",20,['Spain'],Spain,Los Barrios,,,-
+,Ismael Aquino,Striker,Centre-Forward,"Jan 1, 2004 ",20,"['Spain', 'Dominican Republic']",Spain,Madrid,,,-
+,Juan Almeida,Striker,Centre-Forward,"Jan 1, 2004 ",20,['Spain'],Spain,Isla Cristina,SS   LW,,-
+,Alvaro García,Striker,Centre-Forward,"Jul 1, 2004 ",20,['Spain'],Spain,,LW   RW,"1,82",-
+,Gonzaldo Digala,Striker,Centre-Forward,"Feb 9, 2004 ",20,['Spain'],Spain,La Mojonera,,,-
+,Pipe,Striker,Centre-Forward,"Jun 9, 2004 ",20,['Spain'],Spain,Ibiza,LW   RW,"1,76",-
+21,Saúl Domínguez,Striker,Centre-Forward,"Feb 19, 2004 ",20,['Spain'],Spain,Sevilla,,,-
+29,Elías Romero,Striker,Centre-Forward,"May 11, 2004 ",20,['Spain'],Spain,Almería,SS,,-
+,Aaron Cámara,Striker,Centre-Forward,"Jan 1, 2004 ",20,['Spain'],Spain,Haro,,,-
+,Hugo Losada,Striker,Centre-Forward,"Jun 19, 2004 ",20,['Spain'],Spain,Catoira,LW   RW,"1,85",-
+,Álvaro Subisaga,Striker,Centre-Forward,"Nov 13, 2004 ",19,['Spain'],Spain,Colindres,LW,,-
+,Marcos Moraga,Striker,Centre-Forward,"Sep 18, 2004 ",19,['Spain'],Spain,Madrid,,,-
+,Adrián Gallego,Striker,Centre-Forward,"Aug 12, 2004 ",20,['Spain'],Spain,Madrid,,,-
+12,Gabri Martinez,Striker,Centre-Forward,"Oct 11, 2004 ",19,"['Spain', 'Argentina']",Spain,Torrevieja,,,-
+,Mario Fuente,Striker,Centre-Forward,"Jun 19, 2004 ",20,['Spain'],Spain,Oviedo,,"1,80",-
+,Tomás Inglés,Striker,Centre-Forward,"Apr 7, 2004 ",20,['Spain'],Spain,Lorca,,,-
+18,Ángel Carvajal,Striker,Centre-Forward,"Mar 19, 2004 ",20,['Spain'],Spain,Madrid,,"1,80",-
+,Diego Magariño,Striker,Centre-Forward,"Apr 24, 2004 ",20,['Spain'],Spain,Fuenlabrada,,,-
+,Bachu,Striker,Centre-Forward,"Apr 18, 2004 ",20,['Spain'],Spain,Badajoz,,,-
+,Elías Benali,Striker,Centre-Forward,"Nov 4, 2004 ",19,"['Algeria', 'Morocco']",Spain,Alicante,RW,"1,82",-
+,Pablo López,Striker,Centre-Forward,"Jan 12, 2004 ",20,['Spain'],Spain,Jerez de la Frontera,,,-
+,Johan Cereceda,Striker,Centre-Forward,"Apr 8, 2004 ",20,['Spain'],Spain,San Fernando,,,-
+17,Sergio Alonso,Striker,Centre-Forward,"Feb 8, 2004 ",20,['Spain'],Spain,,SS,"1,80",-
+,Manuel di Massimo,Striker,Centre-Forward,"Mar 1, 2004 ",20,['Spain'],Spain,Sevilla,,,-
+,Darius Gherman,Striker,Centre-Forward,"Jun 27, 2004 ",20,['Romania'],Spain,Palafrugell,AM,,-
+,Alejo Tangredi,Striker,Centre-Forward,"Nov 23, 2004 ",19,"['Spain', 'Argentina']",Spain,Madrid,,,-
+23,David López,Striker,Centre-Forward,"Jul 25, 2004 ",20,['Spain'],Spain,León,,,-
+,Sergio Sandoval,Striker,Centre-Forward,"Apr 21, 2004 ",20,['Spain'],Spain,Vilanova del Camí,,"1,66",-
+9,Marcos Moreno,Striker,Centre-Forward,"Feb 14, 2004 ",20,['Spain'],Spain,Albacete,,"1,85",-
+,Alonso Yoldi,Striker,Centre-Forward,"May 13, 2004 ",20,['Spain'],Spain,,,,-
+,Pablo Trigo,Striker,Centre-Forward,"Aug 24, 2004 ",20,['Spain'],Spain,A Coruña,,"1,79",-
+9,Chupete,Striker,Centre-Forward,"Aug 24, 2004 ",20,['Spain'],Spain,Córdoba,,"1,85",-
+20,Xavi Planas,Striker,Centre-Forward,"Jan 15, 2004 ",20,"['Spain', 'Chile']",Spain,Granollers,LW   RW,"1,75",-
+,Siren Diao,Striker,Centre-Forward,"Jan 21, 2005 ",19,"['Spain', 'Senegal']",Spain,Figueres,LW,"1,89",€1.50m
+21,Iker Bravo,Striker,Centre-Forward,"Jan 13, 2005 ",19,['Spain'],Spain,Sant Cugat del Vallès,SS   LW,"1,82",€500k
+23,Kevin Sánchez,Striker,Centre-Forward,"Feb 20, 2005 ",19,['Spain'],Spain,Burgos,RW   AM,,€300k
+25,David Momoh,Striker,Centre-Forward,"Jun 24, 2005 ",19,"['Spain', 'Sierra Leone']",Spain,,LW,"1,83",€25k
+20,Salva Costa,Striker,Centre-Forward,"Apr 18, 2005 ",19,['Spain'],Spain,Barcelona,,,-
+,Mario Cervera,Striker,Centre-Forward,"Oct 25, 2005 ",18,['Spain'],Spain,Valencia,,,-
+7,Solo Traoré,Striker,Centre-Forward,"Nov 24, 2005 ",18,"['Spain', ""Cote d'Ivoire""]",Spain,Sabadell,RW,,-
+,Laken Torres,Striker,Centre-Forward,"Jan 15, 2005 ",19,"['Spain', 'Nigeria']",Spain,Denia,,"1,85",-
+,Arturo Suárez,Striker,Centre-Forward,"Jun 9, 2005 ",19,['Spain'],Spain,León,AM,"1,87",-
+,Sergio Herrero Medina,Striker,Centre-Forward,"May 13, 2005 ",19,"['Spain', 'Iceland']",Spain,,SS   AM,"1,87",-
+20,Bright Prince,Striker,Centre-Forward,"Oct 26, 2005 ",18,"['Nigeria', 'Spain']",Spain,Madrid,,,-
+,Eduardo Hervias,Striker,Centre-Forward,"Jun 2, 2005 ",19,"['Peru', 'Spain']",Spain,Madrid,,"1,73",-
+,Nordin Al Lal,Striker,Centre-Forward,"Feb 14, 2005 ",19,"['Morocco', 'Spain']",Spain,Melilla,,"1,78",-
+12,Eliezer Mayenda,Striker,Centre-Forward,"May 8, 2005 ",19,"['Spain', 'France']",Spain,Zaragoza,RW   LW,"1,80",€700k
+34,Yanis Senhadji,Striker,Centre-Forward,"Jan 5, 2005 ",19,"['Spain', 'Algeria']",Spain,Sant Feliu de Llobregat,,"1,84",€300k
+19,Borja Vázquez,Striker,Centre-Forward,"Jan 18, 2005 ",19,['Spain'],Spain,Jerez de la Frontera,,,€50k
+17,Emmanuel Elekwa,Striker,Centre-Forward,"Jun 11, 2005 ",19,"['Germany', 'Spain']",Spain,,RW   LW,"1,87",€25k
+,Álvaro Gómez,Striker,Centre-Forward,"Jan 4, 2005 ",19,['Spain'],Spain,Doña Mencía,,,-
+,Marcos Rodríguez,Striker,Centre-Forward,"Jan 1, 2005 ",19,['Spain'],Spain,Oviedo,,,-
+,Manu Bielo,Striker,Centre-Forward,"Sep 21, 2005 ",18,"['Spain', 'Equatorial Guinea']",Spain,Getafe,,"1,89",-
+20,Adri López,Striker,Centre-Forward,"Feb 23, 2005 ",19,['Spain'],Spain,Úbeda,,,-
+,Ayman Arguigue,Striker,Centre-Forward,"May 12, 2005 ",19,"['Morocco', 'Spain']",Spain,Carcaixent,,"1,84",-
+26,Marc Palomero,Striker,Centre-Forward,"Mar 28, 2005 ",19,['Spain'],Spain,Burriana,,,-
+,Sergio Neira,Striker,Centre-Forward,"Jun 26, 2005 ",19,['Spain'],Spain,Oviedo,,,-
+7,Carlos Lumbreras,Striker,Centre-Forward,"Feb 20, 2005 ",19,['Spain'],Spain,Sarriguren,,"1,80",-
+,Darío Marcos,Striker,Centre-Forward,"Mar 6, 2005 ",19,['Spain'],Spain,Elche,SS,,-
+,Juanpe Rubio,Striker,Centre-Forward,"Jan 1, 2005 ",19,['Spain'],Spain,Totana,SS,,-
+7,Celso Bermejo,Striker,Centre-Forward,"Jan 9, 2005 ",19,['Spain'],Spain,La línea de la Concepción,,"1,90",-
+,Pablo Castillo,Striker,Centre-Forward,"Feb 19, 2005 ",19,['Spain'],Spain,Armilla,,,-
+,Carlos Espí,Striker,Centre-Forward,"Jul 24, 2005 ",19,['Spain'],Spain,Tavernes de la Valldigna,,"1,94",-
+23,Asier Hierro,Striker,Centre-Forward,"May 6, 2005 ",19,['Spain'],Spain,Basauri,,"1,90",-
+,Alejandro Rapan,Striker,Centre-Forward,"Jul 13, 2005 ",19,['Romania'],Spain,Cuenca,,,-
+,Rachad Fettal,Striker,Centre-Forward,"Jan 16, 2005 ",19,"['Morocco', 'Spain']",Spain,Torre Pacheco,SS,"1,84",-
+92,Miguel Salgado Sanz,Striker,Centre-Forward,"Feb 17, 2005 ",19,"['United Arab Emirates', 'Spain']",Spain,Madrid,RW,"1,88",-
+,Javi Alonso,Striker,Centre-Forward,"Mar 15, 2005 ",19,['Spain'],Spain,Madrid,SS,"1,76",-
+,Iker Gil,Striker,Centre-Forward,"Mar 15, 2005 ",19,['Spain'],Spain,Zaragoza,,"1,71",-
+,David Domínguez,Striker,Centre-Forward,"Jun 25, 2005 ",19,['Spain'],Spain,Cambre,,,-
+,Gabi Salas,Striker,Centre-Forward,"Aug 3, 2005 ",19,['Spain'],Spain,Mallorca,,,-
+18,Pau Cabanes,Striker,Centre-Forward,"Feb 17, 2005 ",19,['Spain'],Spain,Burriana,,"1,79",-
+,Jorge Dalmau,Striker,Centre-Forward,"Feb 26, 2005 ",19,['Spain'],Spain,Alginet,,,-
+20,Txus Vizcay,Striker,Centre-Forward,"Aug 5, 2005 ",19,['Spain'],Spain,Huarte,,"1,86",-
+,Santos Maya,Striker,Centre-Forward,"Jul 7, 2005 ",19,['Spain'],Spain,Madrid,,,-
+,Pola,Striker,Centre-Forward,"Nov 13, 2005 ",18,['Spain'],Spain,Isla Cristina,,,-
+,Antonio Martín,Striker,Centre-Forward,"Apr 4, 2005 ",19,['Spain'],Spain,Villanueva del Trabuco,RW   LW,,-
+,Álvaro Ginés,Striker,Centre-Forward,"Mar 15, 2005 ",19,['Spain'],Spain,Murcia,,"1,77",-
+9,Enrique Herrero,Striker,Centre-Forward,"Jan 28, 2005 ",19,['Spain'],Spain,Lorquí,,"1,73",-
