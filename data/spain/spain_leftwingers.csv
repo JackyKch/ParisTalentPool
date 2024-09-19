@@ -1,0 +1,860 @@
+Number,Name,Main Position,Position,Date of Birth,Age,Nationality,Birth Country,Place of Birth,Other Positions,Height,Market Value
+,Yosef Hamed,Striker,Left Winger,"Jul 4, 1985 ",39,"['Spain', 'Morocco']",Spain,Melilla,,,-
+,Jaime Bauza,Striker,Left Winger,"May 15, 1985 ",39,['Spain'],Spain,Palma de Mallorca,RB   LB,"1,72",-
+,Sergi Masqué,Striker,Left Winger,"Aug 5, 1985 ",39,['Spain'],Spain,Reus,CF   RW,"1,82",-
+,Alain Barrón,Striker,Left Winger,"Nov 18, 1985 ",38,['Spain'],Spain,Vitoria-Gasteiz,RW   AM,"1,76",-
+,Bubú,Striker,Left Winger,"Aug 11, 1985 ",39,['Spain'],Spain,Santander,LB,"1,75",-
+,Toni Coll,Striker,Left Winger,"Jan 23, 1985 ",39,['Spain'],Spain,Lloseta,,"1,71",-
+,Antonio Castells,Striker,Left Winger,"Jun 19, 1985 ",39,['Spain'],Spain,Elche,,"1,73",-
+,Joan Tomás,Striker,Left Winger,"May 17, 1985 ",39,['Spain'],Spain,Girona,AM   CM,"1,67",-
+,Álex Pérez,Striker,Left Winger,"Jan 21, 1985 ",39,['Spain'],Spain,Madrid,,"1,84",-
+,Rafael Rivera,Striker,Left Winger,"Jun 27, 1985 ",39,['Spain'],Spain,Valencia,,N/A,-
+,Rubén Sánchez,Striker,Left Winger,"Jul 3, 1985 ",39,['Spain'],Spain,Elda,,"1,69",-
+,Tete,Striker,Left Winger,"May 26, 1985 ",39,['Spain'],Spain,Badajoz,RW   LB,"1,65",-
+,Daniel Gerika,Striker,Left Winger,"Jun 19, 1985 ",39,['Spain'],Spain,Miranda de Ebro,,"1,65",-
+,Adrián Gisbert,Striker,Left Winger,"Jun 29, 1985 ",39,['Spain'],Spain,,RW,"1,78",-
+,Borja Ramos,Striker,Left Winger,"Jan 14, 1985 ",39,['Spain'],Spain,Las Palmas de Gran Canaria,,"1,83",-
+,Óscar Rico,Striker,Left Winger,"Dec 5, 1985 ",38,['Spain'],Spain,Elche,RW   AM,"1,77",-
+,Jaime Gavilán,Striker,Left Winger,"May 12, 1985 ",39,['Spain'],Spain,Valencia,LM   AM,"1,78",-
+,Jaime Álvarez,Striker,Left Winger,"Feb 4, 1986 ",38,['Spain'],Spain,Oviedo,RW,"1,73",-
+,Jorge Rodríguez,Striker,Left Winger,"Dec 21, 1986 ",37,['Spain'],Spain,Tudela,,,-
+,Ibán Espinosa,Striker,Left Winger,"Oct 30, 1986 ",37,['Spain'],Spain,Mondragón,,"1,80",-
+,Mario Pizarraya,Striker,Left Winger,"Jun 22, 1986 ",38,['Spain'],Spain,Sevilla,,"1,78",-
+,Saúl Berjón,Striker,Left Winger,"May 24, 1986 ",38,['Spain'],Spain,Oviedo,RW,"1,78",-
+10,Álvaro Portilla,Striker,Left Winger,"Apr 28, 1986 ",38,['Spain'],Spain,Madrid,,"1,80",-
+,Nolito,Striker,Left Winger,"Oct 15, 1986 ",37,['Spain'],Spain,Sanlúcar de Barrameda,LM,"1,75",-
+,David de Pablos,Striker,Left Winger,"Apr 1, 1986 ",38,['Spain'],Spain,Zumárraga,,"1,75",-
+,Paco Montañés,Striker,Left Winger,"Oct 8, 1986 ",37,['Spain'],Spain,Castellón de la Plana,RW,"1,72",-
+,Mikel Dañobeitia,Striker,Left Winger,"Mar 5, 1986 ",38,['Spain'],Spain,Barakaldo,,"1,79",-
+7,Pedro Corral,Striker,Left Winger,"Oct 22, 1986 ",37,['Spain'],Spain,Alicún de Ortega,CF,"1,79",-
+,Fran Suárez,Striker,Left Winger,"Feb 11, 1986 ",38,['Spain'],Spain,,CF   RW,"1,76",-
+,Rafita,Striker,Left Winger,"Dec 26, 1986 ",37,['Spain'],Spain,Madrid,,"1,72",-
+,David Meca,Striker,Left Winger,"Jan 4, 1986 ",38,['Spain'],Spain,Águilas,,"1,81",-
+,Juanma,Striker,Left Winger,"Jul 22, 1986 ",38,['Spain'],Spain,Jaén,,"1,70",-
+,Vicente Pérez,Striker,Left Winger,"Jul 11, 1986 ",38,['Spain'],Spain,Aspe,AM,"1,80",-
+,Ferran Tacón,Striker,Left Winger,"Sep 18, 1986 ",38,['Spain'],Spain,Barcelona,RW   AM,"1,76",-
+,Miguel Ángel Nieto,Striker,Left Winger,"Jan 12, 1986 ",38,['Spain'],Spain,San Sebastián de los Reyes,RW,"1,85",-
+,Alejandro Alfaro,Striker,Left Winger,"Nov 23, 1986 ",37,['Spain'],Spain,Huelva,RW   SS,"1,75",-
+,Oskitz Estefanía,Striker,Left Winger,"Oct 12, 1986 ",37,['Spain'],Spain,Pasaia,,"1,68",-
+,Juanmi Callejón,Striker,Left Winger,"Feb 11, 1987 ",37,['Spain'],Spain,Motril,RW   AM,"1,80",€100k
+9,Néstor Querol,Striker,Left Winger,"Sep 21, 1987 ",36,['Spain'],Spain,Castelló de La Plana,,"1,84",-
+,Ismael Luque,Striker,Left Winger,"Feb 24, 1987 ",37,['Spain'],Spain,Sevilla,,"1,70",-
+,Sota,Striker,Left Winger,"Jun 1, 1987 ",37,['Spain'],Spain,Badajoz,RW   AM,"1,67",-
+,Alberto Berna,Striker,Left Winger,"Jun 12, 1987 ",37,['Spain'],Spain,Elche,,"1,73",-
+,Juanjo Clausí,Striker,Left Winger,"Jul 14, 1987 ",37,['Spain'],Spain,Albalat,SS   RW,"1,72",-
+10,Javi Salero,Striker,Left Winger,"Feb 27, 1987 ",37,['Spain'],Spain,Altea,RW,"1,62",-
+,José Manuel Cabrera,Striker,Left Winger,"Feb 10, 1987 ",37,['Spain'],Spain,Ingenio,,"1,75",-
+,Lander Gabilondo,Striker,Left Winger,"Apr 30, 1987 ",37,['Spain'],Spain,Donostia-San Sebastián,RW   AM,"1,74",-
+,Diego Manzano,Striker,Left Winger,"Feb 18, 1987 ",37,['Spain'],Spain,Guadalajara,LB,"1,71",-
+,Aimar Cid,Striker,Left Winger,"Oct 20, 1987 ",36,['Spain'],Spain,Barakaldo,AM   RW,"1,72",-
+,Micro,Striker,Left Winger,"Mar 19, 1987 ",37,['Spain'],Spain,Orihuela,,"1,77",-
+,Dani Benítez,Striker,Left Winger,"Apr 7, 1987 ",37,['Spain'],Spain,Palma de Mallorca,,"1,82",-
+,Diego Ramírez,Striker,Left Winger,"Jun 23, 1987 ",37,['Spain'],Spain,Cádiz,,,-
+,Vicente Ferrer,Striker,Left Winger,"Oct 19, 1987 ",36,['Spain'],Spain,Eivissa,,"1,77",-
+,Isma Quiñones,Striker,Left Winger,"Nov 2, 1987 ",36,['Spain'],Spain,Barcelona,RW,"1,83",-
+,Iñigo Marco,Striker,Left Winger,"Dec 2, 1987 ",36,['Spain'],Spain,Pamplona,,"1,80",-
+,Rubén Carreras,Striker,Left Winger,"May 12, 1987 ",37,['Spain'],Spain,Mahón,,"1,76",-
+5,Juanito de la Cruz,Striker,Left Winger,"Sep 10, 1987 ",37,['Spain'],Spain,Salvatierra de los Barros,,"1,79",-
+,Iñaki Toledo,Striker,Left Winger,"Apr 27, 1987 ",37,['Spain'],Spain,Calahorra,,"1,77",-
+,Charly,Striker,Left Winger,"Feb 8, 1987 ",37,['Spain'],Spain,Almenara,RW,"1,74",-
+,Blas Vílchez,Striker,Left Winger,"Jul 11, 1987 ",37,['Spain'],Spain,Castellbell i el Vilar,RW   CF,"1,80",-
+,Herbert,Striker,Left Winger,"Mar 13, 1987 ",37,['Spain'],Spain,Riveira,,"1,69",-
+,Jaime Ramírez,Striker,Left Winger,"Jan 15, 1987 ",37,['Spain'],Spain,Vera (Cáceres),,"1,69",-
+21,Ivi Vales,Striker,Left Winger,"Oct 25, 1987 ",36,['Spain'],Spain,Ponferrada,CF   RW,"1,76",-
+,Ibai Ardanaz,Striker,Left Winger,"Apr 26, 1987 ",37,['Spain'],Spain,Pamplona,RW   AM,"1,75",-
+10,Urko Arroyo,Striker,Left Winger,"May 14, 1987 ",37,['Spain'],Spain,Bilbao,RW,"1,70",-
+,Dani Gail,Striker,Left Winger,"Jul 18, 1987 ",37,['Spain'],Spain,Sevilla la Nueva,,"1,78",-
+7,David Ferreiro,Striker,Left Winger,"Apr 1, 1988 ",36,['Spain'],Spain,Ourense,RW,"1,70",€150k
+21,Mario Hidalgo,Striker,Left Winger,"Sep 30, 1988 ",35,['Spain'],Spain,Ávila,,"1,79",-
+11,Juan Gómez,Striker,Left Winger,"Feb 15, 1988 ",36,['Spain'],Spain,Aznalcazar,RW,"1,76",-
+,Salvi,Striker,Left Winger,"Jul 23, 1988 ",36,['Spain'],Spain,Málaga,AM,"1,72",-
+,Ramón Párraga,Striker,Left Winger,"Aug 24, 1988 ",36,['Spain'],Spain,Fuente Camacho,LB   AM,"1,76",-
+,Fermín Uriz,Striker,Left Winger,"May 21, 1988 ",36,['Spain'],Spain,Pamplona,,"1,78",-
+,Adri Ruiz,Striker,Left Winger,"Aug 21, 1988 ",36,['Spain'],Spain,Málaga,,"1,65",-
+,Yosimar González,Striker,Left Winger,"May 31, 1988 ",36,['Spain'],Spain,Tegueste (Tenerife),,"1,78",-
+,David López,Striker,Left Winger,"Feb 5, 1988 ",36,['Spain'],Spain,Granollers,LB,"1,78",-
+,Cristian Alonso,Striker,Left Winger,"Feb 13, 1988 ",36,['Spain'],Spain,Gijón,,,-
+,Tito,Striker,Left Winger,"Jul 2, 1988 ",36,['Spain'],Spain,Alcalá de Henares,,"1,77",-
+,Jorge Molino,Striker,Left Winger,"Mar 4, 1988 ",36,['Spain'],Spain,Madrid,SS   RW,"1,82",-
+,Jony Lomas,Striker,Left Winger,"Feb 21, 1988 ",36,['Spain'],Spain,Sitges,,"1,74",-
+17,David Romo,Striker,Left Winger,"Oct 6, 1988 ",35,['Spain'],Spain,,,,-
+,Hugo Sanmartín,Striker,Left Winger,"Nov 7, 1988 ",35,['Spain'],Spain,Vigo,CF   RW,"1,65",-
+,Carlos Rodríguez,Striker,Left Winger,"Feb 17, 1988 ",36,['Spain'],Spain,Elche de la Sierra,,,-
+,Ferran Giner,Striker,Left Winger,"Sep 27, 1988 ",35,['Spain'],Spain,Alboraya,,"1,76",-
+,Perico,Striker,Left Winger,"May 14, 1988 ",36,['Spain'],Spain,Albacete,,"1,70",-
+,Aimar Gulín,Striker,Left Winger,"Sep 2, 1988 ",36,['Spain'],Spain,Vitoria-Gasteiz,,"1,75",-
+,Rubén Quesada,Striker,Left Winger,"Aug 20, 1988 ",36,['Spain'],Spain,Las Palmas de Gran Canaria,LB,"1,87",-
+,Javi Fernández,Striker,Left Winger,"Feb 22, 1988 ",36,['Spain'],Spain,Torre del Mar,AM   RW,"1,71",-
+,Xavier Annunziata,Striker,Left Winger,"Aug 31, 1988 ",36,['Spain'],Spain,Santa Cruz de Tenerife,CF,"1,80",-
+,Ibon Enziondo,Striker,Left Winger,"Sep 27, 1988 ",35,['Spain'],Spain,Bilbao,RW,"1,79",-
+,José Javier Mínguez,Striker,Left Winger,"Mar 31, 1988 ",36,['Spain'],Spain,Alcázar de San Juan,,"1,74",-
+8,Óscar Martín,Striker,Left Winger,"Sep 9, 1988 ",36,['Spain'],Spain,Arrecife,,"1,75",-
+,Juan Antonio Leiva,Striker,Left Winger,"Jun 4, 1988 ",36,['Spain'],Spain,Jerez de la Frontera,,"1,81",-
+,Diego Capel,Striker,Left Winger,"Feb 16, 1988 ",36,['Spain'],Spain,Albox,RW,"1,73",-
+,Carles Coto,Striker,Left Winger,"Feb 11, 1988 ",36,['Spain'],Spain,Figueres,RW   CM,"1,73",-
+10,Fidel,Striker,Left Winger,"Oct 27, 1989 ",34,['Spain'],Spain,Dehesa de Riotinto,RW   AM,"1,80",€600k
+10,Hugo Rodríguez,Striker,Left Winger,"Dec 30, 1989 ",34,['Spain'],Spain,Jerez de la Frontera,RW   AM,"1,81",€150k
+,Luis Enrique Ruiz,Striker,Left Winger,"Dec 22, 1989 ",34,['Spain'],Spain,Gijón,,,-
+9,Alexandre Rodríguez,Striker,Left Winger,"Jun 27, 1989 ",35,['Spain'],Spain,Castellón,,"1,70",-
+,Nils Puchades,Striker,Left Winger,"Dec 24, 1989 ",34,"['Spain', 'Sweden']",Spain,Sant Pol de Mar,RW   LB,,-
+,Chema,Striker,Left Winger,"Apr 13, 1989 ",35,['Spain'],Spain,Las Palmas de Gran Canaria,SS   CF,,-
+,Luis Ángel Curra,Striker,Left Winger,"Jun 16, 1989 ",35,['Spain'],Spain,Vecindario,,"1,71",-
+,Fito Miranda,Striker,Left Winger,"Oct 14, 1989 ",34,['Spain'],Spain,Barcelona,RW   SS,"1,84",-
+,Imanol Mentxaka,Striker,Left Winger,"Jan 9, 1989 ",35,['Spain'],Spain,Leioa,LB,"1,72",-
+,Omar Monterde,Striker,Left Winger,"Mar 24, 1989 ",35,['Spain'],Spain,Valencia,AM   RW,"1,72",-
+,Gerard Badía,Striker,Left Winger,"Oct 18, 1989 ",34,['Spain'],Spain,Horta de Sant Joan,AM   RW,"1,74",-
+,Riki Navarro,Striker,Left Winger,"Feb 19, 1989 ",35,['Spain'],Spain,Gijón,RW   SS,"1,70",-
+15,Abel Molinero,Striker,Left Winger,"Apr 28, 1989 ",35,['Spain'],Spain,Madrid,SS,"1,79",-
+7,Álex González,Striker,Left Winger,"Aug 2, 1989 ",35,['Spain'],Spain,Vernejo,RW   LB,"1,78",€150k
+,Vitolo,Striker,Left Winger,"Nov 2, 1989 ",34,['Spain'],Spain,Las Palmas de Gran Canaria,RW,"1,84",€100k
+,Rober Fernández,Striker,Left Winger,"Sep 19, 1989 ",35,['Spain'],Spain,O Porriño,,,-
+,Daniel González,Striker,Left Winger,"Dec 6, 1989 ",34,['Spain'],Spain,La Línea de la Concepción,LM   LB,,-
+,Jorge Fidalgo,Striker,Left Winger,"Apr 8, 1989 ",35,['Spain'],Spain,Gijón,,,-
+,Manu Moreira,Striker,Left Winger,"Jun 26, 1989 ",35,['Spain'],Spain,Salamanca,RW,"1,78",-
+,Rubén Cosín,Striker,Left Winger,"Jul 2, 1989 ",35,['Spain'],Spain,Valencia,LB,"1,69",-
+,Cristian Lobato,Striker,Left Winger,"Mar 7, 1989 ",35,['Spain'],Spain,Esparreguera,RW,"1,74",-
+,Ibai Gómez,Striker,Left Winger,"Nov 11, 1989 ",34,['Spain'],Spain,Bilbao,RW,"1,78",-
+,Adrián Barba,Striker,Left Winger,"Jan 3, 1989 ",35,['Spain'],Spain,Zaragoza,AM   RW,"1,69",-
+,Dani García,Striker,Left Winger,"Mar 25, 1989 ",35,['Spain'],Spain,Dénia,,"1,76",-
+,Diego Chamorro,Striker,Left Winger,"Oct 30, 1989 ",34,['Spain'],Spain,Oviedo,,"1,84",-
+,Walter Fernández,Striker,Left Winger,"Aug 14, 1989 ",35,['Spain'],Spain,Barcelona,RW,"1,73",-
+,Luisma Villa,Striker,Left Winger,"Aug 11, 1989 ",35,['Spain'],Spain,Noja,RW   SS,"1,81",-
+21,Rubén Sánchez,Striker,Left Winger,"Jan 21, 1989 ",35,['Spain'],Spain,Albacete,,"1,84",-
+,Sergio García,Striker,Left Winger,"Aug 8, 1989 ",35,['Spain'],Spain,Zamora,RW   CF,"1,72",-
+14,Elady Zorrilla,Striker,Left Winger,"Jul 13, 1990 ",34,['Spain'],Spain,La Puerta de Segura,CF   RW,"1,76",€500k
+7,Héber Pena,Striker,Left Winger,"Jan 16, 1990 ",34,['Spain'],Spain,Ferrol,RW,"1,76",€300k
+22,Adrián Sardinero,Striker,Left Winger,"Oct 13, 1990 ",33,['Spain'],Spain,Madrid,RW   CF,"1,75",€100k
+,Chepe,Striker,Left Winger,"Jul 16, 1990 ",34,['Spain'],Spain,Castro-Urdiales,,"1,77",-
+,Bruju,Striker,Left Winger,"Sep 28, 1990 ",33,['Spain'],Spain,Burgos,,,-
+,Alberto Oca,Striker,Left Winger,"Nov 17, 1990 ",33,['Spain'],Spain,Almansa,AM   RW,"1,84",-
+,Miguel Soto,Striker,Left Winger,"Oct 22, 1990 ",33,['Spain'],Spain,Córdoba,,,-
+14,Jonatan Romero,Striker,Left Winger,"Sep 14, 1990 ",34,['Spain'],Spain,Peñaranda de Bracamonte,RW,"1,70",-
+11,Fran Minaya,Striker,Left Winger,"Feb 16, 1990 ",34,['Spain'],Spain,Murcia,AM   RW,,-
+,Perico,Striker,Left Winger,"Sep 14, 1990 ",34,['Spain'],Spain,Águilas,RW,"1,65",-
+,Álvaro Cano,Striker,Left Winger,"May 8, 1990 ",34,['Spain'],Spain,Madrid,RW   CF,"1,76",-
+,Luis Carlos Martín,Striker,Left Winger,"Dec 16, 1990 ",33,['Spain'],Spain,Valladolid,,"1,69",-
+,Dani Cara,Striker,Left Winger,"Apr 25, 1990 ",34,['Spain'],Spain,El Ejido,RW,"1,71",-
+,Alberto Perea,Striker,Left Winger,"Dec 19, 1990 ",33,['Spain'],Spain,Albacete,RW   AM,"1,80",€450k
+11,Marc Fernández,Striker,Left Winger,"Apr 29, 1990 ",34,['Spain'],Spain,Corbera de Llobregat,RW   CF,"1,79",€200k
+,Josu Ozkoidi,Striker,Left Winger,"Apr 23, 1990 ",34,['Spain'],Spain,Donostia-San Sebastián,LB,"1,71",€50k
+,Paco Collados,Striker,Left Winger,"Apr 22, 1990 ",34,['Spain'],Spain,Albacete,,,-
+,Juanjo Gracia,Striker,Left Winger,"Jan 18, 1990 ",34,['Spain'],Spain,Ciudad Real,,,-
+,Kike Domínguez,Striker,Left Winger,"Sep 21, 1990 ",33,['Spain'],Spain,Albacete,,"1,78",-
+,Isaac Maldonado,Striker,Left Winger,"Jan 11, 1990 ",34,['Spain'],Spain,Granollers,RW,,-
+10,Valdivia,Striker,Left Winger,"Jan 27, 1990 ",34,['Spain'],Spain,Puertollano,RW   CF,,-
+,Zule,Striker,Left Winger,"Mar 14, 1990 ",34,['Spain'],Spain,Málaga,,"1,90",-
+,Adrián Terré,Striker,Left Winger,"Jun 29, 1990 ",34,['Spain'],Spain,Zaragoza,,"1,73",-
+,David Infante,Striker,Left Winger,"Nov 9, 1990 ",33,['Spain'],Spain,Barakaldo,RW   AM,"1,77",-
+,Carlos Pereira,Striker,Left Winger,"Mar 6, 1990 ",34,['Spain'],Spain,Vigo,AM,,-
+,Sergio García,Striker,Left Winger,"Mar 18, 1990 ",34,['Spain'],Spain,Santander,SS   RW,"1,81",-
+,Raúl Chueca,Striker,Left Winger,"Nov 29, 1990 ",33,['Spain'],Spain,Buñuel,,"1,88",-
+14,Eneko Eizmendi,Striker,Left Winger,"Jun 10, 1990 ",34,['Spain'],Spain,Beasain,RW,"1,74",-
+,Andreas Laudrup,Striker,Left Winger,"Nov 10, 1990 ",33,['Denmark'],Spain,Barcelona,RW,"1,75",-
+37,Cristian Tello,Striker,Left Winger,"Aug 11, 1991 ",33,['Spain'],Spain,Sabadell,RW   CF,"1,78",€2.30m
+17,Jesús Alfaro,Striker,Left Winger,"Jun 24, 1991 ",33,['Spain'],Spain,La Palma del Condado,RW,"1,70",€225k
+,Fran Carnicer,Striker,Left Winger,"Mar 30, 1991 ",33,['Spain'],Spain,Linares,RW   AM,"1,78",€150k
+7,José Ramón,Striker,Left Winger,"Dec 31, 1991 ",32,['Spain'],Spain,Ciudad Real,RW,"1,80",€50k
+,Francisco Nieto,Striker,Left Winger,"Mar 19, 1991 ",33,['Spain'],Spain,La Línea de la Concepción,,,-
+,Semi Ramírez,Striker,Left Winger,"Nov 28, 1991 ",32,['Spain'],Spain,Rincón de la Victoria,,"1,74",-
+,Jonay López,Striker,Left Winger,"Jan 17, 1991 ",33,['Spain'],Spain,San Roque,,,-
+7,Jordi Vidal,Striker,Left Winger,"Feb 7, 1991 ",33,['Spain'],Spain,Arrecife,AM   RW,"1,70",-
+,Markel Salgado,Striker,Left Winger,"May 28, 1991 ",33,['Spain'],Spain,Deba,RW   AM,"1,80",-
+,Antonio Abenza,Striker,Left Winger,"Mar 20, 1991 ",33,['Spain'],Spain,Murcia,RW   RB,"1,82",-
+,Raúl Sintes,Striker,Left Winger,"Apr 11, 1991 ",33,['Spain'],Spain,Mahón,,"1,83",-
+,Javi Rodríguez,Striker,Left Winger,"Sep 28, 1991 ",32,['Spain'],Spain,Zamora,RW   AM,"1,75",-
+,Richi,Striker,Left Winger,"Jan 27, 1991 ",33,['Spain'],Spain,Monforte de Lemos,,"1,72",-
+7,Jorge Félix,Striker,Left Winger,"Aug 22, 1991 ",33,['Spain'],Spain,Madrid,AM   CF,"1,75",€300k
+,Jony,Striker,Left Winger,"Jul 9, 1991 ",33,['Spain'],Spain,Cangas de Narcea,,"1,79",€200k
+18,Toni García,Striker,Left Winger,"Aug 7, 1991 ",33,['Spain'],Spain,Écija,RW   AM,"1,74",€150k
+,Juanjo,Striker,Left Winger,"Jan 5, 1991 ",33,['Spain'],Spain,Guadiaro,,,-
+,Cristian Sánchez,Striker,Left Winger,"Nov 11, 1991 ",32,['Spain'],Spain,Crevillente,RW   SS,"1,84",-
+,Luis Daniel Lebrero,Striker,Left Winger,"Oct 25, 1991 ",32,['Spain'],Spain,San Fernando,,,-
+,Omar,Striker,Left Winger,"Oct 11, 1991 ",32,['Spain'],Spain,"Abanilla, Murcia",LB   RW,"1,72",-
+,Dani Ponce,Striker,Left Winger,"May 16, 1991 ",33,['Spain'],Spain,Torrejon de Ardoz,RW   AM,"1,83",-
+,Martín González,Striker,Left Winger,"Nov 8, 1991 ",32,['Spain'],Spain,Santiago de Compostela,,"1,82",-
+,Daniel Montero,Striker,Left Winger,"Feb 19, 1991 ",33,['Spain'],Spain,Zaragoza,,"1,69",-
+,Juanma Barba,Striker,Left Winger,"Jun 8, 1991 ",33,['Spain'],Spain,Sanlúcar de Barrameda,,,-
+10,Peter Rios-Pfannenschmidt,Striker,Left Winger,N/A ,33,['Brazil'],Spain,Madrid,AM   RW,"1,84",-
+,Rubén Arce,Striker,Left Winger,"Feb 7, 1991 ",33,['Spain'],Spain,Barbadás,,,-
+18,Miguel García,Striker,Left Winger,"Apr 17, 1991 ",33,['Spain'],Spain,Huelma (Jaén),RW   AM,"1,78",-
+,Moussa Bandeh,Striker,Left Winger,"Aug 2, 1991 ",33,"['Spain', 'The Gambia']",Spain,Mataró,LB,"1,89",-
+,Aitor Ramírez,Striker,Left Winger,"May 13, 1991 ",33,['Spain'],Spain,Ibiza,RW,"1,70",-
+,Borja Docal,Striker,Left Winger,"Oct 3, 1991 ",32,['Spain'],Spain,Santander,LB,"1,74",-
+7,Txomin Barcina,Striker,Left Winger,"Feb 16, 1991 ",33,['Spain'],Spain,Logroño,SS   RW,"1,71",-
+,Arnau Tobella,Striker,Left Winger,"Oct 28, 1991 ",32,['Spain'],Spain,Barcelona,LB,,-
+,Víctor Armero,Striker,Left Winger,"May 18, 1991 ",33,['Spain'],Spain,Almuñécar,RW   AM,"1,82",-
+,Zurdo,Striker,Left Winger,"Jan 23, 1991 ",33,['Spain'],Spain,Burgos,AM   CM,"1,72",-
+,Isaac Cuenca,Striker,Left Winger,"Apr 27, 1991 ",33,['Spain'],Spain,Reus,LM   RW,"1,78",-
+11,Mario Martos,Striker,Left Winger,"Nov 14, 1991 ",32,['Spain'],Spain,Jaén,RW   SS,"1,75",-
+,David Moreno,Striker,Left Winger,"Jan 24, 1991 ",33,['Spain'],Spain,Madrid,RW   AM,"1,73",-
+18,Álvaro García,Striker,Left Winger,"Oct 27, 1992 ",31,['Spain'],Spain,Utrera,RW,"1,67",€3.00m
+10,Álex Gallar,Striker,Left Winger,"Mar 19, 1992 ",32,['Spain'],Spain,Sabadell,RW,"1,78",€600k
+11,Fran Carbià,Striker,Left Winger,"Mar 31, 1992 ",32,['Spain'],Spain,Tarragona,CF   RW,"1,73",€200k
+24,Juanma Acevedo,Striker,Left Winger,"Mar 24, 1992 ",32,['Spain'],Spain,Sant Vicent del Raspeig,,"1,78",€100k
+20,Álex Poves,Striker,Left Winger,"Mar 9, 1992 ",32,['Spain'],Spain,Pallejà,RW   SS,,€50k
+11,Manuel León,Striker,Left Winger,"Dec 22, 1992 ",31,['Spain'],Spain,Hinojosa del Duque,,,-
+,Alberto Robles,Striker,Left Winger,"Dec 5, 1992 ",31,['Spain'],Spain,Murcia,,"1,80",-
+,Abri Pomares,Striker,Left Winger,"Sep 13, 1992 ",32,['Spain'],Spain,Punta Umbria,SS   RW,,-
+,Víctor Martínez,Striker,Left Winger,"Sep 10, 1992 ",32,['Spain'],Spain,Burgos,,,-
+,Abraham Arcos,Striker,Left Winger,"Aug 27, 1992 ",32,['Spain'],Spain,Umbrete,RW   SS,"1,78",-
+,Joselinho,Striker,Left Winger,"May 10, 1992 ",32,['Spain'],Spain,Málaga,AM   RW,"1,78",-
+,Dani Rodríguez,Striker,Left Winger,"Nov 26, 1992 ",31,"['Spain', 'Morocco']",Spain,Huelva,AM   RW,"1,74",-
+,Jesús Sánchez,Striker,Left Winger,"Oct 25, 1992 ",31,['Spain'],Spain,Elche,,,-
+11,Pere Milla,Striker,Left Winger,"Sep 23, 1992 ",31,['Spain'],Spain,Lleida,CF   SS,"1,80",€2.40m
+34,Iker Guarrotxena,Striker,Left Winger,"Dec 6, 1992 ",31,['Spain'],Spain,Bilbao,CF   RW,"1,77",€400k
+,José Fran,Striker,Left Winger,"Jun 1, 1992 ",32,['Spain'],Spain,Santa Pola,,"1,77",€100k
+18,Dani Pichín,Striker,Left Winger,"Apr 25, 1992 ",32,['Spain'],Spain,Madrid,RW   SS,"1,62",€100k
+,Alvarito,Striker,Left Winger,"Aug 23, 1992 ",32,['Spain'],Spain,San Roque,LM   LB,,-
+,Adri Domínguez,Striker,Left Winger,"Feb 7, 1992 ",32,['Spain'],Spain,L´Eliana,CF   RW,"1,81",-
+23,Vitolo,Striker,Left Winger,"Oct 8, 1992 ",31,['Spain'],Spain,Las Palmas de Gran Canaria,AM,,-
+,Mario Garcia Agulla,Striker,Left Winger,"Nov 23, 1992 ",31,"['Switzerland', 'Spain']",Spain,,SS   AM,"1,75",-
+,Joan Luque,Striker,Left Winger,"Jun 16, 1992 ",32,['Spain'],Spain,Barcelona,RW,"1,86",-
+10,Miguel Blanco,Striker,Left Winger,"Jun 2, 1992 ",32,['Spain'],Spain,Palencia,,"1,80",-
+,Samuel Riesco,Striker,Left Winger,"Jun 13, 1992 ",32,['Spain'],Spain,Gijón,,,-
+,Nil Paniello,Striker,Left Winger,"Jul 5, 1992 ",32,['Spain'],Spain,Eivissa,,"1,72",-
+,Adrián Rojo,Striker,Left Winger,"Feb 23, 1992 ",32,['Spain'],Spain,León,,"1,78",-
+,Eric Reverter,Striker,Left Winger,"Jan 7, 1992 ",32,['Spain'],Spain,Sabadell,,"1,77",-
+,Jorge Fernández,Striker,Left Winger,"Feb 3, 1992 ",32,['Spain'],Spain,Cuenca,RW,"1,70",-
+7,Diego Rey,Striker,Left Winger,"Jul 27, 1992 ",32,['Spain'],Spain,Lugo,,"1,71",-
+,Pablo Navas,Striker,Left Winger,"Feb 4, 1992 ",32,['Spain'],Spain,La Carlota,AM   LB,"1,76",-
+,Jesús Cañizares,Striker,Left Winger,"Apr 21, 1992 ",32,['Spain'],Spain,As Pontes,SS,"1,76",-
+,Adrián Martínez,Striker,Left Winger,"Mar 8, 1992 ",32,['Spain'],Spain,A Coruña,LB   RW,"1,75",-
+,Ignasi Dalmedo,Striker,Left Winger,"Dec 4, 1992 ",31,['Spain'],Spain,Maó,,"1,74",-
+,Iñaki de Esteban,Striker,Left Winger,"Mar 25, 1992 ",32,['Spain'],Spain,Pamplona,,,-
+,Adrià Carmona,Striker,Left Winger,"Feb 8, 1992 ",32,['Spain'],Spain,Igualada,AM,"1,71",-
+22,Ayoze Pérez,Striker,Left Winger,"Jul 29, 1993 ",31,['Spain'],Spain,Santa Cruz de Tenerife,CF   SS,"1,78",€7.00m
+22,Luis Rioja,Striker,Left Winger,"Oct 16, 1993 ",30,['Spain'],Spain,Sevilla,RW,"1,76",€4.00m
+,Jesé,Striker,Left Winger,"Feb 26, 1993 ",31,['Spain'],Spain,Las Palmas de Gran Canaria,CF   RW,"1,78",€700k
+,Santi Moar,Striker,Left Winger,"Sep 5, 1993 ",31,['Spain'],Spain,Ordes,RW,"1,73",€150k
+,Mawi Sánchez,Striker,Left Winger,"Apr 26, 1993 ",31,['Spain'],Spain,Chiclana de la Frontera,RW   CF,"1,74",€100k
+10,Juanito Sánchez,Striker,Left Winger,"Nov 20, 1993 ",30,['Spain'],Spain,Coria del Río,RW   SS,"1,75",€50k
+,Pablo Gállego,Striker,Left Winger,"Oct 1, 1993 ",30,"['Nicaragua', 'Spain']",Spain,Huesca,RW,"1,74",€50k
+,Agustín Butrón,Striker,Left Winger,"Jan 17, 1993 ",31,['Spain'],Spain,Chiclana de la Frontera,SS,,-
+6,Guillem Hernández,Striker,Left Winger,"Nov 4, 1993 ",30,['Spain'],Spain,Barcelona,,,-
+,Adán Sánchez Lobatón,Striker,Left Winger,"Jan 1, 1993 ",31,['Spain'],Spain,La Línea de la Concepción,AM   CM,,-
+,Carlos Siscar,Striker,Left Winger,"Nov 26, 1993 ",30,['Spain'],Spain,València,RW,,-
+,Ortiz,Striker,Left Winger,"Dec 6, 1993 ",30,['Spain'],Spain,Malaga,AM,,-
+,Beñat Alberdi,Striker,Left Winger,"Jan 23, 1993 ",31,['Spain'],Spain,Durango,RW,,-
+7,Juanmi,Striker,Left Winger,"May 20, 1993 ",31,['Spain'],Spain,Coín,RW   CF,"1,72",€6.00m
+20,Jairo Izquierdo,Striker,Left Winger,"Oct 22, 1993 ",30,['Spain'],Spain,Santa Cruz de Tenerife,RW   LB,"1,65",€800k
+,Alain Oyarzun,Striker,Left Winger,"Sep 27, 1993 ",30,['Spain'],Spain,Donostia-San Sebastián,LB,"1,83",€300k
+11,Jon Madrazo,Striker,Left Winger,"Jan 15, 1993 ",31,['Spain'],Spain,Ortuella,RW,"1,77",€150k
+7,Jesús Ayala,Striker,Left Winger,"Nov 16, 1993 ",30,['Spain'],Spain,Algeciras,,,€75k
+17,Juanca Olmedo,Striker,Left Winger,"Dec 14, 1993 ",30,['Spain'],Spain,Algeciras,,"1,67",€50k
+,Carlos Cora Blanco,Striker,Left Winger,"Sep 18, 1993 ",31,['Spain'],Spain,Pontevedra,RW   SS,"1,78",-
+17,Álex Matos,Striker,Left Winger,"Jul 26, 1993 ",31,['Spain'],Spain,León,LB,,-
+9,Chuchi,Striker,Left Winger,"Apr 14, 1993 ",31,['Spain'],Spain,Santo Domingo de la Calzada,,,-
+,Cris Alonso,Striker,Left Winger,"Apr 26, 1993 ",31,['Spain'],Spain,Gijón,,,-
+,Achraf Charaf,Striker,Left Winger,"Mar 23, 1993 ",31,"['Spain', 'Morocco']",Spain,Logroño,,,-
+,Cristóbal Atienza,Striker,Left Winger,"May 13, 1993 ",31,['Spain'],Spain,Barcelona,RW   SS,"1,75",-
+,Álex Peque,Striker,Left Winger,"Oct 26, 1993 ",30,['Spain'],Spain,Albudeite,RW,"1,78",-
+,Sergio Olmeda,Striker,Left Winger,"Oct 25, 1993 ",30,['Spain'],Spain,Palma de Mallorca,,,-
+,Luis Nuño,Striker,Left Winger,"Jul 10, 1993 ",31,['Spain'],Spain,Avilés,CF   RW,,-
+,Zubi,Striker,Left Winger,"May 21, 1993 ",31,['Spain'],Spain,Cáceres,,"1,81",-
+,Óscar Pardavila,Striker,Left Winger,"Feb 26, 1993 ",31,['Spain'],Spain,Vigo,SS   RW,"1,75",-
+,Pablo García,Striker,Left Winger,"Jan 4, 1993 ",31,['Spain'],Spain,Valencia,,,-
+,Chakir,Striker,Left Winger,"May 24, 1993 ",31,"['Morocco', 'Spain']",Spain,Ceuta,,,-
+,Burgui,Striker,Left Winger,"Oct 29, 1993 ",30,['Spain'],Spain,Burguillos del Cerro,RW   AM,"1,86",-
+,Rubén Ramiro,Striker,Left Winger,"Apr 16, 1993 ",31,['Spain'],Spain,Madrid,RW,,-
+,Samuel Tomillero,Striker,Left Winger,"Jul 12, 1993 ",31,['Spain'],Spain,Sant Antoni de Portmany,,,-
+,Roger Canadell,Striker,Left Winger,"Jan 21, 1993 ",31,['Spain'],Spain,Lleida,SS   LB,"1,66",-
+,Joaquín Martín,Striker,Left Winger,"Apr 17, 1993 ",31,['Spain'],Spain,Segovia,,"1,78",-
+,Deivid,Striker,Left Winger,"Oct 31, 1993 ",30,['Spain'],Spain,Valencia,RW   CF,"1,76",-
+,Pablo Moreno,Striker,Left Winger,"Jan 27, 1993 ",31,['Spain'],Spain,Zaragoza,,"1,75",-
+,Eric Llopis,Striker,Left Winger,"Aug 31, 1993 ",31,['Spain'],Spain,Binéfar,,,-
+,Sergio Payá,Striker,Left Winger,"Jun 8, 1993 ",31,['Spain'],Spain,Yecla,,,-
+,Pablo Balerdi,Striker,Left Winger,"May 22, 1993 ",31,['Spain'],Spain,Donostia-San Sebastián,SS   CF,"1,79",-
+10,Nacho Huertas,Striker,Left Winger,"Dec 16, 1993 ",30,['Spain'],Spain,Quintanar de la Orden,RW,"1,80",-
+,Iván Sales,Striker,Left Winger,"Nov 25, 1993 ",30,['Spain'],Spain,Castellón,RW,"1,76",-
+,Alfonso Cuéllar,Striker,Left Winger,"Feb 9, 1993 ",31,['Spain'],Spain,Fuente del Maestre,,,-
+10,Josu Currais,Striker,Left Winger,"Feb 27, 1993 ",31,['Spain'],Spain,Langreo,AM   LB,"1,76",-
+,Jesjua Cruyff,Striker,Left Winger,"Mar 11, 1993 ",31,"['Spain', 'Netherlands']",Spain,Barcelona,LB,"1,80",-
+16,Moi Gómez,Striker,Left Winger,"Jun 23, 1994 ",30,['Spain'],Spain,Rojales,AM   RW,"1,76",€3.50m
+7,Dani Ojeda,Striker,Left Winger,"Dec 3, 1994 ",29,['Spain'],Spain,Las Palmas de Gran Canaria,RW   CF,"1,78",€1.20m
+11,Davo,Striker,Left Winger,"Dec 18, 1994 ",29,['Spain'],Spain,Luarca,RW   SS,"1,78",€500k
+10,Leandro Martínez,Striker,Left Winger,"Jul 7, 1994 ",30,['Spain'],Spain,Colindres,RW   CF,"1,75",€300k
+10,Borja Martínez,Striker,Left Winger,"Mar 2, 1994 ",30,['Spain'],Spain,Alicante,,"1,77",€250k
+18,Juan Hernández,Striker,Left Winger,"Dec 6, 1994 ",29,['Spain'],Spain,Lorca,RW   CF,"1,77",€200k
+15,Roberto Alarcón,Striker,Left Winger,"Apr 14, 1994 ",30,['Spain'],Spain,Murcia,RW   LB,"1,78",€200k
+17,Iñigo Alayeto,Striker,Left Winger,"Jan 15, 1994 ",30,['Spain'],Spain,Murchante,,"1,80",€150k
+21,Alfonso Fernández,Striker,Left Winger,"Nov 25, 1994 ",29,['Spain'],Spain,Motril,LB,"1,79",€50k
+,Adri Romero,Striker,Left Winger,"May 19, 1994 ",30,['Spain'],Spain,Sanlúcar de Barrameda,,,-
+,Dani Reales,Striker,Left Winger,"Aug 20, 1994 ",30,['Spain'],Spain,Rota,,"1,83",-
+,Nico González,Striker,Left Winger,"Nov 4, 1994 ",29,['Spain'],Spain,Jaén,,"1,74",-
+9,Unai Carrera,Striker,Left Winger,"Oct 17, 1994 ",29,['Spain'],Spain,,CM,,-
+33,Aitor García,Striker,Left Winger,"Mar 25, 1994 ",30,['Spain'],Spain,Gibraleón,RW,"1,73",€1.80m
+19,José Naranjo,Striker,Left Winger,"Jul 28, 1994 ",30,['Spain'],Spain,Rociana del Condado,CF   RW,"1,87",€700k
+,Álvaro Vadillo,Striker,Left Winger,"Sep 12, 1994 ",30,['Spain'],Spain,Puerto Real,RW,"1,80",€400k
+,Iván Garrido,Striker,Left Winger,"Nov 1, 1994 ",29,['Spain'],Spain,Calahorra,RW,"1,74",€275k
+7,Loren Burón,Striker,Left Winger,"Oct 6, 1994 ",29,['Spain'],Spain,Puente Genil,RW,"1,70",€200k
+10,Diego Suárez,Striker,Left Winger,"Oct 10, 1994 ",29,['Spain'],Spain,Zaragoza,CF,"1,85",€200k
+91,Víctor Blasco,Striker,Left Winger,"Jul 1, 1994 ",30,['Spain'],Spain,Barcelona,RW   CF,"1,78",€175k
+,Jesús Tamayo,Striker,Left Winger,"Nov 20, 1994 ",29,['Spain'],Spain,Madrid,RW   SS,"1,79",€100k
+,Kilian Grant,Striker,Left Winger,"May 18, 1994 ",30,['Spain'],Spain,Figueres,RB   LW,"1,80",€10k
+11,Jesús Díaz,Striker,Left Winger,"Dec 13, 1994 ",29,['Spain'],Spain,Málaga,,,-
+20,Juankar Martínez,Striker,Left Winger,"Feb 3, 1994 ",30,['Spain'],Spain,Torreblascopedro,,,-
+,Nando Sánchez,Striker,Left Winger,"Feb 26, 1994 ",30,['Spain'],Spain,Vigo,RW,,-
+7,Iván Bueno,Striker,Left Winger,"Oct 8, 1994 ",29,['Spain'],Spain,Móstoles,RW   SS,"1,78",-
+,Rubén Martínez,Striker,Left Winger,"Oct 28, 1994 ",29,['Spain'],Spain,Vilagarcía de Arousa,,,-
+11,Gorka Ezkiaga,Striker,Left Winger,"Jun 11, 1994 ",30,['Spain'],Spain,Zizur,RW,,-
+,Adri González,Striker,Left Winger,"Dec 12, 1994 ",29,['Spain'],Spain,Badajoz,RW,"1,75",-
+15,David Moreno,Striker,Left Winger,"Feb 15, 1994 ",30,['Spain'],Spain,Granada,RW,"1,77",-
+,Álex Gómez,Striker,Left Winger,"Apr 9, 1994 ",30,['Spain'],Spain,Salamanca,,,-
+,Adrián Llama,Striker,Left Winger,"Sep 27, 1994 ",29,['Spain'],Spain,Cuchía,,"1,63",-
+,Chori Pérez,Striker,Left Winger,"Jul 21, 1994 ",30,['Spain'],Spain,Cáceres,,,-
+,Pruden Sáez,Striker,Left Winger,"Jul 26, 1994 ",30,['Spain'],Spain,Valencia,,"1,74",-
+11,Carlos Cuenca,Striker,Left Winger,"Mar 10, 1994 ",30,['Spain'],Spain,Puerto Real,CF,,-
+,Sergi Gestí,Striker,Left Winger,"Feb 14, 1994 ",30,['Spain'],Spain,Valls,,,-
+,Joselu Rodríguez,Striker,Left Winger,"Mar 18, 1994 ",30,['Spain'],Spain,Granada,RW   SS,"1,76",-
+,Cristian Reyes,Striker,Left Winger,"Apr 9, 1994 ",30,['Spain'],Spain,Algeciras,,"1,68",-
+,Diego Martón,Striker,Left Winger,"Jun 2, 1994 ",30,['Spain'],Spain,Villafranca,,,-
+,Koke,Striker,Left Winger,"Jun 7, 1994 ",30,['Spain'],Spain,Madrid,,"1,75",-
+,Jon Etxaburu,Striker,Left Winger,"Apr 7, 1994 ",30,['Spain'],Spain,Ondarroa,RW,"1,86",-
+,Oki,Striker,Left Winger,"Jan 7, 1994 ",30,['Spain'],Spain,Bueu,RW,,-
+,Víctor Fernández,Striker,Left Winger,"Feb 1, 1994 ",30,['Spain'],Spain,Zaragoza,CM,"1,75",-
+,Álvaro Garrido,Striker,Left Winger,"Oct 19, 1994 ",29,['Spain'],Spain,Bornos,RW,,-
+,Sergio Carrallo,Striker,Left Winger,"Sep 28, 1994 ",29,['Spain'],Spain,Madrid,LM   RW,"1,83",-
+,Sergio Santolaya,Striker,Left Winger,"Apr 13, 1994 ",30,['Spain'],Spain,Logroño,,"1,72",-
+11,Alberto Pareja,Striker,Left Winger,"Jan 1, 1994 ",30,['Spain'],Spain,Palma de Mallorca,,,-
+7,Álex Berenguer,Striker,Left Winger,"Jul 4, 1995 ",29,['Spain'],Spain,Barañain,RW   AM,"1,75",€12.00m
+19,Toni Villa,Striker,Left Winger,"Jan 7, 1995 ",29,['Spain'],Spain,Lorquí,AM   RW,"1,72",€1.50m
+18,Martín Merquelanz,Striker,Left Winger,"Jun 12, 1995 ",29,['Spain'],Spain,Irun,RW,"1,76",€600k
+21,Nacho Gil,Striker,Left Winger,"Sep 9, 1995 ",29,['Spain'],Spain,Valencia,RW,"1,70",€450k
+22,Isi Ros,Striker,Left Winger,"Nov 6, 1995 ",28,['Spain'],Spain,Torres de Cotillas,CF   RW,"1,68",€250k
+15,Álvaro Bustos,Striker,Left Winger,"Jun 26, 1995 ",29,['Spain'],Spain,Gijón,LB,"1,75",€250k
+11,Santi Samanes,Striker,Left Winger,"Jul 28, 1995 ",29,['Spain'],Spain,Berriozar,RW,"1,76",€200k
+15,Nahuel Arroyo,Striker,Left Winger,"Mar 26, 1995 ",29,['Spain'],Spain,Santa Cristina d'Aro,RW,"1,80",€150k
+11,Ander Pacheco,Striker,Left Winger,"Dec 6, 1995 ",28,['Spain'],Spain,Aramaio,CF   RW,"1,83",€100k
+7,Juanje Argüez,Striker,Left Winger,"Apr 4, 1995 ",29,['Spain'],Spain,La Línea de la Concepción,RW   AM,"1,67",€100k
+10,Jordi Betriu,Striker,Left Winger,"Jun 29, 1995 ",29,['Spain'],Spain,Coll de Nargó,,,€10k
+,Boris Casas,Striker,Left Winger,"Nov 18, 1995 ",28,['Spain'],Spain,Esplugues de Llobregat,,,-
+,Kiko Pastor,Striker,Left Winger,"Apr 7, 1995 ",29,['Spain'],Spain,Córdoba,,,-
+20,José Manuel Arnáiz,Striker,Left Winger,"Apr 15, 1995 ",29,['Spain'],Spain,Talavera de la Reina,RW   CF,"1,73",€2.00m
+17,Waldo Rubio,Striker,Left Winger,"Aug 17, 1995 ",29,['Spain'],Spain,Badajoz,RW   CF,"1,83",€700k
+11,Benito Ramírez,Striker,Left Winger,"Jul 11, 1995 ",29,['Spain'],Spain,La Aldea de San Nicolás,RW   LB,"1,79",€600k
+23,Cristian Carracedo,Striker,Left Winger,"Nov 30, 1995 ",28,['Spain'],Spain,L'Hospitalet de Llobregat,RW,"1,79",€400k
+11,Aitor Seguín,Striker,Left Winger,"Feb 27, 1995 ",29,['Spain'],Spain,Eibar,LB,"1,80",€250k
+7,Jordi Cano,Striker,Left Winger,"Apr 1, 1995 ",29,['Spain'],Spain,Barcelona,CF,,€200k
+21,Manu Viana,Striker,Left Winger,"Jun 16, 1995 ",29,['Spain'],Spain,Valencia,LB,"1,70",€200k
+,Juanpe Sánchez,Striker,Left Winger,"Aug 1, 1995 ",29,['Spain'],Spain,La Haba,LB,"1,75",€100k
+11,Pepe Carmona,Striker,Left Winger,"Feb 17, 1995 ",29,['Spain'],Spain,Jerez de la Frontera,RW   AM,"1,79",€100k
+28,Alexis Sánchez,Striker,Left Winger,"Dec 12, 1995 ",28,['Spain'],Spain,Algeciras,RW,"1,71",€50k
+,Juli Hernández,Striker,Left Winger,"Jul 25, 1995 ",29,['Spain'],Spain,Ávila,CF   RW,"1,76",-
+20,Álex Caramelo,Striker,Left Winger,"Feb 21, 1995 ",29,['Spain'],Spain,Donostia-San Sebastián,RW,,-
+11,Martí Prera,Striker,Left Winger,"Nov 1, 1995 ",28,['Spain'],Spain,Vila-real,,"1,75",-
+10,Juan Carlos Fernández,Striker,Left Winger,"Oct 10, 1995 ",28,['Spain'],Spain,El Palo,RW   AM,"1,87",-
+11,Dani Gómez,Striker,Left Winger,"Sep 21, 1995 ",28,['Spain'],Spain,Haro,RW   AM,,-
+,Diego Rozas,Striker,Left Winger,"Feb 5, 1995 ",29,['Spain'],Spain,Cicero,LB,"1,81",-
+,Xiscu Martínez,Striker,Left Winger,"Mar 6, 1995 ",29,['Spain'],Spain,Ciutadella de Menorca,,,-
+,Ricardo Hernández,Striker,Left Winger,"Sep 11, 1995 ",29,['Spain'],Spain,Santa Cruz de La Palma,LB,,-
+,Manu Heredia,Striker,Left Winger,"Jan 12, 1995 ",29,['Spain'],Spain,Jerez de la Frontera,,,-
+,Jorge Somavilla,Striker,Left Winger,"Mar 26, 1995 ",29,['Spain'],Spain,Escobedo de Camargo,,"1,78",-
+,Richard Tenreiro,Striker,Left Winger,"Mar 3, 1995 ",29,['Spain'],Spain,San Sebastián,,,-
+7,James Boriko,Striker,Left Winger,"Jul 5, 1995 ",29,"['Equatorial Guinea', 'Spain']",Spain,Palma de Mallorca,RW,"1,72",-
+,David Colomer,Striker,Left Winger,"Feb 10, 1995 ",29,['Spain'],Spain,Castellón,SS   RW,"1,74",-
+8,Jorge Gómez,Striker,Left Winger,"Sep 11, 1995 ",29,['Spain'],Spain,Talavera,CF,,-
+,Francisco Vela,Striker,Left Winger,"Jun 19, 1995 ",29,['Spain'],Spain,Málaga,RW,"1,74",-
+,Dani Salvatierra,Striker,Left Winger,"Nov 23, 1995 ",28,['Spain'],Spain,Granada,RW   LB,"1,89",-
+19,Gonzalo Zamorano,Striker,Left Winger,"Jun 11, 1995 ",29,['Spain'],Spain,Madrid,RW   CF,"1,74",-
+,Sergio Madrigal,Striker,Left Winger,"Jan 13, 1995 ",29,['Spain'],Spain,Soria,,,-
+23,Miguelinho,Striker,Left Winger,"Feb 10, 1995 ",29,['Spain'],Spain,Palma de Mallorca,RW   CF,"1,74",-
+,Antonio Urenda,Striker,Left Winger,"Dec 27, 1995 ",28,['Spain'],Spain,La Linea de la Concepción,RW   SS,"1,75",-
+,Antón Vilas,Striker,Left Winger,"Jun 6, 1995 ",29,['Spain'],Spain,Vigo,,,-
+,Benjamín Rayos,Striker,Left Winger,"Jan 25, 1995 ",29,['Spain'],Spain,San Isidro,CF,"1,83",-
+,Mario Capelete,Striker,Left Winger,"Apr 1, 1995 ",29,['Spain'],Spain,San Sebastián,RW,"1,77",-
+,Jesús Planelles,Striker,Left Winger,"Mar 30, 1995 ",29,['Spain'],Spain,Crevillente,LB   RW,"1,69",-
+,Ranchero,Striker,Left Winger,"Apr 23, 1995 ",29,['Spain'],Spain,Lebrija,CF,,-
+,Aarón Acevedo,Striker,Left Winger,"Mar 21, 1995 ",29,['Spain'],Spain,Cullera,RW,"1,76",-
+,Julen Uriguen,Striker,Left Winger,"Feb 4, 1995 ",29,['Spain'],Spain,Gernika,,"1,76",-
+,Carlos Cap,Striker,Left Winger,"May 12, 1995 ",29,['Spain'],Spain,Zaragoza,RW,"1,77",-
+,Agoney González,Striker,Left Winger,"Feb 7, 1995 ",29,['Spain'],Spain,Gáldar,RW,"1,74",-
+7,Tete Morente,Striker,Left Winger,"Dec 4, 1996 ",27,['Spain'],Spain,La Línea de la Concepción,RW,"1,84",€2.50m
+7,Pejiño,Striker,Left Winger,"Jul 29, 1996 ",28,['Spain'],Spain,Barbate (Cádiz),RW   CF,"1,78",€1.20m
+10,Borja Sánchez,Striker,Left Winger,"Feb 26, 1996 ",28,['Spain'],Spain,Oviedo,AM,"1,86",€1.00m
+7,Álvaro Romero,Striker,Left Winger,"May 12, 1996 ",28,['Spain'],Spain,Sevilla,RW   SS,"1,67",€300k
+11,Álex Mula,Striker,Left Winger,"Jul 23, 1996 ",28,['Spain'],Spain,Barcelona,RW,"1,78",€250k
+7,Adri Carrasco,Striker,Left Winger,"Oct 1, 1996 ",27,['Spain'],Spain,Torres de la Alameda,SS   RW,"1,78",€200k
+,Ignacio Abeledo,Striker,Left Winger,"Jan 5, 1996 ",28,['Spain'],Spain,Huelva,RW,"1,82",€200k
+20,Álvaro Salinas,Striker,Left Winger,"Jan 10, 1996 ",28,['Spain'],Spain,Murcia,RW   AM,,€150k
+14,Liberto Beltrán,Striker,Left Winger,"Dec 26, 1996 ",27,['Spain'],Spain,Castellón de La Plana,SS   RW,"1,71",€150k
+17,Jurgi Oteo,Striker,Left Winger,"Aug 29, 1996 ",28,['Spain'],Spain,Barakaldo,RW   SS,"1,71",€150k
+10,Alberto Quintana,Striker,Left Winger,"Apr 29, 1996 ",28,['Spain'],Spain,Cádiz,AM   CM,"1,72",€50k
+,Ginés,Striker,Left Winger,"Feb 28, 1996 ",28,['Spain'],Spain,Orihuela,SS   RW,"1,73",-
+,Rober,Striker,Left Winger,"Jan 17, 1996 ",28,['Spain'],Spain,Sanxenxo,CM   LB,,-
+11,José Carlos Lazo,Striker,Left Winger,"Feb 16, 1996 ",28,['Spain'],Spain,Sanlúcar de Barrameda,RW,"1,78",€1.50m
+7,Roger Brugué,Striker,Left Winger,"Nov 4, 1996 ",27,['Spain'],Spain,Bàscara,RW   CF,"1,74",€1.00m
+21,Sito,Striker,Left Winger,"Nov 18, 1996 ",27,['Spain'],Spain,Alcoi,RW,"1,80",€350k
+11,Carlos Doncel,Striker,Left Winger,"Dec 4, 1996 ",27,['Spain'],Spain,Cabrera de Mar,LB,"1,67",€300k
+20,Ignacio Tellechea,Striker,Left Winger,"Oct 11, 1996 ",27,['Spain'],Spain,Madrid,CF   RW,,€200k
+7,Colau,Striker,Left Winger,"Aug 29, 1996 ",28,['Spain'],Spain,Faura,RW,"1,76",€200k
+7,David Aparicio,Striker,Left Winger,"Jun 26, 1996 ",28,['Spain'],Spain,Zaragoza,RW,"1,73",€150k
+7,Unai Hernández,Striker,Left Winger,"Apr 2, 1996 ",28,['Spain'],Spain,Santander,RW   RB,"1,63",€150k
+21,Sergio García,Striker,Left Winger,"Dec 27, 1996 ",27,['Spain'],Spain,Rota,LB,"1,82",€150k
+7,Pedro Obama,Striker,Left Winger,"Aug 15, 1996 ",28,"['Spain', 'Equatorial Guinea']",Spain,Madrid,CF   LM,"1,81",€50k
+,Julio Delgado,Striker,Left Winger,"Jan 28, 1996 ",28,['Spain'],Spain,Burela,RW,"1,69",€25k
+,Guille Estévez,Striker,Left Winger,"Aug 12, 1996 ",28,['Spain'],Spain,Fuengirola,LB,,-
+,Jorge Fajardo,Striker,Left Winger,"Aug 13, 1996 ",28,['Spain'],Spain,Vilagarcía de Arousa,LB,,-
+,Antonio Iglesias,Striker,Left Winger,"May 14, 1996 ",28,['Spain'],Spain,Galisteo,,,-
+14,Borja Íñiguez,Striker,Left Winger,"Jan 10, 1996 ",28,['Spain'],Spain,Ayora,,,-
+,Jorge Cayarga,Striker,Left Winger,"Sep 17, 1996 ",28,['Spain'],Spain,Avilés,RW   AM,,-
+,David Salido,Striker,Left Winger,"Oct 9, 1996 ",27,['Spain'],Spain,Linares,,"1,76",-
+19,Abdelhadi Khalok,Striker,Left Winger,"Dec 26, 1996 ",27,"['Spain', 'Morocco']",Spain,Conil de la Frontera,,"1,76",-
+,Dylan Hernández,Striker,Left Winger,"Apr 20, 1996 ",28,['Spain'],Spain,Santa Cruz de La Palma,RW,,-
+,Kaarlo Parkkinen,Striker,Left Winger,"Apr 1, 1996 ",28,"['Finland', 'Spain']",Spain,,AM   RW,"1,80",-
+,Juanan Entrena,Striker,Left Winger,"May 19, 1996 ",28,['Spain'],Spain,Huétor Tájar,RW,"1,83",-
+,Roque Sáiz,Striker,Left Winger,"Aug 22, 1996 ",28,['Spain'],Spain,Quintanar del Rey,,,-
+,Pedrito,Striker,Left Winger,"Oct 4, 1996 ",27,['Spain'],Spain,La Línea de la Concepción,,"1,65",-
+11,David Segura,Striker,Left Winger,"Nov 11, 1996 ",27,['Spain'],Spain,Los Palacios,RW,"1,75",-
+,Jesús Cabañas,Striker,Left Winger,"Dec 23, 1996 ",27,['Spain'],Spain,Illescas,RW,,-
+,Lucca Heineke,Striker,Left Winger,N/A ,28,"['Germany', 'Spain']",Spain,Madrid,RW,"1,82",-
+,Siro López,Striker,Left Winger,"Mar 25, 1996 ",28,['Spain'],Spain,Madrid,,"1,84",-
+18,Álvaro Navarro,Striker,Left Winger,"Aug 23, 1996 ",28,['Spain'],Spain,Pamplona,,,-
+,Javi García,Striker,Left Winger,"Jun 23, 1996 ",28,['Spain'],Spain,Alicante,RW,"1,79",-
+14,Manu Fuster,Striker,Left Winger,"Oct 22, 1997 ",26,['Spain'],Spain,Valencia,AM,"1,69",€2.40m
+22,Javi Ontiveros,Striker,Left Winger,"Sep 9, 1997 ",27,['Spain'],Spain,Marbella,RW   AM,"1,75",€1.40m
+10,Mario Mourelo,Striker,Left Winger,"Jan 3, 1997 ",27,['Spain'],Spain,Lugo,,"1,76",€250k
+,Aarón Piñán,Striker,Left Winger,"Jul 12, 1997 ",27,['Spain'],Spain,León,RW,"1,80",€250k
+15,Dani Vega,Striker,Left Winger,"Jan 11, 1997 ",27,['Spain'],Spain,Mérida,RW   SS,"1,76",€250k
+11,Javi Pedrosa,Striker,Left Winger,"Sep 27, 1997 ",26,['Spain'],Spain,Murcia,RW,"1,77",€200k
+22,Carlos González,Striker,Left Winger,"May 20, 1997 ",27,['Spain'],Spain,Santa Lucía de Tirajana,,,€200k
+,Joel del Pino,Striker,Left Winger,"Nov 22, 1997 ",26,['Spain'],Spain,Las Palmas de Gran Canaria,LB,"1,70",€150k
+30,Ali El Harrak,Striker,Left Winger,"Jul 31, 1997 ",27,"['Morocco', 'Spain']",Spain,"Mataró, Barcelona",RW,,€125k
+11,Juanan Gallego,Striker,Left Winger,"Aug 23, 1997 ",27,['Spain'],Spain,Sabadell,LB,,€100k
+,Miguel Garci,Striker,Left Winger,"May 14, 1997 ",27,['Spain'],Spain,Madrid,,"1,80",€100k
+,Alberto Rubio,Striker,Left Winger,"Feb 26, 1997 ",27,['Spain'],Spain,Elche,RW   SS,"1,74",€50k
+11,Pol Benito,Striker,Left Winger,"Oct 22, 1997 ",26,['Spain'],Spain,Reus,,"1,73",-
+21,Iñigo Córdoba,Striker,Left Winger,"Mar 13, 1997 ",27,['Spain'],Spain,Bilbao,RW,"1,78",€1.50m
+10,Raúl Sánchez,Striker,Left Winger,"Nov 8, 1997 ",26,['Spain'],Spain,Madrid,LB,"1,88",€500k
+11,Chiqui,Striker,Left Winger,"Oct 7, 1997 ",26,['Spain'],Spain,Mérida,AM   CF,,€250k
+11,Álex Gil,Striker,Left Winger,"Oct 22, 1997 ",26,['Spain'],Spain,Valencia,RW   AM,"1,69",€250k
+7,Álvaro Hernáiz,Striker,Left Winger,"Nov 22, 1997 ",26,['Spain'],Spain,Madrid,RW   RB,,€200k
+19,Javi Navarro,Striker,Left Winger,"Jan 1, 1997 ",27,['Spain'],Spain,Barcelona,RW,"1,79",€200k
+19,Mario Rodríguez,Striker,Left Winger,"Mar 3, 1997 ",27,['Spain'],Spain,Barcelona,RW   SS,"1,80",€200k
+7,Víctor Morillo,Striker,Left Winger,"Jan 4, 1997 ",27,['Spain'],Spain,Osuna,LB   RW,"1,75",€150k
+14,Albert Martí,Striker,Left Winger,"Aug 7, 1997 ",27,['Spain'],Spain,Barcelona,,,€100k
+20,Ángel Sánchez,Striker,Left Winger,"Jul 28, 1997 ",27,['Spain'],Spain,Palma de Mallorca,RW   CF,"1,80",€100k
+7,Jorge Bolivar,Striker,Left Winger,"Jul 18, 1997 ",27,['Spain'],Spain,,RW   RM,"1,70",€50k
+,Gaspar Panadero,Striker,Left Winger,"Dec 9, 1997 ",26,['Spain'],Spain,Tarazona de la Mancha,RW,"1,65",€50k
+,Dani Marqués,Striker,Left Winger,"Jul 31, 1997 ",27,['Spain'],Spain,Zaragoza,AM,"1,75",-
+,Totti,Striker,Left Winger,"Jan 1, 1997 ",27,['Spain'],Spain,Plasencia,RW   SS,"1,73",-
+,Emilio Herrera,Striker,Left Winger,"Jun 10, 1997 ",27,['Spain'],Spain,Torrelavega,AM   RW,,-
+,Chema Pinar,Striker,Left Winger,"Oct 23, 1997 ",26,['Spain'],Spain,Santomera,CF   RW,"1,90",-
+15,Salva Martí,Striker,Left Winger,"Oct 16, 1997 ",26,['Spain'],Spain,Ròtova,RW,,-
+,Raúl Tejero,Striker,Left Winger,"Nov 23, 1997 ",26,['Spain'],Spain,Sanlúcar de Barrameda,,,-
+10,Gabi Lorente,Striker,Left Winger,"Oct 10, 1997 ",26,['Spain'],Spain,Sevilla,,"1,78",-
+,David López,Striker,Left Winger,"May 9, 1997 ",27,['Spain'],Spain,San Vicente de Alcantara,,"1,70",-
+,Iván Arana,Striker,Left Winger,"Jan 8, 1997 ",27,['Spain'],Spain,San Sebastián,,,-
+,Álex Villalba,Striker,Left Winger,"Aug 4, 1997 ",27,['Spain'],Spain,,RW,"1,70",-
+,Iván Navarro,Striker,Left Winger,"Apr 26, 1997 ",27,['Spain'],Spain,Sevilla,RW,,-
+,Mikel Yoldi,Striker,Left Winger,"Mar 19, 1997 ",27,['Spain'],Spain,Pamplona,RW   SS,,-
+,Raúl García,Striker,Left Winger,"May 6, 1997 ",27,['Spain'],Spain,Santa Fe,RW,,-
+11,Joselillo,Striker,Left Winger,"Jun 10, 1997 ",27,['Spain'],Spain,Málaga,RW,,-
+,Manu Sarmiento,Striker,Left Winger,"Jun 16, 1997 ",27,['Spain'],Spain,Málaga,,"1,73",-
+,Denzel Gómez,Striker,Left Winger,"Aug 14, 1997 ",27,['Spain'],Spain,Santa Cruz de Tenerife,RW   SS,"1,80",-
+7,Hamza Maruja,Striker,Left Winger,"Mar 12, 1997 ",27,"['Spain', 'Morocco']",Spain,Ceuta,RW   AM,"1,78",-
+,Sebastián Gelardo,Striker,Left Winger,"Nov 2, 1997 ",26,['Spain'],Spain,Catral,,,-
+,Yelco Alfaya,Striker,Left Winger,"Mar 23, 1997 ",27,['Spain'],Spain,Cangas de Morrazo,,,-
+,Sergio Romero,Striker,Left Winger,"Mar 22, 1997 ",27,['Spain'],Spain,San Fernando,RW,"1,75",-
+11,Jorge Cortés,Striker,Left Winger,"Feb 27, 1997 ",27,['Spain'],Spain,Marbella,RW,,-
+,Adrián Luna,Striker,Left Winger,"Sep 11, 1997 ",27,['Spain'],Spain,Ibiza,,,-
+,Jordi Maymí,Striker,Left Winger,"Mar 13, 1997 ",27,['Spain'],Spain,Barcelona,,,-
+,Aitor Gandiaga,Striker,Left Winger,"Oct 11, 1997","Oct 11, 1997",['Spain'],Spain,Markina,RW,"1,80",-
+,Javi Martínez,Striker,Left Winger,"May 10, 1997 ",27,['Spain'],Spain,Pamplona,CF   RW,,-
+,Borja Arlanzón,Striker,Left Winger,"Aug 15, 1997 ",27,['Spain'],Spain,Santurtzi,,,-
+7,Javi Puado,Striker,Left Winger,"May 25, 1998 ",26,['Spain'],Spain,Barcelona,SS   RW,"1,77",€8.00m
+22,Jon Morcillo,Striker,Left Winger,"Sep 15, 1998 ",26,['Spain'],Spain,Amorebieta-Etxano,,"1,83",€1.00m
+24,Óscar Arribas,Striker,Left Winger,"Oct 22, 1998 ",25,"['Philippines', 'Spain']",Spain,Parla,RW   SS,"1,83",€450k
+7,Josete Miranda,Striker,Left Winger,"Jul 22, 1998 ",26,"['Equatorial Guinea', 'Spain']",Spain,Getafe,SS   CF,"1,70",€300k
+16,Hugo Esteban,Striker,Left Winger,"Dec 4, 1998 ",25,['Spain'],Spain,Valencia,RW   SS,,€200k
+10,Berto,Striker,Left Winger,"Apr 2, 1998 ",26,['Spain'],Spain,Avilés,,"1,73",€200k
+10,Dani Plomer,Striker,Left Winger,"Nov 30, 1998 ",25,['Spain'],Spain,Palma de Mallorca,RW   AM,"1,80",€150k
+16,David Ballarín,Striker,Left Winger,"Jan 17, 1998 ",26,['Spain'],Spain,Zaragoza,,"1,76",€150k
+11,Ferni,Striker,Left Winger,"Apr 7, 1998 ",26,['Spain'],Spain,Talavera de la Reina,RW,"1,87",€150k
+,Alfredo Gutiérrez,Striker,Left Winger,"Mar 27, 1998 ",26,['Spain'],Spain,Olot,RW,"1,69",€75k
+10,José Hualde,Striker,Left Winger,"Apr 28, 1998 ",26,['Spain'],Spain,Pamplona,AM   RW,"1,69",€25k
+,Cristian Torres,Striker,Left Winger,"Sep 28, 1998 ",25,['Spain'],Spain,Arrecife,RW   SS,"1,75",-
+,Aitor Vellisca,Striker,Left Winger,"Jan 15, 1998 ",26,['Spain'],Spain,Etxebarri,,,-
+10,Iñigo Vicente,Striker,Left Winger,"Jan 6, 1998 ",26,['Spain'],Spain,Derio,SS   RW,"1,78",€2.80m
+11,Álex Bermejo,Striker,Left Winger,"Dec 11, 1998 ",25,['Spain'],Spain,Barcelona,SS   RW,"1,83",€800k
+11,Álex Blanco,Striker,Left Winger,"Dec 16, 1998 ",25,['Spain'],Spain,Benidorm,RW,"1,75",€350k
+10,Víctor Fernández,Striker,Left Winger,"May 2, 1998 ",26,['Spain'],Spain,Barcelona,RW,"1,74",€250k
+7,Aitor Aranzabe,Striker,Left Winger,"Jun 28, 1998 ",26,['Spain'],Spain,Zaldibia,,"1,77",€200k
+,Iván Martínez,Striker,Left Winger,"Mar 12, 1998 ",26,['Spain'],Spain,Pamplona,CF   RW,"1,77",€200k
+19,Fran Pérez,Striker,Left Winger,"Feb 10, 1998 ",26,['Spain'],Spain,Fuenlabrada,SS   RW,"1,84",€150k
+11,Javi Martín,Striker,Left Winger,"Sep 16, 1998 ",26,['Spain'],Spain,Azuqueca de Henares,RW   RB,"1,81",€150k
+,Pablo Platero,Striker,Left Winger,"Sep 10, 1998 ",26,['Spain'],Spain,Usagre,SS   RW,"1,71",€100k
+10,Asier Gomes,Striker,Left Winger,"Jan 1, 1998 ",26,['Spain'],Spain,Oviedo,SS   RW,"1,74",€50k
+7,Daniel Rivero,Striker,Left Winger,"Feb 5, 1998 ",26,['Spain'],Spain,Ourense,,,-
+,Alejandro Utrilla,Striker,Left Winger,"Aug 5, 1998 ",26,['Spain'],Spain,Granada,,,-
+7,Cesc Gómez,Striker,Left Winger,"Jun 25, 1998 ",26,['Spain'],Spain,Valls,RW   LB,"1,75",-
+,Rafael Camacho,Striker,Left Winger,"Mar 12, 1998 ",26,['Spain'],Spain,Parla,,"1,73",-
+23,Álex Gómez,Striker,Left Winger,"Mar 9, 1998 ",26,['Spain'],Spain,León,AM   RW,,-
+7,Mario Urrecho,Striker,Left Winger,"Nov 26, 1998 ",25,['Spain'],Spain,Logroño,SS   RW,,-
+,Andrés Muriel,Striker,Left Winger,"Mar 25, 1998 ",26,['Spain'],Spain,Sevilla,RW   SS,"1,74",-
+,Pablo Roig,Striker,Left Winger,"Mar 31, 1998 ",26,['Spain'],Spain,Castellón,RW,"1,73",-
+,Alexis Ramos,Striker,Left Winger,"Aug 19, 1998 ",26,['Spain'],Spain,Las Palmas de Gran Canaria,RW,,-
+,Xabier Garai,Striker,Left Winger,"Feb 20, 1998 ",26,['Spain'],Spain,Mungia,,"1,78",-
+,Tete López,Striker,Left Winger,"Nov 21, 1998 ",25,['Spain'],Spain,Estepona,SS   RW,"1,86",-
+,Luismi Castro,Striker,Left Winger,"Feb 5, 1998 ",26,['Spain'],Spain,Tarifa,,"1,65",-
+,Antonio Martínez,Striker,Left Winger,"Oct 1, 1998 ",25,['Spain'],Spain,Mancha Real,,,-
+,Javi Llario,Striker,Left Winger,"May 15, 1998 ",26,['Spain'],Spain,Benigánim,RW,"1,75",-
+,Lele,Striker,Left Winger,"Apr 3, 1998 ",26,['Spain'],Spain,Arroyomolinos,AM   CM,,-
+20,Miguel Ángel Fernández,Striker,Left Winger,"Jan 6, 1998 ",26,['Spain'],Spain,Málaga,CF,"1,83",-
+11,Pablo Aguilera,Striker,Left Winger,"Dec 30, 1998 ",25,['Spain'],Spain,Elche,RW   CF,,-
+,Dani Lozano,Striker,Left Winger,"Jan 20, 1998 ",26,['Spain'],Spain,Villarrobledo,RW,,-
+,Nacho Díaz,Striker,Left Winger,"Jan 11, 1998 ",26,['Spain'],Spain,,RW   AM,"1,73",-
+10,Daniel Sandoval,Striker,Left Winger,"Feb 16, 1998 ",26,['Spain'],Spain,Gijón,,"1,78",-
+,Dani Abad,Striker,Left Winger,"Jun 5, 1998 ",26,['Spain'],Spain,Palazuelos,RW   AM,"1,78",-
+,David Ruiz,Striker,Left Winger,"Feb 16, 1998 ",26,['Spain'],Spain,Gijón,RW   CF,,-
+,José Manuel Irizo,Striker,Left Winger,"Jan 29, 1998 ",26,['Spain'],Spain,Sevilla,RW,"1,81",-
+,Alejandro Segura,Striker,Left Winger,"May 9, 1998 ",26,['Spain'],Spain,Melilla,,,-
+9,Xesc Navalón,Striker,Left Winger,"Jan 16, 1998 ",26,['Spain'],Spain,,RW   CF,"1,71",-
+,Jaume Batista,Striker,Left Winger,"Mar 18, 1998 ",26,['Spain'],Spain,Vilafranca del Penedés,,,-
+,Ismael Martínez,Striker,Left Winger,"Feb 19, 1998 ",26,['Spain'],Spain,Alicante,,,-
+,Álvaro Martín,Striker,Left Winger,"Feb 1, 1998 ",26,['Spain'],Spain,Madrid,,"1,67",-
+11,Álvaro Djaló,Striker,Left Winger,"Aug 16, 1999 ",25,"['Spain', 'Guinea-Bissau']",Spain,Madrid,RW   SS,"1,75",€15.00m
+12,Alfon González,Striker,Left Winger,"May 4, 1999 ",25,['Spain'],Spain,Albacete,CF   RW,"1,72",€300k
+21,José Manuel Raigal,Striker,Left Winger,"Aug 30, 1999 ",25,['Spain'],Spain,Mula,RW,"1,80",€200k
+23,Javi Gómez,Striker,Left Winger,"Jan 10, 1999 ",25,['Spain'],Spain,Toledo,SS   RW,"1,78",€100k
+7,Pau Miguélez,Striker,Left Winger,"Jan 23, 1999 ",25,['Spain'],Spain,Noja,AM   RW,"1,74",€75k
+11,Tom Diawara,Striker,Left Winger,"Nov 18, 1999 ",24,"['Spain', 'Guinea']",Spain,Terrassa,RW   CF,,€25k
+,Cristian Del Pozo,Striker,Left Winger,"Aug 12, 1999 ",25,['Spain'],Spain,Olot,SS,"1,78",-
+,Bilal Ayugir,Striker,Left Winger,"Nov 21, 1999 ",24,"['Spain', 'Morocco']",Spain,Sant Andreu de la Barca,RW,"1,75",-
+,Julio Salvador,Striker,Left Winger,"Jan 23, 1999 ",25,['Spain'],Spain,La Roda,CF   RW,,-
+,Ramón San Millán,Striker,Left Winger,"Dec 8, 1999 ",24,['Spain'],Spain,Sevilla,AM   CM,,-
+,Juanan Calvo,Striker,Left Winger,"Apr 13, 1999 ",25,['Spain'],Spain,Puebla del Maestre,RW,,-
+7,Borja Rubio,Striker,Left Winger,"Nov 29, 1999 ",24,['Spain'],Spain,Almassora,,,-
+,Víctor Juliá,Striker,Left Winger,"Apr 4, 1999 ",25,['Spain'],Spain,Valencia,RW   CF,"1,80",-
+7,Simo Bouzaidi,Striker,Left Winger,"Nov 16, 1999 ",24,"['Morocco', 'Spain']",Spain,Olot,RW   CF,"1,71",€300k
+21,Joel Priego,Striker,Left Winger,"Apr 1, 1999 ",25,['Spain'],Spain,Manresa,RW,,€200k
+20,Kevin Manzano,Striker,Left Winger,"Feb 25, 1999 ",25,['Spain'],Spain,,RW   SS,,€100k
+,Juan Fernández,Striker,Left Winger,"Sep 11, 1999 ",25,['Spain'],Spain,Barcelona,CF,"1,78",€75k
+7,Raúl Pesca,Striker,Left Winger,"Jul 31, 1999 ",25,['Spain'],Spain,Pinto,RW,,€50k
+22,Albert Flo,Striker,Left Winger,"Aug 22, 1999 ",25,['Spain'],Spain,Lleida,LB,"1,79",-
+,Mario Muro,Striker,Left Winger,"Jul 24, 1999 ",25,['Spain'],Spain,Navarrete,AM   RW,,-
+,Xabi Prieto,Striker,Left Winger,"Aug 24, 1999 ",25,['Spain'],Spain,Bilbao,SS   RW,"1,72",-
+11,Esteban López,Striker,Left Winger,"May 5, 1999 ",25,['Spain'],Spain,Murcia,LB,"1,70",-
+10,Ale Fuentes,Striker,Left Winger,"Jul 17, 1999 ",25,['Spain'],Spain,Lanzarote,RW   AM,,-
+,José Manuel Solano,Striker,Left Winger,"Apr 13, 1999 ",25,['Spain'],Spain,Ubrique,,,-
+21,Javi Sanmartín,Striker,Left Winger,"May 19, 1999 ",25,['Spain'],Spain,Ferrol,,,-
+7,Feli Martínez,Striker,Left Winger,"Jan 1, 1999 ",25,['Spain'],Spain,,RW,,-
+10,Álex Boedo,Striker,Left Winger,"Mar 29, 1999 ",25,['Spain'],Spain,Carballo,RW,,-
+18,Daniel Sancha,Striker,Left Winger,"Mar 9, 1999 ",25,['Spain'],Spain,Tafalla,,,-
+,Òscar Gestí,Striker,Left Winger,"Jul 6, 1999 ",25,['Spain'],Spain,Valls,RW,"1,75",-
+,Xavi Toldrà,Striker,Left Winger,"Feb 1, 1999 ",25,['Spain'],Spain,Ulldemolins,CF   RW,,-
+,Mohamed Achouird Fatni,Striker,Left Winger,"Apr 17, 1999 ",25,"['Morocco', 'Spain']",Spain,Girona,RW   SS,N/A,-
+,Sergio Sánchez,Striker,Left Winger,"Feb 22, 1999 ",25,['Spain'],Spain,Madrid,LB,"1,84",-
+,Esteban Escribano,Striker,Left Winger,"Mar 28, 1999 ",25,['Spain'],Spain,Tudela,RW   CM,,-
+7,Kike Ramirez,Striker,Left Winger,"Jul 8, 1999 ",25,['Spain'],Spain,Alcaudete,RW,"1,70",-
+17,Rodrigo Riquelme,Striker,Left Winger,"Apr 2, 2000 ",24,['Spain'],Spain,Madrid,RW   AM,"1,74",€25.00m
+17,Jonathan Dubasin,Striker,Left Winger,"Feb 2, 2000 ",24,"['Spain', 'Belgium']",Spain,La Seu d'Urgell,CF   RW,"1,81",€1.50m
+19,Alejandro Cantero,Striker,Left Winger,"Jun 8, 2000 ",24,['Spain'],Spain,Madrid,CF   RW,"1,84",€1.40m
+11,Ander Yoldi,Striker,Left Winger,"Sep 9, 2000 ",24,['Spain'],Spain,Pamplona,RW   SS,"1,87",€400k
+10,Diego Esteban,Striker,Left Winger,"Apr 7, 2000 ",24,['Spain'],Spain,Logroño,RW,,€250k
+10,Miguel Cuesta,Striker,Left Winger,"Oct 10, 2000 ",23,['Spain'],Spain,Luanco,,,€200k
+10,Isra Cano,Striker,Left Winger,"Nov 10, 2000 ",23,['Spain'],Spain,Andújar,RW   AM,"1,78",€200k
+18,Pablo Santiago,Striker,Left Winger,"Sep 27, 2000 ",23,['Spain'],Spain,Eibar,,"1,73",€200k
+10,Jon Cabo,Striker,Left Winger,"Jun 20, 2000 ",24,['Spain'],Spain,Bilbao,SS,"1,84",€200k
+11,Edu Gallardo,Striker,Left Winger,"Apr 1, 2000 ",24,['Spain'],Spain,Palencia,,"1,70",€150k
+10,Saúl García,Striker,Left Winger,"Feb 22, 2000 ",24,['Spain'],Spain,Santander,,"1,75",€150k
+,Kilian Hernández,Striker,Left Winger,"Aug 3, 2000 ",24,['Spain'],Spain,Las Palmas de Gran Canaria,,"1,79",€125k
+16,Bilal Kandoussi,Striker,Left Winger,"Feb 17, 2000 ",24,"['Spain', 'Morocco']",Spain,Madrid,RW   AM,"1,73",€100k
+7,Gaspar Campos,Striker,Left Winger,"Mar 27, 2000 ",24,['Spain'],Spain,Gijón,AM   RW,"1,75",€2.50m
+24,Julen Lobete,Striker,Left Winger,"Sep 18, 2000 ",24,['Spain'],Spain,Lezo,RW,"1,77",€1.50m
+10,Hugo Vallejo,Striker,Left Winger,"Feb 15, 2000 ",24,['Spain'],Spain,Granada,RW   CF,"1,81",€500k
+10,Luis Chacón,Striker,Left Winger,"May 30, 2000 ",24,['Spain'],Spain,Pontedeume,RW   SS,"1,74",€350k
+18,Asier Córdoba,Striker,Left Winger,"Mar 31, 2000 ",24,['Spain'],Spain,Bilbao,,"1,84",€250k
+7,Jorge Rastrojo,Striker,Left Winger,"Apr 1, 2000 ",24,['Spain'],Spain,Badajoz,AM   RW,,€200k
+7,Pitu,Striker,Left Winger,"Sep 23, 2000 ",23,['Spain'],Spain,Paterna,RW   SS,,€200k
+19,Joel Jorquera,Striker,Left Winger,"Aug 19, 2000 ",24,['Spain'],Spain,Castelldefels,,"1,71",€200k
+10,José Alonso Lara,Striker,Left Winger,"Mar 7, 2000 ",24,['Spain'],Spain,Sevilla,RW   LB,"1,62",€200k
+23,Serpeta,Striker,Left Winger,"Apr 7, 2000 ",24,['Spain'],Spain,Valencia,,,€150k
+11,Luis Ángel Forcén,Striker,Left Winger,"Jun 6, 2000 ",24,['Spain'],Spain,Zaragoza,RW,"1,82",€150k
+22,Marcos Bravo,Striker,Left Winger,"May 31, 2000 ",24,['Spain'],Spain,Madrid,RW   LB,"1,80",€100k
+88,Rubén de Tomás,Striker,Centre-Forward,"Jul 18, 2000 ",24,"['Spain', 'Dominican Republic']",Spain,Madrid,RW   SS,"1,80",€100k
+14,Sergi Serrano,Striker,Left Winger,"Jan 24, 2000 ",24,['Spain'],Spain,Barcelona,SS,"1,71",€100k
+11,Koke Sáiz,Striker,Left Winger,"Sep 11, 2000 ",24,['Spain'],Spain,Moncada,RW   CF,,€50k
+19,Adri Montalban,Striker,Left Winger,"Jan 26, 2000 ",24,['Spain'],Spain,Ibiza,CF   LB,,€50k
+,Nico Santos,Striker,Left Winger,"Feb 7, 2000 ",24,"['Spain', 'Dominican Republic']",Spain,Santander,CF,"1,84",€50k
+,Iker Muñoz,Striker,Left Winger,"Oct 29, 2000 ",23,['Spain'],Spain,Fuenlabrada,CF   SS,"1,85",€25k
+17,Víctor Vázquez,Striker,Left Winger,"Feb 11, 2000 ",24,['Spain'],Spain,Marbella,LB,"1,75",€25k
+,Nico Cabanes,Striker,Left Winger,"Mar 1, 2000 ",24,['Spain'],Spain,Genovés,,,-
+,Jorge Borrego,Striker,Left Winger,"Jun 12, 2000 ",24,['Spain'],Spain,Madrid,RW,,-
+11,Rafa Gómez,Striker,Left Winger,"Mar 27, 2000 ",24,['Spain'],Spain,Valladolid,RW,,-
+,Julen Guilló,Striker,Left Winger,"Feb 20, 2000 ",24,['Spain'],Spain,Elgoibar,,,-
+,Santi Salgado,Striker,Left Winger,"Aug 12, 2000 ",24,['Spain'],Spain,Gáldar,RW   SS,"1,73",-
+19,Javi Álvarez,Striker,Left Winger,"Jan 14, 2000 ",24,['Spain'],Spain,León,AM,,-
+18,Ricky Castro,Striker,Left Winger,"Feb 9, 2000 ",24,['Spain'],Spain,Chipiona,LB,"1,75",€100k
+11,Álvaro Merencio,Striker,Left Winger,"Mar 25, 2000 ",24,['Spain'],Spain,Madrid,LB,"1,78",€50k
+18,Mikel Arbeloa,Striker,Left Winger,"Aug 8, 2000 ",24,['Spain'],Spain,Pamplona,LB,,€50k
+7,Álex Gonpi,Striker,Left Winger,"Mar 18, 2000 ",24,['Spain'],Spain,Barcelona,SS   RW,"1,70",€50k
+7,Nacho Cordero,Striker,Left Winger,"Dec 13, 2000 ",23,['Spain'],Spain,Lebrija,,"1,75",€25k
+,Vere,Striker,Left Winger,"Sep 14, 2000 ",24,['Spain'],Spain,Madrid,LB   RW,,€25k
+23,Amin Guerrero,Striker,Left Winger,"Oct 31, 2000 ",23,"['Spain', 'Morocco']",Spain,Mijas,,,€25k
+,Ale Rico,Striker,Left Winger,"Jan 1, 2000 ",24,['Spain'],Spain,Dos Hermanas,,,-
+7,Jorge Campos,Striker,Left Winger,"Jan 18, 2000 ",24,['Spain'],Spain,Soria,LB   RW,,-
+,Pedro Cárceles,Striker,Left Winger,"Jan 7, 2000 ",24,['Spain'],Spain,Murcia,RW   SS,"1,70",-
+,Ayoub Goudani,Striker,Left Winger,"Jul 1, 2000 ",24,"['Spain', 'Morocco']",Spain,Tafalla,RW   SS,,-
+,Ismael Zamoum Moreno,Striker,Left Winger,"Aug 15, 2000 ",24,"['Spain', 'France']",Spain,Palma de Mallorca,SS   RW,"1,77",-
+,Vicente Meca,Striker,Left Winger,"Aug 19, 2000 ",24,['Spain'],Spain,Cartagena,RW,"1,75",-
+,Víctor Segura,Striker,Left Winger,"Jul 13, 2000 ",24,['Spain'],Spain,Madrigueras,,,-
+,David Navarro,Striker,Left Winger,"Aug 5, 2000 ",24,['Spain'],Spain,Alicante,,,-
+,Ekain Regil,Striker,Left Winger,"Nov 21, 2000 ",23,['Spain'],Spain,Zaldibia,SS,"1,83",-
+,Ramiro Quintana,Striker,Left Winger,"Nov 21, 2000 ",23,['Spain'],Spain,San Miguel de Meruelo,LB,"1,75",-
+,Valentín Sánchez,Striker,Left Winger,"Feb 16, 2000 ",24,['Spain'],Spain,Cabezón de la Sal,LB   CF,"1,76",-
+21,Álvaro Cascajo,Striker,Left Winger,"Nov 18, 2000 ",23,['Spain'],Spain,Sevilla,CF   RW,"1,78",-
+,Héctor Martín,Striker,Left Winger,"Apr 2, 2000 ",24,['Spain'],Spain,Santa Cruz de Tenerife,CF,,-
+,Juan Rivero,Striker,Left Winger,"Sep 11, 2000 ",24,['Spain'],Spain,Medina Sidonia,AM   CM,,-
+,David Álamo,Striker,Left Winger,"Oct 16, 2000 ",23,['Spain'],Spain,,,,-
+,Juan Losada,Striker,Left Winger,"Jan 6, 2000 ",24,['Spain'],Spain,Madrid,RW   SS,"1,90",-
+17,Pablo Jiménez,Striker,Left Winger,"Feb 14, 2000 ",24,['Spain'],Spain,Aldaia,RW   CF,,-
+,Eloy Escandón,Striker,Left Winger,"Nov 16, 2000 ",23,['Spain'],Spain,Cádiz,RW   AM,"1,79",-
+,Pablo Herrero,Striker,Left Winger,"Apr 20, 2000 ",24,['Spain'],Spain,Alcantarilla,,"1,68",-
+,Adri Izquierdo,Striker,Left Winger,"Apr 12, 2000 ",24,['Spain'],Spain,Miranda de Ebro,AM,"1,66",-
+,Sergio Granados,Striker,Left Winger,"Jan 13, 2000 ",24,['Spain'],Spain,Valencia,,"1,81",-
+,Antonio García,Striker,Left Winger,"Apr 22, 2000 ",24,['Spain'],Spain,Murcia,CF,,-
+,Fernando Martínez,Striker,Left Winger,"Jan 1, 2000 ",24,['Spain'],Spain,Sevilla,CF,,-
+11,Adri Gómez,Striker,Left Winger,"Jul 18, 2000 ",24,['Spain'],Spain,Benatae,,,-
+15,Pedro Pata,Striker,Left Winger,"May 1, 2000 ",24,['Spain'],Spain,Punta Umbría,LB,"1,73",-
+22,Ekaitz Zarranz,Striker,Left Winger,"Nov 26, 2000 ",23,['Spain'],Spain,Zizur Nagusia,,"1,77",-
+,Eric Banaclocha,Striker,Left Winger,"Aug 9, 2000 ",24,['Spain'],Spain,Barcelona,CM,,-
+17,Juan Oñate,Striker,Left Winger,"Nov 13, 2000 ",23,['Spain'],Spain,Málaga,RW,"1,69",-
+,Sergio Douterelo,Striker,Left Winger,"Feb 20, 2000 ",24,['Spain'],Spain,Madrid,LB,,-
+11,Martín Crespo,Striker,Left Winger,"Nov 17, 2000 ",23,['Spain'],Spain,Soutomaior,,,-
+,Mamadou Touré Diawara,Striker,Left Winger,"Jan 30, 2000 ",24,"['Spain', ""Cote d'Ivoire""]",Spain,Granollers,SS   LM,"1,79",-
+16,Álex Baena,Striker,Left Winger,"Jul 20, 2001 ",23,['Spain'],Spain,Roquetas de Mar,AM   RW,"1,74",€40.00m
+20,Bryan Gil,Striker,Left Winger,"Feb 11, 2001 ",23,['Spain'],Spain,Barbate (Cádiz),RW   AM,"1,75",€14.00m
+24,Víctor Mollejo,Striker,Left Winger,"Jan 21, 2001 ",23,['Spain'],Spain,Alcázar de San Juan,RW   SS,"1,77",€3.00m
+11,Kevin Medina,Striker,Left Winger,"Feb 26, 2001 ",23,['Spain'],Spain,Málaga,CF   RW,"1,73",€800k
+10,Álvaro Martín,Striker,Left Winger,"Jan 15, 2001 ",23,['Spain'],Spain,Madrid,RW   AM,"1,74",€500k
+11,Miguel Puche,Striker,Left Winger,"Apr 30, 2001 ",23,['Spain'],Spain,Tarazona,RW   CF,"1,80",€400k
+17,Javi López,Striker,Left Winger,"May 5, 2001 ",23,['Spain'],Spain,Barcelona,AM   RW,"1,83",€200k
+19,Kenneth Soler,Striker,Left Winger,"Feb 16, 2001 ",23,['Spain'],Spain,Tarragona,AM   RW,"1,75",€200k
+21,Jorge Padilla,Striker,Left Winger,"Apr 23, 2001 ",23,['Spain'],Spain,Fuerteventura,RW   CF,"1,75",€150k
+7,Miquel Alorda,Striker,Left Winger,"Jun 13, 2001 ",23,['Spain'],Spain,Palma de Mallorca,SS   RW,"1,75",€150k
+18,Asier Teijeira,Striker,Left Winger,"Oct 10, 2001 ",22,['Spain'],Spain,Zumárraga,,,€100k
+,Adri Ferrer,Striker,Left Winger,"Feb 12, 2001 ",23,['Spain'],Spain,Melilla,LB,"1,86",€50k
+18,Ayoub El Battioui,Striker,Left Winger,"Apr 2, 2001 ",23,"['Spain', 'Morocco']",Spain,Madrid,CF   RW,"1,82",€25k
+7,Ander Barrenetxea,Striker,Left Winger,"Dec 27, 2001 ",22,['Spain'],Spain,Donostia-San Sebastián,RW   RB,"1,75",€20.00m
+19,Bryan Zaragoza,Striker,Left Winger,"Sep 9, 2001 ",23,['Spain'],Spain,Málaga,RW   AM,"1,64",€12.00m
+7,Borja Sainz,Striker,Left Winger,"Feb 21, 2001 ",23,['Spain'],Spain,Leioa,RW,"1,74",€2.20m
+11,Diego Collado,Striker,Left Winger,"Jan 9, 2001 ",23,['Spain'],Spain,Granada,RW   CF,"1,83",€800k
+19,Arnau Ortiz,Striker,Left Winger,"Oct 29, 2001 ",22,['Spain'],Spain,Figueres,RW,"1,75",€400k
+11,Marco Camus,Striker,Left Winger,"Nov 16, 2001 ",22,['Spain'],Spain,Santander,RW,"1,81",€300k
+22,Unai Buján,Striker,Left Winger,"Feb 8, 2001 ",23,['Spain'],Spain,Barakaldo,RW,"1,74",€200k
+21,Carlos Mattheus,Striker,Left Winger,"Oct 25, 2001 ",22,['Spain'],Spain,Bilbao,AM   RW,"1,85",€150k
+14,Mario da Costa,Striker,Left Winger,"May 14, 2001 ",23,['Spain'],Spain,Málaga,AM   CM,"1,82",€150k
+7,Tiko Iniesta,Striker,Left Winger,"Jun 7, 2001 ",23,['Spain'],Spain,Murcia,RW,"1,74",€100k
+7,Samu Pérez,Striker,Left Winger,"Jun 10, 2001 ",23,['Spain'],Spain,Gijón,RW   CF,,€100k
+18,Adrián Garrido,Striker,Left Winger,"Nov 18, 2001 ",22,"['Equatorial Guinea', 'Spain']",Spain,Palma de Mallorca,CF,,€50k
+,Sid'Ahmed Taya,Striker,Left Winger,"Dec 29, 2001 ",22,"['Spain', 'Mauritania']",Spain,Las Palmas,RW   CF,"1,80",-
+16,Mingui,Striker,Left Winger,"Nov 26, 2001 ",22,['Spain'],Spain,Málaga,,"1,65",-
+,Gabriel Ajuchi,Striker,Left Winger,"Sep 20, 2001 ",22,"['Spain', 'Nigeria']",Spain,Sevilla,CF   RW,,-
+17,Taufek Bayoud,Striker,Left Winger,"Mar 15, 2001 ",23,"['Spain', 'Morocco']",Spain,Ceuta,RW   AM,"1,78",-
+,Kiko Carmona,Striker,Left Winger,"Dec 21, 2001 ",22,['Spain'],Spain,,RW,"1,78",-
+,Iván Sánchez,Striker,Left Winger,"Sep 4, 2001 ",23,['Spain'],Spain,,,"1,67",-
+,Ahmed Chaibi,Striker,Left Winger,"Aug 20, 2001 ",23,"['Morocco', 'Spain']",Spain,,RW   CF,,-
+,Álvaro Álvarez,Striker,Left Winger,"Jun 28, 2001 ",23,['Spain'],Spain,Ayamonte,LB,,-
+,Sergio Benítez,Striker,Left Winger,"Apr 28, 2001 ",23,['Spain'],Spain,Algeciras,,,-
+,Álex Loro,Striker,Left Winger,"Sep 21, 2001 ",22,['Spain'],Spain,Ciudad Real,,"1,70",-
+16,Dani Pérez,Striker,Left Winger,"Mar 4, 2001 ",23,['Spain'],Spain,Calamonte,RW   CF,"1,78",-
+,Alejandro Casado,Striker,Left Winger,"Dec 3, 2001 ",22,['Spain'],Spain,Soria,,"1,77",-
+21,Alvi Gil,Striker,Left Winger,"Mar 21, 2001 ",23,['Spain'],Spain,Valladolid,RW   CF,,-
+20,Álex Monerris,Striker,Left Winger,"Jun 16, 2001 ",23,['Spain'],Spain,Alicante,RW   AM,,-
+,Jesús García,Striker,Left Winger,"Oct 24, 2001 ",22,['Spain'],Spain,Mallorca,CF,,-
+,Ismael Agüero,Striker,Left Winger,"Aug 7, 2001 ",23,['Spain'],Spain,Santander,,"1,76",-
+,Álex Briega,Striker,Left Winger,"Dec 19, 2001 ",22,['Spain'],Spain,Madrid,RW   AM,"1,78",-
+,Ale Delgado,Striker,Left Winger,"Oct 30, 2001 ",22,['Spain'],Spain,Santa Cruz de Tenerife,RW,"1,79",-
+,Diego Pinto,Striker,Left Winger,"Jul 27, 2001 ",23,['Spain'],Spain,La Palma del Condado,,"1,72",-
+,Jony García,Striker,Left Winger,"Jul 21, 2001 ",23,['Spain'],Spain,La Orotava,RW,"1,74",-
+19,Youssef Zayzoun,Striker,Left Winger,"May 7, 2001 ",23,"['Spain', 'Morocco']",Spain,Palamós,RW   CF,"1,83",-
+,Iván Chacón,Striker,Left Winger,"Jan 1, 2001 ",23,['Spain'],Spain,Algeciras,,,-
+,Toñin,Striker,Left Winger,"Jul 2, 2001 ",23,['Spain'],Spain,Santoña,,"1,70",-
+,Carlos Martínez,Striker,Left Winger,"Oct 21, 2001 ",22,['Spain'],Spain,Pontevedra,SS,,-
+,Perotti,Striker,Left Winger,"Jun 16, 2001 ",23,['Spain'],Spain,Gerena,RW   AM,"1,70",-
+21,Javi Berenguer,Striker,Left Winger,"Jun 25, 2001 ",23,['Spain'],Spain,Aspe,CF,,-
+,Manex Asategi,Striker,Left Winger,"Aug 5, 2001 ",23,['Spain'],Spain,Durango,,"1,71",-
+22,Javi Vargas,Striker,Left Winger,"Mar 6, 2001 ",23,['Spain'],Spain,Villanueva del Ariscal,AM   RW,,-
+,David Franco,Striker,Left Winger,"Mar 28, 2001 ",23,"['Spain', 'Ecuador']",Spain,Collado Villalba,RW   AM,"1,68",-
+,Marco Diliberto,Striker,Left Winger,"May 7, 2001 ",23,['Spain'],Spain,Tafalla,CF,"1,82",-
+7,Juan Antonio Guirado,Striker,Left Winger,"Mar 16, 2001 ",23,['Spain'],Spain,Marbella,RW,"1,79",-
+22,Roberto Fernández,Striker,Left Winger,"Feb 12, 2001 ",23,['Spain'],Spain,Mérida,RW,,-
+7,Fernando Muriel,Striker,Left Winger,"Apr 30, 2001 ",23,['Spain'],Spain,Salamanca,RW,"1,70",-
+,Suaibo Sanneh,Striker,Left Winger,"Jun 16, 2001 ",23,"['Spain', 'The Gambia']",Spain,Pineda de Mar,RW,,-
+9,Eric Pérez,Striker,Left Winger,"May 18, 2001 ",23,['Spain'],Spain,Ermua,RW,"1,80",-
+,Diego Fernández,Striker,Left Winger,"Jan 17, 2001 ",23,['Spain'],Spain,Santurtzi,AM,"1,86",-
+23,Aramis García,Striker,Left Winger,"Jan 21, 2001 ",23,['Spain'],Spain,Salamanca,SS   RW,"1,77",-
+16,Pelayo Morilla,Striker,Left Winger,"Jul 12, 2001 ",23,['Spain'],Spain,Oviedo,,"1,82",-
+10,Nico Williams,Striker,Left Winger,"Jul 12, 2002 ",22,"['Spain', 'Ghana']",Spain,Pamplona,RW,"1,81",€70.00m
+7,Jeremy Sarmiento,Striker,Left Winger,"Jun 16, 2002 ",22,"['Ecuador', 'England']",Spain,Madrid,RW   AM,"1,78",€7.00m
+9,Dani Queipo,Striker,Left Winger,"May 22, 2002 ",22,['Spain'],Spain,Oviedo,,"1,68",€800k
+10,Yeremay Hernández,Striker,Left Winger,"Dec 10, 2002 ",21,['Spain'],Spain,Las Palmas,RW   AM,"1,69",€700k
+19,Raúl Dacosta,Striker,Left Winger,"Jan 26, 2002 ",22,['Spain'],Spain,Ourense,,"1,75",€250k
+21,Rafa Llorente,Striker,Left Winger,"Dec 6, 2002 ",21,['Spain'],Spain,Madrid,RW   SS,"1,86",€200k
+17,Zacarías Ghailán,Striker,Left Winger,"Jun 28, 2002 ",22,"['Morocco', 'Spain']",Spain,Barcelona,RW   RB,"1,73",€150k
+,Alex Cañizares,Striker,Left Winger,"Oct 4, 2002 ",21,['Spain'],Spain,Jerez de la Frontera,,,€100k
+24,Ayán Galván,Striker,Left Winger,"May 4, 2002 ",22,"['Spain', 'Ethiopia']",Spain,Elda,RW,"1,75",€50k
+7,Sergio González,Striker,Left Winger,"Apr 8, 2002 ",22,['Spain'],Spain,Llíria,,"1,74",€50k
+22,Antonio Arcos,Striker,Left Winger,"Apr 7, 2002 ",22,['Spain'],Spain,Sevilla,RW   RB,"1,78",€50k
+14,Iñigo Burusco,Striker,Left Winger,"Jul 19, 2002 ",22,['Spain'],Spain,Pamplona,,,€25k
+,Canario,Striker,Left Winger,"Oct 9, 2002 ",21,['Spain'],Spain,Murcia,LB   LB,"1,85",-
+16,Diego López,Striker,Left Winger,"May 13, 2002 ",22,['Spain'],Spain,Turón,RW   CF,"1,72",€14.00m
+11,Raúl Moro,Striker,Left Winger,"Dec 5, 2002 ",21,['Spain'],Spain,Abrera,RW   CF,"1,69",€2.50m
+19,Javi Llabrés,Striker,Left Winger,"Sep 11, 2002 ",22,['Spain'],Spain,Binissalem,SS   RW,"1,74",€700k
+11,Óscar Aranda,Striker,Left Winger,"Apr 29, 2002 ",22,['Spain'],Spain,Granada,RW   SS,"1,81",€500k
+11,Alassan Manjam,Striker,Left Winger,"Sep 12, 2002 ",22,"['Spain', 'Guinea-Bissau']",Spain,Santa Cruz de Tenerife,RW,"1,77",€200k
+31,Ángel Troncho,Striker,Left Winger,"Oct 2, 2002 ",21,['Spain'],Spain,Benicarló,AM,,€200k
+29,Nene,Striker,Left Winger,"Aug 24, 2002 ",22,['Spain'],Spain,Madrid,RW   SS,"1,74",€100k
+18,Alberto Baldé,Striker,Left Winger,"Mar 21, 2002 ",22,"['Dominican Republic', 'Northern Ireland']",Spain,Madrid,CF   RW,"1,78",€75k
+27,Amadou Konate,Striker,Left Winger,"Sep 14, 2002 ",22,"['Spain', 'Senegal']",Spain,Palma de Mallorca,LB,"1,97",€50k
+,Rubén Sáiz,Striker,Left Winger,"Jul 24, 2002 ",22,['Spain'],Spain,,AM   RW,"1,82",€50k
+21,Moi Parra,Striker,Left Winger,"Jun 4, 2002 ",22,['Spain'],Spain,Huelva,RW   CF,,€25k
+,Arnau Bravo,Striker,Left Winger,"Mar 29, 2002 ",22,['Spain'],Spain,Barcelona,,"1,70",€10k
+,Adrián Esperalta,Striker,Left Winger,"Jun 5, 2002 ",22,['Spain'],Spain,Madrid,RW   CF,,-
+,Moha Ndiaye,Striker,Left Winger,"Jul 7, 2002 ",22,"['Spain', 'Senegal']",Spain,Almería,CF   RW,"1,88",-
+12,Isaac Boudaoud,Striker,Left Winger,"Sep 4, 2002 ",22,"['Spain', 'Algeria']",Spain,Zaragoza,SS   RW,,-
+,Darío Guerrero,Striker,Left Winger,"Jan 4, 2002 ",22,['Spain'],Spain,Huétor Tajar,,"1,70",-
+11,Pablo Gallego,Striker,Left Winger,"Jun 21, 2002 ",22,['Spain'],Spain,,RW   RB,"1,72",-
+,Álex Domingo,Striker,Left Winger,"Apr 27, 2002 ",22,['Spain'],Spain,Montejícar,SS   RW,"1,77",-
+,Jaime Guillén,Striker,Left Winger,"Dec 4, 2002 ",21,['Spain'],Spain,Madrid,SS   RW,"1,81",-
+,Gabriel Barroso,Striker,Left Winger,"Sep 25, 2002 ",21,['Spain'],Spain,A Coruña,RW,,-
+,Igarki Grande,Striker,Left Winger,"Mar 28, 2002 ",22,['Spain'],Spain,Barakaldo,,"1,77",-
+,Juan Barragán,Striker,Left Winger,"Sep 9, 2002 ",22,['Spain'],Spain,,RW,"1,75",-
+,Naym,Striker,Left Winger,"Jan 1, 2002 ",22,['Spain'],Spain,Punta Umbria,,,-
+,Diego Boza,Striker,Left Winger,"Aug 23, 2002 ",22,['Spain'],Spain,Gijón,CF   AM,"1,74",-
+17,Xabier Etxebarria,Striker,Left Winger,"Jan 16, 2002 ",22,['Spain'],Spain,Artea,CF   RW,,-
+,Juanma Vargas,Striker,Left Winger,"Apr 12, 2002 ",22,['Spain'],Spain,Jerez de la Frontera,,,-
+,Yerai Rojas,Striker,Left Winger,"Sep 6, 2002 ",22,['Spain'],Spain,Linares,,"1,75",-
+24,Coba da Costa,Striker,Left Winger,"Jul 26, 2002 ",22,"['Spain', 'Guinea']",Spain,La Mojonera,CF   RW,,-
+,Jou Luna,Striker,Left Winger,"Apr 6, 2002 ",22,['Spain'],Spain,Zahara de la Sierra,RW,,-
+,Alejandro Calle,Striker,Left Winger,"Jan 1, 2002 ",22,['Spain'],Spain,Vejer de la Frontera,,,-
+20,Pablo Montero,Striker,Left Winger,"May 9, 2002 ",22,['Spain'],Spain,Madrid,,"1,68",-
+23,Gonza Carmona,Striker,Left Winger,"Jan 30, 2002 ",22,['Spain'],Spain,,RW,"1,77",-
+,Mario Alonso,Striker,Left Winger,"Apr 3, 2002 ",22,['Spain'],Spain,Vigo,,"1,84",-
+10,David Vallecillo,Striker,Left Winger,"May 27, 2002 ",22,['Spain'],Spain,Valladolid,AM   RW,"1,85",-
+20,Rubén Navas,Striker,Left Winger,"Oct 11, 2002 ",21,['Spain'],Spain,Córdoba,,,-
+,Mario Argos,Striker,Left Winger,"Feb 15, 2002 ",22,['Spain'],Spain,Noja,,"1,74",-
+,Sergio Guichard,Striker,Left Winger,"Feb 12, 2002 ",22,"['Spain', 'France']",Spain,Granada,RW   SS,"1,78",-
+11,Mario Jiménez,Striker,Left Winger,"Dec 21, 2002 ",21,['Spain'],Spain,Madrid,AM   RW,"1,69",-
+17,Julio Insa,Striker,Left Winger,"Aug 7, 2002 ",22,['Spain'],Spain,Valencia,RW   AM,,-
+,Francesco Guidoni,Striker,Left Winger,"Feb 5, 2002 ",22,"['Italy', 'Spain']",Spain,Marbella,,"1,72",-
+14,Amilcar Djau Codjovi,Striker,Left Winger,"Feb 22, 2002 ",22,"['Spain', 'England']",Spain,Zaragoza,LM   AM,"1,82",-
+20,Andrés Campos,Striker,Left Winger,"May 14, 2002 ",22,['Spain'],Spain,Las Palmas de Gran Canaria,,"1,78",-
+,Oriol Alsina,Striker,Left Winger,"Jan 1, 2002 ",22,['Spain'],Spain,Ripollet,,,-
+,Sandro de Matías,Striker,Left Winger,"Jan 1, 2002 ",22,['Spain'],Spain,Jaraíz de la Vera,,,-
+11,Estanis Pedrola,Striker,Left Winger,"Aug 24, 2003 ",21,['Spain'],Spain,Cambrils,RW,"1,85",€2.00m
+30,Hugo Álvarez,Striker,Left Winger,"Jul 2, 2003 ",21,['Spain'],Spain,Ourense,RW,"1,76",€1.50m
+18,Óscar Ureña,Striker,Left Winger,"May 31, 2003 ",21,"['Dominican Republic', 'Spain']",Spain,Figueres,RW,"1,71",€400k
+,Luis Bilbao,Striker,Left Winger,"Mar 24, 2003 ",21,['Spain'],Spain,Berango,RW,"1,83",€200k
+23,Isra Domínguez,Striker,Left Winger,"May 7, 2003 ",21,['Spain'],Spain,Antequera,RW   SS,"1,75",€150k
+19,Darío Serra,Striker,Left Winger,"Jan 20, 2003 ",21,['Spain'],Spain,Vera,RW   CF,"1,80",€100k
+19,Aimar González,Striker,Left Winger,"Sep 4, 2003 ",21,['Spain'],Spain,Agurain,CF,"1,84",€100k
+10,David Vilán,Striker,Left Winger,"Mar 8, 2003 ",21,['Spain'],Spain,Soutomaior,AM   RW,"1,80",€100k
+,Álex Jaraiz,Striker,Left Winger,"Jan 16, 2003 ",21,['Spain'],Spain,,LW   CF,,€50k
+11,Javier Gascón,Striker,Left Winger,"Oct 6, 2003 ",20,['Spain'],Spain,Pamplona,RW,"1,73",€50k
+9,Víctor Muñoz,Striker,Left Winger,"Jul 13, 2003 ",21,['Spain'],Spain,Barcelona,RW   CF,"1,73",€50k
+,Álex Ginard,Striker,Left Winger,"Jul 28, 2003 ",21,['Spain'],Spain,Palma de Mallorca,RW   AM,"1,78",€25k
+11,Diego Martín,Striker,Left Winger,"Aug 13, 2003 ",21,['Spain'],Spain,,LB,,-
+77,Gabri Martínez,Striker,Left Winger,"Jan 22, 2003 ",21,['Spain'],Spain,Barcelona,RW,"1,85",€1.80m
+22,Nico Serrano,Striker,Left Winger,"Mar 5, 2003 ",21,['Spain'],Spain,Pamplona,RW   CF,"1,76",€1.40m
+21,Jeremy Jorge,Striker,Left Winger,"Feb 9, 2003 ",21,['Spain'],Spain,Las Palmas de Gran Canaria,RW,,€200k
+24,Yago Santiago,Striker,Left Winger,"Apr 15, 2003 ",21,['Spain'],Spain,Vigo,AM   RW,"1,80",€200k
+18,Charles Ondo,Striker,Left Winger,"Oct 22, 2003 ",20,"['Equatorial Guinea', 'Spain']",Spain,Madrid,LB   CB,"1,85",€150k
+,Alejandro Gómez,Striker,Left Winger,"Jun 25, 2003 ",21,['Spain'],Spain,,RW   AM,,€100k
+21,Josep Cerdà,Striker,Left Winger,"Feb 4, 2003 ",21,['Spain'],Spain,Pollença,RW   AM,"1,75",€100k
+85,Diby Keita,Striker,Left Winger,"Jul 8, 2003 ",21,"['Mali', 'Spain']",Spain,Toledo,RW,"1,81",€75k
+,Óscar Cantarero,Striker,Left Winger,"Mar 24, 2003 ",21,['Spain'],Spain,Córdoba,,"1,75",€50k
+11,Diego de Pedro,Striker,Left Winger,"Feb 3, 2003 ",21,['Spain'],Spain,Almoradí,RW   AM,,€50k
+11,Justice Badamusa,Striker,Left Winger,"Nov 12, 2003 ",20,['Nigeria'],Spain,Bormujos,,,€25k
+25,Juan Sánchez,Striker,Left Winger,"Sep 25, 2003 ",20,['Spain'],Spain,Valladolid,RW   SS,"1,78",-
+,Iñigo Pou,Striker,Left Winger,"Feb 26, 2003 ",21,['Spain'],Spain,Vitoria-Gasteiz,RW   CF,"1,73",-
+,Alejandro Rodríguez,Striker,Left Winger,"Mar 31, 2003 ",21,['Spain'],Spain,Murcia,RW   SS,"1,70",-
+,Jamie Isidoro-Marlowe,Striker,Left Winger,"Jun 3, 2003 ",21,"['Spain', 'Wales']",Spain,,,,-
+,Adri González,Striker,Left Winger,"Jan 1, 2003 ",21,['Spain'],Spain,Malaga,AM   RW,,-
+,John De la Cruz,Striker,Left Winger,"Aug 26, 2003 ",21,"['Spain', 'Dominican Republic']",Spain,Madrid,RW   SS,"1,80",-
+20,Marcel Samsó,Striker,Left Winger,"Mar 26, 2003 ",21,['Spain'],Spain,,RW   SS,,-
+,Dela,Striker,Left Winger,"Sep 11, 2003 ",21,['Spain'],Spain,Caravaca de la Cruz,RW   SS,"1,77",-
+17,Antonio Toral,Striker,Left Winger,"May 17, 2003 ",21,['Spain'],Spain,Murcia,RW   CF,"1,70",-
+,Juanpe Heredia,Striker,Left Winger,"Jun 6, 2003 ",21,['Spain'],Spain,Marbella,,"1,80",-
+27,Samir Achkir,Striker,Left Winger,"Nov 15, 2003 ",20,['Finland'],Spain,Madrid,RW,,-
+11,Imanol Fernández,Striker,Left Winger,"Jan 1, 2003 ",21,['Spain'],Spain,Vitoria-Gastéiz,,,-
+,Javi Montava,Striker,Left Winger,"Apr 10, 2003 ",21,['Spain'],Spain,Alcoi,LB,,-
+,Dani Borrasca,Striker,Left Winger,"Apr 22, 2003 ",21,['Spain'],Spain,Madrid,AM   RW,,-
+11,José Manuel Pedrosa,Striker,Left Winger,"Jan 1, 2003 ",21,['Spain'],Spain,Albox,,"1,76",-
+11,Alejandro Toper,Striker,Left Winger,"Jan 21, 2003 ",21,['Spain'],Spain,Ávila,RW   CF,,-
+14,Arnau Forés,Striker,Left Winger,"Mar 1, 2003 ",21,['Spain'],Spain,Sant Gregori,,,-
+16,Lluc Carrera,Striker,Left Winger,"Feb 7, 2003 ",21,['Spain'],Spain,Torelló,RW   SS,"1,73",-
+8,Sergio Hinojosa,Striker,Left Winger,"Jan 2, 2003 ",21,['Spain'],Spain,Elche,,,-
+,Omar Ugartemendia,Striker,Left Winger,"Feb 9, 2003 ",21,['Spain'],Spain,Leitza,,,-
+11,Antonio Molina,Striker,Left Winger,"Jun 21, 2003 ",21,['Spain'],Spain,Huelva,,"1,74",-
+14,Ibai Asenjo,Striker,Left Winger,"Nov 13, 2003 ",20,['Spain'],Spain,Ermua,AM   RW,"1,77",-
+,Adrián San Emeterio,Striker,Left Winger,"Jan 14, 2003 ",21,['Spain'],Spain,Santander,RW   CF,"1,75",-
+,Iker Carew,Striker,Left Winger,"Feb 9, 2003 ",21,"['Norway', 'Spain']",Spain,Murcia,RW   SS,,-
+,Joan Pulpón,Striker,Left Winger,"Oct 7, 2003 ",20,['Spain'],Spain,Onda,LB   RW,"1,76",-
+17,Alejandro Garnacho,Striker,Left Winger,"Jul 1, 2004 ",20,"['Argentina', 'Spain']",Spain,Madrid,RW,"1,80",€45.00m
+19,José Antonio de la Rosa,Striker,Left Winger,"Jul 28, 2004 ",20,['Spain'],Spain,Huelva,,"1,74",€300k
+47,Ángel Alarcón,Striker,Left Winger,"May 15, 2004 ",20,['Spain'],Spain,Castelldefels,RW,"1,75",€300k
+7,José de León,Striker,Left Winger,"Mar 2, 2004 ",20,"['Dominican Republic', 'Spain']",Spain,Madrid,AM   RW,"1,85",€200k
+18,Eder García,Striker,Left Winger,"Jan 4, 2004 ",20,['Spain'],Spain,Errenteria,RW   SS,,€150k
+,Nando Raposo,Striker,Left Winger,"Jun 4, 2004 ",20,['Spain'],Spain,Sanlúcar de Barrameda,,"1,71",€50k
+11,Yago Insua,Striker,Left Winger,"Aug 6, 2004 ",20,['Spain'],Spain,Vigo,,,€25k
+12,Aday Alcalde,Striker,Left Winger,"Jul 23, 2004 ",20,['Spain'],Spain,Valladolid,RW   SS,,€25k
+,Mateo Flenche,Striker,Left Winger,"Feb 10, 2004 ",20,"['Spain', 'Argentina']",Spain,Alicante,RW,"1,80",-
+14,Luis Alomar,Striker,Left Winger,"Apr 13, 2004 ",20,['Spain'],Spain,Palma de Mallorca,SS   RW,"1,69",-
+31,Uri Gómez,Striker,Left Winger,"Mar 15, 2004 ",20,['Spain'],Spain,La Garriga,,"1,80",-
+,Arnau Prat,Striker,Left Winger,"Jan 1, 2004 ",20,['Spain'],Spain,Tona,,,-
+,David Feter,Striker,Left Winger,"May 26, 2004 ",20,['Spain'],Spain,,LM   CM,"1,73",-
+11,Salim El Jebari,Striker,Left Winger,"Feb 5, 2004 ",20,"['Morocco', 'Spain']",Spain,Madrid,AM   RW,"1,78",€1.00m
+17,Fabio Blanco,Striker,Left Winger,"Feb 18, 2004 ",20,['Spain'],Spain,Almería,RW,"1,73",€300k
+7,Sergio Rodelas,Striker,Left Winger,"Dec 1, 2004 ",19,['Spain'],Spain,Granada,RW,"1,68",€200k
+11,Xavi Moreno,Striker,Left Winger,"Nov 5, 2004 ",19,['Spain'],Spain,Torrelles de Llobregat,LB,,€200k
+23,Fabián Urzain,Striker,Left Winger,"Apr 11, 2004 ",20,['Spain'],Spain,Segovia,AM,"1,79",€100k
+16,Iñaki Alberca,Striker,Left Winger,"Mar 13, 2004 ",20,['Spain'],Spain,Pamplona,RW,,€25k
+,Juli Martínez,Striker,Left Winger,"Apr 28, 2004 ",20,['Spain'],Spain,Elche,LB,,€25k
+,Guillermo Montesinos,Striker,Left Winger,"Aug 9, 2004 ",20,['Spain'],Spain,Beniel,,,-
+14,Manu Márquez,Striker,Left Winger,"Mar 16, 2004 ",20,['Spain'],Spain,Madrid,AM   RW,"1,72",-
+,Julian Boufelja-Kassou-Soria,Striker,Left Winger,N/A ,19,"['Spain', 'Morocco']",Spain,,RW   CF,,-
+11,Johan Guedes,Striker,Left Winger,"Aug 23, 2004 ",20,['Spain'],Spain,Valsequillo,RW   CF,,-
+,Aron Rodrigo,Striker,Left Winger,"Oct 7, 2004 ",19,"['Andorra', 'Spain']",Spain,Lleida,RW,,-
+17,Marc Torra,Striker,Left Winger,"Aug 23, 2004 ",20,['Spain'],Spain,Artesa de Segre,LM   SS,"1,78",-
+,Nacho Pujol,Striker,Left Winger,"Apr 27, 2004 ",20,['Spain'],Spain,Madrid,LB,"1,80",-
+23,Asier Olano,Striker,Left Winger,"Jul 28, 2004 ",20,['Spain'],Spain,Errenteria,LB,,-
+,Kerman Junkera,Striker,Left Winger,"Feb 9, 2004 ",20,['Spain'],Spain,Bilbao,RW,"1,83",-
+,Joaquín Campos,Striker,Left Winger,"Apr 4, 2004 ",20,['Spain'],Spain,Granada,,,-
+,Nicolás Hidalgo,Striker,Left Winger,"Dec 22, 2004 ",19,['Spain'],Spain,León,,,-
+,Antonio Ruiz,Striker,Left Winger,"Jan 1, 2004 ",20,['Spain'],Spain,Alcalá del Río,RW,,-
+17,Daniel Lidueña,Striker,Left Winger,"Dec 4, 2004 ",19,['Spain'],Spain,Almería,RW,,-
+,Eric Gómez,Striker,Left Winger,"Feb 24, 2004 ",20,['Spain'],Spain,Alcorcón,LB,"1,75",-
+,Álvaro Marcos,Striker,Left Winger,"Jun 18, 2004 ",20,"['Spain', 'Argentina']",Spain,Madrid,RW   AM,"1,80",-
+,Roi Tato,Striker,Left Winger,"Sep 8, 2004 ",20,['Spain'],Spain,Pontevedra,,,-
+11,Jastin García,Striker,Left Winger,"Jan 15, 2004 ",20,"['Portugal', 'Spain']",Spain,Lleida,SS   LM,"1,80",-
+18,Miguel Caballero,Striker,Left Winger,"Jan 30, 2004 ",20,['Spain'],Spain,San Martín del Tesorillo,,,-
+,Amai Felipe,Striker,Left Winger,"Jul 1, 2004 ",20,['Spain'],Spain,La Palma,RW,,-
+,Marc Barragán,Striker,Left Winger,"Feb 16, 2004 ",20,['Spain'],Spain,Tarragona,RW   CF,"1,83",-
+,Unax Rezola,Striker,Left Winger,"Jan 17, 2004 ",20,['Spain'],Spain,Donostia-San Sebastián,RW   SS,"1,70",-
+,Jan Coca,Striker,Left Winger,"Mar 3, 2004 ",20,['Spain'],Spain,Barcelona,CF   SS,,-
+33,Adrián Liso,Striker,Left Winger,"Apr 2, 2005 ",19,['Spain'],Spain,Zaragoza,CF,"1,82",€600k
+20,Arkaitz Mariezkurrena,Striker,Left Winger,"Apr 5, 2005 ",19,['Spain'],Spain,Astigarraga,,,€200k
+24,Adrian Caragea,Striker,Left Winger,"Sep 7, 2005 ",19,['Romania'],Spain,Jaen,RW,"1,82",€100k
+17,Darío Ramírez,Striker,Left Winger,"Jan 14, 2005 ",19,['Spain'],Spain,Haría (Las Palmas),RW,,€50k
+,Pablo Évora,Striker,Left Winger,"Jan 8, 2005 ",19,['Spain'],Spain,Huelva,RW   AM,,-
+11,Dani Rodríguez,Striker,Left Winger,"Apr 29, 2005 ",19,['Spain'],Spain,Palencia,RW   CF,"1,76",-
+,Javi Urra,Striker,Left Winger,"Jun 27, 2005 ",19,['Spain'],Spain,Valencia,AM,"1,80",-
+,Daniel Prisacaru,Striker,Left Winger,"Feb 4, 2005 ",19,"['Moldova', 'Romania']",Spain,Madrid,,"1,66",-
+,Marcos Aceituno,Striker,Left Winger,"May 25, 2005 ",19,['Spain'],Spain,Talavera de la Reina,,,-
+17,George Andrews,Striker,Left Winger,"Mar 2, 2005 ",19,"['Spain', 'England']",Spain,Palma de Mallorca,RW   CF,"1,87",-
+20,Rayane Belaid,Striker,Left Winger,"Nov 2, 2005 ",18,"['Spain', 'Algeria']",Spain,Orihuela,RW   SS,"1,78",-
+,Iván Salguero,Striker,Left Winger,"Jan 7, 2005 ",19,['Spain'],Spain,,,,-
+,Marc Rodríguez,Striker,Left Winger,"Jul 30, 2005 ",19,['Spain'],Spain,,,,-
+17,Jesús Rodriguez,Striker,Left Winger,"Nov 21, 2005 ",18,['Spain'],Spain,Sevilla,,"1,85",€500k
+7,Dani Rodríguez,Striker,Left Winger,"Aug 9, 2005 ",19,['Spain'],Spain,Astigarraga,RW   CM,"1,70",€100k
+11,Yassin Tallal,Striker,Left Winger,"Mar 3, 2005 ",19,"['Morocco', 'Spain']",Spain,Madrid,SS   RW,"1,73",€50k
+22,Gasolina,Striker,Left Winger,"Oct 28, 2005 ",18,['Spain'],Spain,Navalmoral de la Mata,,,-
+11,Aritz Conde,Striker,Left Winger,"Oct 14, 2005 ",18,['Spain'],Spain,Donostia-San Sebastián,RW,"1,78",-
+,Quim Montenegro,Striker,Left Winger,"Mar 25, 2005 ",19,['Spain'],Spain,,,,-
+,Christian Membrives,Striker,Left Winger,"Aug 19, 2005 ",19,"['Spain', 'Dominican Republic']",Spain,Valencia,RW,"1,73",-
+8,Pablo Lomas,Striker,Left Winger,"Apr 14, 2005 ",19,['Spain'],Spain,Santander,RW,"1,76",-
+20,Adnane Bensaad,Striker,Left Winger,"Oct 21, 2005 ",18,"['Morocco', 'Spain']",Spain,Murcia,CF   RW,"1,80",-
+7,Hugo Guzón,Striker,Left Winger,"Apr 16, 2005 ",19,['Spain'],Spain,Valladolid,AM,"1,65",-
+27,Joel Roca,Striker,Left Winger,"Jun 7, 2005 ",19,['Spain'],Spain,Camprodón,AM   RW,"1,76",-
+,Alex Cid,Striker,Left Winger,"Jan 11, 2005 ",19,['Spain'],Spain,Ourense,,,-
